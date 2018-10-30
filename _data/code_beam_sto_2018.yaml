@@ -1,0 +1,254 @@
+---
+- video_id: 87lW4Llsj7E
+  talk_title: Boosting Erlang superpowers at WhatsApp
+  speakers:
+  - anton_lavrik
+  conference: code_beam_sto_2018
+- video_id: kHzmrWD7iEY
+  talk_title: 'ForgETS: a globally distributed database'
+  speakers:
+  - mikhail_vorontsov
+  conference: code_beam_sto_2018
+- video_id: TZzfZoTUc_0
+  talk_title: A genealogy of Functional Programming
+  speakers:
+  - osa_gaius
+  conference: code_beam_sto_2018
+- video_id: 5T9aqVGNK6c
+  talk_title: News from the OTP team
+  speakers:
+  - kenneth_lundin
+  conference: code_beam_sto_2018
+- video_id: XbadmGbZoX0
+  talk_title: APRS-IS servers on the BEAM - amateur radio
+  speakers:
+  - kenji_rikitake
+  conference: code_beam_sto_2018
+- video_id: 0E49Q5fbs5g
+  talk_title: Prototyping with new OTP 21 API
+  speakers:
+  - peer_stritzinger
+  - adam_lindberg
+  conference: code_beam_sto_2018
+- video_id: 077-XJv6PLQ
+  talk_title: How Cisco is using Erlang for intent-based networking
+  speakers:
+  - johan_bevemyr
+  conference: code_beam_sto_2018
+- video_id: J-hO-mLY59k
+  talk_title: A one minute talk summary
+  speakers:
+  - peer_stritzinger
+  - adam_lindberg
+  conference: code_beam_sto_2018
+- video_id: QWm_ekBUKYI
+  talk_title: 'Making It Lazy: never evaluate anything more than once'
+  speakers:
+  - simon_thompson
+  conference: code_beam_sto_2018
+- video_id: Y55dP9sZstE
+  talk_title: A one minute talk summary
+  speakers:
+  - simon_thompson
+  conference: code_beam_sto_2018
+- video_id: 6TK9yDHbSLA
+  talk_title: Erlang in the sky with diamonds
+  speakers:
+  - torben_hoffmann
+  conference: code_beam_sto_2018
+- video_id: "-gybrBRECpE"
+  talk_title: 'Opencensus: a stats collection and distributed tracing framework'
+  speakers:
+  - iliia_khaprov
+  conference: code_beam_sto_2018
+- video_id: MFs_yqVmJb4
+  talk_title: What are poll sets and why they matter
+  speakers:
+  - peter_go?mo?ri
+  conference: code_beam_sto_2018
+- video_id: Ow8o9Mm_N7M
+  talk_title: Clojure on the BEAM
+  speakers:
+  - juan_facorro
+  conference: code_beam_sto_2018
+- video_id: BcXQ2qaEzNI
+  talk_title: Getting to the BEAM, without going through Erlang
+  speakers:
+  - kofi_gumbs
+  conference: code_beam_sto_2018
+- video_id: RBbtxf47emo
+  talk_title: Expressive Power on the BEAM
+  speakers:
+  - joseph_yiasemides
+  conference: code_beam_sto_2018
+- video_id: WBsuQpmv5nM
+  talk_title: 'The Robots are Coming: Failure is not an Option!'
+  speakers:
+  - kevin_hammond
+  conference: code_beam_sto_2018
+- video_id: mN82fip5rwI
+  talk_title: Implementing Languages on the BEAM
+  speakers:
+  - robert_virding
+  conference: code_beam_sto_2018
+- video_id: iK9oxvKiN-8
+  talk_title: Optimising for the BEAM
+  speakers:
+  - michal_muskala
+  conference: code_beam_sto_2018
+- video_id: RT4p_g0SLUU
+  talk_title: Ecto - database library for Elixir
+  speakers:
+  - eric_meadows_jonsson
+  conference: code_beam_sto_2018
+- video_id: zvCZdzLTEqQ
+  talk_title: 'Update: Elixir core dev team'
+  speakers:
+  - andrea_leopardi
+  conference: code_beam_sto_2018
+- video_id: NhglLzLtt4I
+  talk_title: What do you mean I have to secure this thing?
+  speakers:
+  - chad_gibbons
+  conference: code_beam_sto_2018
+- video_id: 7Xbcat2O7K4
+  talk_title: How Elixir changed the Ukrainian healthcare system
+  speakers:
+  - alex_troush
+  conference: code_beam_sto_2018
+- video_id: 1FRe-qGlo-o
+  talk_title: Crypto + concurrency
+  speakers:
+  - anna_neyzberg
+  conference: code_beam_sto_2018
+- video_id: NRjl91C59xw
+  talk_title: Thin layer or how to connect it all
+  speakers:
+  - pawel_antemijczuk
+  conference: code_beam_sto_2018
+- video_id: 2dP9LCdGBPU
+  talk_title: Using Erlang in Blockchain Development
+  speakers:
+  - ulf_wiger
+  conference: code_beam_sto_2018
+- video_id: 2IXgecLsA9g
+  talk_title: Developer tools using the language server protocol
+  speakers:
+  - vlad_dumitrescu
+  conference: code_beam_sto_2018
+- video_id: aWnGPaputGE
+  talk_title: 'Beyond state machines: services as petri nets - Code BEAM STO'
+  speakers:
+  - jorgen_brandt
+  conference: code_beam_sto_2018
+- video_id: rcALww6M9Jk
+  talk_title: Using Barrel to build your own P2P data platform
+  speakers:
+  - benoit_chesneau
+  conference: code_beam_sto_2018
+- video_id: 0CAE1N6Ik6A
+  talk_title: 'Simple is beautiful: building an SLA monitoring tool at PagerDuty'
+  speakers:
+  - aish_dahal
+  conference: code_beam_sto_2018
+- video_id: _u1NDuFsW2A
+  talk_title: A gradual type system
+  speakers:
+  - josef_svenningsson
+  conference: code_beam_sto_2018
+- video_id: F_YUyd_Qdjs
+  talk_title: No(de) discovery without DNS & EPMD
+  speakers:
+  - timmo_verlaan
+  conference: code_beam_sto_2018
+- video_id: _4MTIffWhYI
+  talk_title: Gen_statem - the tool you never knew you always wanted
+  speakers:
+  - raimo_niskanen
+  conference: code_beam_sto_2018
+- video_id: sdUT2Sb03Rs
+  talk_title: Researching with Erlang
+  speakers:
+  - natalia_chechina
+  conference: code_beam_sto_2018
+- video_id: TCiHqF_XTmE
+  talk_title: Riak 3.0 and efficient anti-entropy
+  speakers:
+  - martin_sumner
+  conference: code_beam_sto_2018
+- video_id: bWrKUm8mr2A
+  talk_title: 'Erliot: monitoring and control of smart connected devices'
+  speakers:
+  - guy_a_narboni
+  conference: code_beam_sto_2018
+- video_id: 3pDppYurT_k
+  talk_title: Evolution of garbage collector
+  speakers:
+  - boris_kuznetsov
+  conference: code_beam_sto_2018
+- video_id: T7GeFt6KF4k
+  talk_title: The quest for the best IDE
+  speakers:
+  - csaba_hoch
+  conference: code_beam_sto_2018
+- video_id: XLdoEoZb6dY
+  talk_title: Aeternity smart contracts
+  speakers:
+  - erik_stenman
+  - tobias_lindahl
+  conference: code_beam_sto_2018
+- video_id: excmcS6Id2E
+  talk_title: Sagas of Elixir
+  speakers:
+  - andrew_dryga
+  conference: code_beam_sto_2018
+- video_id: hBjkeJ-q_9Y
+  talk_title: Taking it to the metal
+  speakers:
+  - sonny_scroggin
+  conference: code_beam_sto_2018
+- video_id: VoDjN84jav0
+  talk_title: Logger a new API for logging
+  speakers:
+  - kenneth_lundin
+  conference: code_beam_sto_2018
+- video_id: Vwm70nbLT9M
+  talk_title: Choosing which company to start
+  speakers:
+  - jane_walderud
+  conference: code_beam_sto_2018
+- video_id: 4t_mcnF3w9A
+  talk_title: 'Erlang: 20 years as open source'
+  speakers:
+  - ingela_anderton_andin
+  conference: code_beam_sto_2018
+- video_id: oOYiXGYTq2E
+  talk_title: 'Open Source: The Third Decade'
+  speakers:
+  - simon_phipps
+  conference: code_beam_sto_2018
+- video_id: nk3RpnsVKO8
+  talk_title: 'Raxx: refined web development'
+  speakers:
+  - peter_saxton
+  conference: code_beam_sto_2018
+- video_id: zklO7xMvZ34
+  talk_title: Property-Based Testing in Blockchain and P2P Networks
+  speakers:
+  - thomas_arts
+  conference: code_beam_sto_2018
+- video_id: 3FNnXMrWCSY
+  talk_title: From a web application to a distributed system
+  speakers:
+  - gianluca_padovani
+  conference: code_beam_sto_2018
+- video_id: Kg9l595hRg4
+  talk_title: 'Stateful webhooks: what are they good for?'
+  speakers:
+  - nathan_herald
+  conference: code_beam_sto_2018
+- video_id: 3_tC52JNASo
+  talk_title: Unsung Heroes of the BEAM
+  speakers:
+  - miriam_pena
+  conference: code_beam_sto_2018

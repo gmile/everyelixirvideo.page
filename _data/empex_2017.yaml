@@ -1,0 +1,48 @@
+---
+- video_id: nvV-4040xXI
+  talk_title: The Language is the Least of It (Opening Keynote)
+  speakers:
+  - jessica_kerr
+  keynote: true
+  conference: empex_2017
+- video_id: BGKvVYyenrs
+  talk_title: Channels as Controllers (An Exercise in Refactoring)
+  speakers:
+  - travis_vander_hoop
+  conference: empex_2017
+- video_id: nIRGF61_Go8
+  talk_title: Monitoring Production Elixir Applications
+  speakers:
+  - john_kelly
+  conference: empex_2017
+- video_id: NNcdtaDuA-I
+  talk_title: Everything Beautiful is in Plug
+  speakers:
+  - omid_bachari
+  conference: empex_2017
+- video_id: pO4_Wlq8JeI
+  talk_title: Solid Ground
+  speakers:
+  - sasa_juric
+  conference: empex_2017
+- video_id: v2IPcnTsWg0
+  talk_title: Functional Data Structures
+  speakers:
+  - juan_soto
+  conference: empex_2017
+- video_id: DNHi4GJhZiE
+  talk_title: When Does Concurrency Pay Off?
+  speakers:
+  - william_carroll
+  conference: empex_2017
+- video_id: FO2pHfRYOIo
+  talk_title: Seussical Halting, Indeterminate Faulting
+  speakers:
+  - bobby_grayson
+  conference: empex_2017
+- video_id: cYu4ZmKiYeY
+  talk_title: How to Bake π (Closing Keynote)
+  speakers:
+  - eugenia_cheng
+  keynote: true
+  conference: empex_2017

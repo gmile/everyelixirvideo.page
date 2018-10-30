@@ -1,0 +1,97 @@
+---
+- video_id: EZZ6SSEbAb0
+  talk_title: 'Building on Sand: Firm Foundations from Legacy Databases'
+  speakers:
+  - ben_cates
+  conference: lonestar_elixirconf_2018
+- video_id: puUr9_zzTm4
+  talk_title: Usercentered API Versioning
+  speakers:
+  - niall_burkley
+  conference: lonestar_elixirconf_2018
+- video_id: X2u0bBqhRKE
+  talk_title: Why Elixir Matters A Genealogy of Functional Programming
+  speakers:
+  - osa_gaius
+  conference: lonestar_elixirconf_2018
+- video_id: WvYtaVW4ACo
+  talk_title: Keynote
+  speakers:
+  - aaron_patterson
+  conference: lonestar_elixirconf_2018
+  keynote: true
+- video_id: jcWcQ3uXsS4
+  talk_title: Consistent Distributed Elixir
+  speakers:
+  - chris_keathley
+  conference: lonestar_elixirconf_2018
+- video_id: ewW0RER9oJM
+  talk_title: lightning_talks_3
+  speakers:
+  conference: lonestar_elixirconf_2018
+  lightning: true
+  processed: false
+- video_id: RGRbMNNQHj4
+  talk_title: lightning_talk_4
+  speakers:
+  conference: lonestar_elixirconf_2018
+  lightning: true
+  processed: false
+- video_id: aidnd-_eTTE
+  talk_title: Lightning Talks
+  speakers:
+  conference: lonestar_elixirconf_2018
+  lightning: true
+  processed: false
+- video_id: RrdJgnwo6Ow
+  talk_title: Welcome
+  speakers:
+  conference: lonestar_elixirconf_2018
+  processed: false
+- video_id: sTB-TwsKrYY
+  talk_title: Intermediate SQL with Ecto
+  speakers:
+  - dennis_beatty
+  conference: lonestar_elixirconf_2018
+- video_id: ufDuqrKd2fo
+  talk_title: The Next Phase of Elixir Deployment Tools
+  speakers:
+  - paul_schoenfelder
+  conference: lonestar_elixirconf_2018
+- video_id: czcQhdXBI4M
+  talk_title: Wrap up
+  speakers:
+  conference: lonestar_elixirconf_2018
+  processed: false
+- video_id: ykVktdc7Ggc
+  talk_title: 'Customize your car: An Adventure in...'
+  speakers:
+  - brien_wankel
+  conference: lonestar_elixirconf_2018
+- video_id: zDIoFWwfBO0
+  talk_title: Let's Talk Process Dictionary
+  speakers:
+  - greg_vaughn
+  conference: lonestar_elixirconf_2018
+- video_id: V3iBgStaPmA
+  talk_title: Managing state in distributed Elixir
+  speakers:
+  - jerel_unruh
+  conference: lonestar_elixirconf_2018
+- video_id: y8373byme_Q
+  talk_title: Keynote
+  speakers:
+  - tim_mechlem
+  conference: lonestar_elixirconf_2018
+  keynote: true
+- video_id: qhXjq3XU9_I
+  talk_title: Day 1 Keynote
+  speakers:
+  - chris_mc_cord
+  conference: lonestar_elixirconf_2018
+  keynote: true
+- video_id: FWPcslL-tNs
+  talk_title: Elixir is for Startups
+  speakers:
+  - angle_jose
+  conference: lonestar_elixirconf_2018

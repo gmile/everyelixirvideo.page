@@ -1,0 +1,1601 @@
+---
+- id: aaron_patterson
+  full_name: Aaron Patterson
+  twitter:
+  github:
+  elixirforum:
+- id: aaron_renner
+  full_name: Aaron Renner
+  twitter: 
+  github: 
+  elixirforum: 
+- id: aaron_votre
+  full_name: Aaron Votre
+  twitter: 
+  github: 
+  elixirforum: 
+- id: adam_lindberg
+  full_name: Adam Lindberg
+  twitter: 
+  github: 
+  elixirforum: 
+- id: adrian_cruz
+  full_name: Adrian Cruz
+  twitter: 
+  github: 
+  elixirforum: 
+- id: aish_dahal
+  full_name: Aish Dahal
+  twitter: 
+  github: 
+  elixirforum: 
+- id: alan_gardner
+  full_name: Alan Gardner
+  twitter: 
+  github: 
+  elixirforum: 
+- id: albert_zak
+  full_name: Albert Zak
+  twitter: 
+  github: 
+  elixirforum: 
+- id: alex_dovzhanyn
+  full_name: Alex Dovzhanyn
+  twitter: 
+  github: 
+  elixirforum: 
+- id: alex_troush
+  full_name: Alex Troush
+  twitter: 
+  github: 
+  elixirforum: 
+- id: alexis_huefner
+  full_name: Alexis Huefner
+  twitter: 
+  github: 
+  elixirforum: 
+- id: amos_king
+  full_name: Amos King
+  twitter: 
+  github: 
+  elixirforum: 
+- id: andrea_amantini
+  full_name: Andrea Amantini
+  twitter: 
+  github: 
+  elixirforum: 
+- id: andrea_leopardi
+  full_name: Andrea Leopardi
+  twitter: 
+  github: 
+  elixirforum: 
+- id: andreas_bohrnsen
+  full_name: Andreas Böhrnsen
+  twitter:
+  github:
+  elixirforum:
+- id: andrew_accuardi
+  full_name: Andrew Accuardi
+  twitter: 
+  github: 
+  elixirforum: 
+- id: andrew_bennett
+  full_name: Andrew Bennett
+  twitter: 
+  github: 
+  elixirforum: 
+- id: andrew_dryga
+  full_name: Andrew Dryga
+  twitter: 
+  github: 
+  elixirforum: 
+- id: andrew_forward
+  full_name: Andrew Forward
+  twitter: 
+  github: 
+  elixirforum: 
+- id: andrew_hao
+  full_name: Andrew Hao
+  twitter: 
+  github: 
+  elixirforum: 
+- id: andrew_selder
+  full_name: Andrew Selder
+  twitter: 
+  github: 
+  elixirforum: 
+- id: andrew_thompson
+  full_name: Andrew Thompson
+  twitter: 
+  github: 
+  elixirforum: 
+- id: angle_jose
+  full_name: Angle Jose
+  twitter:
+  github:
+  elixirforum:
+- id: anil_wadghule
+  full_name: Anil Wadghule
+  twitter: 
+  github: 
+  elixirforum: 
+- id: anna_neyzberg
+  full_name: Anna Neyzberg
+  twitter: 
+  github: 
+  elixirforum: 
+- id: anthony_eden
+  full_name: Anthony Eden
+  twitter: 
+  github: 
+  elixirforum: 
+- id: anthony_molinaro
+  full_name: Anthony Molinaro
+  twitter: 
+  github: 
+  elixirforum: 
+- id: anton_lavrik
+  full_name: Anton Lavrik
+  twitter: 
+  github: 
+  elixirforum: 
+- id: arjan_scherpenisse
+  full_name: Arjan Scherpenisse
+  twitter: 
+  github: 
+  elixirforum: 
+- id: arkadiusz_gil
+  full_name: Arkadiusz Gil
+  twitter: 
+  github: 
+  elixirforum: 
+- id: ben_cates
+  full_name: Ben Cates
+  twitter:
+  github:
+  elixirforum:
+- id: ben_marx
+  full_name: Ben Marx
+  twitter: 
+  github: 
+  elixirforum: 
+- id: ben_tyler
+  full_name: Ben Tyler
+  twitter: 
+  github: 
+  elixirforum: 
+- id: ben_wilson
+  full_name: Ben Wilson
+  twitter: 
+  github: 
+  elixirforum: 
+- id: benjamin_brodie
+  full_name: Benjamin Brodie
+  twitter: 
+  github: 
+  elixirforum: 
+- id: benoit_chesneau
+  full_name: Benoit Chesneau
+  twitter: 
+  github: 
+  elixirforum: 
+- id: bernardo_amorim
+  full_name: Bernardo Amorim
+  twitter: 
+  github: 
+  elixirforum: 
+- id: bill_peregoy
+  full_name: Bill Peregoy
+  twitter: 
+  github: 
+  elixirforum: 
+- id: bobby_grayson
+  full_name: Bobby Grayson
+  twitter: 
+  github: 
+  elixirforum: 
+- id: boris_kuznetsov
+  full_name: Boris Kuznetsov
+  twitter: 
+  github: 
+  elixirforum: 
+- id: boshan_sun
+  full_name: Boshan Sun
+  twitter: 
+  github: 
+  elixirforum: 
+- id: boyd_multerer
+  full_name: Boyd Multerer
+  twitter: 
+  github: 
+  elixirforum: 
+- id: bram_verburg
+  full_name: Bram Verburg
+  twitter: 
+  github: 
+  elixirforum: 
+- id: brandon_richey
+  full_name: Brandon Richey
+  twitter: 
+  github: 
+  elixirforum: 
+- id: brett_cameron
+  full_name: Brett Cameron
+  twitter: 
+  github: 
+  elixirforum: 
+- id: brian_cardarella
+  full_name: Brian Cardarella
+  twitter: 
+  github: 
+  elixirforum: 
+- id: brian_mitchell
+  full_name: Brian Mitchell
+  twitter: 
+  github: 
+  elixirforum: 
+- id: brien_wankel
+  full_name: Brien Wankel
+  twitter:
+  github:
+  elixirforum:
+- id: brooklyn_zelenka
+  full_name: Brooklyn Zelenka
+  twitter: 
+  github: 
+  elixirforum: 
+- id: bruce_tate
+  full_name: Bruce Tate
+  twitter: 
+  github: 
+  elixirforum: 
+- id: bruce_williams
+  full_name: Bruce Williams
+  twitter: 
+  github: 
+  elixirforum: 
+- id: brujo_benavides
+  full_name: Brujo Benavides
+  twitter: 
+  github: 
+  elixirforum: 
+- id: bryan_hughes
+  full_name: Bryan Hughes
+  twitter: 
+  github: 
+  elixirforum: 
+- id: bryan_hunter
+  full_name: Bryan Hunter
+  twitter: 
+  github: 
+  elixirforum: 
+- id: bryan_joseph
+  full_name: Bryan Joseph
+  twitter: 
+  github: 
+  elixirforum: 
+- id: bryan_weber
+  full_name: Bryan Weber
+  twitter: 
+  github: 
+  elixirforum: 
+- id: cameron_price
+  full_name: Cameron Price
+  twitter: 
+  github: 
+  elixirforum: 
+- id: catherine_zoller
+  full_name: Catherine Zoller
+  twitter: 
+  github: 
+  elixirforum: 
+- id: chad_gibbons
+  full_name: Chad Gibbons
+  twitter: 
+  github: 
+  elixirforum: 
+- id: chris_bell
+  full_name: Chris Bell
+  twitter: 
+  github: 
+  elixirforum: 
+- id: chris_ertel
+  full_name: Chris Ertel
+  twitter: 
+  github: 
+  elixirforum: 
+- id: chris_freeze
+  full_name: Chris Freeze
+  twitter: 
+  github: 
+  elixirforum: 
+- id: chris_keathley
+  full_name: Chris Keathley
+  twitter: 
+  github: 
+  elixirforum: 
+- id: chris_maddox
+  full_name: Chris Maddox
+  twitter: 
+  github: 
+  elixirforum: 
+- id: chris_mc_cord
+  full_name: Chris McCord
+  twitter: 
+  github: 
+  elixirforum: 
+- id: christopher_cote
+  full_name: Christopher Coté
+  twitter: 
+  github: 
+  elixirforum: 
+- id: christopher_krailo
+  full_name: Christopher Krailo
+  twitter: 
+  github: 
+  elixirforum: 
+- id: claudia_doppioslash
+  full_name: Claudia Doppioslash
+  twitter: 
+  github: 
+  elixirforum: 
+- id: claudio_ortolina
+  full_name: Claudio Ortolina
+  twitter: 
+  github: 
+  elixirforum: 
+- id: csaba_hoch
+  full_name: Csaba Hoch
+  twitter: 
+  github: 
+  elixirforum: 
+- id: dan_mc_guire
+  full_name: Dan McGuire
+  twitter: 
+  github: 
+  elixirforum: 
+- id: dan_porter
+  full_name: Dan Porter
+  twitter: 
+  github: 
+  elixirforum: 
+- id: daniel_azuma
+  full_name: Daniel Azuma
+  twitter: 
+  github: 
+  elixirforum: 
+- id: darin_wilson
+  full_name: Darin Wilson
+  twitter: 
+  github: 
+  elixirforum: 
+- id: dave_aronson
+  full_name: Dave Aronson
+  twitter: 
+  github: 
+  elixirforum: 
+- id: dave_thomas
+  full_name: Dave Thomas
+  twitter: 
+  github: 
+  elixirforum: 
+- id: david_brinnen
+  full_name: David Brinnen
+  twitter: 
+  github: 
+  elixirforum: 
+- id: david_padilla
+  full_name: David Padilla
+  twitter: 
+  github: 
+  elixirforum: 
+- id: david_schainker
+  full_name: David Schainker
+  twitter: 
+  github: 
+  elixirforum: 
+- id: david_stump
+  full_name: David Stump
+  twitter: 
+  github: 
+  elixirforum: 
+- id: dennis_beatty
+  full_name: Dennis Beatty
+  twitter:
+  github:
+  elixirforum:
+- id: desmond_bowe
+  full_name: Desmond Bowe
+  twitter: 
+  github: 
+  elixirforum: 
+- id: devon_estes
+  full_name: Devon Estes
+  twitter: 
+  github: 
+  elixirforum: 
+- id: doug_wright
+  full_name: Doug Wright
+  twitter: 
+  github: 
+  elixirforum: 
+- id: drew_olson
+  full_name: Drew Olson
+  twitter: 
+  github: 
+  elixirforum: 
+- id: duncan_sparrell
+  full_name: Duncan Sparrell
+  twitter: 
+  github: 
+  elixirforum: 
+- id: daniel_vamosi
+  full_name: Dániel Vámosi
+  twitter: 
+  github: 
+  elixirforum: 
+- id: ed_finkler
+  full_name: Ed Finkler
+  twitter: 
+  github: 
+  elixirforum: 
+- id: elixir_conf_eu_2017
+  full_name: ElixirConf EU 2017
+  twitter:
+  github:
+  elixirforum:
+- id: elliott_hilaire
+  full_name: Elliott Hilaire
+  twitter:
+  github:
+  elixirforum:
+- id: emma_cunningham
+  full_name: Emma Cunningham
+  twitter: 
+  github: 
+  elixirforum: 
+- id: eric_entin
+  full_name: Eric Entin
+  twitter: 
+  github: 
+  elixirforum: 
+- id: eric_meadows_jonsson
+  full_name: Eric Meadows-Jönsson
+  twitter: 
+  github: 
+  elixirforum: 
+- id: eric_oestrich
+  full_name: Eric Oestrich
+  twitter: 
+  github: 
+  elixirforum: 
+- id: eric_weinstein
+  full_name: Eric Weinstein
+  twitter: 
+  github: 
+  elixirforum: 
+- id: erich_kist
+  full_name: Erich Kist
+  twitter: 
+  github: 
+  elixirforum: 
+- id: erik_stenman
+  full_name: Erik Stenman
+  twitter: 
+  github: 
+  elixirforum: 
+- id: ernie_miller
+  full_name: Ernie Miller
+  twitter: 
+  github: 
+  elixirforum: 
+- id: eugenia_cheng
+  full_name: Eugenia Cheng
+  twitter: 
+  github: 
+  elixirforum: 
+- id: evadne_wu
+  full_name: Evadne Wu
+  twitter: 
+  github: 
+  elixirforum: 
+- id: fahad_almusharraf
+  full_name: Fahad Almusharraf
+  twitter: 
+  github: 
+  elixirforum: 
+- id: fernando_mendes
+  full_name: Fernando Mendes
+  twitter: 
+  github: 
+  elixirforum: 
+- id: francesco_cesarini
+  full_name: Francesco Cesarini
+  twitter: 
+  github: 
+  elixirforum: 
+- id: frank_hunleth
+  full_name: Frank Hunleth
+  twitter: 
+  github: 
+  elixirforum: 
+- id: frank_kumro
+  full_name: Frank Kumro
+  twitter: 
+  github: 
+  elixirforum: 
+- id: fred_hebert
+  full_name: Fred Hebert
+  twitter: 
+  github: 
+  elixirforum: 
+- id: g_spasov
+  full_name: G. Spasov
+  twitter: 
+  github: 
+  elixirforum: 
+- id: gabi_zuniga
+  full_name: Gabi Zuniga
+  twitter: 
+  github: 
+  elixirforum: 
+- id: gabriella_chronis
+  full_name: Gabriella Chronis
+  twitter: 
+  github: 
+  elixirforum: 
+- id: garth_hitchens
+  full_name: Garth Hitchens
+  twitter: 
+  github: 
+  elixirforum: 
+- id: gary_rennie
+  full_name: Gary Rennie
+  twitter: 
+  github: 
+  elixirforum: 
+- id: geoffrey_lessel
+  full_name: Geoffrey Lessel
+  twitter: 
+  github: 
+  elixirforum: 
+- id: george_guimaraes
+  full_name: George Guimarães
+  twitter: 
+  github: 
+  elixirforum: 
+- id: georgina_mc_fadyen
+  full_name: Georgina McFadyen
+  twitter: 
+  github: 
+  elixirforum: 
+- id: german_velasco
+  full_name: German Velasco
+  twitter: 
+  github: 
+  elixirforum: 
+- id: gianluca_padovani
+  full_name: Gianluca Padovani
+  twitter: 
+  github: 
+  elixirforum: 
+- id: greg_vaughn
+  full_name: Greg Vaughn
+  twitter:
+  github:
+  elixirforum:
+- id: griffin_byatt
+  full_name: Griffin Byatt
+  twitter: 
+  github: 
+  elixirforum: 
+- id: guilherme_goncalves_pasqualino
+  full_name: Guilherme Gonçalves Pasqualino
+  twitter:
+  github:
+  elixirforum:
+- id: guilherme_de_maio
+  full_name: Guilherme de Maio
+  twitter: 
+  github: 
+  elixirforum: 
+- id: guillermo_iguaran
+  full_name: Guillermo Iguaran
+  twitter: 
+  github: 
+  elixirforum: 
+- id: guy_a_narboni
+  full_name: Guy A Narboni
+  twitter: 
+  github: 
+  elixirforum: 
+- id: hannah_howard
+  full_name: Hannah Howard
+  twitter: 
+  github: 
+  elixirforum: 
+- id: ian_duggan
+  full_name: Ian Duggan
+  twitter: 
+  github: 
+  elixirforum: 
+- id: ian_luites
+  full_name: Ian Luites
+  twitter: 
+  github: 
+  elixirforum: 
+- id: iliia_khaprov
+  full_name: Iliia Khaprov
+  twitter: 
+  github: 
+  elixirforum: 
+- id: ingela_anderton_andin
+  full_name: Ingela Anderton Andin
+  twitter: 
+  github: 
+  elixirforum: 
+- id: irina_guberman
+  full_name: Irina Guberman
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jake_worth
+  full_name: Jake Worth
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jakub_pawlowicz
+  full_name: Jakub Pawlowicz
+  twitter:
+  github:
+  elixirforum:
+- id: james_edward_gray_ii
+  full_name: James Edward Gray II
+  twitter: 
+  github: 
+  elixirforum: 
+- id: james_fish
+  full_name: James Fish
+  twitter: 
+  github: 
+  elixirforum: 
+- id: james_lavin
+  full_name: James Lavin
+  twitter: 
+  github: 
+  elixirforum: 
+- id: james_smith
+  full_name: James Smith
+  twitter: 
+  github: 
+  elixirforum: 
+- id: james_weaver
+  full_name: James Weaver
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jamie_winsor
+  full_name: Jamie Winsor
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jamon_holmgren
+  full_name: Jamon Holmgren
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jane_walderud
+  full_name: Jane Walderud
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jason_cummings
+  full_name: Jason Cummings
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jason_stiebs
+  full_name: Jason Stiebs
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jason_voegele
+  full_name: Jason Voegele
+  twitter: 
+  github: 
+  elixirforum: 
+- id: javier_evans
+  full_name: Javier Evans
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jay_ashe
+  full_name: Jay Ashe
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jay_hayes
+  full_name: Jay Hayes
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jean_rouge
+  full_name: Jean Rouge
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jean_francois_cloutier
+  full_name: Jean-François Cloutier
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jeff_ching
+  full_name: Jeff Ching
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jeff_gillis
+  full_name: Jeff Gillis
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jeff_schomay
+  full_name: Jeff Schomay
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jeff_smith
+  full_name: Jeff Smith
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jeffrey_gillis
+  full_name: Jeffrey Gillis
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jeffrey_matthias
+  full_name: Jeffrey Matthias
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jerel_unruh
+  full_name: Jerel Unruh
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jeremy_dewar
+  full_name: Jeremy Dewar
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jesse_j_anderson
+  full_name: Jesse J. Anderson
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jessica_de_vita
+  full_name: Jessica DeVita
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jessica_kerr
+  full_name: Jessica Kerr
+  twitter: 
+  github: 
+  elixirforum: 
+- id: joe_armstrong
+  full_name: Joe Armstrong
+  twitter: 
+  github: 
+  elixirforum: 
+- id: joel_byler
+  full_name: Joel Byler
+  twitter: 
+  github: 
+  elixirforum: 
+- id: johan_bevemyr
+  full_name: Johan Bevemyr
+  twitter: 
+  github: 
+  elixirforum: 
+- id: john_kelly
+  full_name: John Kelly
+  twitter: 
+  github: 
+  elixirforum: 
+- id: john_wahba
+  full_name: John Wahba
+  twitter: 
+  github: 
+  elixirforum: 
+- id: johnny_winn
+  full_name: Johnny Winn
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jon_rowe
+  full_name: Jon Rowe
+  twitter: 
+  github: 
+  elixirforum: 
+- id: josef_svenningsson
+  full_name: Josef Svenningsson
+  twitter: 
+  github: 
+  elixirforum: 
+- id: joseph_yiasemides
+  full_name: Joseph Yiasemides
+  twitter: 
+  github: 
+  elixirforum: 
+- id: josh_adams
+  full_name: Josh Adams
+  twitter: 
+  github: 
+  elixirforum: 
+- id: josh_branchaud
+  full_name: Josh Branchaud
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jose_valim
+  full_name: José Valim
+  twitter: 
+  github: 
+  elixirforum: 
+- id: joao_maura
+  full_name: João Maura
+  twitter: 
+  github: 
+  elixirforum: 
+- id: ju_liu
+  full_name: Ju Liu
+  twitter: 
+  github: 
+  elixirforum: 
+- id: juan_facorro
+  full_name: Juan Facorro
+  twitter: 
+  github: 
+  elixirforum: 
+- id: juan_soto
+  full_name: Juan Soto
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jusabe_guedes
+  full_name: Jusabe Guedes
+  twitter: 
+  github: 
+  elixirforum: 
+- id: justin_schneck
+  full_name: Justin Schneck
+  twitter: 
+  github: 
+  elixirforum: 
+- id: justus_eapen
+  full_name: Justus Eapen
+  twitter: 
+  github: 
+  elixirforum: 
+- id: jorgen_brandt
+  full_name: Jörgen Brandt
+  twitter: 
+  github: 
+  elixirforum: 
+- id: karmen_blake
+  full_name: Karmen Blake
+  twitter: 
+  github: 
+  elixirforum: 
+- id: kat_tornwall
+  full_name: Kat Tornwall
+  twitter: 
+  github: 
+  elixirforum: 
+- id: kate_travers
+  full_name: Kate Travers
+  twitter: 
+  github: 
+  elixirforum: 
+- id: keith_gautreaux
+  full_name: Keith Gautreaux
+  twitter: 
+  github: 
+  elixirforum: 
+- id: keith_salisbury
+  full_name: Keith Salisbury
+  twitter: 
+  github: 
+  elixirforum: 
+- id: kenji_rikitake
+  full_name: Kenji Rikitake
+  twitter: 
+  github: 
+  elixirforum: 
+- id: kenneth_lundin
+  full_name: Kenneth Lundin
+  twitter: 
+  github: 
+  elixirforum: 
+- id: kevin_hammond
+  full_name: Kevin Hammond
+  twitter: 
+  github: 
+  elixirforum: 
+- id: kevin_rockwood
+  full_name: Kevin Rockwood
+  twitter: 
+  github: 
+  elixirforum: 
+- id: kofi_gumbs
+  full_name: Kofi Gumbs
+  twitter: 
+  github: 
+  elixirforum: 
+- id: kostis_sagonas
+  full_name: Kostis Sagonas
+  twitter: 
+  github: 
+  elixirforum: 
+- id: krzysztof_wende
+  full_name: Krzysztof Wende
+  twitter:
+  github:
+  elixirforum:
+- id: lance_halvorsen
+  full_name: Lance Halvorsen
+  twitter: 
+  github: 
+  elixirforum: 
+- id: laszlo_bacsi
+  full_name: Laszlo Bacsi
+  twitter: 
+  github: 
+  elixirforum: 
+- id: lau_taarnskov
+  full_name: Lau Taarnskov
+  twitter: 
+  github: 
+  elixirforum: 
+- id: lauren_tan
+  full_name: Lauren Tan
+  twitter: 
+  github: 
+  elixirforum: 
+- id: lennart_friden
+  full_name: Lennart Fridén
+  twitter: 
+  github: 
+  elixirforum: 
+- id: ley_missailidis
+  full_name: Ley Missailidis
+  twitter: 
+  github: 
+  elixirforum: 
+- id: loic_vigneron
+  full_name: Loic Vigneron
+  twitter: 
+  github: 
+  elixirforum: 
+- id: louis_pilfold
+  full_name: Louis Pilfold
+  twitter: 
+  github: 
+  elixirforum: 
+- id: luke_imhoff
+  full_name: Luke Imhoff
+  twitter: 
+  github: 
+  elixirforum: 
+- id: maciej_kaszubowski
+  full_name: Maciej Kaszubowski
+  twitter: 
+  github: 
+  elixirforum: 
+- id: magnus_rex
+  full_name: Magnus Rex
+  twitter:
+  github:
+  elixirforum:
+- id: mariano_guerra
+  full_name: Mariano Guerra
+  twitter: 
+  github: 
+  elixirforum: 
+- id: mark_allen
+  full_name: Mark Allen
+  twitter: 
+  github: 
+  elixirforum: 
+- id: marni_cohen
+  full_name: Marni Cohen
+  twitter: 
+  github: 
+  elixirforum: 
+- id: martin_gausby
+  full_name: Martin Gausby
+  twitter: 
+  github: 
+  elixirforum: 
+- id: martin_schurrer
+  full_name: Martin Schürrer
+  twitter:
+  github:
+  elixirforum:
+- id: martin_sumner
+  full_name: Martin Sumner
+  twitter: 
+  github: 
+  elixirforum: 
+- id: mat_trudel
+  full_name: Mat Trudel
+  twitter: 
+  github: 
+  elixirforum: 
+- id: mathew_gardner
+  full_name: Mathew Gardner
+  twitter: 
+  github: 
+  elixirforum: 
+- id: maureen_mc_elaney
+  full_name: Maureen McElaney
+  twitter: 
+  github: 
+  elixirforum: 
+- id: michael_krax
+  full_name: Michael Krax
+  twitter: 
+  github: 
+  elixirforum: 
+- id: michael_stalker
+  full_name: Michael Stalker
+  twitter: 
+  github: 
+  elixirforum: 
+- id: michal_muskala
+  full_name: Michał Muskała
+  twitter: 
+  github: 
+  elixirforum: 
+- id: mike_watters
+  full_name: Mike Watters
+  twitter: 
+  github: 
+  elixirforum: 
+- id: mikhail_vorontsov
+  full_name: Mikhail Vorontsov
+  twitter: 
+  github: 
+  elixirforum: 
+- id: milad_rastian
+  full_name: Milad Rastian
+  twitter: 
+  github: 
+  elixirforum: 
+- id: miriam_pena
+  full_name: Miriam Pena
+  twitter: 
+  github: 
+  elixirforum: 
+- id: mohd_maqbool_alam
+  full_name: Mohd Maqbool Alam
+  twitter: 
+  github: 
+  elixirforum: 
+- id: mohnish_jadwani
+  full_name: Mohnish Jadwani
+  twitter: 
+  github: 
+  elixirforum: 
+- id: monica_hirst
+  full_name: Monica Hirst
+  twitter: 
+  github: 
+  elixirforum: 
+- id: morgan_lanco
+  full_name: Morgan Lanco
+  twitter: 
+  github: 
+  elixirforum: 
+- id: moritz_schmale
+  full_name: Moritz Schmale
+  twitter:
+  github:
+  elixirforum:
+- id: moxley_stratton
+  full_name: Moxley Stratton
+  twitter: 
+  github: 
+  elixirforum: 
+- id: multiple_authors
+  full_name: Multiple authors
+  twitter: 
+  github: 
+  elixirforum: 
+- id: murali_kashaboina
+  full_name: Murali Kashaboina
+  twitter: 
+  github: 
+  elixirforum: 
+- id: natalia_chechina
+  full_name: Natalia Chechina
+  twitter: 
+  github: 
+  elixirforum: 
+- id: nathan_herald
+  full_name: Nathan Herald
+  twitter: 
+  github: 
+  elixirforum: 
+- id: nathan_lapierre
+  full_name: Nathan Lapierre
+  twitter: 
+  github: 
+  elixirforum: 
+- id: nathan_long
+  full_name: Nathan Long
+  twitter: 
+  github: 
+  elixirforum: 
+- id: niall_burkley
+  full_name: Niall Burkley
+  twitter:
+  github:
+  elixirforum:
+- id: nick_de_monner
+  full_name: Nick DeMonner
+  twitter: 
+  github: 
+  elixirforum: 
+- id: nico_mihalich
+  full_name: Nico Mihalich
+  twitter: 
+  github: 
+  elixirforum: 
+- id: nikolay_tsvetinov
+  full_name: Nikolay Tsvetinov
+  twitter: 
+  github: 
+  elixirforum: 
+- id: norberto_ortigoza
+  full_name: Norberto Ortigoza
+  twitter: 
+  github: 
+  elixirforum: 
+- id: ole_michaelis
+  full_name: Ole Michaelis
+  twitter: 
+  github: 
+  elixirforum: 
+- id: omid_bachari
+  full_name: Omid Bachari
+  twitter: 
+  github: 
+  elixirforum: 
+- id: orestis_markou
+  full_name: Orestis Markou
+  twitter: 
+  github: 
+  elixirforum: 
+- id: osa_gaius
+  full_name: Osa Gaius
+  twitter: 
+  github: 
+  elixirforum: 
+- id: p_piwowarsky
+  full_name: P. Piwowarsky
+  twitter: 
+  github: 
+  elixirforum: 
+- id: paul_dawson
+  full_name: Paul Dawson
+  twitter: 
+  github: 
+  elixirforum: 
+- id: paul_lamb
+  full_name: Paul Lamb
+  twitter: 
+  github: 
+  elixirforum: 
+- id: paul_rogers
+  full_name: Paul Rogers
+  twitter: 
+  github: 
+  elixirforum: 
+- id: paul_schoenfelder
+  full_name: Paul Schoenfelder
+  twitter: 
+  github: 
+  elixirforum: 
+- id: paul_wilson
+  full_name: Paul Wilson
+  twitter: 
+  github: 
+  elixirforum: 
+- id: pawel_antemijczuk
+  full_name: Pawel Antemijczuk
+  twitter: 
+  github: 
+  elixirforum: 
+- id: pawel_dawczak
+  full_name: Pawel Dawczak
+  twitter: 
+  github: 
+  elixirforum: 
+- id: peer_stritzinger
+  full_name: Peer Stritzinger
+  twitter: 
+  github: 
+  elixirforum: 
+- id: pete_gamache
+  full_name: Pete Gamache
+  twitter: 
+  github: 
+  elixirforum: 
+- id: peter_go?mo?ri
+  full_name: Peter Gömöri
+  twitter: 
+  github: 
+  elixirforum: 
+- id: peter_saxton
+  full_name: Peter Saxton
+  twitter: 
+  github: 
+  elixirforum: 
+- id: petri_kero
+  full_name: Petri Kero
+  twitter: 
+  github: 
+  elixirforum: 
+- id: pe?ter_go?mo?ri
+  full_name: Péter Gömöri
+  twitter: 
+  github: 
+  elixirforum: 
+- id: powell_kinney
+  full_name: Powell Kinney
+  twitter: 
+  github: 
+  elixirforum: 
+- id: przemyslaw_krowinski
+  full_name: Przemyslaw Krowinski
+  twitter:
+  github:
+  elixirforum:
+- id: rafal_studnicki
+  full_name: Rafal Studnicki
+  twitter: 
+  github: 
+  elixirforum: 
+- id: raimo_niskanen
+  full_name: Raimo Niskanen
+  twitter: 
+  github: 
+  elixirforum: 
+- id: raphael_costa
+  full_name: Raphael Costa
+  twitter: 
+  github: 
+  elixirforum: 
+- id: regina_imhoff
+  full_name: Regina Imhoff
+  twitter: 
+  github: 
+  elixirforum: 
+- id: renan_ranelli
+  full_name: Renan Ranelli
+  twitter: 
+  github: 
+  elixirforum: 
+- id: rene_fohring
+  full_name: René Föhring
+  twitter: 
+  github: 
+  elixirforum: 
+- id: ricardo_echavarria
+  full_name: Ricardo Echavarria
+  twitter: 
+  github: 
+  elixirforum: 
+- id: richard_kallos
+  full_name: Richard Kallos
+  twitter: 
+  github: 
+  elixirforum: 
+- id: rob_conery
+  full_name: Rob Conery
+  twitter: 
+  github: 
+  elixirforum: 
+- id: rob_martin
+  full_name: Rob Martin
+  twitter: 
+  github: 
+  elixirforum: 
+- id: robert_beene
+  full_name: Robert Beene
+  twitter: 
+  github: 
+  elixirforum: 
+- id: robert_carbone
+  full_name: Robert Carbone
+  twitter: 
+  github: 
+  elixirforum: 
+- id: robert_virding
+  full_name: Robert Virding
+  twitter: 
+  github: 
+  elixirforum: 
+- id: rockwell_schrock
+  full_name: Rockwell Schrock
+  twitter: 
+  github: 
+  elixirforum: 
+- id: roope_kangas
+  full_name: Roope Kangas
+  twitter: 
+  github: 
+  elixirforum: 
+- id: rosemary_ledesma
+  full_name: Rosemary Ledesma
+  twitter: 
+  github: 
+  elixirforum: 
+- id: sam_davies
+  full_name: Sam Davies
+  twitter: 
+  github: 
+  elixirforum: 
+- id: sam_williams
+  full_name: Sam Williams
+  twitter: 
+  github: 
+  elixirforum: 
+- id: sarah_gray
+  full_name: Sarah Gray
+  twitter: 
+  github: 
+  elixirforum: 
+- id: sasa_juric
+  full_name: Saša Jurić
+  twitter: 
+  github: 
+  elixirforum: 
+- id: scott_lystig_fritchie
+  full_name: Scott Lystig Fritchie
+  twitter: 
+  github: 
+  elixirforum: 
+- id: scott_ribe
+  full_name: Scott Ribe
+  twitter: 
+  github: 
+  elixirforum: 
+- id: scott_taylor
+  full_name: Scott Taylor
+  twitter: 
+  github: 
+  elixirforum: 
+- id: serge_boucher
+  full_name: Serge Boucher
+  twitter: 
+  github: 
+  elixirforum: 
+- id: sergii_boiko
+  full_name: Sergii Boiko
+  twitter:
+  github:
+  elixirforum:
+- id: shanti_chellaram
+  full_name: Shanti Chellaram
+  twitter: 
+  github: 
+  elixirforum: 
+- id: simon_phipps
+  full_name: Simon Phipps
+  twitter: 
+  github: 
+  elixirforum: 
+- id: simon_thompson
+  full_name: Simon Thompson
+  twitter: 
+  github: 
+  elixirforum: 
+- id: simon_woolf
+  full_name: Simon Woolf
+  twitter: 
+  github: 
+  elixirforum: 
+- id: simon_zelazny
+  full_name: Simon Zelazny
+  twitter: 
+  github: 
+  elixirforum: 
+- id: sonny_scroggin
+  full_name: Sonny Scroggin
+  twitter: 
+  github: 
+  elixirforum: 
+- id: sophie_de_benedetto
+  full_name: Sophie DeBenedetto
+  twitter: 
+  github: 
+  elixirforum: 
+- id: sophie_rimington_pounder
+  full_name: Sophie Rimington-Pounder
+  twitter: 
+  github: 
+  elixirforum: 
+- id: stefan_wintermeyer
+  full_name: Stefan Wintermeyer
+  twitter: 
+  github: 
+  elixirforum: 
+- id: steven_blowers
+  full_name: Steven Blowers
+  twitter:
+  github:
+  elixirforum:
+- id: steven_proctor
+  full_name: Steven Proctor
+  twitter: 
+  github: 
+  elixirforum: 
+- id: svilen_gospodinov
+  full_name: Svilen Gospodinov
+  twitter: 
+  github: 
+  elixirforum: 
+- id: szymon_mentel
+  full_name: Szymon Mentel
+  twitter: 
+  github: 
+  elixirforum: 
+- id: sebastien_merle
+  full_name: Sébastien Merle
+  twitter: 
+  github: 
+  elixirforum: 
+- id: tj_stankus
+  full_name: TJ Stankus
+  twitter: 
+  github: 
+  elixirforum: 
+- id: tanya_and_keith
+  full_name: Tanya and Keith
+  twitter: 
+  github: 
+  elixirforum: 
+- id: tatsuya_ono
+  full_name: Tatsuya Ono
+  twitter: 
+  github: 
+  elixirforum: 
+- id: tetiana_dushenkivska
+  full_name: Tetiana Dushenkivska
+  twitter: 
+  github: 
+  elixirforum: 
+- id: thomas_arts
+  full_name: Thomas Arts
+  twitter: 
+  github: 
+  elixirforum: 
+- id: tian_chen
+  full_name: Tian Chen
+  twitter: 
+  github: 
+  elixirforum: 
+- id: tim_mechlem
+  full_name: Tim Mechlem
+  twitter:
+  github:
+  elixirforum:
+- id: tim_mecklem
+  full_name: Tim Mecklem
+  twitter: 
+  github: 
+  elixirforum: 
+- id: timmo_verlaan
+  full_name: Timmo Verlaan
+  twitter: 
+  github: 
+  elixirforum: 
+- id: tobias_lindahl
+  full_name: Tobias Lindahl
+  twitter: 
+  github: 
+  elixirforum: 
+- id: todd_resudek
+  full_name: Todd Resudek
+  twitter: 
+  github: 
+  elixirforum: 
+- id: tomasz_kowal
+  full_name: Tomasz Kowal
+  twitter: 
+  github: 
+  elixirforum: 
+- id: torben_hoffmann
+  full_name: Torben Hoffmann
+  twitter: 
+  github: 
+  elixirforum: 
+- id: travis_vander_hoop
+  full_name: Travis Vander Hoop
+  twitter: 
+  github: 
+  elixirforum: 
+- id: troels_brodsgaard
+  full_name: Troels Brødsgaard
+  twitter: 
+  github: 
+  elixirforum: 
+- id: ulf_wiger
+  full_name: Ulf Wiger
+  twitter: 
+  github: 
+  elixirforum: 
+- id: various_presenters
+  full_name: Various Presenters
+  twitter: 
+  github: 
+  elixirforum: 
+- id: veronica_lopez
+  full_name: Veronica Lopez
+  twitter: 
+  github: 
+  elixirforum: 
+- id: vince_foley
+  full_name: Vince Foley
+  twitter: 
+  github: 
+  elixirforum: 
+- id: vlad_dumitrescu
+  full_name: Vlad Dumitrescu
+  twitter: 
+  github: 
+  elixirforum: 
+- id: volker_rabe
+  full_name: Volker Rabe
+  twitter: 
+  github: 
+  elixirforum: 
+- id: wendy_smoak
+  full_name: Wendy Smoak
+  twitter: 
+  github: 
+  elixirforum: 
+- id: will_ockelmann_wagner
+  full_name: Will Ockelmann Wagner
+  twitter: 
+  github: 
+  elixirforum: 
+- id: william_carroll
+  full_name: William Carroll
+  twitter: 
+  github: 
+  elixirforum: 
+- id: wojciech_gawronski
+  full_name: Wojciech Gawroński
+  twitter: 
+  github: 
+  elixirforum: 
+- id: wojtek_mach
+  full_name: Wojtek Mach
+  twitter: 
+  github: 
+  elixirforum: 
+- id: xavier_noria
+  full_name: Xavier Noria
+  twitter: 
+  github: 
+  elixirforum: 
+- id: zandra_norman
+  full_name: Zandra Norman
+  twitter: 
+  github: 
+  elixirforum: 

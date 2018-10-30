@@ -1,0 +1,123 @@
+---
+- video_id: kMHXd_iMGRU
+  talk_title: Nervous System - Nerves Clustering Using Your Own Distribution
+  speakers:
+  - timmo_verlaan
+  conference: elixirconf_eu_2017
+- video_id: nCSO8yeR0c4
+  talk_title: Building a Scalable, Distributed Backend for Mobile Games
+  speakers:
+  - petri_kero
+  conference: elixirconf_eu_2017
+- video_id: IZvpKhA6t8A
+  talk_title: ElixirConf EU 2017 Keynote
+  speakers:
+  - jose_valim
+  keynote: true
+  conference: elixirconf_eu_2017
+- video_id: TZPG8b-Novw
+  talk_title: Elixir and Money
+  speakers:
+  - tomasz_kowal
+  conference: elixirconf_eu_2017
+- video_id: tbo7IV8akvs
+  talk_title: The Best Library I Ever Designed
+  speakers:
+  - andrea_leopardi
+  conference: elixirconf_eu_2017
+- video_id: W1EzF4FdUxM
+  talk_title: Keeping Code Consistent
+  speakers:
+  - ben_marx
+  conference: elixirconf_eu_2017
+- video_id: engXVCCk9bg
+  talk_title: Lightning Talks
+  speakers:
+  - elixir_conf_eu_2017
+  lightning: true
+  processed: false
+  conference: elixirconf_eu_2017
+- video_id: p58sFfgMvdI
+  talk_title: Designing a Multi-Language Live Programming Tool With Phoenix and Genstage
+  speakers:
+  - andrea_amantini
+  conference: elixirconf_eu_2017
+- video_id: ESzZCaaCzyg
+  talk_title: Just Enough Plug to Build a Web server
+  speakers:
+  - ole_michaelis
+  conference: elixirconf_eu_2017
+- video_id: itU5_zPddBQ
+  talk_title: Background Processing with RabbitMQ
+  speakers:
+  - tatsuya_ono
+  conference: elixirconf_eu_2017
+- video_id: ngWo5e-294o
+  talk_title: Building a Graphical IDE in Elm/Purescript
+  speakers:
+  - claudia_doppioslash
+  conference: elixirconf_eu_2017
+- video_id: XLOrFRgmczU
+  talk_title: Visual Reasoning and Mental Maps in Elixir
+  speakers:
+  - daniel_vamosi
+  conference: elixirconf_eu_2017
+- video_id: ZgPwqN38xaA
+  talk_title: Machine Learning with Elixir and Phoenix
+  speakers:
+  - eric_weinstein
+  conference: elixirconf_eu_2017
+- video_id: SDKiLO2XwIs
+  talk_title: One and Only One Process in a Distributed System
+  speakers:
+  - nathan_herald
+  conference: elixirconf_eu_2017
+- video_id: I-5ggHxKNCo
+  talk_title: 'Wobserver: Easy to Integrate Monitoring and Debugging'
+  speakers:
+  - ian_luites
+  conference: elixirconf_eu_2017
+- video_id: dDDCSDTHRZo
+  talk_title: Testing Web Services with QuickCheck
+  speakers:
+  - thomas_arts
+  conference: elixirconf_eu_2017
+- video_id: tJJMrtJEK1A
+  talk_title: Refactoring Elixir - Lessons Learned from a Year on Exercism.Io
+  speakers:
+  - devon_estes
+  conference: elixirconf_eu_2017
+- video_id: UTXYiV7nOpM
+  talk_title: Always Available
+  speakers:
+  - claudio_ortolina
+  conference: elixirconf_eu_2017
+- video_id: TZnaqnxA4UY
+  talk_title: Fly like an Eagle
+  speakers:
+  - loic_vigneron
+  conference: elixirconf_eu_2017
+- video_id: 79uZENO4OwA
+  talk_title: The Age of Elixir
+  speakers:
+  - keith_salisbury
+  - tetiana_dushenkivska
+  keynote: true
+  conference: elixirconf_eu_2017
+- video_id: sJvfCE6PFxY
+  talk_title: A Practical Guide to Elixir Protocols
+  speakers:
+  - kevin_rockwood
+  conference: elixirconf_eu_2017
+- video_id: pfFpIjFOL-I
+  talk_title: Phoenix - Gauging Progress
+  speakers:
+  - chris_mc_cord
+  keynote: true
+  conference: elixirconf_eu_2017
+- video_id: d2qNlXtpWXM
+  talk_title: GraphQL in Practice
+  speakers:
+  - bruce_williams
+  - ben_wilson
+  conference: elixirconf_eu_2017

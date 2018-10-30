@@ -1,0 +1,158 @@
+---
+- video_id: A60nxws_iVs
+  talk_title: What's Ahead for Elixir?
+  speakers:
+  - jose_valim
+  conference: elixirconf_eu_2016
+- video_id: n338leKvqnA
+  talk_title: Phoenix 1.2 and Beyond
+  speakers:
+  - chris_mc_cord
+  conference: elixirconf_eu_2016
+- video_id: 118-g0ODfgg
+  talk_title: Enhanced Embedded Systems with Nerves
+  speakers:
+  - justin_schneck
+  conference: elixirconf_eu_2016
+- video_id: gQJPusuG0vI
+  talk_title: Credo - Analysing AST for Fun and Profit
+  speakers:
+  - rene_fohring
+  conference: elixirconf_eu_2016
+- video_id: I5L9_cXwBcU
+  talk_title: Building Multiplayer Games with Phoenix and Phaser
+  speakers:
+  - keith_salisbury
+  conference: elixirconf_eu_2016
+- video_id: y_b6RTes83c
+  talk_title: Discovering Processes
+  speakers:
+  - sasa_juric
+  conference: elixirconf_eu_2016
+- video_id: usEs3GPnZDg
+  talk_title: Scaling Distributed Erlang
+  speakers:
+  - zandra_norman
+  conference: elixirconf_eu_2016
+- video_id: U1Ry7STEFiY
+  talk_title: Concurrent and Resilient Connections to Outside the BEAM
+  speakers:
+  - andrea_leopardi
+  conference: elixirconf_eu_2016
+- video_id: msdYuidWYQA
+  talk_title: Ecto - the Past, the Present, the Future
+  speakers:
+  - michal_muskala
+  conference: elixirconf_eu_2016
+- video_id: QQsOYe4zyVM
+  talk_title: Three Games In Elixir
+  speakers:
+  - roope_kangas
+  conference: elixirconf_eu_2016
+- video_id: "-MzJ-HxRcVI"
+  talk_title: How to Build a Slack-Controlled, Saxophone-Playing Robot
+  speakers:
+  - paul_wilson
+  conference: elixirconf_eu_2016
+- video_id: ZCYEX6ZIJgM
+  talk_title: From a Ruby on Rails Monolith to Elixir and Elm Microservices
+  speakers:
+  - volker_rabe
+  conference: elixirconf_eu_2016
+- video_id: c6JcVwbOGXc
+  talk_title: The Road to 2 Million Websocket Connections in Phoenix
+  speakers:
+  - gary_rennie
+  conference: elixirconf_eu_2016
+- video_id: r0DuAse9tK8
+  talk_title: Securing Elixir Applications
+  speakers:
+  - bram_verburg
+  conference: elixirconf_eu_2016
+- video_id: sYYOLaJ-VDQ
+  talk_title: Phoenix on Riak_Core
+  speakers:
+  - ben_tyler
+  conference: elixirconf_eu_2016
+- video_id: lDKCSheBc-8
+  talk_title: Phoenix Is Not Your Application
+  speakers:
+  - lance_halvorsen
+  conference: elixirconf_eu_2016
+- video_id: fdjD5QHjNH4
+  talk_title: 'TODO: Extract manually'
+  speakers:
+  - moritz_schmale
+  lightning: true
+  processed: false
+  conference: elixirconf_eu_2016
+- video_id: GqFVgQKlEAM
+  talk_title: 'TODO: Extract manually'
+  speakers:
+  - tetiana_dushenkivska
+  lightning: true
+  processed: false
+  conference: elixirconf_eu_2016
+- video_id: j4BbKyRzXEY
+  talk_title: 'TODO: Extract manually'
+  speakers:
+  - guilherme_goncalves_pasqualino
+  lightning: true
+  processed: false
+  conference: elixirconf_eu_2016
+- video_id: NOP8vgDzlLA
+  talk_title: 'TODO: Extract manually'
+  speakers:
+  - andreas_bohrnsen
+  lightning: true
+  processed: false
+  conference: elixirconf_eu_2016
+- video_id: EI1oDiQyz_o
+  talk_title: 'TODO: Extract manually'
+  speakers:
+  - ley_missailidis
+  lightning: true
+  processed: false
+  conference: elixirconf_eu_2016
+- video_id: k3OHyzUhiOU
+  talk_title: 'TODO: Extract manually'
+  speakers:
+  - sergii_boiko
+  lightning: true
+  processed: false
+  conference: elixirconf_eu_2016
+- video_id: wDBNDPD9_Gw
+  talk_title: 'TODO: Extract manually'
+  speakers:
+  - jakub_pawlowicz
+  lightning: true
+  processed: false
+  conference: elixirconf_eu_2016
+- video_id: ZwaTWFkDARI
+  talk_title: 'TODO: Extract manually'
+  speakers:
+  - przemyslaw_krowinski
+  lightning: true
+  processed: false
+  conference: elixirconf_eu_2016
+- video_id: Kh6m4EQBb0k
+  talk_title: 'TODO: Extract manually'
+  speakers:
+  - martin_schurrer
+  lightning: true
+  processed: false
+  conference: elixirconf_eu_2016
+- video_id: 5EtV2JUU0Z4
+  talk_title: 'TODO: Extract manually'
+  speakers:
+  - wojtek_mach
+  lightning: true
+  processed: false
+  conference: elixirconf_eu_2016
+- video_id: KET0j2Uog-U
+  talk_title: 'TODO: Extract manually'
+  speakers:
+  - magnus_rex
+  lightning: true
+  processed: false
+  conference: elixirconf_eu_2016

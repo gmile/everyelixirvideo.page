@@ -1,0 +1,256 @@
+---
+- video_id: j6wbuV8pMx8
+  talk_title: Unsung Heroes of the BEAM
+  speakers:
+  - miriam_pena
+  keynote: true
+  conference: code_beam_sf_2018
+- video_id: hHhm0bfdj-4
+  talk_title: Update OTP Team
+  speakers:
+  - raimo_niskanen
+  conference: code_beam_sf_2018
+- video_id: LJx6mUEFAqQ
+  talk_title: A Reflection on Building the WhatsApp Server
+  speakers:
+  - anton_lavrik
+  conference: code_beam_sf_2018
+- video_id: l4ISqxmZQtE
+  talk_title: Update Elixir Core Dev Team
+  speakers:
+  - james_fish
+  conference: code_beam_sf_2018
+- video_id: WdetR9B4oUM
+  talk_title: LPWAN and Cellular IoT Explained
+  speakers:
+  - bryan_hughes
+  conference: code_beam_sf_2018
+- video_id: SLgMXDD_KRg
+  talk_title: Quantum Computing Exposed - Schrödinger's Grumpy Cat
+  speakers:
+  - james_weaver
+  conference: code_beam_sf_2018
+- video_id: f_jl6MR3kXQ
+  talk_title: gen_statem - The Tool You Never Knew You Always Wanted
+  speakers:
+  - raimo_niskanen
+  conference: code_beam_sf_2018
+- video_id: AXY0d0YXQSU
+  talk_title: Packaging for Production
+  speakers:
+  - anthony_molinaro
+  conference: code_beam_sf_2018
+- video_id: Iq-9eOijX2s
+  talk_title: From Cloud to Edge Networks
+  speakers:
+  - sebastien_merle
+  conference: code_beam_sf_2018
+- video_id: EE7-MkHwB7o
+  talk_title: 'Why Elixir Matters: A Genealogy of Functional Programming'
+  speakers:
+  - osa_gaius
+  conference: code_beam_sf_2018
+- video_id: dPDAFFSKS18
+  talk_title: Building and Integrating A Data Platform
+  speakers:
+  - benoit_chesneau
+  conference: code_beam_sf_2018
+- video_id: tl-3EftSK90
+  talk_title: Next Generation SCADA
+  speakers:
+  - brett_cameron
+  - david_brinnen
+  conference: code_beam_sf_2018
+- video_id: hxLh0qFX9oI
+  talk_title: Opaque Structures and Other Yerbas
+  speakers:
+  - brujo_benavides
+  conference: code_beam_sf_2018
+- video_id: dYDdnZoH0uk
+  talk_title: 'Introducing Wrek: A Library For Executing Dependency Graphs'
+  speakers:
+  - richard_kallos
+  conference: code_beam_sf_2018
+- video_id: S_WtnSrfR5s
+  talk_title: Metaprogramming - Programs that Write Programs
+  speakers:
+  - jay_hayes
+  conference: code_beam_sf_2018
+- video_id: lWIeZlNoVSQ
+  talk_title: Learning Elixir Better through Collaboration and Giving Back
+  speakers:
+  - mohnish_jadwani
+  conference: code_beam_sf_2018
+- video_id: "-M1P8TSJcg8"
+  talk_title: The Magic Behind Immutable Maps
+  speakers:
+  - jean_rouge
+  conference: code_beam_sf_2018
+- video_id: NYkwvVKlbU8
+  talk_title: Let it Be Hacked
+  speakers:
+  - duncan_sparrell
+  conference: code_beam_sf_2018
+- video_id: S9RlMhru29I
+  talk_title: Intro to Machine Learning
+  speakers:
+  - jesse_j_anderson
+  conference: code_beam_sf_2018
+- video_id: yZO6FkkdJEg
+  talk_title: 'Hype For Types: Using Dialyzer to bring type checking to your Elixir
+    code'
+  speakers:
+  - emma_cunningham
+  conference: code_beam_sf_2018
+- video_id: S3f6sAXa3-c
+  talk_title: CQRS and Event Sourcing
+  speakers:
+  - bernardo_amorim
+  conference: code_beam_sf_2018
+- video_id: DP6wYYQ90QI
+  talk_title: Is Security on Your Nerves
+  speakers:
+  - paul_rogers
+  conference: code_beam_sf_2018
+- video_id: VXsqvfPIdWg
+  talk_title: 'Aeternity: Scalable Smart Contracts'
+  speakers:
+  - erik_stenman
+  conference: code_beam_sf_2018
+- video_id: peKLuq-tdQo
+  talk_title: High Performance Metrics Through Mutable Counters
+  speakers:
+  - irina_guberman
+  conference: code_beam_sf_2018
+- video_id: W0BR_tWZChQ
+  talk_title: The Hitchhiker's Guide to the Unexpected
+  speakers:
+  - fred_hebert
+  conference: code_beam_sf_2018
+- video_id: X6dmjopTrLE
+  talk_title: Crypto + Concurrency
+  speakers:
+  - anna_neyzberg
+  conference: code_beam_sf_2018
+- video_id: 3Q_pR1-v1eo
+  talk_title: wxErlang & Faithful Representation
+  speakers:
+  - robert_carbone
+  conference: code_beam_sf_2018
+- video_id: QnHYWNfvV2c
+  talk_title: Bridging The Physical and Blockchain World With Erlang
+  speakers:
+  - andrew_thompson
+  conference: code_beam_sf_2018
+- video_id: uv-3ptTD8hg
+  talk_title: Wide World of Actors
+  speakers:
+  - scott_lystig_fritchie
+  conference: code_beam_sf_2018
+- video_id: F86JXaCPowo
+  talk_title: Taking Erlang Elixir to the Metal
+  speakers:
+  - sonny_scroggin
+  conference: code_beam_sf_2018
+- video_id: L7OTjuCIZc0
+  talk_title: A Tour Through the Distributed System Zoo
+  speakers:
+  - mariano_guerra
+  conference: code_beam_sf_2018
+- video_id: hd8IQRm0Q1k
+  talk_title: Fighting Authoritarianism With Blockchain And Blockweaves
+  speakers:
+  - sam_williams
+  conference: code_beam_sf_2018
+- video_id: lN_KFDyjmnY
+  talk_title: Spells, Hexes, and Charms Running your Own Private Package Service
+  speakers:
+  - mark_allen
+  conference: code_beam_sf_2018
+- video_id: sTOOjfUrQ0A
+  talk_title: 'Arduino, Elixir And Nerves: A Deep Dive Into Firmata'
+  speakers:
+  - christopher_cote
+  conference: code_beam_sf_2018
+- video_id: BSPVrOR85fo
+  talk_title: 'Unreachable Code: A Conversation about Safety and Human Factors'
+  speakers:
+  - jessica_de_vita
+  conference: code_beam_sf_2018
+- video_id: OS94i3cF6mY
+  talk_title: 'Releases and Elixir: Envisioning a more perfect union'
+  speakers:
+  - paul_schoenfelder
+  conference: code_beam_sf_2018
+- video_id: enbksvAko98
+  talk_title: A GraphQL-on-Elixir Primer
+  speakers:
+  - bruce_williams
+  conference: code_beam_sf_2018
+- video_id: 2PQ8OIE8lOM
+  talk_title: 'Erlang In Action: Creating Scalable Edge Based Iot Solution'
+  speakers:
+  - murali_kashaboina
+  conference: code_beam_sf_2018
+- video_id: NAdCxr6C4DI
+  talk_title: Trusted Autonomy
+  speakers:
+  - ben_marx
+  conference: code_beam_sf_2018
+- video_id: uh7qYf8rC00
+  talk_title: Making It Lazy Never Evaluate Anything More Than Once
+  speakers:
+  - simon_thompson
+  conference: code_beam_sf_2018
+- video_id: vogAxP4Sq_g
+  talk_title: Mixing in Elixir to Build Search
+  speakers:
+  - adrian_cruz
+  conference: code_beam_sf_2018
+- video_id: CvjVpGktLC0
+  talk_title: Quaff that potion saving $millions
+  speakers:
+  - mike_watters
+  conference: code_beam_sf_2018
+- video_id: mPPbCQ2ffZc
+  talk_title: Understanding Erlang Term
+  speakers:
+  - boshan_sun
+  conference: code_beam_sf_2018
+- video_id: wN0jqAHmqXc
+  talk_title: Getting to Know Your Rabbit
+  speakers:
+  - brett_cameron
+  conference: code_beam_sf_2018
+- video_id: kwHtlmyxE6c
+  talk_title: Release, Deploy, Monitor and Upgrade Elixir Services in Real World
+  speakers:
+  - tian_chen
+  conference: code_beam_sf_2018
+- video_id: 4-vJeCmkCZE
+  talk_title: Testing Tools for the Erlang Ecosystem
+  speakers:
+  - kostis_sagonas
+  conference: code_beam_sf_2018
+- video_id: 1e6ktNUQuGs
+  talk_title: Gently Down the Stream
+  speakers:
+  - geoffrey_lessel
+  conference: code_beam_sf_2018
+- video_id: CiSNwmDj6ls
+  talk_title: Designing Rich API Clients at Scale
+  speakers:
+  - jeff_ching
+  conference: code_beam_sf_2018
+- video_id: "-I_jE0l7sYQ"
+  talk_title: The Forgotten Ideas in Computer Science
+  speakers:
+  - joe_armstrong
+  keynote: true
+  conference: code_beam_sf_2018
+- video_id: lkAbwmn5Rv8
+  talk_title: Implementing Languages on the BEAM
+  speakers:
+  - robert_virding
+  - mariano_guerra
+  conference: code_beam_sf_2018

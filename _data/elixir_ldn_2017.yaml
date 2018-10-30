@@ -1,0 +1,76 @@
+---
+- video_id: zqzkrUVfv-k
+  talk_title: Working with HTTP/2 in Elixir
+  speakers:
+  - peter_saxton
+  conference: elixir_ldn_2017
+- video_id: g4HXeP_CZbc
+  talk_title: Getting Pretty Serious
+  speakers:
+  - louis_pilfold
+  conference: elixir_ldn_2017
+- video_id: 5EDD1oZ23tY
+  talk_title: 'Stepping into a New Era: Injecting Elixir in an Existing System'
+  speakers:
+  - andrea_leopardi
+  conference: elixir_ldn_2017
+- video_id: AAXtjPiXbWE
+  talk_title: Profiling and Tracing for all with Xprof
+  speakers:
+  - pe?ter_go?mo?ri
+  conference: elixir_ldn_2017
+- video_id: cKfme8i_nO0
+  talk_title: How We Created Elixir University Course
+  speakers:
+  - nikolay_tsvetinov
+  conference: elixir_ldn_2017
+- video_id: YviCIOT7C6I
+  talk_title: How to Sell Elixir
+  speakers:
+  - evadne_wu
+  conference: elixir_ldn_2017
+- video_id: anGb8ByaZbc
+  talk_title: Lightning Talks
+  speakers:
+  - steven_blowers
+  - krzysztof_wende
+  - elliott_hilaire
+  - paul_wilson
+  lightning: true
+  processed: false
+  conference: elixir_ldn_2017
+- video_id: psdG5iV57q0
+  talk_title: 'Witchcraft: Monads for the Working Alchemist'
+  speakers:
+  - brooklyn_zelenka
+  conference: elixir_ldn_2017
+- video_id: GCATa8lkUMw
+  talk_title: Introduces Her Talk
+  speakers:
+  - brooklyn_zelenka
+  conference: elixir_ldn_2017
+- video_id: jhZwQ1LTdUI
+  talk_title: 'Elixir Umbrella: Microservices or Majestic Monolith?'
+  speakers:
+  - georgina_mc_fadyen
+  conference: elixir_ldn_2017
+- video_id: KzD3Jrk_GmI
+  talk_title: Women in the Coding Industry
+  speakers:
+  - georgina_mc_fadyen
+  conference: elixir_ldn_2017
+- video_id: yPU6__D1TQs
+  talk_title: The Journey From Ruby to Elixir
+  speakers:
+  - louis_pilfold
+  conference: elixir_ldn_2017
+- video_id: p4uE-jTB_Uk
+  talk_title: The Feature That No One Knew About in Elixir 1.5
+  speakers:
+  - jose_valim
+  conference: elixir_ldn_2017
+- video_id: R5xTuw7NYg8
+  talk_title: HTTP/2 Plug to Phoenix, Cowboy Too
+  speakers:
+  - gary_rennie
+  conference: elixir_ldn_2017

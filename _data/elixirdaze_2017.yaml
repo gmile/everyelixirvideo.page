@@ -1,0 +1,91 @@
+---
+- video_id: fTYkbPBOt1o
+  talk_title: Yesterday's Cargo
+  speakers:
+  - dave_thomas
+  conference: elixirdaze_2017
+- video_id: 7CoEDFOXJQo
+  talk_title: 'Stronger Than Fear: Mental Health in the Developer Community'
+  speakers:
+  - ed_finkler
+  conference: elixirdaze_2017
+- video_id: O39ipRsXv3Y
+  talk_title: Get Cooking With Nerves
+  speakers:
+  - garth_hitchens
+  conference: elixirdaze_2017
+- video_id: 49Gw8DT5pEo
+  talk_title: Can Elixir Bring Down Phoenix?
+  speakers:
+  - ben_marx
+  conference: elixirdaze_2017
+- video_id: 8X0IWW2GJoQ
+  talk_title: The ABCs of OTP
+  speakers:
+  - jesse_j_anderson
+  conference: elixirdaze_2017
+- video_id: kQEG1NVCazE
+  talk_title: Observer Driven Design
+  speakers:
+  - omid_bachari
+  conference: elixirdaze_2017
+- video_id: fFqsMWmONN4
+  talk_title: Embrace the Database With Ecto
+  speakers:
+  - josh_branchaud
+  conference: elixirdaze_2017
+- video_id: TjlbXQ88eEc
+  talk_title: Building Communities of Smart Things Takes Nerves
+  speakers:
+  - jean_francois_cloutier
+  conference: elixirdaze_2017
+- video_id: vuQTj9Ik83A
+  talk_title: Its all About the Journey
+  speakers:
+  - tanya_and_keith
+  conference: elixirdaze_2017
+- video_id: 5SbWapbXhKo
+  talk_title: Solid Ground
+  speakers:
+  - sasa_juric
+  conference: elixirdaze_2017
+- video_id: ZiHdXJFPGN0
+  talk_title: Elixir With Erlang Solutions
+  speakers:
+  - francesco_cesarini
+  conference: elixirdaze_2017
+- video_id: nZ-U8ZszmeI
+  talk_title: Deploying Elixir
+  speakers:
+  - paul_lamb
+  conference: elixirdaze_2017
+- video_id: AnYm0rTJNVg
+  talk_title: Using Your Umbrella
+  speakers:
+  - chris_bell
+  conference: elixirdaze_2017
+- video_id: Cn-RjG1Qyqo
+  talk_title: 'BEER: Not Just for Your Devs'
+  speakers:
+  - maureen_mc_elaney
+  conference: elixirdaze_2017
+- video_id: 4Pswied02o0
+  talk_title: Live Like a Hippy
+  speakers:
+  - amos_king
+  conference: elixirdaze_2017
+- video_id: 69L5kf_qPLk
+  talk_title: Lets Generate Tests
+  speakers:
+  - chris_keathley
+  conference: elixirdaze_2017
+- video_id: rJVq5prpyj4
+  talk_title: Tackling Authentication with Phoenix
+  speakers:
+  - joao_maura
+  conference: elixirdaze_2017
+- video_id: 9CkZJ2kgNNs
+  talk_title: Macros
+  speakers:
+  - jason_cummings
+  conference: elixirdaze_2017

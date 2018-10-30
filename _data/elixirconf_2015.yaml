@@ -1,0 +1,105 @@
+---
+- video_id: X8rWK-g8kCQ
+  talk_title: The Pendulum
+  speakers:
+  - bruce_tate
+  keynote: true
+  conference: elixirconf_2015
+- video_id: "-7Q3bD4qSVE"
+  talk_title: What's Next for Phoenix
+  speakers:
+  - chris_mc_cord
+  conference: elixirconf_2015
+- video_id: SK6SyZV_ujw
+  talk_title: Elixir in the Browser
+  speakers:
+  - bryan_joseph
+  conference: elixirconf_2015
+- video_id: 9RB1JCKe3GY
+  talk_title: Keynote
+  speakers:
+  - jose_valim
+  keynote: true
+  conference: elixirconf_2015
+- video_id: 5T5pYVw5WtY
+  talk_title: Virtually Instructional
+  speakers:
+  - lennart_friden
+  conference: elixirconf_2015
+- video_id: g7C7ai96wLY
+  talk_title: BEAMing with Joy
+  speakers:
+  - steven_proctor
+  conference: elixirconf_2015
+- video_id: yBReonQlfL4
+  talk_title: OTP Has Done It
+  speakers:
+  - nick_de_monner
+  conference: elixirconf_2015
+- video_id: CRXNmAMPNW8
+  talk_title: Streams, External Services, and OTP
+  speakers:
+  - ben_wilson
+  conference: elixirconf_2015
+- video_id: A66JufPXA2c
+  talk_title: A Deep Dive into Binaries
+  speakers:
+  - chris_maddox
+  conference: elixirconf_2015
+- video_id: g84TDHt9MDc
+  talk_title: Composable Queries with Ecto
+  speakers:
+  - drew_olson
+  conference: elixirconf_2015
+- video_id: KcO1ySAQUeM
+  talk_title: 'Expert Panel: Elixir Fountain Live!'
+  speakers:
+  - johnny_winn
+  - jose_valim
+  - alan_gardner
+  - lennart_friden
+  - eric_meadows_jonsson
+  - chris_mc_cord
+  - bryan_joseph
+  conference: elixirconf_2015
+- video_id: X25xOhntr6s
+  talk_title: Elixir Should Take Over the World
+  speakers:
+  - jessica_kerr
+  keynote: true
+  conference: elixirconf_2015
+- video_id: uMrsJahHi3k
+  talk_title: How To Contribute to Elixir and Phoenix
+  speakers:
+  - wendy_smoak
+  conference: elixirconf_2015
+- video_id: keUbVvMJeKY
+  talk_title: Mastering date/time handling with Elixir
+  speakers:
+  - lau_taarnskov
+  conference: elixirconf_2015
+- video_id: kpzQrFC55q4
+  talk_title: Embedded Elixir in Action
+  speakers:
+  - garth_hitchens
+  conference: elixirconf_2015
+- video_id: b-xwM4i62q4
+  talk_title: 'Interoperability in Elixir: Dealing With the World Outside of the Beam'
+  speakers:
+  - james_smith
+  conference: elixirconf_2015
+- video_id: IiP_cTfzk_o
+  talk_title: Gettext for Elixir - getting serious at compile time
+  speakers:
+  - andrea_leopardi
+  conference: elixirconf_2015
+- video_id: 0Its8r5RBf0
+  talk_title: The road to intellij-elixir 1.0.0
+  speakers:
+  - luke_imhoff
+  conference: elixirconf_2015
+- video_id: eZtkDLellyM
+  talk_title: Into Production
+  speakers:
+  - jamie_winsor
+  conference: elixirconf_2015

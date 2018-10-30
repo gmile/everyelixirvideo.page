@@ -1,0 +1,58 @@
+---
+layout: home
+---
+{% assign total_talks = 0 %}
+
+{% for conference in site.data.conferences %}
+  {% assign total_talks = total_talks | plus: site.data[conference.id].size %}
+{% endfor %}
+
+<p><b>Stats</b></p>
+<ul>
+<li>Total talks: {{ total_talks }}</li>
+<li>Total conferences: {{ site.data.conferences.size }}</li>
+<li>Total speakers: {{ site.data.speakers.size }}</li>
+</ul>
+
+<h2 id="{{ conference.id }}">{{ conference.title }}</h2>
+
+<p><b>Conferences quick links</b></p>
+<ul>
+{% for conference in site.data.conferences %}
+<li>
+<a href="#{{ conference['id'] }}">{{ conference['title'] }}</a><br>
+</li>
+{% endfor %}
+</ul>
+
+<hr>
+
+{% for conference in site.data.conferences %}
+  <h2 id="{{ conference.id }}">{{ conference.title }}</h2>
+  <ul>
+  {% assign talks = site.data[conference.id] | sort: 'talk_title' %}
+
+  {% for talk in talks %}
+    {% if talk.processed == false %}
+      {% continue %}
+    {% else %}
+      <li id="{{ talk.video_id }}">
+        <a href="https://youtu.be/{{ talk.video_id }}" title="{{ talk.talk_title }}">{{ talk.talk_title }}</a> by
+        {% for speaker_id in talk.speakers %}
+          {% assign speaker = site.data.speakers | where: "id", speaker_id | first %}
+
+          {% if speaker.twitter %}
+            <a href="https://twitter.com/{{ speaker.twitter }}" title="{{ speaker.full_name }}">{{ speaker.full_name }}</a>{% unless forloop.last %},{% endunless %}
+          {% else %}
+            <span>{{ speaker.full_name }}</span>{% unless forloop.last %},{% endunless %}
+          {% endif %}
+        {% endfor %}
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% endfor %}
+
+<hr>
+
+2018. Created by <a href="https://twitter.com/gmile">@gmile</a>.

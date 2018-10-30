@@ -1,0 +1,78 @@
+---
+- video_id: n3EtDjdilpk
+  talk_title: José Valim and friends answer most searched Elixir questions
+  speakers:
+  - jose_valim
+  - keith_salisbury
+  - tetiana_dushenkivska
+  - andrea_leopardi
+  conference: code_beam_ldn_2018
+- video_id: IJJQvJRoXy8
+  talk_title: 'A shot of Absinthe: from zero to GraphQL in 40 minutes'
+  speakers:
+  - sam_davies
+  conference: code_beam_ldn_2018
+- video_id: Tsg6V0UBlEw
+  talk_title: Elixir for the Long Haul
+  speakers:
+  - powell_kinney
+  conference: code_beam_ldn_2018
+- video_id: Z8_FcP4c7Mg
+  talk_title: Invariants are everything
+  speakers:
+  - joseph_yiasemides
+  conference: code_beam_ldn_2018
+- video_id: AiN4r8E9qKg
+  talk_title: Discovering distributed systems in Elixir
+  speakers:
+  - maciej_kaszubowski
+  conference: code_beam_ldn_2018
+- video_id: nBtz9IJBO4g
+  talk_title: 'Pattern matching: The gateway to loving Elixir'
+  speakers:
+  - kate_travers
+  conference: code_beam_ldn_2018
+- video_id: GGZOjl6mSK4
+  talk_title: Overview & Challenges of building a Blockchain
+  speakers:
+  - p_piwowarsky
+  - g_spasov
+  conference: code_beam_ldn_2018
+- video_id: 2Lv_i1JJdsM
+  talk_title: Bootcamp stories
+  speakers:
+  - arjan_scherpenisse
+  conference: code_beam_ldn_2018
+- video_id: pytd3GBiHsc
+  talk_title: Absinthe Authentication
+  speakers:
+  - jon_rowe
+  lightning: true
+  conference: code_beam_ldn_2018
+- video_id: FjkE8HDWIBU
+  talk_title: Elixir for curing product development pains?
+  speakers:
+  - michael_krax
+  conference: code_beam_ldn_2018
+- video_id: ukMFwZtY3m0
+  talk_title: Mind your own business view controller
+  speakers:
+  - peter_saxton
+  conference: code_beam_ldn_2018
+- video_id: uygkbKXN-0A
+  talk_title: Managing externalities in a functional world
+  speakers:
+  - evadne_wu
+  conference: code_beam_ldn_2018
+- video_id: U77o0zjAlsE
+  talk_title: Fun with processes
+  speakers:
+  - pawel_dawczak
+  lightning: true
+  conference: code_beam_ldn_2018
+- video_id: hm6yLbSjdlY
+  talk_title: Saving the network by killing the network
+  speakers:
+  - paul_wilson
+  lightning: true
+  conference: code_beam_ldn_2018

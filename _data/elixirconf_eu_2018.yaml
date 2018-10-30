@@ -1,0 +1,117 @@
+---
+- video_id: KGNfqiVF234
+  talk_title: Ship Your Code While It's Hot
+  speakers:
+  - albert_zak
+  conference: elixirconf_eu_2018
+- video_id: eldYot7uxUc
+  talk_title: SOLID Elixir
+  speakers:
+  - georgina_mc_fadyen
+  conference: elixirconf_eu_2018
+- video_id: "-FiQhkV7JYk"
+  talk_title: Going low level with TCP sockets and :gen_tcp
+  speakers:
+  - orestis_markou
+  conference: elixirconf_eu_2018
+- video_id: qR5u6HiBn50
+  talk_title: Phoenix and the World of Tomorrow
+  speakers:
+  - ley_missailidis
+  conference: elixirconf_eu_2018
+- video_id: fnfcYKq373w
+  talk_title: Coupling Data and Behaviour
+  speakers:
+  - guilherme_de_maio
+  conference: elixirconf_eu_2018
+- video_id: jmkq4SwV2Ss
+  talk_title: He Has the Nerve
+  speakers:
+  - justin_schneck
+  conference: elixirconf_eu_2018
+- video_id: tytHbbjeHMM
+  talk_title: Building a Task Queue System
+  speakers:
+  - evadne_wu
+  keynote: true
+  conference: elixirconf_eu_2018
+- video_id: p84DMv8TQuo
+  talk_title: Property-based Testing is a Mindset
+  speakers:
+  - andrea_leopardi
+  conference: elixirconf_eu_2018
+- video_id: dcLryii0kgQ
+  talk_title: The Phoenix Boot Process
+  speakers:
+  - xavier_noria
+  conference: elixirconf_eu_2018
+- video_id: O2gQc4Kh4-Y
+  talk_title: Fleet management solution for autonomous vehicles
+  speakers:
+  - serge_boucher
+  conference: elixirconf_eu_2018
+- video_id: 3XL-31nqcX4
+  talk_title: Robust Data Processing Pipeline with Elixir and Flow
+  speakers:
+  - laszlo_bacsi
+  conference: elixirconf_eu_2018
+- video_id: x2ckfhqB9nA
+  talk_title: 'Introducing HDD: Hughes Driven Development'
+  speakers:
+  - jose_valim
+  keynote: true
+  conference: elixirconf_eu_2018
+- video_id: QjWl4kjdIgQ
+  talk_title: Building communication platforms for IoT
+  speakers:
+  - troels_brodsgaard
+  conference: elixirconf_eu_2018
+- video_id: P9z9UIidVxE
+  talk_title: Rewriting a legacy application in Elixir
+  speakers:
+  - raphael_costa
+  conference: elixirconf_eu_2018
+- video_id: ALL7n7FaOf4
+  talk_title: 'Instrumenting mayhem: functional chaos engineering'
+  speakers:
+  - szymon_mentel
+  conference: elixirconf_eu_2018
+- video_id: _4ENJB3qkLo
+  talk_title: Orchestrating Consumers and Producers Like an Octopus
+  speakers:
+  - jusabe_guedes
+  conference: elixirconf_eu_2018
+- video_id: "-n5IlXBOaBE"
+  talk_title: Building videochat with Elixir and Phoenix
+  speakers:
+  - anil_wadghule
+  conference: elixirconf_eu_2018
+- video_id: 8qDXG7tnl9w
+  talk_title: Event-driven architectures in Elixir
+  speakers:
+  - maciej_kaszubowski
+  conference: elixirconf_eu_2018
+- video_id: 66sNfqOrSJw
+  talk_title: SSH server/client in Erlang
+  speakers:
+  - milad_rastian
+  conference: elixirconf_eu_2018
+- video_id: VmRr67yW6kU
+  talk_title: State and distributed data structures
+  speakers:
+  - arkadiusz_gil
+  conference: elixirconf_eu_2018
+- video_id: Y545Tp6iM28
+  talk_title: Knee Deep Into P2P
+  speakers:
+  - fernando_mendes
+  conference: elixirconf_eu_2018
+- video_id: ncv-D8GbNBg
+  talk_title: ElixirConf EU 2018 Highlights Video
+  speakers: []
+  conference: elixirconf_eu_2018
+- video_id: MTT1Jl4Fs-E
+  talk_title: Let's do Elixir and Phoenix together
+  speakers:
+  - chris_mc_cord
+  conference: elixirconf_eu_2018

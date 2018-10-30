@@ -1,0 +1,252 @@
+---
+- video_id: bd_EIWU9GzQ
+  talk_title: Day 1 Keynote
+  speakers:
+  - justin_schneck
+  keynote: true
+  conference: elixirconf_usa_2017
+- video_id: f979XY2A2HU
+  talk_title: My Journey from Go to Elixir
+  speakers:
+  - veronica_lopez
+  conference: elixirconf_usa_2017
+- video_id: 77FW-jrCyCs
+  talk_title: Elixir Native UI
+  speakers:
+  - boyd_multerer
+  conference: elixirconf_usa_2017
+- video_id: YQxopjai0CU
+  talk_title: Thinking In Ecto
+  speakers:
+  - darin_wilson
+  conference: elixirconf_usa_2017
+- video_id: Bo48sQDb-hk
+  talk_title: 'Don''t Write Macros   But Do Learn How They Work '
+  speakers:
+  - jesse_j_anderson
+  conference: elixirconf_usa_2017
+- video_id: ARQD4BN_5ns
+  talk_title: Building an Artificial Pancreas with Elixir and Nerves
+  speakers:
+  - tim_mecklem
+  conference: elixirconf_usa_2017
+- video_id: Mq_tb2fkROo
+  talk_title: HTTP 2 Plug to Phoenix Cowboy too
+  speakers:
+  - gary_rennie
+  conference: elixirconf_usa_2017
+- video_id: blGJ_p4plbc
+  talk_title: 'Phoenix after 100000 lines '
+  speakers:
+  - renan_ranelli
+  conference: elixirconf_usa_2017
+- video_id: _zQ_u7o1rNo
+  talk_title: Embedded Elixir for Monitoring the Built Environment
+  speakers:
+  - christopher_cote
+  conference: elixirconf_usa_2017
+- video_id: iswld-Rpi_g
+  talk_title: Elixir by the Bellyful
+  speakers:
+  - bryan_hunter
+  conference: elixirconf_usa_2017
+- video_id: S2-1Rt-R2cY
+  talk_title: Its Better Unstated
+  speakers:
+  - tj_stankus
+  conference: elixirconf_usa_2017
+- video_id: 3W2dMOQL2CM
+  talk_title: Working with legacy databases in Ecto
+  speakers:
+  - geoffrey_lessel
+  conference: elixirconf_usa_2017
+- video_id: kWYgrA2YshE
+  talk_title: Back on Your Feet
+  speakers:
+  - claudio_ortolina
+  conference: elixirconf_usa_2017
+- video_id: 6lIVWVmuPao
+  talk_title: Writing an Editor in Elixir
+  speakers:
+  - ian_duggan
+  conference: elixirconf_usa_2017
+- video_id: kq4qTk18N-c
+  talk_title: 'rDDD & Perhap: reactive Domain Driven Design'
+  speakers:
+  - rob_martin
+  conference: elixirconf_usa_2017
+- video_id: bodV9Tk_kpQ
+  talk_title: 'Cajoling the Bird: How we squeezed more out of Phoenix PubSub'
+  speakers:
+  - simon_zelazny
+  conference: elixirconf_usa_2017
+- video_id: UoSQBOP_Siw
+  talk_title: 'Keep an Eye on the Sky with Nerves and Phoenix '
+  speakers:
+  - jeff_smith
+  conference: elixirconf_usa_2017
+- video_id: eNe5dmRP9Cc
+  talk_title: Streaming Video with Elixir
+  speakers:
+  - john_wahba
+  conference: elixirconf_usa_2017
+- video_id: RwJAETlVrvs
+  talk_title: Scaling up Elixir at TpT
+  speakers:
+  - shanti_chellaram
+  conference: elixirconf_usa_2017
+- video_id: Wa7_I_pc0yo
+  talk_title: Day 2 Morning Keynote
+  speakers:
+  - jose_valim
+  keynote: true
+  conference: elixirconf_usa_2017
+- video_id: SB0bfI8DiOM
+  talk_title: ElixirBridge How Do We Shape Community
+  speakers:
+  - anna_neyzberg
+  conference: elixirconf_usa_2017
+- video_id: PEckzwggd78
+  talk_title: Live APIs with GraphQL Subscriptions
+  speakers:
+  - bruce_williams
+  - ben_wilson
+  conference: elixirconf_usa_2017
+- video_id: lQmJZVcHYds
+  talk_title: Dr. ErlangOTP or How I Learned to Stop Worrying and Love `disk log`
+  speakers:
+  - eric_entin
+  conference: elixirconf_usa_2017
+- video_id: fWQy7aS_gd8
+  talk_title: Elixir + Neo4j
+  speakers:
+  - regina_imhoff
+  conference: elixirconf_usa_2017
+- video_id: ENolm5T0bkU
+  talk_title: Managing Tables With Elixir and OTP
+  speakers:
+  - robert_beene
+  conference: elixirconf_usa_2017
+- video_id: 1dyo5hmfUXs
+  talk_title: Patience Using Phoenix Presence in a Primary Care Clinic
+  speakers:
+  - keith_gautreaux
+  conference: elixirconf_usa_2017
+- video_id: 4LIXBW58yIk
+  talk_title: The Power of Zero
+  speakers:
+  - andrew_forward
+  conference: elixirconf_usa_2017
+- video_id: TUOeFdFvOk8
+  talk_title: Elixir as a first language
+  speakers:
+  - alexis_huefner
+  conference: elixirconf_usa_2017
+- video_id: FYQcn9zcZVA
+  talk_title: Well Behaved Native Implemented Functions for Elixir
+  speakers:
+  - andrew_bennett
+  conference: elixirconf_usa_2017
+- video_id: 37V6L1EA4ac
+  talk_title: Elixir The Toyota Way
+  speakers:
+  - powell_kinney
+  conference: elixirconf_usa_2017
+- video_id: GFyFR5LdnrU
+  talk_title: Building an Open Source, Real Time Forum with Phoenix and Elm
+  speakers:
+  - josh_adams
+  conference: elixirconf_usa_2017
+- video_id: w3lKmFsmlvQ
+  talk_title: Plugging the Security Holes in Your Phoenix Application
+  speakers:
+  - griffin_byatt
+  conference: elixirconf_usa_2017
+- video_id: Kbhl379x1cw
+  talk_title: Building Realtime Mobile Apps with React Native and Elixir
+  speakers:
+  - osa_gaius
+  conference: elixirconf_usa_2017
+- video_id: 6ijgMvXJyuo
+  talk_title: Elixir with Kafka
+  speakers:
+  - mathew_gardner
+  conference: elixirconf_usa_2017
+- video_id: ImcAcDBa8Dg
+  talk_title: Implementing a MQTT client in Elixir
+  speakers:
+  - martin_gausby
+  conference: elixirconf_usa_2017
+- video_id: aLnSO6FQpHs
+  talk_title: Realtime Vehicle Tracking with Elixir and Phoenix
+  speakers:
+  - james_smith
+  conference: elixirconf_usa_2017
+- video_id: zbbK0WOvWII
+  talk_title: Closing Keynote
+  speakers:
+  - chris_mc_cord
+  keynote: true
+  conference: elixirconf_usa_2017
+- video_id: NBmNDI9OFJk
+  talk_title: Elixir Power Tracing
+  speakers:
+  - gabi_zuniga
+  conference: elixirconf_usa_2017
+- video_id: jkFyz2LbdKg
+  talk_title: Idea Scaling
+  speakers:
+  - hannah_howard
+  conference: elixirconf_usa_2017
+- video_id: oYFixITZyeA
+  talk_title: Lambda Calculus in 5 mintues
+  speakers:
+  - mohd_maqbool_alam
+  lightning: true
+  conference: elixirconf_usa_2017
+- video_id: J8Tt8g8DAX0
+  talk_title: Speeding up your program with Steroids
+  speakers:
+  - john_wahba
+  lightning: true
+  conference: elixirconf_usa_2017
+- video_id: J84XgSxfuj4
+  talk_title: QR Code in Elixir
+  speakers:
+  - boshan_sun
+  conference: elixirconf_usa_2017
+- video_id: mpMeoMU0KLw
+  talk_title: Why Elixir is perfect for taming the monolith
+  speakers:
+  - scott_ribe
+  conference: elixirconf_usa_2017
+- video_id: 7PHSMBwC8oE
+  talk_title: Databaseless
+  speakers:
+  - norberto_ortigoza
+  conference: elixirconf_usa_2017
+- video_id: Ty6rkz7eg6Y
+  talk_title: 'Elixir Tips: A Year of Tiny Explosions'
+  speakers:
+  - rockwell_schrock
+  conference: elixirconf_usa_2017
+- video_id: DOgT_K5tLxU
+  talk_title: Demoing Thesis - a Phoenix CMS
+  speakers:
+  - jamon_holmgren
+  conference: elixirconf_usa_2017
+- video_id: W8uHgNikDHA
+  talk_title: OpenApi and Elixir
+  speakers:
+  - jeff_ching
+  conference: elixirconf_usa_2017
+- video_id: OY1ny-qxwx0
+  talk_title: Baseball and How To Sell Elixir
+  speakers:
+  - david_schainker
+  conference: elixirconf_usa_2017
+- video_id: BUSGTGFta-c
+  talk_title: XProf
+  speakers:
+  - wojciech_gawronski
+  conference: elixirconf_usa_2017
