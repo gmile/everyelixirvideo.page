@@ -1,0 +1,45 @@
+#!/usr/local/bin/ruby
+
+full_name = ARGV[0]
+
+if full_name.nil? or full_name.empty?
+  puts "Usage: bin/add_speaker 'FIRSTNAME LASTNAME'"
+
+  exit
+end
+
+require 'yaml'
+require 'i18n'
+
+I18n.available_locales = [:en]
+
+def make_id(word)
+  word = word.dup
+  word.gsub!(/([A-Z\d]+)([A-Z][a-z])/, '\1_\2'.freeze)
+  word.gsub!(/([a-z\d])([A-Z])/, '\1_\2'.freeze)
+  word.tr!("-".freeze, "_".freeze)
+  word.tr!(" ".freeze, "_".freeze)
+  word.tr!(".".freeze, "".freeze)
+  word.downcase!
+  I18n.transliterate(word)
+end
+
+speakers_file_path = "_data/speakers.yaml"
+existing_speakers = YAML.load(File.read(speakers_file_path))
+
+new_speaker = {
+  'id' => make_id(full_name),
+  'full_name' => full_name,
+  'twitter' => nil,
+  'github' => nil,
+  'elixirforum' => nil
+}
+
+File.open(speakers_file_path, "w") do |file|
+  speakers =
+    existing_speakers.push(new_speaker)
+    .uniq { |s| s['full_name'] }
+    .sort_by { |s| s['full_name'] }
+
+  file.puts(speakers.to_yaml)
+end
