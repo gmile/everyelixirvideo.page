@@ -36,17 +36,22 @@ layout: home
     {% if talk.processed == false %}
       {% continue %}
     {% else %}
-      <li id="{{ talk.video_id }}">
-        <a href="https://youtu.be/{{ talk.video_id }}" title="{{ talk.talk_title }}">{{ talk.talk_title }}</a> by
-        {% for speaker_id in talk.speakers %}
-          {% assign speaker = site.data.speakers | where: "id", speaker_id | first %}
+      <li id="{{ talk.video_id }}" class="talk">
+        <a href="#{{ talk.video_id }}" class="anchor">#</a>
+        <a href="https://youtu.be/{{ talk.video_id }}" title="{{ talk.talk_title }}">{{ talk.talk_title }}</a>
+        <div class="video_details">
+          <span>by</span>
 
-          {% if speaker.twitter %}
-            <a href="https://twitter.com/{{ speaker.twitter }}" title="{{ speaker.full_name }}">{{ speaker.full_name }}</a>{% unless forloop.last %},{% endunless %}
-          {% else %}
-            <span>{{ speaker.full_name }}</span>{% unless forloop.last %},{% endunless %}
-          {% endif %}
-        {% endfor %}
+          {% for speaker_id in talk.speakers %}
+            {% assign speaker = site.data.speakers | where: "id", speaker_id | first %}
+
+            {% if speaker.twitter %}
+              <a href="https://twitter.com/{{ speaker.twitter }}" title="{{ speaker.full_name }}">{{ speaker.full_name }}</a>{% unless forloop.last %},{% endunless %}
+            {% else %}
+              <span>{{ speaker.full_name }}</span>{% unless forloop.last %},{% endunless %}
+            {% endif %}
+          {% endfor %}
+        </div>
       </li>
     {% endif %}
   {% endfor %}
