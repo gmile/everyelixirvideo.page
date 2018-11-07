@@ -86,9 +86,9 @@
   elixirforum: 
 - id: andrew_dryga
   full_name: Andrew Dryga
-  twitter: 
-  github: 
-  elixirforum: 
+  twitter: andrewdryga
+  github: andrew_dryga
+  elixirforum:
 - id: andrew_forward
   full_name: Andrew Forward
   twitter: 
@@ -439,11 +439,6 @@
   twitter: 
   github: 
   elixirforum: 
-- id: elixir_conf_eu_2017
-  full_name: ElixirConf EU 2017
-  twitter:
-  github:
-  elixirforum:
 - id: elliott_hilaire
   full_name: Elliott Hilaire
   twitter:
@@ -456,8 +451,8 @@
   elixirforum: 
 - id: eric_entin
   full_name: Eric Entin
-  twitter: 
-  github: 
+  twitter: ericentin
+  github: ericentin
   elixirforum: 
 - id: eric_meadows_jonsson
   full_name: Eric Meadows-Jönsson
@@ -486,8 +481,8 @@
   elixirforum: 
 - id: ernie_miller
   full_name: Ernie Miller
-  twitter: 
-  github: 
+  twitter: erniemiller
+  github: ernie
   elixirforum: 
 - id: eugenia_cheng
   full_name: Eugenia Cheng
@@ -496,8 +491,8 @@
   elixirforum: 
 - id: evadne_wu
   full_name: Evadne Wu
-  twitter: 
-  github: 
+  twitter: evadne
+  github: evadne
   elixirforum: 
 - id: fahad_almusharraf
   full_name: Fahad Almusharraf
@@ -511,13 +506,13 @@
   elixirforum: 
 - id: francesco_cesarini
   full_name: Francesco Cesarini
-  twitter: 
-  github: 
-  elixirforum: 
+  twitter: FrancescoC
+  github: francescoc
+  elixirforum: francescoc
 - id: frank_hunleth
   full_name: Frank Hunleth
-  twitter: 
-  github: 
+  twitter: fhunleth
+  github: fhunleth
   elixirforum: fhunleth
 - id: frank_kumro
   full_name: Frank Kumro
@@ -601,8 +596,8 @@
   elixirforum: 
 - id: guillermo_iguaran
   full_name: Guillermo Iguaran
-  twitter: 
-  github: 
+  twitter: guilleiguaran
+  github: guilleiguaran
   elixirforum: 
 - id: guy_a_narboni
   full_name: Guy A Narboni
@@ -651,14 +646,14 @@
   elixirforum:
 - id: james_edward_gray_ii
   full_name: James Edward Gray II
-  twitter: 
-  github: 
-  elixirforum: 
+  twitter: JEG2
+  github: JEG2
+  elixirforum: JEG2
 - id: james_fish
   full_name: James Fish
-  twitter: 
-  github: 
-  elixirforum: 
+  twitter: fishcodes
+  github: fishcakez
+  elixirforum: fishcakez
 - id: james_lavin
   full_name: James Lavin
   twitter: 
@@ -781,13 +776,13 @@
   elixirforum: 
 - id: jessica_kerr
   full_name: Jessica Kerr
-  twitter: 
-  github: 
+  twitter: jessitron
+  github: jessitron
   elixirforum: 
 - id: joe_armstrong
   full_name: Joe Armstrong
-  twitter: 
-  github: 
+  twitter: joeerl
+  github: joearms
   elixirforum: 
 - id: joel_byler
   full_name: Joel Byler
@@ -1601,6 +1596,6 @@
   elixirforum:
 - id: zandra_norman
   full_name: Zandra Norman
-  twitter: 
-  github: 
+  twitter:
+  github:
   elixirforum: 
