@@ -4,114 +4,160 @@
   speakers:
   - albert_zak
   conference: elixirconf_eu_2018
+  video_view_count: 1992
+  video_duration_seconds: 2544
 - video_id: eldYot7uxUc
   talk_title: SOLID Elixir
   speakers:
   - georgina_mc_fadyen
   conference: elixirconf_eu_2018
+  video_view_count: 3387
+  video_duration_seconds: 2759
 - video_id: "-FiQhkV7JYk"
   talk_title: Going low level with TCP sockets and :gen_tcp
   speakers:
   - orestis_markou
   conference: elixirconf_eu_2018
+  video_view_count: 1009
+  video_duration_seconds: 2391
 - video_id: qR5u6HiBn50
   talk_title: Phoenix and the World of Tomorrow
   speakers:
   - ley_missailidis
   conference: elixirconf_eu_2018
+  video_view_count: 1897
+  video_duration_seconds: 2087
 - video_id: fnfcYKq373w
   talk_title: Coupling Data and Behaviour
   speakers:
   - guilherme_de_maio
   conference: elixirconf_eu_2018
+  video_view_count: 669
+  video_duration_seconds: 1994
 - video_id: jmkq4SwV2Ss
   talk_title: He Has the Nerve
   speakers:
   - justin_schneck
   conference: elixirconf_eu_2018
+  video_view_count: 652
+  video_duration_seconds: 2620
 - video_id: tytHbbjeHMM
   talk_title: Building a Task Queue System
   speakers:
   - evadne_wu
   keynote: true
   conference: elixirconf_eu_2018
+  video_view_count: 984
+  video_duration_seconds: 3688
 - video_id: p84DMv8TQuo
   talk_title: Property-based Testing is a Mindset
   speakers:
   - andrea_leopardi
   conference: elixirconf_eu_2018
+  video_view_count: 1380
+  video_duration_seconds: 2699
 - video_id: dcLryii0kgQ
   talk_title: The Phoenix Boot Process
   speakers:
   - xavier_noria
   conference: elixirconf_eu_2018
+  video_view_count: 651
+  video_duration_seconds: 2956
 - video_id: O2gQc4Kh4-Y
   talk_title: Fleet management solution for autonomous vehicles
   speakers:
   - serge_boucher
   conference: elixirconf_eu_2018
+  video_view_count: 665
+  video_duration_seconds: 2818
 - video_id: 3XL-31nqcX4
   talk_title: Robust Data Processing Pipeline with Elixir and Flow
   speakers:
   - laszlo_bacsi
   conference: elixirconf_eu_2018
+  video_view_count: 919
+  video_duration_seconds: 2473
 - video_id: x2ckfhqB9nA
   talk_title: 'Introducing HDD: Hughes Driven Development'
   speakers:
   - jose_valim
   keynote: true
   conference: elixirconf_eu_2018
+  video_view_count: 1800
+  video_duration_seconds: 3429
 - video_id: QjWl4kjdIgQ
   talk_title: Building communication platforms for IoT
   speakers:
   - troels_brodsgaard
   conference: elixirconf_eu_2018
+  video_view_count: 503
+  video_duration_seconds: 2321
 - video_id: P9z9UIidVxE
   talk_title: Rewriting a legacy application in Elixir
   speakers:
   - raphael_costa
   conference: elixirconf_eu_2018
+  video_view_count: 1965
+  video_duration_seconds: 2635
 - video_id: ALL7n7FaOf4
   talk_title: 'Instrumenting mayhem: functional chaos engineering'
   speakers:
   - szymon_mentel
   conference: elixirconf_eu_2018
+  video_view_count: 364
+  video_duration_seconds: 2031
 - video_id: _4ENJB3qkLo
   talk_title: Orchestrating Consumers and Producers Like an Octopus
   speakers:
   - jusabe_guedes
   conference: elixirconf_eu_2018
+  video_view_count: 512
+  video_duration_seconds: 1624
 - video_id: "-n5IlXBOaBE"
   talk_title: Building videochat with Elixir and Phoenix
   speakers:
   - anil_wadghule
   conference: elixirconf_eu_2018
+  video_view_count: 1715
+  video_duration_seconds: 2552
 - video_id: 8qDXG7tnl9w
   talk_title: Event-driven architectures in Elixir
   speakers:
   - maciej_kaszubowski
   conference: elixirconf_eu_2018
+  video_view_count: 2145
+  video_duration_seconds: 2167
 - video_id: 66sNfqOrSJw
   talk_title: SSH server/client in Erlang
   speakers:
   - milad_rastian
   conference: elixirconf_eu_2018
+  video_view_count: 784
+  video_duration_seconds: 2535
 - video_id: VmRr67yW6kU
   talk_title: State and distributed data structures
   speakers:
   - arkadiusz_gil
   conference: elixirconf_eu_2018
+  video_view_count: 697
+  video_duration_seconds: 2191
 - video_id: Y545Tp6iM28
   talk_title: Knee Deep Into P2P
   speakers:
   - fernando_mendes
   conference: elixirconf_eu_2018
+  video_view_count: 773
+  video_duration_seconds: 2349
 - video_id: ncv-D8GbNBg
   talk_title: ElixirConf EU 2018 Highlights Video
   speakers: []
   conference: elixirconf_eu_2018
+  video_view_count: 716
+  video_duration_seconds: 212
 - video_id: MTT1Jl4Fs-E
   talk_title: Let's do Elixir and Phoenix together
   speakers:
   - chris_mc_cord
   conference: elixirconf_eu_2018
+  video_view_count: 6238
+  video_duration_seconds: 2715

@@ -1,0 +1,51 @@
+#!/usr/local/bin/ruby
+
+# Usage:
+#
+#   env YOUTUBE_API_KEY=ABCDE12345 bin/update_duration
+
+require 'open-uri'
+require 'yaml'
+require 'json'
+
+ISO8601_PERIOD_REGEX = /PT(?:(?<hours>\d+)H)?(?:(?<minutes>\d+)M)?(?:(?<seconds>\d+)S)?/
+
+def extract_seconds(string)
+  time = string.match(ISO8601_PERIOD_REGEX).named_captures
+  time['minutes'].to_i * 60 + time['seconds'].to_i
+  time['hours'].to_i * 60 * 60 + time['minutes'].to_i * 60 + time['seconds'].to_i
+end
+
+Dir["_data/*"].reduce([]) do |video_ids, input_path|
+  next if input_path == "_data/conferences.yaml"
+  next if input_path == "_data/speakers.yaml"
+
+  puts input_path
+
+  video_entities = YAML.load(File.read(input_path)) 
+  video_ids = video_entities
+    .select { |e| e['video_platform'] != 'vimeo' }
+    .map { |e| e['video_id'] }
+
+  uri = URI::HTTPS.build(
+    host: 'www.googleapis.com',
+    path: '/youtube/v3/videos/',
+    query: URI.encode_www_form({
+      id: video_ids.join(","),
+      part: "snippet,contentDetails,statistics",
+      maxResults: 50,
+      key: ENV['YOUTUBE_API_KEY']
+    })
+  )
+
+  new_entities =
+    JSON.parse(uri.read)['items'].map do |item|
+      entity = video_entities.find { |e| e['video_id'] == item['id'] }
+      entity['video_view_count'] = item['statistics']['viewCount'].to_i
+      entity['video_duration_seconds'] = extract_seconds(item['contentDetails']['duration'])
+
+      entity
+    end
+
+  File.open(input_path, "w+") { |f| f.puts(new_entities.to_yaml) }
+end

@@ -5,27 +5,37 @@
   - emma_cunningham
   keynote: true
   conference: empex_la_2018
+  video_view_count: 985
+  video_duration_seconds: 2364
 - video_id: Bnqvz5W87Yo
   talk_title: Life is but a Stream
   speakers:
   - geoffrey_lessel
   conference: empex_la_2018
+  video_view_count: 385
+  video_duration_seconds: 1298
 - video_id: oJghZB9sSuU
   talk_title: Building Beautiful Systems with Phoenix Contexts and Domain-Driven Design
   speakers:
   - andrew_hao
   conference: empex_la_2018
+  video_view_count: 1086
+  video_duration_seconds: 2180
 - video_id: 47hDK6VNcLo
   talk_title: Become a Hex Power User
   speakers:
   - todd_resudek
   conference: empex_la_2018
+  video_view_count: 250
+  video_duration_seconds: 1469
 - video_id: 2TZOtdX1IAI
   talk_title: Elixir Adoption
   speakers:
   - shanti_chellaram
   - brandon_richey
   conference: empex_la_2018
+  video_view_count: 235
+  video_duration_seconds: 1126
 - video_id: PyZ_LD440vM
   talk_title: Deployment
   speakers:
@@ -33,29 +43,41 @@
   - benjamin_brodie
   - scott_taylor
   conference: empex_la_2018
+  video_view_count: 294
+  video_duration_seconds: 1971
 - video_id: BP-f3Kcqb1A
   talk_title: Ecto.Schema without Ecto.Repo
   speakers:
   - rosemary_ledesma
   conference: empex_la_2018
+  video_view_count: 377
+  video_duration_seconds: 926
 - video_id: Aa--NDjL9SI
   talk_title: Shipping a Replacement Architecture in Elixir
   speakers:
   - chris_bell
   conference: empex_la_2018
+  video_view_count: 1334
+  video_duration_seconds: 2801
 - video_id: NKJFL9LpP4M
   talk_title: A Swarm of Processes - Simulating Ant Foraging Behavior with OTP
   speakers:
   - will_ockelmann_wagner
   conference: empex_la_2018
+  video_view_count: 490
+  video_duration_seconds: 1377
 - video_id: iLooRCq9hs0
   talk_title: Inclusion Starts with Docs
   speakers:
   - pete_gamache
   conference: empex_la_2018
+  video_view_count: 171
+  video_duration_seconds: 2077
 - video_id: i13pumwmq4E
   talk_title: Closing Keynote
   speakers:
   - sarah_gray
   keynote: true
   conference: empex_la_2018
+  video_view_count: 278
+  video_duration_seconds: 2695

@@ -4,70 +4,98 @@
   speakers:
   - ju_liu
   conference: elixir_ldn_2016
+  video_view_count: 2586
+  video_duration_seconds: 1998
 - video_id: M78r_PDlw2c
   talk_title: GenStage in the Kitchen
   speakers:
   - claudio_ortolina
   conference: elixir_ldn_2016
+  video_view_count: 2557
+  video_duration_seconds: 2385
 - video_id: XhNacMst_1o
   talk_title: 'Controller Control: Designing Domains for Web Applications'
   speakers:
   - gary_rennie
   conference: elixir_ldn_2016
+  video_view_count: 2252
+  video_duration_seconds: 2418
 - video_id: 84UI5mRXU7g
-  talk_title: "Pilgrim's Progress to the Promised Land"
+  talk_title: Pilgrim's Progress to the Promised Land
   speakers:
   - robert_virding
   keynote: true
   conference: elixir_ldn_2016
+  video_view_count: 942
+  video_duration_seconds: 3145
 - video_id: IONWi9hayEA
   talk_title: Build Your Own Elixir
   speakers:
   - louis_pilfold
   conference: elixir_ldn_2016
+  video_view_count: 890
+  video_duration_seconds: 2738
 - video_id: VoKrPx71ERk
   talk_title: 'Building a search engine: my introduction to functional programming'
   speakers:
   - sophie_rimington_pounder
   conference: elixir_ldn_2016
+  video_view_count: 722
+  video_duration_seconds: 318
 - video_id: mwA5IRRmnxg
   talk_title: Moving to Elixir from Ruby
   speakers:
   - marni_cohen
   - gabriella_chronis
   conference: elixir_ldn_2016
+  video_view_count: 674
+  video_duration_seconds: 2329
 - video_id: 80AXtvXFIA4
   talk_title: Introducing Raxx, an Elixir Webserver Interface
   speakers:
   - peter_saxton
   conference: elixir_ldn_2016
+  video_view_count: 670
+  video_duration_seconds: 338
 - video_id: DQ2_zbOulYk
   talk_title: Elixir & DNSimple
   speakers:
   - anthony_eden
   conference: elixir_ldn_2016
+  video_view_count: 581
+  video_duration_seconds: 297
 - video_id: ZKYL4M9aJQA
   talk_title: Where the Wild Things Are
   speakers:
   - johnny_winn
   conference: elixir_ldn_2016
+  video_view_count: 583
+  video_duration_seconds: 2485
 - video_id: Kmf4d1c0-pg
   talk_title: Thumbnail Generation in Elixir/Erlang with libVIPS
   speakers:
   - evadne_wu
   conference: elixir_ldn_2016
+  video_view_count: 560
+  video_duration_seconds: 377
 - video_id: mK_D_LMXzVQ
   talk_title: Intro to Webpack and Code-splitting for Phoenix
   speakers:
   - svilen_gospodinov
   conference: elixir_ldn_2016
+  video_view_count: 548
+  video_duration_seconds: 391
 - video_id: E_9qIC4apMY
   talk_title: '"Learn to Touch Type" Glove'
   speakers:
   - tetiana_dushenkivska
   conference: elixir_ldn_2016
+  video_view_count: 484
+  video_duration_seconds: 2385
 - video_id: JK0eY3F0YyI
   talk_title: Heisenbug
   speakers:
   - simon_woolf
   conference: elixir_ldn_2016
+  video_view_count: 423
+  video_duration_seconds: 318

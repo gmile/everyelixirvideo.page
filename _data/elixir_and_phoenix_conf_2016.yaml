@@ -4,170 +4,238 @@
   speakers:
   - eric_entin
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 3636
+  video_duration_seconds: 2075
 - video_id: 7vBc0Q-nwUI
   talk_title: Phoenix Beyond the Browser - Realtime Applications with Phoenix and
     Swift
   speakers:
   - david_stump
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 3764
+  video_duration_seconds: 2584
 - video_id: RmKA-vdi04I
   talk_title: Implementing Binary Protocols with Elixir
   speakers:
   - ole_michaelis
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 1364
+  video_duration_seconds: 2463
 - video_id: jXVQ8nvuNas
   talk_title: Code Spelunking for Knowledge and Profit
   speakers:
   - brian_cardarella
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 1210
+  video_duration_seconds: 1681
 - video_id: fkDhU-2NWJ8
   talk_title: Selling Food With Elixir
   speakers:
   - chris_bell
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 6997
+  video_duration_seconds: 2714
 - video_id: g77VhXrxUJY
   talk_title: 'Edgelixir: Distributed Graph Processing in Elixir'
   speakers:
   - nathan_lapierre
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 901
+  video_duration_seconds: 2093
 - video_id: j_7kqFgIK-M
   talk_title: Building "learn to touch type" glove with Elixir and Arduino
   speakers:
   - tetiana_dushenkivska
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 914
+  video_duration_seconds: 1980
 - video_id: 3KhzyDDju0Q
   talk_title: Measuring your Elixir Application
   speakers:
   - renan_ranelli
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 1962
+  video_duration_seconds: 2518
 - video_id: pj6zAgvVt5w
   talk_title: Debugging Techniques in Elixir
   speakers:
   - erich_kist
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 2247
+  video_duration_seconds: 1881
 - video_id: UPD8yvl3MUI
   talk_title: Collaborative Music with Elm and Phoenix
   speakers:
   - josh_adams
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 1665
+  video_duration_seconds: 2630
 - video_id: r4ulu8wo_GI
   talk_title: From Front End to Full Stack with Elixir and Phoenix
   speakers:
   - lauren_tan
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 9419
+  video_duration_seconds: 2061
 - video_id: 3gky54_qLjQ
   talk_title: The new Calendar Types in Elixir 1.3
   speakers:
   - lau_taarnskov
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 902
+  video_duration_seconds: 2119
 - video_id: SVy7gRU_-P8
   talk_title: The Joy of Connecting Elixir to the Physical World
   speakers:
   - frank_hunleth
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 3159
+  video_duration_seconds: 2765
 - video_id: h_NvYwveeMc
   talk_title: Closing Keynote
   speakers:
   - boyd_multerer
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 2852
+  video_duration_seconds: 2565
 - video_id: srtMWzyqdp8
   talk_title: Keynote
   speakers:
   - jose_valim
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 9601
+  video_duration_seconds: 3964
 - video_id: zZxBL-lV9uA
   talk_title: String Theory
   speakers:
   - nathan_long
   - james_edward_gray_ii
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 1810
+  video_duration_seconds: 2224
 - video_id: V21DAKtY31Q
   talk_title: Refactoring Techniques for Elixir, Ecto, and Phoenix
   speakers:
   - gary_rennie
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 3284
+  video_duration_seconds: 2271
 - video_id: QE7bpqpDoKo
   talk_title: Leveling Up With Ecto
   speakers:
   - darin_wilson
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 4629
+  video_duration_seconds: 2210
 - video_id: cznxe3TCevk
   talk_title: Nerves + Phoenix Saves a Father's Sanity!
   speakers:
   - joel_byler
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 1523
+  video_duration_seconds: 2271
 - video_id: 7Zr9SfQhQp8
   talk_title: Painless Test Driven Development with Elixir and Phoenix
   speakers:
   - kat_tornwall
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 4819
+  video_duration_seconds: 2314
 - video_id: p8MGNw045AE
   talk_title: Elixir in Elixir
   speakers:
   - jay_hayes
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 1227
+  video_duration_seconds: 2773
 - video_id: 6NTmUQClHrU
   talk_title: Building Umbrella Project
   speakers:
   - wojtek_mach
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 5970
+  video_duration_seconds: 2249
 - video_id: A3z_od6Vy1w
   talk_title: Building Available and Partition Tolerant Systems with Phoenix Tracker
   speakers:
   - gabi_zuniga
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 793
+  video_duration_seconds: 2704
 - video_id: TjOXbDJ-yw8
   talk_title: Concurrent Feature Testing with Wallaby
   speakers:
   - chris_keathley
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 636
+  video_duration_seconds: 2292
 - video_id: JT0ECYZ9FaQ
   talk_title: 'Dialyzer: Optimistic Type Checking for Erlang and Elixir'
   speakers:
   - jason_voegele
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 2872
+  video_duration_seconds: 2938
 - video_id: yI5J2P9kcBQ
   talk_title: WebRTC and Phoenix, when μ Seconds aren't Fast Enough
   speakers:
   - jason_stiebs
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 3094
+  video_duration_seconds: 2224
 - video_id: qPiZTxUAaVM
   talk_title: Keynote
   speakers:
   - chris_mc_cord
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 6329
+  video_duration_seconds: 3501
 - video_id: 0fuUtQFinZk
   talk_title: The future of Deployment in Elixir
   speakers:
   - paul_schoenfelder
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 1527
+  video_duration_seconds: 2628
 - video_id: tlxjhTc_u4o
   talk_title: No REST for the Wicked. Building a GraphQL
   speakers:
   - ben_wilson
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 3062
+  video_duration_seconds: 2282
 - video_id: eKbLOlyt11k
   talk_title: 'Abstractions: A Tale of Keys and Values'
   speakers:
   - ernie_miller
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 587
+  video_duration_seconds: 2781
 - video_id: VhAIDmtKhO4
   talk_title: 'Nerves: Connected Beyond the Node'
   speakers:
   - justin_schneck
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 817
+  video_duration_seconds: 2622
 - video_id: MmJaGGT28Js
   talk_title: Migrating an Invoicing System to Elixir/Erlang
   speakers:
   - norberto_ortigoza
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 951
+  video_duration_seconds: 2722
 - video_id: _VpZ6gQsyDY
   talk_title: Giving up the Object-Oriented Ghost
   speakers:
   - morgan_lanco
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 3660
+  video_duration_seconds: 2328
 - video_id: zuzDQKWrr6Q
   talk_title: Lightning Talks
   speakers:
   - multiple_authors
   conference: elixir_and_phoenix_conf_2016
+  video_view_count: 719
+  video_duration_seconds: 3546

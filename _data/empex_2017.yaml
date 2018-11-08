@@ -5,44 +5,62 @@
   - jessica_kerr
   keynote: true
   conference: empex_2017
+  video_view_count: 602
+  video_duration_seconds: 2230
 - video_id: BGKvVYyenrs
   talk_title: Channels as Controllers (An Exercise in Refactoring)
   speakers:
   - travis_vander_hoop
   conference: empex_2017
+  video_view_count: 159
+  video_duration_seconds: 2325
 - video_id: nIRGF61_Go8
   talk_title: Monitoring Production Elixir Applications
   speakers:
   - john_kelly
   conference: empex_2017
+  video_view_count: 266
+  video_duration_seconds: 2151
 - video_id: NNcdtaDuA-I
   talk_title: Everything Beautiful is in Plug
   speakers:
   - omid_bachari
   conference: empex_2017
+  video_view_count: 208
+  video_duration_seconds: 730
 - video_id: pO4_Wlq8JeI
   talk_title: Solid Ground
   speakers:
   - sasa_juric
   conference: empex_2017
+  video_view_count: 4419
+  video_duration_seconds: 2115
 - video_id: v2IPcnTsWg0
   talk_title: Functional Data Structures
   speakers:
   - juan_soto
   conference: empex_2017
+  video_view_count: 157
+  video_duration_seconds: 1145
 - video_id: DNHi4GJhZiE
   talk_title: When Does Concurrency Pay Off?
   speakers:
   - william_carroll
   conference: empex_2017
+  video_view_count: 128
+  video_duration_seconds: 1100
 - video_id: FO2pHfRYOIo
   talk_title: Seussical Halting, Indeterminate Faulting
   speakers:
   - bobby_grayson
   conference: empex_2017
+  video_view_count: 70
+  video_duration_seconds: 876
 - video_id: cYu4ZmKiYeY
   talk_title: How to Bake π (Closing Keynote)
   speakers:
   - eugenia_cheng
   keynote: true
   conference: empex_2017
+  video_view_count: 425
+  video_duration_seconds: 2227
