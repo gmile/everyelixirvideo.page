@@ -376,9 +376,9 @@
   elixirforum: 
 - id: dave_thomas
   full_name: Dave Thomas
-  twitter: 
-  github: 
-  elixirforum: 
+  twitter: pragdave
+  github: pragdave
+  elixirforum: pragdave
 - id: david_brinnen
   full_name: David Brinnen
   twitter: 
@@ -901,8 +901,8 @@
   elixirforum: 
 - id: keith_salisbury
   full_name: Keith Salisbury
-  twitter: 
-  github: 
+  twitter: ktec
+  github: ktec
   elixirforum: 
 - id: kenji_rikitake
   full_name: Kenji Rikitake
@@ -1356,9 +1356,9 @@
   elixirforum: 
 - id: sasa_juric
   full_name: Saša Jurić
-  twitter: 
-  github: 
-  elixirforum: 
+  twitter: sasajuric
+  github: sasa1977
+  elixirforum: sasajuric
 - id: scott_lystig_fritchie
   full_name: Scott Lystig Fritchie
   twitter: 
@@ -1471,9 +1471,9 @@
   elixirforum: 
 - id: tetiana_dushenkivska
   full_name: Tetiana Dushenkivska
-  twitter: 
-  github: 
-  elixirforum: 
+  twitter: tetiana12345678
+  github: tetiana12345678
+  elixirforum: tetiana
 - id: thomas_arts
   full_name: Thomas Arts
   twitter: 
@@ -1484,16 +1484,11 @@
   twitter: 
   github: 
   elixirforum: 
-- id: tim_mechlem
-  full_name: Tim Mechlem
-  twitter:
-  github:
-  elixirforum:
 - id: tim_mecklem
   full_name: Tim Mecklem
-  twitter: 
-  github: 
-  elixirforum: 
+  twitter: tim_mecklem
+  github: tmecklem
+  elixirforum: tmecklem
 - id: timmo_verlaan
   full_name: Timmo Verlaan
   twitter: 
