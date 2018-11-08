@@ -8,6 +8,7 @@ require 'open-uri'
 require 'yaml'
 require 'json'
 
+# https://github.com/arnau/ISO8601/blob/master/lib/iso8601/duration.rb#L233-L235
 ISO8601_PERIOD_REGEX = /PT(?:(?<hours>\d+)H)?(?:(?<minutes>\d+)M)?(?:(?<seconds>\d+)S)?/
 
 def extract_seconds(string)
