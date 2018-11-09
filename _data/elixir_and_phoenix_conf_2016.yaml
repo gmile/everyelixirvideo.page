@@ -239,3 +239,4 @@
   conference: elixir_and_phoenix_conf_2016
   video_view_count: 719
   video_duration_seconds: 3546
+  processed: false
