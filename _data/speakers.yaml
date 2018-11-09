@@ -226,9 +226,9 @@
   elixirforum: 
 - id: brian_cardarella
   full_name: Brian Cardarella
-  twitter: 
-  github: 
-  elixirforum: 
+  twitter: bcardarella
+  github: bcardarella
+  elixirforum: bcardarella
 - id: brian_mitchell
   full_name: Brian Mitchell
   twitter: 
@@ -241,13 +241,13 @@
   elixirforum:
 - id: brooklyn_zelenka
   full_name: Brooklyn Zelenka
-  twitter: 
-  github: 
+  twitter: expede
+  github: expede
   elixirforum: 
 - id: bruce_tate
   full_name: Bruce Tate
-  twitter: 
-  github: 
+  twitter: redrapids
+  github: batate
   elixirforum: 
 - id: bruce_williams
   full_name: Bruce Williams
@@ -561,8 +561,8 @@
   elixirforum: 
 - id: georgina_mc_fadyen
   full_name: Georgina McFadyen
-  twitter: 
-  github: 
+  twitter: gemcfadyen
+  github: gemcfadyen
   elixirforum: 
 - id: german_velasco
   full_name: German Velasco
@@ -577,8 +577,8 @@
 - id: greg_vaughn
   full_name: Greg Vaughn
   twitter:
-  github:
-  elixirforum:
+  github: gvaughn
+  elixirforum: gregvaughn
 - id: griffin_byatt
   full_name: Griffin Byatt
   twitter: 
