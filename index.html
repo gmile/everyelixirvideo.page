@@ -58,7 +58,7 @@ layout: home
             {% if speaker.twitter %}
               <a href="https://twitter.com/{{ speaker.twitter }}" title="{{ speaker.full_name }}">{{ speaker.full_name }}</a>{% unless forloop.last %},{% endunless %}
             {% else %}
-              <span>{{ speaker.full_name }}</span>{% unless forloop.last %},{% endunless %}
+              <span>{{ speaker.full_name }}</span>{% unless forloop.last %} •{% endunless %}
             {% endif %}
           {% endfor %}
         </div>
