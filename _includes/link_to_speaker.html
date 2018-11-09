@@ -1,0 +1,9 @@
+<nobr>
+{% if include.speaker.twitter %}
+  <a href="https://twitter.com/{{ include.speaker.twitter }}" title="{{ include.speaker.full_name }}">{{ include.speaker.full_name }}</a>
+{% elsif include.speaker.elixirforum %}
+  <a href="https://elixirforum.com/u/{{ include.speaker.elixirforum }}" title="{{ include.speaker.elixirforum }}">{{ include.speaker.full_name }}</a>
+{% else %}
+  <span>{{ include.speaker.full_name }}</span>
+{% endif %}
+</nobr>
