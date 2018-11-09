@@ -55,11 +55,15 @@ layout: home
           {% for speaker_id in talk.speakers %}
             {% assign speaker = site.data.speakers | where: "id", speaker_id | first %}
 
+            <nobr>
             {% if speaker.twitter %}
-              <a href="https://twitter.com/{{ speaker.twitter }}" title="{{ speaker.full_name }}">{{ speaker.full_name }}</a>{% unless forloop.last %},{% endunless %}
+              <a href="https://twitter.com/{{ speaker.twitter }}" title="{{ speaker.full_name }}">{{ speaker.full_name }}</a>
             {% else %}
-              <span>{{ speaker.full_name }}</span>{% unless forloop.last %} •{% endunless %}
+              <span>{{ speaker.full_name }}</span>
             {% endif %}
+            </nobr>
+
+            {% unless forloop.last %} •{% endunless %}
           {% endfor %}
         </div>
       </li>
