@@ -7,13 +7,6 @@
   conference: elixirconf_usa_2018
   video_view_count: 2838
   video_duration_seconds: 2419
-- video_id: uU7T-b1k2Ws
-  talk_title: 'Architecting Flow in Elixir From Leveraging.. '
-  speakers:
-  - rene_fohring
-  conference: elixirconf_usa_2018
-  video_view_count: 794
-  video_duration_seconds: 2525
 - video_id: 1IOobarmwQg
   talk_title: Elixir at a Walking Pace
   speakers:
