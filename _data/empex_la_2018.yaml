@@ -19,7 +19,7 @@
   speakers:
   - andrew_hao
   conference: empex_la_2018
-  video_view_count: 1086
+  video_view_count: 1092
   video_duration_seconds: 2180
 - video_id: 47hDK6VNcLo
   talk_title: Become a Hex Power User
@@ -50,14 +50,14 @@
   speakers:
   - rosemary_ledesma
   conference: empex_la_2018
-  video_view_count: 377
+  video_view_count: 381
   video_duration_seconds: 926
 - video_id: Aa--NDjL9SI
   talk_title: Shipping a Replacement Architecture in Elixir
   speakers:
   - chris_bell
   conference: empex_la_2018
-  video_view_count: 1334
+  video_view_count: 1337
   video_duration_seconds: 2801
 - video_id: NKJFL9LpP4M
   talk_title: A Swarm of Processes - Simulating Ant Foraging Behavior with OTP

@@ -67,7 +67,7 @@
   speakers:
   - roope_kangas
   conference: elixirconf_eu_2016
-  video_view_count: 2061
+  video_view_count: 2064
   video_duration_seconds: 2279
 - video_id: "-MzJ-HxRcVI"
   talk_title: How to Build a Slack-Controlled, Saxophone-Playing Robot
@@ -88,7 +88,7 @@
   speakers:
   - gary_rennie
   conference: elixirconf_eu_2016
-  video_view_count: 2810
+  video_view_count: 2814
   video_duration_seconds: 2402
 - video_id: r0DuAse9tK8
   talk_title: Securing Elixir Applications
@@ -102,7 +102,7 @@
   speakers:
   - ben_tyler
   conference: elixirconf_eu_2016
-  video_view_count: 3098
+  video_view_count: 3100
   video_duration_seconds: 2298
 - video_id: lDKCSheBc-8
   talk_title: Phoenix Is Not Your Application

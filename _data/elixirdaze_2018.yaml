@@ -4,14 +4,14 @@
   speakers:
   - rob_conery
   conference: elixirdaze_2018
-  video_view_count: 2421
+  video_view_count: 2426
   video_duration_seconds: 1899
 - video_id: KmUtemvokSk
   talk_title: 'Why Elixir Matters: A Genealogy of Functional Programming'
   speakers:
   - osa_gaius
   conference: elixirdaze_2018
-  video_view_count: 1304
+  video_view_count: 1309
   video_duration_seconds: 2314
 - video_id: _h6A2MMFXgg
   talk_title: Making Noise
@@ -25,7 +25,7 @@
   speakers:
   - chris_keathley
   conference: elixirdaze_2018
-  video_view_count: 4567
+  video_view_count: 4588
   video_duration_seconds: 2457
 - video_id: 1AskDD9rPwQ
   talk_title: Crypto + Concurrency
@@ -60,14 +60,14 @@
   speakers:
   - amos_king
   conference: elixirdaze_2018
-  video_view_count: 511
+  video_view_count: 513
   video_duration_seconds: 2952
 - video_id: _PLCqBm8vQU
   talk_title: The Hitchhiker’s Guide to the Unexpected
   speakers:
   - fred_hebert
   conference: elixirdaze_2018
-  video_view_count: 1373
+  video_view_count: 1379
   video_duration_seconds: 2729
 - video_id: HbPwoFX2XJg
   talk_title: 'Taking Elixir to the Metal '
@@ -88,14 +88,14 @@
   speakers:
   - peter_saxton
   conference: elixirdaze_2018
-  video_view_count: 1055
+  video_view_count: 1060
   video_duration_seconds: 2029
 - video_id: l3VgbSgo71E
   talk_title: Building Beautiful Systems with Phoenix contexts and Domain-Driven Design
   speakers:
   - andrew_hao
   conference: elixirdaze_2018
-  video_view_count: 5916
+  video_view_count: 5941
   video_duration_seconds: 2327
 - video_id: 6kMw_IsLPvk
   talk_title: 'Become a Test Whisperer: what are your tests are telling you?'

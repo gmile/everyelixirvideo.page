@@ -19,21 +19,21 @@
   - jose_valim
   keynote: true
   conference: elixirconf_eu_2017
-  video_view_count: 10293
+  video_view_count: 10297
   video_duration_seconds: 3407
 - video_id: TZPG8b-Novw
   talk_title: Elixir and Money
   speakers:
   - tomasz_kowal
   conference: elixirconf_eu_2017
-  video_view_count: 3514
+  video_view_count: 3518
   video_duration_seconds: 2458
 - video_id: tbo7IV8akvs
   talk_title: The Best Library I Ever Designed
   speakers:
   - andrea_leopardi
   conference: elixirconf_eu_2017
-  video_view_count: 1179
+  video_view_count: 1181
   video_duration_seconds: 1835
 - video_id: W1EzF4FdUxM
   talk_title: Keeping Code Consistent
@@ -70,7 +70,7 @@
   speakers:
   - tatsuya_ono
   conference: elixirconf_eu_2017
-  video_view_count: 920
+  video_view_count: 923
   video_duration_seconds: 2826
 - video_id: ngWo5e-294o
   talk_title: Building a Graphical IDE in Elm/Purescript
@@ -91,7 +91,7 @@
   speakers:
   - eric_weinstein
   conference: elixirconf_eu_2017
-  video_view_count: 5761
+  video_view_count: 5768
   video_duration_seconds: 2503
 - video_id: SDKiLO2XwIs
   talk_title: One and Only One Process in a Distributed System
@@ -119,14 +119,14 @@
   speakers:
   - devon_estes
   conference: elixirconf_eu_2017
-  video_view_count: 2704
+  video_view_count: 2708
   video_duration_seconds: 2138
 - video_id: UTXYiV7nOpM
   talk_title: Always Available
   speakers:
   - claudio_ortolina
   conference: elixirconf_eu_2017
-  video_view_count: 1167
+  video_view_count: 1172
   video_duration_seconds: 2641
 - video_id: TZnaqnxA4UY
   talk_title: Fly like an Eagle
@@ -149,7 +149,7 @@
   speakers:
   - kevin_rockwood
   conference: elixirconf_eu_2017
-  video_view_count: 4675
+  video_view_count: 4681
   video_duration_seconds: 1930
 - video_id: pfFpIjFOL-I
   talk_title: Phoenix - Gauging Progress

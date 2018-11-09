@@ -13,21 +13,21 @@
   - dave_thomas
   keynote: true
   conference: empex_nyc_2018
-  video_view_count: 4870
+  video_view_count: 4889
   video_duration_seconds: 2392
 - video_id: G8_SCecwUJ8
   talk_title: Higher Level Functions for the Win
   speakers:
   - bill_peregoy
   conference: empex_nyc_2018
-  video_view_count: 239
+  video_view_count: 247
   video_duration_seconds: 1077
 - video_id: FXjpHRMsERI
   talk_title: 'Pattern Matching: The Gateway to Loving Elixir'
   speakers:
   - kate_travers
   conference: empex_nyc_2018
-  video_view_count: 355
+  video_view_count: 360
   video_duration_seconds: 1160
 - video_id: vUOA5GgYg9I
   talk_title: Recurrences & Intervals
@@ -42,24 +42,25 @@
   speakers:
   - james_lavin
   conference: empex_nyc_2018
-  video_view_count: 225
+  video_view_count: 227
   video_duration_seconds: 1782
 - video_id: whtvOXZqOGM
   talk_title: Neuroevolution in Elixir
   speakers:
   - jeff_smith
   conference: empex_nyc_2018
-  video_view_count: 310
+  video_view_count: 313
   video_duration_seconds: 1137
 - video_id: XN4WuOujr38
   talk_title: '`mix new beats` -- Recreating The "Amen Break" with Elixir'
   speakers:
   - mat_trudel
   conference: empex_nyc_2018
-  video_view_count: 520
+  video_view_count: 525
   video_duration_seconds: 2240
 - video_id: iL50Ss6Y85k
-  talk_title: 'The Best of Both Worlds: High Performance Recommendations with Elixir NIFs'
+  talk_title: 'The Best of Both Worlds: High Performance Recommendations with Elixir
+    NIFs'
   speakers:
   - shanti_chellaram
   conference: empex_nyc_2018
@@ -73,9 +74,10 @@
   video_view_count: 294
   video_duration_seconds: 1719
 - video_id: 7L5xuTbXtbI
-  talk_title: 'Phoenix Presence: The Right Way To Track User Involvement in Real-Time Features'
+  talk_title: 'Phoenix Presence: The Right Way To Track User Involvement in Real-Time
+    Features'
   speakers:
   - sophie_de_benedetto
   conference: empex_nyc_2018
-  video_view_count: 399
+  video_view_count: 403
   video_duration_seconds: 1108

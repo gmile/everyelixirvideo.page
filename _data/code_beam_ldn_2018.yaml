@@ -7,7 +7,7 @@
   - tetiana_dushenkivska
   - andrea_leopardi
   conference: code_beam_ldn_2018
-  video_view_count: 483
+  video_view_count: 488
   video_duration_seconds: 340
 - video_id: IJJQvJRoXy8
   talk_title: 'A shot of Absinthe: from zero to GraphQL in 40 minutes'
@@ -21,7 +21,7 @@
   speakers:
   - powell_kinney
   conference: code_beam_ldn_2018
-  video_view_count: 135
+  video_view_count: 140
   video_duration_seconds: 2246
 - video_id: Z8_FcP4c7Mg
   talk_title: Invariants are everything
@@ -35,7 +35,7 @@
   speakers:
   - maciej_kaszubowski
   conference: code_beam_ldn_2018
-  video_view_count: 282
+  video_view_count: 287
   video_duration_seconds: 1958
 - video_id: nBtz9IJBO4g
   talk_title: 'Pattern matching: The gateway to loving Elixir'
@@ -65,7 +65,7 @@
   - jon_rowe
   lightning: true
   conference: code_beam_ldn_2018
-  video_view_count: 35
+  video_view_count: 37
   video_duration_seconds: 208
 - video_id: FjkE8HDWIBU
   talk_title: Elixir for curing product development pains?

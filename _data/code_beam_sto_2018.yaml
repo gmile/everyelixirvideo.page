@@ -4,14 +4,14 @@
   speakers:
   - anton_lavrik
   conference: code_beam_sto_2018
-  video_view_count: 541
+  video_view_count: 545
   video_duration_seconds: 2382
 - video_id: kHzmrWD7iEY
   talk_title: 'ForgETS: a globally distributed database'
   speakers:
   - mikhail_vorontsov
   conference: code_beam_sto_2018
-  video_view_count: 322
+  video_view_count: 328
   video_duration_seconds: 2241
 - video_id: TZzfZoTUc_0
   talk_title: A genealogy of Functional Programming
@@ -47,7 +47,7 @@
   speakers:
   - johan_bevemyr
   conference: code_beam_sto_2018
-  video_view_count: 374
+  video_view_count: 376
   video_duration_seconds: 1701
 - video_id: J-hO-mLY59k
   talk_title: A one minute talk summary
@@ -104,7 +104,7 @@
   speakers:
   - kofi_gumbs
   conference: code_beam_sto_2018
-  video_view_count: 174
+  video_view_count: 175
   video_duration_seconds: 1473
 - video_id: RBbtxf47emo
   talk_title: Expressive Power on the BEAM
@@ -181,7 +181,7 @@
   speakers:
   - ulf_wiger
   conference: code_beam_sto_2018
-  video_view_count: 66
+  video_view_count: 71
   video_duration_seconds: 2460
 - video_id: 2IXgecLsA9g
   talk_title: Developer tools using the language server protocol
@@ -195,28 +195,28 @@
   speakers:
   - jorgen_brandt
   conference: code_beam_sto_2018
-  video_view_count: 129
+  video_view_count: 132
   video_duration_seconds: 2017
 - video_id: rcALww6M9Jk
   talk_title: Using Barrel to build your own P2P data platform
   speakers:
   - benoit_chesneau
   conference: code_beam_sto_2018
-  video_view_count: 34
+  video_view_count: 35
   video_duration_seconds: 1224
 - video_id: 0CAE1N6Ik6A
   talk_title: 'Simple is beautiful: building an SLA monitoring tool at PagerDuty'
   speakers:
   - aish_dahal
   conference: code_beam_sto_2018
-  video_view_count: 53
+  video_view_count: 56
   video_duration_seconds: 1562
 - video_id: _u1NDuFsW2A
   talk_title: A gradual type system
   speakers:
   - josef_svenningsson
   conference: code_beam_sto_2018
-  video_view_count: 53
+  video_view_count: 54
   video_duration_seconds: 2373
 - video_id: F_YUyd_Qdjs
   talk_title: No(de) discovery without DNS & EPMD
@@ -244,7 +244,7 @@
   speakers:
   - martin_sumner
   conference: code_beam_sto_2018
-  video_view_count: 177
+  video_view_count: 178
   video_duration_seconds: 2244
 - video_id: bWrKUm8mr2A
   talk_title: 'Erliot: monitoring and control of smart connected devices'
@@ -287,28 +287,28 @@
   speakers:
   - sonny_scroggin
   conference: code_beam_sto_2018
-  video_view_count: 68
+  video_view_count: 69
   video_duration_seconds: 2336
 - video_id: VoDjN84jav0
   talk_title: Logger a new API for logging
   speakers:
   - kenneth_lundin
   conference: code_beam_sto_2018
-  video_view_count: 72
+  video_view_count: 73
   video_duration_seconds: 1784
 - video_id: Vwm70nbLT9M
   talk_title: Choosing which company to start
   speakers:
   - jane_walderud
   conference: code_beam_sto_2018
-  video_view_count: 97
+  video_view_count: 98
   video_duration_seconds: 2016
 - video_id: 4t_mcnF3w9A
   talk_title: 'Erlang: 20 years as open source'
   speakers:
   - ingela_anderton_andin
   conference: code_beam_sto_2018
-  video_view_count: 71
+  video_view_count: 72
   video_duration_seconds: 1726
 - video_id: oOYiXGYTq2E
   talk_title: 'Open Source: The Third Decade'
@@ -336,7 +336,7 @@
   speakers:
   - gianluca_padovani
   conference: code_beam_sto_2018
-  video_view_count: 190
+  video_view_count: 191
   video_duration_seconds: 2348
 - video_id: Kg9l595hRg4
   talk_title: 'Stateful webhooks: what are they good for?'

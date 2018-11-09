@@ -11,7 +11,7 @@
   speakers:
   - guillermo_iguaran
   conference: elixirdaze_2016
-  video_view_count: 1678
+  video_view_count: 1679
   video_duration_seconds: 1698
 - video_id: xoNRtWl4fZU
   talk_title: Processing 2.7 million images with Elixir (vs Ruby)
@@ -25,14 +25,14 @@
   speakers:
   - karmen_blake
   conference: elixirdaze_2016
-  video_view_count: 6928
+  video_view_count: 6932
   video_duration_seconds: 1947
 - video_id: N_PXas9LtzU
   talk_title: Adventures in Robotics with Elixir
   speakers:
   - jean_francois_cloutier
   conference: elixirdaze_2016
-  video_view_count: 1824
+  video_view_count: 1825
   video_duration_seconds: 2896
 - video_id: poWoCWDLxRU
   talk_title: Nerves - Getting Started, and the Road Ahead
@@ -46,7 +46,7 @@
   speakers:
   - brian_cardarella
   conference: elixirdaze_2016
-  video_view_count: 6200
+  video_view_count: 6202
   video_duration_seconds: 2268
 - video_id: E6RTBlO9TZQ
   talk_title: New Heights

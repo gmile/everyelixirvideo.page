@@ -26,7 +26,7 @@
   - aaron_patterson
   conference: lonestar_elixirconf_2018
   keynote: true
-  video_view_count: 1183
+  video_view_count: 1185
   video_duration_seconds: 2846
 - video_id: jcWcQ3uXsS4
   talk_title: Consistent Distributed Elixir
@@ -71,7 +71,7 @@
   speakers:
   - dennis_beatty
   conference: lonestar_elixirconf_2018
-  video_view_count: 470
+  video_view_count: 472
   video_duration_seconds: 1968
 - video_id: ufDuqrKd2fo
   talk_title: The Next Phase of Elixir Deployment Tools
@@ -106,7 +106,7 @@
   speakers:
   - jerel_unruh
   conference: lonestar_elixirconf_2018
-  video_view_count: 831
+  video_view_count: 839
   video_duration_seconds: 1994
 - video_id: y8373byme_Q
   talk_title: Keynote
@@ -122,12 +122,12 @@
   - chris_mc_cord
   conference: lonestar_elixirconf_2018
   keynote: true
-  video_view_count: 217
+  video_view_count: 220
   video_duration_seconds: 3387
 - video_id: FWPcslL-tNs
   talk_title: Elixir is for Startups
   speakers:
   - angle_jose
   conference: lonestar_elixirconf_2018
-  video_view_count: 637
+  video_view_count: 642
   video_duration_seconds: 2527

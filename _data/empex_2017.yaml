@@ -12,7 +12,7 @@
   speakers:
   - travis_vander_hoop
   conference: empex_2017
-  video_view_count: 159
+  video_view_count: 163
   video_duration_seconds: 2325
 - video_id: nIRGF61_Go8
   talk_title: Monitoring Production Elixir Applications
@@ -26,14 +26,14 @@
   speakers:
   - omid_bachari
   conference: empex_2017
-  video_view_count: 208
+  video_view_count: 210
   video_duration_seconds: 730
 - video_id: pO4_Wlq8JeI
   talk_title: Solid Ground
   speakers:
   - sasa_juric
   conference: empex_2017
-  video_view_count: 4419
+  video_view_count: 4432
   video_duration_seconds: 2115
 - video_id: v2IPcnTsWg0
   talk_title: Functional Data Structures

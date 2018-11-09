@@ -5,42 +5,42 @@
   - justin_schneck
   keynote: true
   conference: elixirconf_usa_2017
-  video_view_count: 7368
+  video_view_count: 7373
   video_duration_seconds: 4087
 - video_id: f979XY2A2HU
   talk_title: My Journey from Go to Elixir
   speakers:
   - veronica_lopez
   conference: elixirconf_usa_2017
-  video_view_count: 5608
+  video_view_count: 5622
   video_duration_seconds: 2177
 - video_id: 77FW-jrCyCs
   talk_title: Elixir Native UI
   speakers:
   - boyd_multerer
   conference: elixirconf_usa_2017
-  video_view_count: 5619
+  video_view_count: 5629
   video_duration_seconds: 2741
 - video_id: YQxopjai0CU
   talk_title: Thinking In Ecto
   speakers:
   - darin_wilson
   conference: elixirconf_usa_2017
-  video_view_count: 6682
+  video_view_count: 6704
   video_duration_seconds: 2125
 - video_id: Bo48sQDb-hk
   talk_title: 'Don''t Write Macros   But Do Learn How They Work '
   speakers:
   - jesse_j_anderson
   conference: elixirconf_usa_2017
-  video_view_count: 2451
+  video_view_count: 2454
   video_duration_seconds: 2049
 - video_id: ARQD4BN_5ns
   talk_title: Building an Artificial Pancreas with Elixir and Nerves
   speakers:
   - tim_mecklem
   conference: elixirconf_usa_2017
-  video_view_count: 2975
+  video_view_count: 2986
   video_duration_seconds: 2486
 - video_id: Mq_tb2fkROo
   talk_title: HTTP 2 Plug to Phoenix Cowboy too
@@ -54,21 +54,21 @@
   speakers:
   - renan_ranelli
   conference: elixirconf_usa_2017
-  video_view_count: 5649
+  video_view_count: 5676
   video_duration_seconds: 2424
 - video_id: _zQ_u7o1rNo
   talk_title: Embedded Elixir for Monitoring the Built Environment
   speakers:
   - christopher_cote
   conference: elixirconf_usa_2017
-  video_view_count: 1015
+  video_view_count: 1016
   video_duration_seconds: 2438
 - video_id: iswld-Rpi_g
   talk_title: Elixir by the Bellyful
   speakers:
   - bryan_hunter
   conference: elixirconf_usa_2017
-  video_view_count: 4372
+  video_view_count: 4378
   video_duration_seconds: 2591
 - video_id: S2-1Rt-R2cY
   talk_title: Its Better Unstated
@@ -103,7 +103,7 @@
   speakers:
   - rob_martin
   conference: elixirconf_usa_2017
-  video_view_count: 3490
+  video_view_count: 3493
   video_duration_seconds: 2261
 - video_id: bodV9Tk_kpQ
   talk_title: 'Cajoling the Bird: How we squeezed more out of Phoenix PubSub'
@@ -117,14 +117,14 @@
   speakers:
   - jeff_smith
   conference: elixirconf_usa_2017
-  video_view_count: 1709
+  video_view_count: 1715
   video_duration_seconds: 2322
 - video_id: eNe5dmRP9Cc
   talk_title: Streaming Video with Elixir
   speakers:
   - john_wahba
   conference: elixirconf_usa_2017
-  video_view_count: 1642
+  video_view_count: 1645
   video_duration_seconds: 1207
 - video_id: RwJAETlVrvs
   talk_title: Scaling up Elixir at TpT
@@ -139,7 +139,7 @@
   - jose_valim
   keynote: true
   conference: elixirconf_usa_2017
-  video_view_count: 4796
+  video_view_count: 4801
   video_duration_seconds: 3942
 - video_id: SB0bfI8DiOM
   talk_title: ElixirBridge How Do We Shape Community
@@ -154,7 +154,7 @@
   - bruce_williams
   - ben_wilson
   conference: elixirconf_usa_2017
-  video_view_count: 4299
+  video_view_count: 4310
   video_duration_seconds: 2469
 - video_id: lQmJZVcHYds
   talk_title: Dr. ErlangOTP or How I Learned to Stop Worrying and Love `disk log`
@@ -175,14 +175,14 @@
   speakers:
   - robert_beene
   conference: elixirconf_usa_2017
-  video_view_count: 1475
+  video_view_count: 1477
   video_duration_seconds: 1816
 - video_id: 1dyo5hmfUXs
   talk_title: Patience Using Phoenix Presence in a Primary Care Clinic
   speakers:
   - keith_gautreaux
   conference: elixirconf_usa_2017
-  video_view_count: 1822
+  video_view_count: 1826
   video_duration_seconds: 2150
 - video_id: 4LIXBW58yIk
   talk_title: The Power of Zero
@@ -196,7 +196,7 @@
   speakers:
   - alexis_huefner
   conference: elixirconf_usa_2017
-  video_view_count: 798
+  video_view_count: 799
   video_duration_seconds: 2110
 - video_id: FYQcn9zcZVA
   talk_title: Well Behaved Native Implemented Functions for Elixir
@@ -210,7 +210,7 @@
   speakers:
   - powell_kinney
   conference: elixirconf_usa_2017
-  video_view_count: 2120
+  video_view_count: 2122
   video_duration_seconds: 1865
 - video_id: GFyFR5LdnrU
   talk_title: Building an Open Source, Real Time Forum with Phoenix and Elm
@@ -238,7 +238,7 @@
   speakers:
   - mathew_gardner
   conference: elixirconf_usa_2017
-  video_view_count: 2297
+  video_view_count: 2310
   video_duration_seconds: 1468
 - video_id: ImcAcDBa8Dg
   talk_title: Implementing a MQTT client in Elixir
@@ -252,7 +252,7 @@
   speakers:
   - james_smith
   conference: elixirconf_usa_2017
-  video_view_count: 3182
+  video_view_count: 3184
   video_duration_seconds: 2322
 - video_id: zbbK0WOvWII
   talk_title: Closing Keynote
@@ -260,21 +260,21 @@
   - chris_mc_cord
   keynote: true
   conference: elixirconf_usa_2017
-  video_view_count: 4880
+  video_view_count: 4883
   video_duration_seconds: 2896
 - video_id: NBmNDI9OFJk
   talk_title: Elixir Power Tracing
   speakers:
   - gabi_zuniga
   conference: elixirconf_usa_2017
-  video_view_count: 1168
+  video_view_count: 1172
   video_duration_seconds: 2901
 - video_id: jkFyz2LbdKg
   talk_title: Idea Scaling
   speakers:
   - hannah_howard
   conference: elixirconf_usa_2017
-  video_view_count: 453
+  video_view_count: 455
   video_duration_seconds: 2467
 - video_id: oYFixITZyeA
   talk_title: Lambda Calculus in 5 mintues
@@ -297,14 +297,14 @@
   speakers:
   - boshan_sun
   conference: elixirconf_usa_2017
-  video_view_count: 306
+  video_view_count: 308
   video_duration_seconds: 99
 - video_id: mpMeoMU0KLw
   talk_title: Why Elixir is perfect for taming the monolith
   speakers:
   - scott_ribe
   conference: elixirconf_usa_2017
-  video_view_count: 522
+  video_view_count: 524
   video_duration_seconds: 310
 - video_id: 7PHSMBwC8oE
   talk_title: Databaseless
@@ -332,7 +332,7 @@
   speakers:
   - jeff_ching
   conference: elixirconf_usa_2017
-  video_view_count: 455
+  video_view_count: 458
   video_duration_seconds: 251
 - video_id: OY1ny-qxwx0
   talk_title: Baseball and How To Sell Elixir

@@ -4,14 +4,14 @@
   speakers:
   - francesco_cesarini
   conference: empex_2016
-  video_view_count: 1313
+  video_view_count: 1315
   video_duration_seconds: 2750
 - video_id: "-mgwW3RVI50"
   talk_title: Code Generation in Elixir
   speakers:
   - bryan_weber
   conference: empex_2016
-  video_view_count: 916
+  video_view_count: 917
   video_duration_seconds: 2635
 - video_id: 9uvp4h7gXHg
   talk_title: 'Micropatterns: Learning to Reach Quickly for the Right Tool'
@@ -39,14 +39,14 @@
   speakers:
   - george_guimaraes
   conference: empex_2016
-  video_view_count: 2280
+  video_view_count: 2283
   video_duration_seconds: 1163
 - video_id: 7mHG841hKj4
   talk_title: Giving Back, building your first package
   speakers:
   - brian_cardarella
   conference: empex_2016
-  video_view_count: 421
+  video_view_count: 423
   video_duration_seconds: 1169
 - video_id: H686MDn4Lo8
   talk_title: Real World Elixir Deployment
