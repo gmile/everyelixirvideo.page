@@ -11,8 +11,6 @@
   title: Elixir.LDN 2016
 - id: elixir_ldn_2017
   title: Elixir.LDN 2017
-- id: elixirconf_2015
-  title: ElixirConf 2015
 - id: elixirconf_eu_2015
   title: ElixirConf EU 2015
 - id: elixirconf_eu_2016
@@ -21,10 +19,12 @@
   title: ElixirConf EU 2017
 - id: elixirconf_eu_2018
   title: ElixirConf EU 2018
-- id: elixirconf_usa_2017
-  title: ElixirConf USA 2017
-- id: elixirconf_usa_2018
-  title: ElixirConf USA 2018
+- id: elixirconf_us_2015
+  title: ElixirConf US 2015
+- id: elixirconf_us_2017
+  title: ElixirConf US 2017
+- id: elixirconf_us_2018
+  title: ElixirConf US 2018
 - id: elixirdaze_2016
   title: ElixirDaze 2016
 - id: elixirdaze_2017
