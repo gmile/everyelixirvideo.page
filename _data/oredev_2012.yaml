@@ -1,1 +1,7 @@
---- []
+---
+- video_id: 53221562
+  video_platform: vimeo
+  talk_title: "Elixir: Modern Programming for the Erlang VM"
+  speakers:
+  - jose_valim
+  conference: oredev_2012
