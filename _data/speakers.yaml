@@ -364,6 +364,11 @@
   twitter: 
   github: 
   elixirforum: dazuma
+- id: daniel_vamosi
+  full_name: Dániel Vámosi
+  twitter:
+  github:
+  elixirforum:
 - id: darin_wilson
   full_name: Darin Wilson
   twitter: 
@@ -426,11 +431,6 @@
   elixirforum: drewolson
 - id: duncan_sparrell
   full_name: Duncan Sparrell
-  twitter: 
-  github: 
-  elixirforum: 
-- id: daniel_vamosi
-  full_name: Dániel Vámosi
   twitter: 
   github: 
   elixirforum: 
@@ -584,16 +584,16 @@
   twitter: 
   github: 
   elixirforum: griffinbyatt
-- id: guilherme_goncalves_pasqualino
-  full_name: Guilherme Gonçalves Pasqualino
-  twitter:
-  github:
-  elixirforum:
 - id: guilherme_de_maio
   full_name: Guilherme de Maio
   twitter: 
   github: 
   elixirforum: nirev
+- id: guilherme_goncalves_pasqualino
+  full_name: Guilherme Gonçalves Pasqualino
+  twitter:
+  github:
+  elixirforum:
 - id: guillermo_iguaran
   full_name: Guillermo Iguaran
   twitter: guilleiguaran
@@ -714,16 +714,16 @@
   twitter: 
   github: 
   elixirforum: 
-- id: jean_rouge
-  full_name: Jean Rouge
-  twitter: 
-  github: 
-  elixirforum: 
 - id: jean_francois_cloutier
   full_name: Jean-François Cloutier
   twitter: 
   github: 
   elixirforum: jfcloutier
+- id: jean_rouge
+  full_name: Jean Rouge
+  twitter:
+  github:
+  elixirforum:
 - id: jeff_ching
   full_name: Jeff Ching
   twitter: 
@@ -774,6 +774,11 @@
   twitter: jessitron
   github: jessitron
   elixirforum: 
+- id: joao_maura
+  full_name: João Maura
+  twitter:
+  github:
+  elixirforum:
 - id: joe_armstrong
   full_name: Joe Armstrong
   twitter: joeerl
@@ -809,6 +814,16 @@
   twitter: 
   github: 
   elixirforum: 
+- id: jorgen_brandt
+  full_name: Jörgen Brandt
+  twitter:
+  github:
+  elixirforum:
+- id: jose_valim
+  full_name: José Valim
+  twitter: josevalim
+  github: josevalim
+  elixirforum: josevalim
 - id: josef_svenningsson
   full_name: Josef Svenningsson
   twitter: 
@@ -826,16 +841,6 @@
   elixirforum: knewter
 - id: josh_branchaud
   full_name: Josh Branchaud
-  twitter: 
-  github: 
-  elixirforum: 
-- id: jose_valim
-  full_name: José Valim
-  twitter: josevalim
-  github: josevalim
-  elixirforum: josevalim
-- id: joao_maura
-  full_name: João Maura
   twitter: 
   github: 
   elixirforum: 
@@ -869,11 +874,6 @@
   twitter: 
   github: 
   elixirforum: justuseapen
-- id: jorgen_brandt
-  full_name: Jörgen Brandt
-  twitter: 
-  github: 
-  elixirforum: 
 - id: karmen_blake
   full_name: Karmen Blake
   twitter: 
@@ -960,7 +960,7 @@
   github: 
   elixirforum: 
 - id: ley_missailidis
-  full_name: \'Ley Missailidis
+  full_name: "\\'Ley Missailidis"
   twitter: _polymetis_
   github: polymetis
   elixirforum: polymetis
@@ -1209,6 +1209,11 @@
   twitter: 
   github: 
   elixirforum: pdawczak
+- id: pe?ter_go?mo?ri
+  full_name: Péter Gömöri
+  twitter:
+  github:
+  elixirforum:
 - id: peer_stritzinger
   full_name: Peer Stritzinger
   twitter: 
@@ -1231,11 +1236,6 @@
   elixirforum: CrowdHailer
 - id: petri_kero
   full_name: Petri Kero
-  twitter: 
-  github: 
-  elixirforum: 
-- id: pe?ter_go?mo?ri
-  full_name: Péter Gömöri
   twitter: 
   github: 
   elixirforum: 
@@ -1364,6 +1364,11 @@
   twitter: 
   github: 
   elixirforum: staylorwr
+- id: sebastien_merle
+  full_name: Sébastien Merle
+  twitter:
+  github:
+  elixirforum:
 - id: serge_boucher
   full_name: Serge Boucher
   twitter: 
@@ -1439,16 +1444,6 @@
   twitter: 
   github: 
   elixirforum: mentels
-- id: sebastien_merle
-  full_name: Sébastien Merle
-  twitter: 
-  github: 
-  elixirforum: 
-- id: tj_stankus
-  full_name: TJ Stankus
-  twitter: 
-  github: 
-  elixirforum: 
 - id: tatsuya_ono
   full_name: Tatsuya Ono
   twitter: 
@@ -1479,6 +1474,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: tj_stankus
+  full_name: TJ Stankus
+  twitter:
+  github:
+  elixirforum:
 - id: tobias_lindahl
   full_name: Tobias Lindahl
   twitter: 

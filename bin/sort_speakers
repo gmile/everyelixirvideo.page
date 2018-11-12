@@ -1,0 +1,6 @@
+#!/usr/local/bin/ruby
+
+require 'yaml'
+
+speakers = YAML.load(File.read("./_data/speakers.yaml"))
+IO.write("./_data/speakers.yaml", speakers.sort_by { |s| s['id'].to_s }.to_yaml)

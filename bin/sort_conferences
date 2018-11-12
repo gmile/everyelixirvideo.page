@@ -1,0 +1,6 @@
+#!/usr/local/bin/ruby
+
+require 'yaml'
+
+conferences = YAML.load(File.read("./_data/conferences.yaml"))
+IO.write("./_data/conferences.yaml", conferences.sort_by { |s| s['id'].to_s }.to_yaml)
