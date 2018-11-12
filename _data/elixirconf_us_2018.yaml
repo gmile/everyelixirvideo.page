@@ -43,7 +43,7 @@
   video_view_count: 1180
   video_duration_seconds: 2529
 - video_id: 1bQlc-K6vN0
-  talk_title: " My first Nerves Project Bioreactor"
+  talk_title: My first Nerves Project Bioreactor
   speakers:
   - david_schainker
   conference: elixirconf_usa_2018
@@ -353,3 +353,10 @@
   conference: elixirconf_usa_2018
   video_view_count: 522
   video_duration_seconds: 1795
+- video_id: Z2DU0qLfPIY
+  talk_title: Using Elixir and OTP behaviors to monitor infrastructure
+  speakers:
+  - chris_mc_cord
+  conference: elixirconf_usa_2018
+  video_view_count: 11629
+  video_duration_seconds: 3470
