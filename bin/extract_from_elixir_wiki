@@ -21,6 +21,7 @@ entries =
       raw_speakers = raw_talk['raw_speakers']
 
       speaker_ids = raw_speakers.split(" and ").map do |raw_speaker|
+        raw_speaker = cleanup(raw_speaker)
         # TODO: this can use Jaro distance or smth
         found_speaker = speakers.find { |x| x['full_name'] == raw_speaker }
 
@@ -62,11 +63,10 @@ entries =
     rescue StandardError => e
       puts e.inspect
       puts e.backtrace
-      puts "Stumbled on this line: #{line}"
-
-      exit
+      puts "Stumbled on this line: #{line}. Extract it manually."
+      nil
     end
-  end
+  end.compact
 
 puts "To be added to _data/speakers.yaml:\n#{new_speakers.to_yaml}\n"
 puts "To be added to _data/conferences.yaml:\n#{conference.to_yaml}\n"

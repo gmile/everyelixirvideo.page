@@ -414,6 +414,11 @@
   twitter: 
   github: 
   elixirforum: desmond
+- id: devin_torres
+  full_name: Devin Torres
+  twitter:
+  github:
+  elixirforum:
 - id: devon_estes
   full_name: Devon Estes
   twitter: devoncestes
@@ -504,6 +509,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: filipe_varjao
+  full_name: Filipe Varjão
+  twitter:
+  github:
+  elixirforum:
 - id: francesco_cesarini
   full_name: Francesco Cesarini
   twitter: FrancescoC
@@ -844,6 +854,11 @@
   twitter: knewter
   github: knewter
   elixirforum: knewter
+- id: robby_clement
+  full_name: Robby Clement
+  twitter:
+  github:
+  elixirforum:
 - id: josh_branchaud
   full_name: Josh Branchaud
   twitter: 
@@ -1314,6 +1329,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: richard_bishop
+  full_name: Richard Bishop
+  twitter:
+  github:
+  elixirforum:
 - id: richard_kallos
   full_name: Richard Kallos
   twitter: 
@@ -1454,6 +1474,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: stephen_pallen
+  full_name: Stephen Pallen
+  twitter:
+  github:
+  elixirforum:
 - id: steven_blowers
   full_name: Steven Blowers
   twitter:
