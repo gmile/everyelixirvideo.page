@@ -739,6 +739,11 @@
   twitter: 
   github: 
   elixirforum: electricshaman
+- id: jeff_weiss
+  full_name: Jeff Weiss
+  twitter:
+  github:
+  elixirforum:
 - id: jeffrey_gillis
   full_name: Jeffrey Gillis
   twitter: 
@@ -989,6 +994,11 @@
   twitter:
   github:
   elixirforum:
+- id: marco_herbst
+  full_name: Marco Herbst
+  twitter:
+  github:
+  elixirforum:
 - id: mariano_guerra
   full_name: Mariano Guerra
   twitter: 
@@ -1009,6 +1019,11 @@
   twitter: gausby
   github: gausby
   elixirforum: gausby
+- id: martin_kavalar
+  full_name: Martin Kavalar
+  twitter:
+  github:
+  elixirforum:
 - id: martin_schurrer
   full_name: Martin Schürrer
   twitter:
@@ -1039,6 +1054,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: michael_schaefermeyer
+  full_name: Michael Schaefermeyer
+  twitter:
+  github:
+  elixirforum:
 - id: michael_stalker
   full_name: Michael Stalker
   twitter: 
@@ -1049,6 +1069,11 @@
   twitter: michalmuskala
   github: michalmuskala
   elixirforum: michalmuskala
+- id: michal_slaski
+  full_name: Michał Ślaski
+  twitter:
+  github:
+  elixirforum:
 - id: mike_watters
   full_name: Mike Watters
   twitter: 
@@ -1064,6 +1089,11 @@
   twitter: slashmili
   github: slashmili
   elixirforum: slashmili
+- id: milos_mosic
+  full_name: Miloš Mošić
+  twitter:
+  github:
+  elixirforum:
 - id: miriam_pena
   full_name: Miriam Pena
   twitter: 
@@ -1524,6 +1554,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: viktoria_fordos
+  full_name: Viktória Fördős
+  twitter:
+  github:
+  elixirforum:
 - id: vince_foley
   full_name: Vince Foley
   twitter: 
