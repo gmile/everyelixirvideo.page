@@ -1,0 +1,91 @@
+#!/usr/local/bin/ruby
+
+require_relative './helpers.rb'
+
+regex = /^(?<talk_title>.+) by (?<raw_speakers>.+) .*v=(?<video_id>.[^\)]+)/
+
+speakers = YAML.load(File.read('_data/speakers.yaml'))
+conferences = YAML.load(File.read("./_data/conferences.yaml"))
+new_speakers = []
+raw_conference = ARGV[0]
+
+conference = {
+  'id' => make_id(raw_conference),
+  'title' => raw_conference
+}
+
+entries =
+  File.readlines('scratchpad/file').map do |line|
+    begin
+      raw_talk = line.chomp.match(regex).named_captures
+      raw_speakers = raw_talk['raw_speakers']
+
+      speaker_ids = raw_speakers.split(" and ").map do |raw_speaker|
+        # TODO: this can use Jaro distance or smth
+        found_speaker = speakers.find { |x| x['full_name'] == raw_speaker }
+
+        if found_speaker
+          found_speaker['id']
+        else
+          new_speaker = {
+            'id' => make_id(raw_speaker),
+            'full_name' => raw_speaker,
+            'twitter' => nil,
+            'github' => nil,
+            'elixirforum' => nil
+          }
+
+          new_speakers << new_speaker
+
+          new_speaker['id']
+        end
+      end
+
+      entry = {
+        'video_id' => raw_talk['video_id'],
+        'talk_title' => cleanup(raw_talk['talk_title']),
+        'speakers' => speaker_ids,
+        'conference' => conference['id'],
+        'video_view_count' => nil,
+        'video_duration_seconds' => nil
+      }
+
+      if raw_talk['talk_title'].downcase.include?('keynote')
+        entry = entry.merge('keynote' => true)
+      end
+
+      if raw_talk['talk_title'].downcase.include?('lightning')
+        entry = entry.merge('lightning' => true)
+      end
+
+      entry
+    rescue StandardError => e
+      puts e.inspect
+      puts e.backtrace
+      puts "Stumbled on this line: #{line}"
+
+      exit
+    end
+  end
+
+puts "To be added to _data/speakers.yaml:\n#{new_speakers.to_yaml}\n"
+puts "To be added to _data/conferences.yaml:\n#{conference.to_yaml}\n"
+puts "To be added to _data/#{conference['id']}.yaml:\n#{entries.to_yaml}\n"
+
+add_new_conference = !conferences.find { |c| c['id'] == conference['id'] }
+
+if ARGV[2] == 'write'
+  if new_speakers.size > 0
+    speakers = speakers.concat(new_speakers)
+    IO.write("./_data/speakers.yaml", speakers.sort_by { |s| s['id'].to_s }.to_yaml)
+  end
+
+  if add_new_conference
+    conferences = conferences.concat([conference])
+    IO.write("./_data/conferences.yaml", conferences.sort_by { |s| s['id'].to_s }.to_yaml)
+  end
+
+  IO.write("./_data/#{conference['id']}.yaml", entries.to_yaml)
+
+  update_duration("./_data/#{conference['id']}.yaml")
+end
