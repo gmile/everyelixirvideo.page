@@ -6,11 +6,15 @@ require_relative './helpers.rb'
 #
 #   env YOUTUBE_API_KEY=ABCDE12345 bin/update_duration
 
-Dir["_data/*"].reduce([]) do |video_ids, input_path|
-  next if input_path == "_data/conferences.yaml"
-  next if input_path == "_data/speakers.yaml"
+input_path = ARGV[0]
 
-  puts input_path
-
+if input_path
   update_duration(input_path)
+else
+  Dir["_data/*"].reduce([]) do |video_ids, input_path|
+    next if input_path == "_data/conferences.yaml"
+    next if input_path == "_data/speakers.yaml"
+
+    update_duration(input_path)
+  end
 end
