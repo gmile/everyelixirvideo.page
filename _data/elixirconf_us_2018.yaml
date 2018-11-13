@@ -6,6 +6,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 2851
   video_duration_seconds: 2419
+  elixirforum_topic_id: 16470
 - video_id: 1IOobarmwQg
   talk_title: Elixir at a Walking Pace
   speakers:
@@ -13,6 +14,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 1117
   video_duration_seconds: 2698
+  elixirforum_topic_id: 16468
 - video_id: lfxPxRyci_c
   talk_title: Ticket to Fly Porting an Application from Rails to Phoenix
   speakers:
@@ -20,6 +22,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 438
   video_duration_seconds: 1903
+  elixirforum_topic_id: 16612
 - video_id: McaT9IsLnes
   talk_title: Meet Virtuoso The Chatbot Orchestration Framework Built with Elixir
   speakers:
@@ -27,6 +30,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 424
   video_duration_seconds: 1796
+  elixirforum_topic_id: 16580
 - video_id: Hyzuo3ByaLg
   talk_title: We're Just Getting Started. Our Three Years with Elixir
   speakers:
@@ -34,6 +38,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 398
   video_duration_seconds: 1994
+  elixirforum_topic_id: 16614
 - video_id: Ue--hvFzr0o
   talk_title: Growing Applications and Taming Complexity
   speakers:
@@ -41,6 +46,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 1180
   video_duration_seconds: 2529
+  elixirforum_topic_id: 16579
 - video_id: 1bQlc-K6vN0
   talk_title: My first Nerves Project Bioreactor
   speakers:
@@ -48,6 +54,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 458
   video_duration_seconds: 2034
+  elixirforum_topic_id: 16613
 - video_id: cbCnTKVLuu8
   talk_title: A Deep Dive Into Hex
   speakers:
@@ -55,6 +62,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 325
   video_duration_seconds: 2495
+  elixirforum_topic_id: 16654
 - video_id: m7TWMFtDwHg
   talk_title: Welcome Keynote
   speakers:
@@ -63,6 +71,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 1149
   video_duration_seconds: 3475
+  elixirforum_topic_id: 16422
 - video_id: oIAbmVrjZS8
   talk_title: Did You Hear That Wind
   speakers:
@@ -70,6 +79,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 522
   video_duration_seconds: 2265
+  elixirforum_topic_id: 16624
 - video_id: _ANg28Pello
   talk_title: Take Your Time
   speakers:
@@ -77,6 +87,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 628
   video_duration_seconds: 2343
+  elixirforum_topic_id: 16625
 - video_id: m26i1L2D7Yk
   talk_title: Making a GraphQL Server with Absinthe & Dataloader
   speakers:
@@ -84,6 +95,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 927
   video_duration_seconds: 1802
+  elixirforum_topic_id: 16623
 - video_id: YAGbvulsIGE
   talk_title: Interfacing with Machine Learned Models
   speakers:
@@ -91,6 +103,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 404
   video_duration_seconds: 1984
+  elixirforum_topic_id: 16646
 - video_id: GmPXNc8jlKQ
   talk_title: Building Video Chat with Elixir & Phoenix
   speakers:
@@ -98,6 +111,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 676
   video_duration_seconds: 2462
+  elixirforum_topic_id: 16644
 - video_id: bL7DNGhQ5js
   talk_title: 'Simple is Beautiful: Building an SLA tracking tool with Elixir/OTP'
   speakers:
@@ -105,6 +119,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 280
   video_duration_seconds: 2280
+  elixirforum_topic_id: 16581
 - video_id: ycpNi701aCs
   talk_title: 'Architecting Flow in Elixir: From Leveraging Pipes to Designing Token APIs'
   speakers:
@@ -112,6 +127,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 828
   video_duration_seconds: 2525
+  elixirforum_topic_id: 16509
 - video_id: suOzNeMJXl0
   talk_title: The Next Five Years
   speakers:
@@ -120,6 +136,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 4713
   video_duration_seconds: 3475
+  elixirforum_topic_id: 16442
 - video_id: bit9IckehSM
   talk_title: Flux. Moving towards a full Elixir web stack
   speakers:
@@ -128,6 +145,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 384
   video_duration_seconds: 220
+  elixirforum_topic_id: 16672
 - video_id: Q-GmJ3I-Ctc
   talk_title: Introducing New Relic's Open Source Elixir Agent
   speakers:
@@ -136,6 +154,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 264
   video_duration_seconds: 184
+  elixirforum_topic_id: 16673
 - video_id: 6V1FO1xGitU
   talk_title: ACRUMEN The Six Key Aspects of Software Quality
   speakers:
@@ -144,6 +163,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 191
   video_duration_seconds: 291
+  elixirforum_topic_id: 16674
 - video_id: 6_obNxEnwF8
   talk_title: Elixium Blockchain Meets OTP
   speakers:
@@ -152,6 +172,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 300
   video_duration_seconds: 279
+  elixirforum_topic_id: 16675
 - video_id: fcx5fpot5a8
   talk_title: ExVenture a MUD Server
   speakers:
@@ -160,6 +181,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 215
   video_duration_seconds: 182
+  elixirforum_topic_id: 16676
 - video_id: DTHSQ6PyDiI
   talk_title: We went insane for Elixir
   speakers:
@@ -169,6 +191,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 405
   video_duration_seconds: 337
+  elixirforum_topic_id: 16677
 - video_id: EMBUrruCmLQ
   talk_title: Kernel functions you'll want to start using
   speakers:
@@ -177,6 +200,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 357
   video_duration_seconds: 246
+  elixirforum_topic_id: 16678
 - video_id: XMAZd9qhlyY
   talk_title: ETS caching
   speakers:
@@ -185,6 +209,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 285
   video_duration_seconds: 282
+  elixirforum_topic_id: 16679
 - video_id: 0conIU_L-Yo
   talk_title: Use goldorin to build absinthe ecto enabled GraphQL APIs
   speakers:
@@ -193,6 +218,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 266
   video_duration_seconds: 301
+  elixirforum_topic_id: 16729
 - video_id: 2Oar5CGpZGY
   talk_title: Code highlighting with elixir
   speakers:
@@ -201,6 +227,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 232
   video_duration_seconds: 162
+  elixirforum_topic_id: 16730
 - video_id: lyNF2ksqo0k
   talk_title: Introducing Politilounge
   speakers:
@@ -210,6 +237,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 152
   video_duration_seconds: 293
+  elixirforum_topic_id: 16731
 - video_id: qwAAgI56JLg
   talk_title: OTPita Bread Serving Fast Casual Food with Elixir
   speakers:
@@ -218,6 +246,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 177
   video_duration_seconds: 293
+  elixirforum_topic_id: 16732
 - video_id: Khf5yUY-UX0
   talk_title: Deconstructing Korean with Elixir
   speakers:
@@ -226,6 +255,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 181
   video_duration_seconds: 253
+  elixirforum_topic_id: 16733
 - video_id: 6et_LSGuUQU
   talk_title: Resources for BEAM Internals
   speakers:
@@ -234,6 +264,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 168
   video_duration_seconds: 122
+  elixirforum_topic_id: 16734
 - video_id: 1CAqWHhMPjE
   talk_title: 4 years of small learnings
   speakers:
@@ -242,6 +273,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 246
   video_duration_seconds: 337
+  elixirforum_topic_id: 16735
 - video_id: O9VhFJewv5w
   talk_title: Keynote
   speakers:
@@ -250,6 +282,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 1358
   video_duration_seconds: 2134
+  elixirforum_topic_id: 16444
 - video_id: 3sLYzxuKGXI
   talk_title: 'Behavior Trees and Battleship: Tapping into the Power of Advanced Data Structures'
   speakers:
@@ -257,6 +290,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 519
   video_duration_seconds: 2113
+  elixirforum_topic_id: 16785
 - video_id: 9XRe1ce5eak
   talk_title: Sustainable Testing
   speakers:
@@ -264,6 +298,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 407
   video_duration_seconds: 2102
+  elixirforum_topic_id: 16787
 - video_id: OVLTHGaTi7k
   talk_title: Picking Properties to Test in Property Based Testing
   speakers:
@@ -271,6 +306,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 569
   video_duration_seconds: 2262
+  elixirforum_topic_id: 16765
 - video_id: hqaxMZAwbBA
   talk_title: Understanding Elixir's (Re)compilation
   speakers:
@@ -278,6 +314,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 563
   video_duration_seconds: 2388
+  elixirforum_topic_id: 16763
 - video_id: ESRjkG5f7wg
   talk_title: 'Event Sourcing in Real World Applications: Challenges, Successes and Lessons Learned'
   speakers:
@@ -285,6 +322,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 1361
   video_duration_seconds: 2434
+  elixirforum_topic_id: 16764
 - video_id: 7mTrpKoOMVY
   talk_title: Exchange of Crypto Coins
   speakers:
@@ -292,6 +330,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 246
   video_duration_seconds: 1486
+  elixirforum_topic_id: 16469
 - video_id: GorU5oEbf-c
   talk_title: Beyond Command and Response Chatbot
   speakers:
@@ -299,6 +338,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 308
   video_duration_seconds: 2104
+  elixirforum_topic_id: 16508
 - video_id: lCUKQnkjajo
   talk_title: Going Multi-Node
   speakers:
@@ -306,6 +346,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 846
   video_duration_seconds: 2442
+  elixirforum_topic_id: 16805
 - video_id: llHPNc18-hg
   talk_title: Empirical Monkeys A Practitioner’s Take on
   speakers:
@@ -314,6 +355,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 454
   video_duration_seconds: 2320
+  elixirforum_topic_id: 16807
 - video_id: 1QNxLNMq3Uw
   talk_title: Introducing Scenic - A Functional UI Framework
   speakers:
@@ -321,6 +363,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 5778
   video_duration_seconds: 2543
+  elixirforum_topic_id: 16835
 - video_id: nLApFANtkHs
   talk_title: Docker and OTP Friends or Foes
   speakers:
@@ -328,6 +371,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 2150
   video_duration_seconds: 2333
+  elixirforum_topic_id: 16806
 - video_id: GI6pYIlhgr0
   talk_title: 'Handling Success: Development and Deployment Beyond Hello World'
   speakers:
@@ -335,6 +379,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 448
   video_duration_seconds: 2193
+  elixirforum_topic_id: 16837
 - video_id: NWgwUKfR8Xg
   talk_title: 'Texas: Virtual DOM Library for Server Side V DOM'
   speakers:
@@ -342,6 +387,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 885
   video_duration_seconds: 1972
+  elixirforum_topic_id: 16862
 - video_id: kpcieBD5Vag
   talk_title: Using Elixir and OTP behaviors to monitor infrastructure
   speakers:
@@ -349,6 +395,7 @@
   conference: elixirconf_usa_2018
   video_view_count: 522
   video_duration_seconds: 1795
+  elixirforum_topic_id: 16861
 - video_id: Z2DU0qLfPIY
   talk_title: Going Full Circle
   speakers:
@@ -357,3 +404,4 @@
   video_view_count: 11629
   video_duration_seconds: 3470
   keynote: true
+  elixirforum_topic_id: 16445

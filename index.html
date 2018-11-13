@@ -64,6 +64,11 @@ layout: home
 
             {% unless forloop.last %} •{% endunless %}
           {% endfor %}
+
+          {% if talk.elixirforum_topic_id %}
+            •
+            <a href="https://elixirforum.com/t/{{ talk.elixirforum_topic_id }}" title="Official discussion on ElixirForum">Discussion</a>
+          {% endif %}
         </div>
       </li>
     {% endif %}
