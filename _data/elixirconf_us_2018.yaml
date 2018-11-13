@@ -1,7 +1,6 @@
 ---
 - video_id: w4xMarVUZQ4
-  talk_title: You Can Never Debug the Code You Run, But You Can View the Code the
-    Debugger is Running
+  talk_title: You Can Never Debug the Code You Run, But You Can View the Code the Debugger is Running
   speakers:
   - luke_imhoff
   conference: elixirconf_usa_2018
@@ -100,15 +99,14 @@
   video_view_count: 676
   video_duration_seconds: 2462
 - video_id: bL7DNGhQ5js
-  talk_title: Building an SLI tracking tool with Elixir/OTP
+  talk_title: 'Simple is Beautiful: Building an SLA tracking tool with Elixir/OTP'
   speakers:
   - aish_dahal
   conference: elixirconf_usa_2018
   video_view_count: 280
   video_duration_seconds: 2280
 - video_id: ycpNi701aCs
-  talk_title: 'Architecting Flow in Elixir: From Leveraging Pipes to Designing Token
-    APIs '
+  talk_title: 'Architecting Flow in Elixir: From Leveraging Pipes to Designing Token APIs'
   speakers:
   - rene_fohring
   conference: elixirconf_usa_2018
@@ -253,8 +251,7 @@
   video_view_count: 1358
   video_duration_seconds: 2134
 - video_id: 3sLYzxuKGXI
-  talk_title: 'Behavior Trees and Battleship: Tapping into the Power of Advanced Data
-    Structures'
+  talk_title: 'Behavior Trees and Battleship: Tapping into the Power of Advanced Data Structures'
   speakers:
   - jeff_schomay
   conference: elixirconf_usa_2018
@@ -282,8 +279,7 @@
   video_view_count: 563
   video_duration_seconds: 2388
 - video_id: ESRjkG5f7wg
-  talk_title: 'Event Sourcing in Real World Applications: Challenges, Successes and
-    Lessons Learned'
+  talk_title: 'Event Sourcing in Real World Applications: Challenges, Successes and Lessons Learned'
   speakers:
   - james_smith
   conference: elixirconf_usa_2018
@@ -304,7 +300,7 @@
   video_view_count: 308
   video_duration_seconds: 2104
 - video_id: lCUKQnkjajo
-  talk_title: Going Multi Node
+  talk_title: Going Multi-Node
   speakers:
   - eric_oestrich
   conference: elixirconf_usa_2018
@@ -319,7 +315,7 @@
   video_view_count: 454
   video_duration_seconds: 2320
 - video_id: 1QNxLNMq3Uw
-  talk_title: Introducing Scenic A Functional UI Framework
+  talk_title: Introducing Scenic - A Functional UI Framework
   speakers:
   - boyd_multerer
   conference: elixirconf_usa_2018
@@ -333,7 +329,7 @@
   video_view_count: 2150
   video_duration_seconds: 2333
 - video_id: GI6pYIlhgr0
-  talk_title: Handling Success - Development and Deployment Beyond Hello World
+  talk_title: 'Handling Success: Development and Deployment Beyond Hello World'
   speakers:
   - jerel_unruh
   conference: elixirconf_usa_2018
@@ -354,7 +350,7 @@
   video_view_count: 522
   video_duration_seconds: 1795
 - video_id: Z2DU0qLfPIY
-  talk_title: Using Elixir and OTP behaviors to monitor infrastructure
+  talk_title: Going Full Circle
   speakers:
   - chris_mc_cord
   conference: elixirconf_usa_2018
