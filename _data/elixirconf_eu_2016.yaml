@@ -4,7 +4,7 @@
   speakers:
   - jose_valim
   conference: elixirconf_eu_2016
-  video_view_count: 16023
+  video_view_count: 16025
   video_duration_seconds: 3184
 - video_id: n338leKvqnA
   talk_title: Phoenix 1.2 and Beyond
@@ -25,28 +25,28 @@
   speakers:
   - rene_fohring
   conference: elixirconf_eu_2016
-  video_view_count: 1290
+  video_view_count: 1292
   video_duration_seconds: 2220
 - video_id: I5L9_cXwBcU
   talk_title: Building Multiplayer Games with Phoenix and Phaser
   speakers:
   - keith_salisbury
   conference: elixirconf_eu_2016
-  video_view_count: 5822
+  video_view_count: 5827
   video_duration_seconds: 2088
 - video_id: y_b6RTes83c
   talk_title: Discovering Processes
   speakers:
   - sasa_juric
   conference: elixirconf_eu_2016
-  video_view_count: 3966
+  video_view_count: 3972
   video_duration_seconds: 2466
 - video_id: usEs3GPnZDg
   talk_title: Scaling Distributed Erlang
   speakers:
   - zandra_norman
   conference: elixirconf_eu_2016
-  video_view_count: 2352
+  video_view_count: 2353
   video_duration_seconds: 2844
 - video_id: U1Ry7STEFiY
   talk_title: Concurrent and Resilient Connections to Outside the BEAM
@@ -67,7 +67,7 @@
   speakers:
   - roope_kangas
   conference: elixirconf_eu_2016
-  video_view_count: 2064
+  video_view_count: 2072
   video_duration_seconds: 2279
 - video_id: "-MzJ-HxRcVI"
   talk_title: How to Build a Slack-Controlled, Saxophone-Playing Robot
@@ -88,7 +88,7 @@
   speakers:
   - gary_rennie
   conference: elixirconf_eu_2016
-  video_view_count: 2814
+  video_view_count: 2818
   video_duration_seconds: 2402
 - video_id: r0DuAse9tK8
   talk_title: Securing Elixir Applications
@@ -102,14 +102,14 @@
   speakers:
   - ben_tyler
   conference: elixirconf_eu_2016
-  video_view_count: 3100
+  video_view_count: 3105
   video_duration_seconds: 2298
 - video_id: lDKCSheBc-8
   talk_title: Phoenix Is Not Your Application
   speakers:
   - lance_halvorsen
   conference: elixirconf_eu_2016
-  video_view_count: 6205
+  video_view_count: 6209
   video_duration_seconds: 1803
 - video_id: fdjD5QHjNH4
   talk_title: 'TODO: Extract manually'
@@ -199,7 +199,7 @@
   lightning: true
   processed: false
   conference: elixirconf_eu_2016
-  video_view_count: 3036
+  video_view_count: 3041
   video_duration_seconds: 223
 - video_id: KET0j2Uog-U
   talk_title: 'TODO: Extract manually'

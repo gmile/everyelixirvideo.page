@@ -4,14 +4,14 @@
   speakers:
   - anton_lavrik
   conference: code_beam_sto_2018
-  video_view_count: 545
+  video_view_count: 548
   video_duration_seconds: 2382
 - video_id: kHzmrWD7iEY
   talk_title: 'ForgETS: a globally distributed database'
   speakers:
   - mikhail_vorontsov
   conference: code_beam_sto_2018
-  video_view_count: 328
+  video_view_count: 333
   video_duration_seconds: 2241
 - video_id: TZzfZoTUc_0
   talk_title: A genealogy of Functional Programming
@@ -55,14 +55,14 @@
   - peer_stritzinger
   - adam_lindberg
   conference: code_beam_sto_2018
-  video_view_count: 30
+  video_view_count: 31
   video_duration_seconds: 81
 - video_id: QWm_ekBUKYI
   talk_title: 'Making It Lazy: never evaluate anything more than once'
   speakers:
   - simon_thompson
   conference: code_beam_sto_2018
-  video_view_count: 164
+  video_view_count: 165
   video_duration_seconds: 2398
 - video_id: Y55dP9sZstE
   talk_title: A one minute talk summary
@@ -83,7 +83,7 @@
   speakers:
   - iliia_khaprov
   conference: code_beam_sto_2018
-  video_view_count: 132
+  video_view_count: 137
   video_duration_seconds: 1122
 - video_id: MFs_yqVmJb4
   talk_title: What are poll sets and why they matter
@@ -118,7 +118,7 @@
   speakers:
   - kevin_hammond
   conference: code_beam_sto_2018
-  video_view_count: 52
+  video_view_count: 51
   video_duration_seconds: 1165
 - video_id: mN82fip5rwI
   talk_title: Implementing Languages on the BEAM
@@ -139,7 +139,7 @@
   speakers:
   - eric_meadows_jonsson
   conference: code_beam_sto_2018
-  video_view_count: 104
+  video_view_count: 105
   video_duration_seconds: 2148
 - video_id: zvCZdzLTEqQ
   talk_title: 'Update: Elixir core dev team'
@@ -181,21 +181,21 @@
   speakers:
   - ulf_wiger
   conference: code_beam_sto_2018
-  video_view_count: 71
+  video_view_count: 75
   video_duration_seconds: 2460
 - video_id: 2IXgecLsA9g
   talk_title: Developer tools using the language server protocol
   speakers:
   - vlad_dumitrescu
   conference: code_beam_sto_2018
-  video_view_count: 67
+  video_view_count: 72
   video_duration_seconds: 1445
 - video_id: aWnGPaputGE
   talk_title: 'Beyond state machines: services as petri nets - Code BEAM STO'
   speakers:
   - jorgen_brandt
   conference: code_beam_sto_2018
-  video_view_count: 132
+  video_view_count: 138
   video_duration_seconds: 2017
 - video_id: rcALww6M9Jk
   talk_title: Using Barrel to build your own P2P data platform
@@ -223,7 +223,7 @@
   speakers:
   - timmo_verlaan
   conference: code_beam_sto_2018
-  video_view_count: 53
+  video_view_count: 54
   video_duration_seconds: 1389
 - video_id: _4MTIffWhYI
   talk_title: Gen_statem - the tool you never knew you always wanted
@@ -237,7 +237,7 @@
   speakers:
   - natalia_chechina
   conference: code_beam_sto_2018
-  video_view_count: 122
+  video_view_count: 123
   video_duration_seconds: 1859
 - video_id: TCiHqF_XTmE
   talk_title: Riak 3.0 and efficient anti-entropy
@@ -251,14 +251,14 @@
   speakers:
   - guy_a_narboni
   conference: code_beam_sto_2018
-  video_view_count: 37
+  video_view_count: 38
   video_duration_seconds: 2230
 - video_id: 3pDppYurT_k
   talk_title: Evolution of garbage collector
   speakers:
   - boris_kuznetsov
   conference: code_beam_sto_2018
-  video_view_count: 104
+  video_view_count: 105
   video_duration_seconds: 1502
 - video_id: T7GeFt6KF4k
   talk_title: The quest for the best IDE
@@ -280,14 +280,14 @@
   speakers:
   - andrew_dryga
   conference: code_beam_sto_2018
-  video_view_count: 168
+  video_view_count: 173
   video_duration_seconds: 994
 - video_id: hBjkeJ-q_9Y
   talk_title: Taking it to the metal
   speakers:
   - sonny_scroggin
   conference: code_beam_sto_2018
-  video_view_count: 69
+  video_view_count: 72
   video_duration_seconds: 2336
 - video_id: VoDjN84jav0
   talk_title: Logger a new API for logging
@@ -301,14 +301,14 @@
   speakers:
   - jane_walderud
   conference: code_beam_sto_2018
-  video_view_count: 98
+  video_view_count: 99
   video_duration_seconds: 2016
 - video_id: 4t_mcnF3w9A
   talk_title: 'Erlang: 20 years as open source'
   speakers:
   - ingela_anderton_andin
   conference: code_beam_sto_2018
-  video_view_count: 72
+  video_view_count: 73
   video_duration_seconds: 1726
 - video_id: oOYiXGYTq2E
   talk_title: 'Open Source: The Third Decade'
@@ -336,7 +336,7 @@
   speakers:
   - gianluca_padovani
   conference: code_beam_sto_2018
-  video_view_count: 191
+  video_view_count: 194
   video_duration_seconds: 2348
 - video_id: Kg9l595hRg4
   talk_title: 'Stateful webhooks: what are they good for?'
@@ -350,5 +350,5 @@
   speakers:
   - miriam_pena
   conference: code_beam_sto_2018
-  video_view_count: 82
+  video_view_count: 84
   video_duration_seconds: 1738

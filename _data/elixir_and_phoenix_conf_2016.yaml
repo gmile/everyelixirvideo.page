@@ -4,7 +4,7 @@
   speakers:
   - eric_entin
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 3639
+  video_view_count: 3646
   video_duration_seconds: 2075
 - video_id: 7vBc0Q-nwUI
   talk_title: Phoenix Beyond the Browser - Realtime Applications with Phoenix and
@@ -33,7 +33,7 @@
   speakers:
   - chris_bell
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 7000
+  video_view_count: 7001
   video_duration_seconds: 2714
 - video_id: g77VhXrxUJY
   talk_title: 'Edgelixir: Distributed Graph Processing in Elixir'
@@ -54,28 +54,28 @@
   speakers:
   - renan_ranelli
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 1963
+  video_view_count: 1965
   video_duration_seconds: 2518
 - video_id: pj6zAgvVt5w
   talk_title: Debugging Techniques in Elixir
   speakers:
   - erich_kist
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 2247
+  video_view_count: 2252
   video_duration_seconds: 1881
 - video_id: UPD8yvl3MUI
   talk_title: Collaborative Music with Elm and Phoenix
   speakers:
   - josh_adams
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 1665
+  video_view_count: 1666
   video_duration_seconds: 2630
 - video_id: r4ulu8wo_GI
   talk_title: From Front End to Full Stack with Elixir and Phoenix
   speakers:
   - lauren_tan
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 9429
+  video_view_count: 9449
   video_duration_seconds: 2061
 - video_id: 3gky54_qLjQ
   talk_title: The new Calendar Types in Elixir 1.3
@@ -89,21 +89,21 @@
   speakers:
   - frank_hunleth
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 3159
+  video_view_count: 3163
   video_duration_seconds: 2765
 - video_id: h_NvYwveeMc
   talk_title: Closing Keynote
   speakers:
   - boyd_multerer
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 2852
+  video_view_count: 2853
   video_duration_seconds: 2565
 - video_id: srtMWzyqdp8
   talk_title: Keynote
   speakers:
   - jose_valim
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 9606
+  video_view_count: 9615
   video_duration_seconds: 3964
 - video_id: zZxBL-lV9uA
   talk_title: String Theory
@@ -111,21 +111,21 @@
   - nathan_long
   - james_edward_gray_ii
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 1810
+  video_view_count: 1814
   video_duration_seconds: 2224
 - video_id: V21DAKtY31Q
   talk_title: Refactoring Techniques for Elixir, Ecto, and Phoenix
   speakers:
   - gary_rennie
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 3286
+  video_view_count: 3290
   video_duration_seconds: 2271
 - video_id: QE7bpqpDoKo
   talk_title: Leveling Up With Ecto
   speakers:
   - darin_wilson
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 4634
+  video_view_count: 4636
   video_duration_seconds: 2210
 - video_id: cznxe3TCevk
   talk_title: Nerves + Phoenix Saves a Father's Sanity!
@@ -139,7 +139,7 @@
   speakers:
   - kat_tornwall
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 4822
+  video_view_count: 4825
   video_duration_seconds: 2314
 - video_id: p8MGNw045AE
   talk_title: Elixir in Elixir
@@ -153,7 +153,7 @@
   speakers:
   - wojtek_mach
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 5981
+  video_view_count: 5992
   video_duration_seconds: 2249
 - video_id: A3z_od6Vy1w
   talk_title: Building Available and Partition Tolerant Systems with Phoenix Tracker
@@ -167,21 +167,21 @@
   speakers:
   - chris_keathley
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 636
+  video_view_count: 637
   video_duration_seconds: 2292
 - video_id: JT0ECYZ9FaQ
   talk_title: 'Dialyzer: Optimistic Type Checking for Erlang and Elixir'
   speakers:
   - jason_voegele
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 2872
+  video_view_count: 2883
   video_duration_seconds: 2938
 - video_id: yI5J2P9kcBQ
   talk_title: WebRTC and Phoenix, when μ Seconds aren't Fast Enough
   speakers:
   - jason_stiebs
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 3094
+  video_view_count: 3096
   video_duration_seconds: 2224
 - video_id: qPiZTxUAaVM
   talk_title: Keynote
@@ -202,7 +202,7 @@
   speakers:
   - ben_wilson
   conference: elixir_and_phoenix_conf_2016
-  video_view_count: 3062
+  video_view_count: 3064
   video_duration_seconds: 2282
 - video_id: eKbLOlyt11k
   talk_title: 'Abstractions: A Tale of Keys and Values'

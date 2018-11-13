@@ -4,14 +4,14 @@
   speakers:
   - peter_saxton
   conference: elixir_ldn_2017
-  video_view_count: 1490
+  video_view_count: 1496
   video_duration_seconds: 2531
 - video_id: g4HXeP_CZbc
   talk_title: Getting Pretty Serious
   speakers:
   - louis_pilfold
   conference: elixir_ldn_2017
-  video_view_count: 1344
+  video_view_count: 1346
   video_duration_seconds: 1524
 - video_id: 5EDD1oZ23tY
   talk_title: 'Stepping into a New Era: Injecting Elixir in an Existing System'
@@ -25,21 +25,21 @@
   speakers:
   - pe?ter_go?mo?ri
   conference: elixir_ldn_2017
-  video_view_count: 685
+  video_view_count: 687
   video_duration_seconds: 1575
 - video_id: cKfme8i_nO0
   talk_title: How We Created Elixir University Course
   speakers:
   - nikolay_tsvetinov
   conference: elixir_ldn_2017
-  video_view_count: 694
+  video_view_count: 695
   video_duration_seconds: 1233
 - video_id: YviCIOT7C6I
   talk_title: How to Sell Elixir
   speakers:
   - evadne_wu
   conference: elixir_ldn_2017
-  video_view_count: 1040
+  video_view_count: 1042
   video_duration_seconds: 1179
 - video_id: anGb8ByaZbc
   talk_title: Lightning Talks
@@ -58,7 +58,7 @@
   speakers:
   - brooklyn_zelenka
   conference: elixir_ldn_2017
-  video_view_count: 2424
+  video_view_count: 2431
   video_duration_seconds: 2666
 - video_id: GCATa8lkUMw
   talk_title: Introduces Her Talk
@@ -72,7 +72,7 @@
   speakers:
   - georgina_mc_fadyen
   conference: elixir_ldn_2017
-  video_view_count: 5485
+  video_view_count: 5528
   video_duration_seconds: 2537
 - video_id: KzD3Jrk_GmI
   talk_title: Women in the Coding Industry
@@ -93,12 +93,12 @@
   speakers:
   - jose_valim
   conference: elixir_ldn_2017
-  video_view_count: 6917
+  video_view_count: 6927
   video_duration_seconds: 2171
 - video_id: R5xTuw7NYg8
   talk_title: HTTP/2 Plug to Phoenix, Cowboy Too
   speakers:
   - gary_rennie
   conference: elixir_ldn_2017
-  video_view_count: 1357
+  video_view_count: 1358
   video_duration_seconds: 2581

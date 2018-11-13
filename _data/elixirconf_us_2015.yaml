@@ -48,14 +48,14 @@
   speakers:
   - nick_de_monner
   conference: elixirconf_2015
-  video_view_count: 4908
+  video_view_count: 4910
   video_duration_seconds: 2165
 - video_id: CRXNmAMPNW8
   talk_title: Streams, External Services, and OTP
   speakers:
   - ben_wilson
   conference: elixirconf_2015
-  video_view_count: 2136
+  video_view_count: 2137
   video_duration_seconds: 1646
 - video_id: A66JufPXA2c
   talk_title: A Deep Dive into Binaries
@@ -69,7 +69,7 @@
   speakers:
   - drew_olson
   conference: elixirconf_2015
-  video_view_count: 1899
+  video_view_count: 1903
   video_duration_seconds: 1542
 - video_id: KcO1ySAQUeM
   talk_title: 'Expert Panel: Elixir Fountain Live!'
@@ -111,14 +111,14 @@
   speakers:
   - garth_hitchens
   conference: elixirconf_2015
-  video_view_count: 6207
+  video_view_count: 6212
   video_duration_seconds: 2579
 - video_id: b-xwM4i62q4
   talk_title: 'Interoperability in Elixir: Dealing With the World Outside of the Beam'
   speakers:
   - james_smith
   conference: elixirconf_2015
-  video_view_count: 1369
+  video_view_count: 1371
   video_duration_seconds: 1838
 - video_id: IiP_cTfzk_o
   talk_title: Gettext for Elixir - getting serious at compile time
@@ -132,7 +132,7 @@
   speakers:
   - luke_imhoff
   conference: elixirconf_2015
-  video_view_count: 1876
+  video_view_count: 1880
   video_duration_seconds: 3177
 - video_id: eZtkDLellyM
   talk_title: Into Production
