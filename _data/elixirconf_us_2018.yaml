@@ -405,3 +405,60 @@
   video_duration_seconds: 3470
   keynote: true
   elixirforum_topic_id: 16445
+- video_id: QuHD9Q75VOE
+  talk_title: UX Design Practices for Real Time Apps
+  speakers:
+  - bailey_miller
+  - tim_mecklem
+  conference: elixirconf_usa_2018
+  video_view_count: 0
+  video_duration_seconds: 0
+  elixirforum_topic_id: 16507
+- video_id: r7tFvmFDbZE
+  talk_title: Breaking Down the User Monolith
+  speakers:
+  - zach_porter
+  conference: elixirconf_usa_2018
+  video_view_count: 0
+  video_duration_seconds: 0
+  elixirforum_topic_id: 16709
+- video_id: 6gcsjCl9ne0
+  talk_title: Using Elixir GenStage to Track Video Watch Progress
+  speakers:
+  - emerson_macedo
+  conference: elixirconf_usa_2018
+  video_view_count: 0
+  video_duration_seconds: 0
+  elixirforum_topic_id: 16836
+- video_id: CozSfI-Zepw
+  talk_title: 'Erlang/OTP: What’s in the Box?'
+  speakers:
+  - joao_britto
+  conference: elixirconf_usa_2018
+  video_view_count: 0
+  video_duration_seconds: 0
+  elixirforum_topic_id: 16860
+- video_id: 13wVIUdo6Bw
+  talk_title: Scaling Concurrency Without Getting Burned
+  speakers:
+  - alex_garibay
+  conference: elixirconf_usa_2018
+  video_view_count: 0
+  video_duration_seconds: 0
+  elixirforum_topic_id: 16912
+- video_id: 3ZO7LFELhys
+  talk_title: 'Down the Memory Lane: a Tale of Memory Leaks'
+  speakers:
+  - guilherme_de_maio
+  conference: elixirconf_usa_2018
+  video_view_count: 0
+  video_duration_seconds: 0
+  elixirforum_topic_id: 16913
+- video_id: KyRRmzP7vjI
+  talk_title: Building a Stateful Web Application with Elixir
+  speakers:
+  - enio_lopes
+  conference: elixirconf_usa_2018
+  video_view_count: 0
+  video_duration_seconds: 0
+  elixirforum_topic_id: 16914

@@ -44,6 +44,11 @@
   twitter: alexdovzhanyn
   github: alexdovzhanyn
   elixirforum: 
+- id: alex_garibay
+  full_name: Alex Garibay
+  twitter:
+  github:
+  elixirforum: alexgaribay
 - id: alex_troush
   full_name: Alex Troush
   twitter: troush69
@@ -149,6 +154,11 @@
   twitter: 
   github: 
   elixirforum: arkgil
+- id: bailey_miller
+  full_name: Bailer Miller
+  twitter:
+  github:
+  elixirforum:
 - id: ben_cates
   full_name: Ben Cates
   twitter:
@@ -449,11 +459,21 @@
   twitter:
   github:
   elixirforum:
+- id: emerson_macedo
+  full_name: Emerson Macedo
+  twitter:
+  github:
+  elixirforum: emerleite
 - id: emma_cunningham
   full_name: Emma Cunningham
   twitter: 
   github: 
   elixirforum: 
+- id: enio_lopes
+  full_name: Enio Lopes
+  twitter:
+  github:
+  elixirforum: eniolopes
 - id: eric_entin
   full_name: Eric Entin
   twitter: ericentin
@@ -789,6 +809,11 @@
   twitter: jessitron
   github: jessitron
   elixirforum: 
+- id: joao_britto
+  full_name: João Britto
+  twitter:
+  github:
+  elixirforum: britto
 - id: joao_maura
   full_name: João Maura
   twitter:
@@ -854,11 +879,6 @@
   twitter: knewter
   github: knewter
   elixirforum: knewter
-- id: robby_clement
-  full_name: Robby Clement
-  twitter:
-  github:
-  elixirforum:
 - id: josh_branchaud
   full_name: Josh Branchaud
   twitter: 
@@ -1349,6 +1369,11 @@
   twitter: 
   github: 
   elixirforum: version2beta
+- id: robby_clement
+  full_name: Robby Clement
+  twitter:
+  github:
+  elixirforum:
 - id: robert_beene
   full_name: Robert Beene
   twitter: 
@@ -1633,9 +1658,14 @@
   full_name: Yurii Rashkovskii
   twitter: yrashk
   github: yrashk
+  elixirforum: 
+- id: zach_porter
+  full_name: Zach Porter
+  twitter:
+  github:
   elixirforum:
 - id: zandra_norman
   full_name: Zandra Norman
   twitter:
   github:
-  elixirforum: 
+  elixirforum:
