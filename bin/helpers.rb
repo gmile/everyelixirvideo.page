@@ -36,30 +36,37 @@ def extract_seconds(string)
 end
 
 def update_duration(input_path)
-  video_entities = YAML.load(File.read(input_path))
-  video_ids = video_entities
+  entries = YAML.load(File.read(input_path))
+  updated_entries = []
+
+  video_ids = entries
     .select { |e| e['video_platform'] != 'vimeo' }
     .map { |e| e['video_id'] }
+    .each_slice(50)
 
-  uri = URI::HTTPS.build(
-    host: 'www.googleapis.com',
-    path: '/youtube/v3/videos/',
-    query: URI.encode_www_form({
-      id: video_ids.join(","),
-      part: "snippet,contentDetails,statistics",
-      maxResults: 50,
-      key: ENV['YOUTUBE_API_KEY']
-    })
-  )
+  video_ids.each_with_index do |slice, index|
+    uri = URI::HTTPS.build(
+      host: 'www.googleapis.com',
+      path: '/youtube/v3/videos/',
+      query: URI.encode_www_form({
+        id: slice.join(","),
+        part: "snippet,contentDetails,statistics",
+        maxResults: 50,
+        key: ENV['YOUTUBE_API_KEY']
+      })
+    )
 
-  new_entities =
-    JSON.parse(uri.read)['items'].map do |item|
-      entity = video_entities.find { |e| e['video_id'] == item['id'] }
-      entity['video_view_count'] = item['statistics']['viewCount'].to_i
-      entity['video_duration_seconds'] = extract_seconds(item['contentDetails']['duration'])
+    updated_entries +=
+      JSON.parse(uri.read)['items'].map do |item|
+        entity = entries.find { |e| e['video_id'] == item['id'] }
+        entity['video_view_count'] = item['statistics']['viewCount'].to_i
+        entity['video_duration_seconds'] = extract_seconds(item['contentDetails']['duration'])
 
-      entity
-    end
+        entity
+      end
 
-  IO.write(input_path, new_entities.to_yaml)
+    puts "#{input_path} - #{index + 1}"
+  end
+
+  IO.write(input_path, updated_entries.to_yaml)
 end
