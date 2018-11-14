@@ -29,7 +29,7 @@
   video_view_count: 6728
   video_duration_seconds: 2125
 - video_id: Bo48sQDb-hk
-  talk_title: 'Don''t Write Macros   But Do Learn How They Work '
+  talk_title: Don't Write Macros But Do Learn How They Work
   speakers:
   - jesse_j_anderson
   conference: elixirconf_usa_2017
@@ -50,7 +50,7 @@
   video_view_count: 1043
   video_duration_seconds: 3484
 - video_id: blGJ_p4plbc
-  talk_title: 'Phoenix after 100000 lines '
+  talk_title: Phoenix after 100000 lines
   speakers:
   - renan_ranelli
   conference: elixirconf_usa_2017
@@ -113,7 +113,7 @@
   video_view_count: 1319
   video_duration_seconds: 2229
 - video_id: UoSQBOP_Siw
-  talk_title: 'Keep an Eye on the Sky with Nerves and Phoenix '
+  talk_title: Keep an Eye on the Sky with Nerves and Phoenix
   speakers:
   - jeff_smith
   conference: elixirconf_usa_2017
