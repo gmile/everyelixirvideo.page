@@ -7,6 +7,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 7379
   video_duration_seconds: 4087
+  elixirforum_topic_id: 8562
 - video_id: f979XY2A2HU
   talk_title: My Journey from Go to Elixir
   speakers:
@@ -14,6 +15,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 5667
   video_duration_seconds: 2177
+  elixirforum_topic_id: 8627
 - video_id: 77FW-jrCyCs
   talk_title: Elixir Native UI
   speakers:
@@ -21,6 +23,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 5639
   video_duration_seconds: 2741
+  elixirforum_topic_id: 8653
 - video_id: YQxopjai0CU
   talk_title: Thinking In Ecto
   speakers:
@@ -28,6 +31,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 6728
   video_duration_seconds: 2125
+  elixirforum_topic_id: 8685
 - video_id: Bo48sQDb-hk
   talk_title: Don't Write Macros But Do Learn How They Work
   speakers:
@@ -35,6 +39,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 2462
   video_duration_seconds: 2049
+  elixirforum_topic_id: 8737
 - video_id: ARQD4BN_5ns
   talk_title: Building an Artificial Pancreas with Elixir and Nerves
   speakers:
@@ -42,6 +47,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 3006
   video_duration_seconds: 2486
+  elixirforum_topic_id: 8758
 - video_id: Mq_tb2fkROo
   talk_title: HTTP 2 Plug to Phoenix Cowboy too
   speakers:
@@ -49,6 +55,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1043
   video_duration_seconds: 3484
+  elixirforum_topic_id: 8787
 - video_id: blGJ_p4plbc
   talk_title: Phoenix after 100000 lines
   speakers:
@@ -56,6 +63,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 5723
   video_duration_seconds: 2424
+  elixirforum_topic_id: 8808
 - video_id: _zQ_u7o1rNo
   talk_title: Embedded Elixir for Monitoring the Built Environment
   speakers:
@@ -63,6 +71,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1020
   video_duration_seconds: 2438
+  elixirforum_topic_id: 8827
 - video_id: iswld-Rpi_g
   talk_title: Elixir by the Bellyful
   speakers:
@@ -70,6 +79,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 4378
   video_duration_seconds: 2591
+  elixirforum_topic_id: 8847
 - video_id: S2-1Rt-R2cY
   talk_title: Its Better Unstated
   speakers:
@@ -77,6 +87,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1126
   video_duration_seconds: 2250
+  elixirforum_topic_id: 8868
 - video_id: 3W2dMOQL2CM
   talk_title: Working with legacy databases in Ecto
   speakers:
@@ -84,6 +95,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 794
   video_duration_seconds: 2009
+  elixirforum_topic_id: 8893
 - video_id: kWYgrA2YshE
   talk_title: Back on Your Feet
   speakers:
@@ -91,6 +103,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 797
   video_duration_seconds: 2248
+  elixirforum_topic_id: 8919
 - video_id: 6lIVWVmuPao
   talk_title: Writing an Editor in Elixir
   speakers:
@@ -98,6 +111,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1332
   video_duration_seconds: 2287
+  elixirforum_topic_id: 8950
 - video_id: kq4qTk18N-c
   talk_title: 'rDDD & Perhap: reactive Domain Driven Design'
   speakers:
@@ -105,6 +119,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 3504
   video_duration_seconds: 2261
+  elixirforum_topic_id: 8969
 - video_id: bodV9Tk_kpQ
   talk_title: 'Cajoling the Bird: How we squeezed more out of Phoenix PubSub'
   speakers:
@@ -112,6 +127,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1319
   video_duration_seconds: 2229
+  elixirforum_topic_id: 8992
 - video_id: UoSQBOP_Siw
   talk_title: Keep an Eye on the Sky with Nerves and Phoenix
   speakers:
@@ -119,6 +135,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1720
   video_duration_seconds: 2322
+  elixirforum_topic_id: 9016
 - video_id: eNe5dmRP9Cc
   talk_title: Streaming Video with Elixir
   speakers:
@@ -126,6 +143,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1650
   video_duration_seconds: 1207
+  elixirforum_topic_id: 9053
 - video_id: RwJAETlVrvs
   talk_title: Scaling up Elixir at TpT
   speakers:
@@ -141,6 +159,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 4801
   video_duration_seconds: 3942
+  elixirforum_topic_id: 9109
 - video_id: SB0bfI8DiOM
   talk_title: ElixirBridge How Do We Shape Community
   speakers:
@@ -148,6 +167,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 395
   video_duration_seconds: 2117
+  elixirforum_topic_id: 9130
 - video_id: PEckzwggd78
   talk_title: Live APIs with GraphQL Subscriptions
   speakers:
@@ -156,6 +176,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 4327
   video_duration_seconds: 2469
+  elixirforum_topic_id: 9153
 - video_id: lQmJZVcHYds
   talk_title: Dr. ErlangOTP or How I Learned to Stop Worrying and Love `disk log`
   speakers:
@@ -163,6 +184,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1321
   video_duration_seconds: 2363
+  elixirforum_topic_id: 9179
 - video_id: fWQy7aS_gd8
   talk_title: Elixir + Neo4j
   speakers:
@@ -170,6 +192,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1044
   video_duration_seconds: 1799
+  elixirforum_topic_id: 9207
 - video_id: ENolm5T0bkU
   talk_title: Managing Tables With Elixir and OTP
   speakers:
@@ -177,6 +200,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1480
   video_duration_seconds: 1816
+  elixirforum_topic_id: 9225
 - video_id: 1dyo5hmfUXs
   talk_title: Patience Using Phoenix Presence in a Primary Care Clinic
   speakers:
@@ -184,6 +208,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1826
   video_duration_seconds: 2150
+  elixirforum_topic_id: 9251
 - video_id: 4LIXBW58yIk
   talk_title: The Power of Zero
   speakers:
@@ -191,6 +216,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 811
   video_duration_seconds: 2449
+  elixirforum_topic_id: 9288
 - video_id: TUOeFdFvOk8
   talk_title: Elixir as a first language
   speakers:
@@ -198,6 +224,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 799
   video_duration_seconds: 2110
+  elixirforum_topic_id: 9319
 - video_id: FYQcn9zcZVA
   talk_title: Well Behaved Native Implemented Functions for Elixir
   speakers:
@@ -205,6 +232,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 829
   video_duration_seconds: 2273
+  elixirforum_topic_id: 9342
 - video_id: 37V6L1EA4ac
   talk_title: Elixir The Toyota Way
   speakers:
@@ -212,6 +240,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 2127
   video_duration_seconds: 1865
+  elixirforum_topic_id: 9353
 - video_id: GFyFR5LdnrU
   talk_title: Building an Open Source, Real Time Forum with Phoenix and Elm
   speakers:
@@ -219,6 +248,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 3191
   video_duration_seconds: 2456
+  elixirforum_topic_id: 9389
 - video_id: w3lKmFsmlvQ
   talk_title: Plugging the Security Holes in Your Phoenix Application
   speakers:
@@ -226,6 +256,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1650
   video_duration_seconds: 2248
+  elixirforum_topic_id: 8565
 - video_id: Kbhl379x1cw
   talk_title: Building Realtime Mobile Apps with React Native and Elixir
   speakers:
@@ -233,6 +264,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1843
   video_duration_seconds: 2202
+  elixirforum_topic_id: 9418
 - video_id: 6ijgMvXJyuo
   talk_title: Elixir with Kafka
   speakers:
@@ -240,6 +272,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 2322
   video_duration_seconds: 1468
+  elixirforum_topic_id: 9438
 - video_id: ImcAcDBa8Dg
   talk_title: Implementing a MQTT client in Elixir
   speakers:
@@ -247,6 +280,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1081
   video_duration_seconds: 2102
+  elixirforum_topic_id: 9468
 - video_id: aLnSO6FQpHs
   talk_title: Realtime Vehicle Tracking with Elixir and Phoenix
   speakers:
@@ -254,6 +288,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 3200
   video_duration_seconds: 2322
+  elixirforum_topic_id: 9496
 - video_id: zbbK0WOvWII
   talk_title: Closing Keynote
   speakers:
@@ -262,6 +297,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 4898
   video_duration_seconds: 2896
+  elixirforum_topic_id: 9512
 - video_id: NBmNDI9OFJk
   talk_title: Elixir Power Tracing
   speakers:
@@ -276,6 +312,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 455
   video_duration_seconds: 2467
+  elixirforum_topic_id: 9563
 - video_id: oYFixITZyeA
   talk_title: Lambda Calculus in 5 mintues
   speakers:
