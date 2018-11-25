@@ -2,7 +2,7 @@
 - video_id: ZXGhsW2rEiA
   talk_title: Building high performance Erlang clients using Shackle
   speakers: 
-  - Louis-Philippe Gauthier
+  - louis_philippe_gauthier
   conference: erlang_factory_sf_2016
   video_view_count: 560
   video_duration_seconds: 2470
