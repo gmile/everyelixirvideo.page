@@ -68,5 +68,5 @@ def update_duration(input_path)
     puts "#{input_path} - #{index + 1}"
   end
 
-  IO.write(input_path, updated_entries.to_yaml)
+  IO.write(input_path, updated_entries.to_yaml(options: {line_width: -1}))
 end
