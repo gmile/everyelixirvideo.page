@@ -70,3 +70,35 @@ def update_duration(input_path)
 
   IO.write(input_path, updated_entries.to_yaml(options: {line_width: -1}))
 end
+
+def get_channel_videos(uploads_playlist_id)
+  results = []
+  next_page_token = {}
+  i = 1
+
+  while true do
+    puts i += 1
+
+    uri = URI::HTTPS.build(
+      host: 'www.googleapis.com',
+      path: '/youtube/v3/playlistItems',
+      query: URI.encode_www_form({
+        playlistId: uploads_playlist_id,
+        part: "snippet,contentDetails",
+        maxResults: 50,
+        key: ENV['YOUTUBE_API_KEY']
+      }.merge(next_page_token))
+    )
+
+    result = JSON.parse(uri.read)
+    results += result['items']
+
+    if result['items'].size < 50
+      break
+    else
+      next_page_token = {pageToken: result['nextPageToken']}
+    end
+  end
+
+  IO.write("#{uploads_playlist_id}.json", JSON.pretty_generate(results))
+end
