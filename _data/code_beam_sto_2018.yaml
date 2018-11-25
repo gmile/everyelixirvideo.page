@@ -260,13 +260,13 @@
   conference: code_beam_sto_2018
   video_view_count: 107
   video_duration_seconds: 1502
-- video_id: T7GeFt6KF4k
+- video_id: C8n3C-CNxCw
   talk_title: The quest for the best IDE
   speakers:
   - csaba_hoch
   conference: code_beam_sto_2018
-  video_view_count: 111
-  video_duration_seconds: 996
+  video_view_count: 88
+  video_duration_seconds: 995
 - video_id: XLdoEoZb6dY
   talk_title: Aeternity smart contracts
   speakers:
