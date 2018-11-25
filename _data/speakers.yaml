@@ -144,6 +144,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: ari_lerner
+  full_name: Ari Lerner
+  twitter:
+  github:
+  elixirforum:
 - id: arjan_scherpenisse
   full_name: Arjan Scherpenisse
   twitter: 
@@ -204,6 +209,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: booker_bense
+  full_name: Booker Bense
+  twitter:
+  github:
+  elixirforum:
 - id: boris_kuznetsov
   full_name: Boris Kuznetsov
   twitter: 
@@ -244,6 +254,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: brian_troutwine
+  full_name: Brian Troutwine
+  twitter:
+  github:
+  elixirforum:
 - id: brien_wankel
   full_name: Brien Wankel
   twitter:
@@ -294,6 +309,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: casey_rosenthal
+  full_name: Casey Rosenthal
+  twitter:
+  github:
+  elixirforum:
 - id: catherine_zoller
   full_name: Catherine Zoller
   twitter: 
@@ -344,6 +364,11 @@
   twitter: 
   github: 
   elixirforum: ckrailo
+- id: christopher_meiklejohn
+  full_name: Christopher Meiklejohn
+  twitter:
+  github:
+  elixirforum:
 - id: claudia_doppioslash
   full_name: Claudia Doppioslash
   twitter: 
@@ -376,6 +401,11 @@
   elixirforum: dazuma
 - id: daniel_vamosi
   full_name: Dániel Vámosi
+  twitter:
+  github:
+  elixirforum:
+- id: danni_friedland
+  full_name: Danni Friedland
   twitter:
   github:
   elixirforum:
@@ -419,6 +449,11 @@
   twitter:
   github:
   elixirforum: dnsbty
+- id: derek_brown
+  full_name: Derek Brown
+  twitter:
+  github:
+  elixirforum:
 - id: desmond_bowe
   full_name: Desmond Bowe
   twitter: 
@@ -794,6 +829,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: jeremy_pierre
+  full_name: Jeremy Pierre
+  twitter:
+  github:
+  elixirforum:
 - id: jesse_j_anderson
   full_name: Jesse J. Anderson
   twitter: jessejanderson
@@ -959,6 +999,11 @@
   twitter: 
   github: 
   elixirforum: rockwood
+- id: kevin_smith
+  full_name: Kevin Smith
+  twitter:
+  github:
+  elixirforum:
 - id: kofi_gumbs
   full_name: Kofi Gumbs
   twitter: 
@@ -1014,6 +1059,11 @@
   twitter: louispilfold
   github: lpil
   elixirforum: lpil
+- id: lukas_larsson
+  full_name: Lukas Larsson
+  twitter:
+  github:
+  elixirforum:
 - id: luke_imhoff
   full_name: Luke Imhoff
   twitter: KronicDeth
@@ -1654,6 +1704,11 @@
   twitter: fxn
   github: fxn
   elixirforum: fxn
+- id: yoshihiro_tanaka
+  full_name: Yoshihiro Tanaka
+  twitter:
+  github:
+  elixirforum:
 - id: yurii_rashkovskii
   full_name: Yurii Rashkovskii
   twitter: yrashk

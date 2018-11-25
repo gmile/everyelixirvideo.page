@@ -1,0 +1,187 @@
+---
+- video_id: D3IftRUQgqc
+  talk_title: Flexible Elixir
+  speakers:
+  - claudio_ortolina
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 1216
+  video_duration_seconds: 1964
+- video_id: cljFpz_cv2E
+  talk_title: Alpaca Static Typing on the BEAM
+  speakers:
+  - jeremy_pierre
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 1580
+  video_duration_seconds: 2735
+- video_id: 6maj55n9dAo
+  talk_title: Billions of Events Per Day with Elixir
+  speakers:
+  - danni_friedland
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 2847
+  video_duration_seconds: 2495
+- video_id: Peg7E-nTrOY
+  talk_title: Empowering devices for IoT with Erlang and FPGA
+  speakers:
+  - irina_guberman
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 1637
+  video_duration_seconds: 2695
+- video_id: pwoaJvrJE_U
+  talk_title: Keynote - Piecemeal Into Space Reliability Safety and Erlang Principles
+  speakers:
+  - brian_troutwine
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 989
+  video_duration_seconds: 3449
+  keynote: true
+- video_id: Ich_G1z44pQ
+  talk_title: News From The OTP Team
+  speakers:
+  - lukas_larsson
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 1132
+  video_duration_seconds: 797
+- video_id: 7Y3jy4_l9N4
+  talk_title: 'Lightning Talk: ehelper Erlang documentation in iex'
+  speakers:
+  - booker_bense
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 161
+  video_duration_seconds: 484
+  lightning: true
+- video_id: hcGkT3Czd7U
+  talk_title: 'Lightning Talk: Exploiting Constant Pool with Merl'
+  speakers:
+  - yoshihiro_tanaka
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 229
+  video_duration_seconds: 258
+  lightning: true
+- video_id: ynVPhzgPBFo
+  talk_title: 'Lightning Talk: Talking to Machine'
+  speakers:
+  - robert_beene
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 145
+  video_duration_seconds: 328
+  lightning: true
+- video_id: fpBI6HP_xf8
+  talk_title: 'Lightning Talk: Smashing Passivity'
+  speakers:
+  - kevin_smith
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 127
+  video_duration_seconds: 370
+  lightning: true
+- video_id: zVcv27m8zgY
+  talk_title: 'Lightning Talk: Just-Right Consistency: Closing The CAP Gap'
+  speakers:
+  - christopher_meiklejohn
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 216
+  video_duration_seconds: 195
+  lightning: true
+- video_id: pd1vM54coZg
+  talk_title: 'Lightning Talk: Code like it''s 1999'
+  speakers:
+  - dave_thomas
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 307
+  video_duration_seconds: 92
+  lightning: true
+- video_id: rbzyi5bcPoY
+  talk_title: 'Lightning Talk: This is the wrong tool'
+  speakers:
+  - ley_missailidis
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 250
+  video_duration_seconds: 270
+  lightning: true
+- video_id: SGw_MACpYZM
+  talk_title: 'Lightning Talk: Mr White Erlang Interpreter for Whitespace'
+  speakers:
+  - derek_brown
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 222
+  video_duration_seconds: 315
+  lightning: true
+- video_id: JmTFJ8FEBvk
+  talk_title: 'Lightning Talk: Plug static Is directory listing module for Plug Phoenix'
+  speakers:
+  - kenji_rikitake
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 138
+  video_duration_seconds: 196
+  lightning: true
+- video_id: rX6tC5K_XaI
+  talk_title: Stateful Web Apps with Phoenix and OTP
+  speakers:
+  - hannah_howard
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 2985
+  video_duration_seconds: 2878
+- video_id: Trhc5bygwFc
+  talk_title: How Elixir Made Us Better Programmers
+  speakers:
+  - ari_lerner
+  - anna_neyzberg
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 1007
+  video_duration_seconds: 1793
+- video_id: zlZdOwAWcbo
+  talk_title: From Front End to Full Stack with Elixir & Phoenix
+  speakers:
+  - lauren_tan
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 2198
+  video_duration_seconds: 2553
+- video_id: AcehOqbwhPk
+  talk_title: Lisp Machine Flavors for LFE implementing objects on Erlang OTP
+  speakers:
+  - robert_virding
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 754
+  video_duration_seconds: 2537
+- video_id: lHJgYCwp2Kc
+  talk_title: Loquat A Design for Large Scale Distributed Applications
+  speakers:
+  - christopher_meiklejohn
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 604
+  video_duration_seconds: 2790
+- video_id: l5OODJ71qOs
+  talk_title: The ABCs of OTP
+  speakers:
+  - jesse_j_anderson
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 95
+  video_duration_seconds: 2540
+- video_id: ncedupb-Rqw
+  talk_title: Erlang Performance Lab
+  speakers:
+  - michal_slaski
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 1677
+  video_duration_seconds: 2863
+- video_id: _ploxRVSlN0
+  talk_title: Chaos at Netflix
+  speakers:
+  - casey_rosenthal
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 1743
+  video_duration_seconds: 2532
+- video_id: KM9ESvnl4iU
+  talk_title: How to Design a Software Library
+  speakers:
+  - andrea_leopardi
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 648
+  video_duration_seconds: 2294
+- video_id: F073GDdAHBQ
+  talk_title: Responding to Cyber Attack at Machine Speed
+  speakers:
+  - duncan_sparrell
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 385
+  video_duration_seconds: 2434
