@@ -4,49 +4,49 @@
   speakers:
   - rob_conery
   conference: elixirdaze_2018
-  video_view_count: 2426
+  video_view_count: 2472
   video_duration_seconds: 1899
 - video_id: KmUtemvokSk
   talk_title: 'Why Elixir Matters: A Genealogy of Functional Programming'
   speakers:
   - osa_gaius
   conference: elixirdaze_2018
-  video_view_count: 1309
+  video_view_count: 1331
   video_duration_seconds: 2314
 - video_id: _h6A2MMFXgg
   talk_title: Making Noise
   speakers:
   - ben_marx
   conference: elixirdaze_2018
-  video_view_count: 493
+  video_view_count: 497
   video_duration_seconds: 2529
 - video_id: CmMMpaUD3g8
   talk_title: Consistent, Distributed Elixir
   speakers:
   - chris_keathley
   conference: elixirdaze_2018
-  video_view_count: 4588
+  video_view_count: 4764
   video_duration_seconds: 2457
 - video_id: 1AskDD9rPwQ
   talk_title: Crypto + Concurrency
   speakers:
   - anna_neyzberg
   conference: elixirdaze_2018
-  video_view_count: 486
+  video_view_count: 492
   video_duration_seconds: 2521
 - video_id: XIzsy4vSxtc
   talk_title: A Deep Dive Into Hex
   speakers:
   - todd_resudek
   conference: elixirdaze_2018
-  video_view_count: 337
+  video_view_count: 342
   video_duration_seconds: 2499
 - video_id: dwphyQmD6n8
   talk_title: Format Your Elixir Code Now
   speakers:
   - jake_worth
   conference: elixirdaze_2018
-  video_view_count: 575
+  video_view_count: 579
   video_duration_seconds: 2464
 - video_id: 0ePs5m3kYZM
   talk_title: Is Security on Your Nerves?
@@ -60,54 +60,54 @@
   speakers:
   - amos_king
   conference: elixirdaze_2018
-  video_view_count: 513
+  video_view_count: 514
   video_duration_seconds: 2952
 - video_id: _PLCqBm8vQU
   talk_title: The Hitchhiker’s Guide to the Unexpected
   speakers:
   - fred_hebert
   conference: elixirdaze_2018
-  video_view_count: 1379
+  video_view_count: 1410
   video_duration_seconds: 2729
 - video_id: HbPwoFX2XJg
   talk_title: 'Taking Elixir to the Metal '
   speakers:
   - sonny_scroggin
   conference: elixirdaze_2018
-  video_view_count: 903
+  video_view_count: 915
   video_duration_seconds: 2796
 - video_id: Z0Z4wu4CPgQ
   talk_title: Build your very own web framework in Elixir
   speakers:
   - german_velasco
   conference: elixirdaze_2018
-  video_view_count: 1383
+  video_view_count: 1414
   video_duration_seconds: 1930
 - video_id: AnItzpAkk6o
   talk_title: Purify your web development with Raxx
   speakers:
   - peter_saxton
   conference: elixirdaze_2018
-  video_view_count: 1060
+  video_view_count: 1087
   video_duration_seconds: 2029
 - video_id: l3VgbSgo71E
   talk_title: Building Beautiful Systems with Phoenix contexts and Domain-Driven Design
   speakers:
   - andrew_hao
   conference: elixirdaze_2018
-  video_view_count: 5941
+  video_view_count: 6166
   video_duration_seconds: 2327
 - video_id: 6kMw_IsLPvk
   talk_title: 'Become a Test Whisperer: what are your tests are telling you?'
   speakers:
   - jeffrey_matthias
   conference: elixirdaze_2018
-  video_view_count: 504
+  video_view_count: 512
   video_duration_seconds: 1793
 - video_id: hUpdgWVaQR4
   talk_title: 'Don’t let it crash: safe and convenient error handling with Exceptional'
   speakers:
   - brooklyn_zelenka
   conference: elixirdaze_2018
-  video_view_count: 690
+  video_view_count: 707
   video_duration_seconds: 2432

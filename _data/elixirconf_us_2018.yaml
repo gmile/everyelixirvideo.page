@@ -1,10 +1,11 @@
 ---
 - video_id: w4xMarVUZQ4
-  talk_title: You Can Never Debug the Code You Run, But You Can View the Code the Debugger is Running
+  talk_title: You Can Never Debug the Code You Run, But You Can View the Code the
+    Debugger is Running
   speakers:
   - luke_imhoff
   conference: elixirconf_usa_2018
-  video_view_count: 2889
+  video_view_count: 3015
   video_duration_seconds: 2419
   elixirforum_topic_id: 16470
 - video_id: 1IOobarmwQg
@@ -12,7 +13,7 @@
   speakers:
   - lance_halvorsen
   conference: elixirconf_usa_2018
-  video_view_count: 1136
+  video_view_count: 1166
   video_duration_seconds: 2698
   elixirforum_topic_id: 16468
 - video_id: lfxPxRyci_c
@@ -20,7 +21,7 @@
   speakers:
   - catherine_zoller
   conference: elixirconf_usa_2018
-  video_view_count: 441
+  video_view_count: 470
   video_duration_seconds: 1903
   elixirforum_topic_id: 16612
 - video_id: McaT9IsLnes
@@ -28,7 +29,7 @@
   speakers:
   - justus_eapen
   conference: elixirconf_usa_2018
-  video_view_count: 427
+  video_view_count: 451
   video_duration_seconds: 1796
   elixirforum_topic_id: 16580
 - video_id: Hyzuo3ByaLg
@@ -36,7 +37,7 @@
   speakers:
   - maciej_kaszubowski
   conference: elixirconf_usa_2018
-  video_view_count: 405
+  video_view_count: 426
   video_duration_seconds: 1994
   elixirforum_topic_id: 16614
 - video_id: Ue--hvFzr0o
@@ -44,7 +45,7 @@
   speakers:
   - aaron_renner
   conference: elixirconf_usa_2018
-  video_view_count: 1206
+  video_view_count: 1250
   video_duration_seconds: 2529
   elixirforum_topic_id: 16579
 - video_id: 1bQlc-K6vN0
@@ -52,7 +53,7 @@
   speakers:
   - david_schainker
   conference: elixirconf_usa_2018
-  video_view_count: 467
+  video_view_count: 493
   video_duration_seconds: 2034
   elixirforum_topic_id: 16613
 - video_id: cbCnTKVLuu8
@@ -60,7 +61,7 @@
   speakers:
   - todd_resudek
   conference: elixirconf_usa_2018
-  video_view_count: 329
+  video_view_count: 351
   video_duration_seconds: 2495
   elixirforum_topic_id: 16654
 - video_id: m7TWMFtDwHg
@@ -69,7 +70,7 @@
   - jose_valim
   keynote: true
   conference: elixirconf_usa_2018
-  video_view_count: 1158
+  video_view_count: 1181
   video_duration_seconds: 3475
   elixirforum_topic_id: 16422
 - video_id: oIAbmVrjZS8
@@ -77,7 +78,7 @@
   speakers:
   - frank_kumro
   conference: elixirconf_usa_2018
-  video_view_count: 531
+  video_view_count: 549
   video_duration_seconds: 2265
   elixirforum_topic_id: 16624
 - video_id: _ANg28Pello
@@ -85,7 +86,7 @@
   speakers:
   - ben_marx
   conference: elixirconf_usa_2018
-  video_view_count: 640
+  video_view_count: 661
   video_duration_seconds: 2343
   elixirforum_topic_id: 16625
 - video_id: m26i1L2D7Yk
@@ -93,7 +94,7 @@
   speakers:
   - aaron_votre
   conference: elixirconf_usa_2018
-  video_view_count: 950
+  video_view_count: 1027
   video_duration_seconds: 1802
   elixirforum_topic_id: 16623
 - video_id: YAGbvulsIGE
@@ -101,7 +102,7 @@
   speakers:
   - mathew_gardner
   conference: elixirconf_usa_2018
-  video_view_count: 406
+  video_view_count: 420
   video_duration_seconds: 1984
   elixirforum_topic_id: 16646
 - video_id: GmPXNc8jlKQ
@@ -109,7 +110,7 @@
   speakers:
   - anil_wadghule
   conference: elixirconf_usa_2018
-  video_view_count: 692
+  video_view_count: 738
   video_duration_seconds: 2462
   elixirforum_topic_id: 16644
 - video_id: bL7DNGhQ5js
@@ -117,15 +118,16 @@
   speakers:
   - aish_dahal
   conference: elixirconf_usa_2018
-  video_view_count: 283
+  video_view_count: 293
   video_duration_seconds: 2280
   elixirforum_topic_id: 16581
 - video_id: ycpNi701aCs
-  talk_title: 'Architecting Flow in Elixir: From Leveraging Pipes to Designing Token APIs'
+  talk_title: 'Architecting Flow in Elixir: From Leveraging Pipes to Designing Token
+    APIs'
   speakers:
   - rene_fohring
   conference: elixirconf_usa_2018
-  video_view_count: 837
+  video_view_count: 870
   video_duration_seconds: 2525
   elixirforum_topic_id: 16509
 - video_id: suOzNeMJXl0
@@ -134,7 +136,7 @@
   - jose_valim
   keynote: true
   conference: elixirconf_usa_2018
-  video_view_count: 4810
+  video_view_count: 5066
   video_duration_seconds: 3475
   elixirforum_topic_id: 16442
 - video_id: bit9IckehSM
@@ -143,7 +145,7 @@
   - chris_freeze
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 387
+  video_view_count: 401
   video_duration_seconds: 220
   elixirforum_topic_id: 16672
 - video_id: Q-GmJ3I-Ctc
@@ -152,7 +154,7 @@
   - vince_foley
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 266
+  video_view_count: 274
   video_duration_seconds: 184
   elixirforum_topic_id: 16673
 - video_id: 6V1FO1xGitU
@@ -161,7 +163,7 @@
   - dave_aronson
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 191
+  video_view_count: 198
   video_duration_seconds: 291
   elixirforum_topic_id: 16674
 - video_id: 6_obNxEnwF8
@@ -170,7 +172,7 @@
   - alex_dovzhanyn
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 307
+  video_view_count: 324
   video_duration_seconds: 279
   elixirforum_topic_id: 16675
 - video_id: fcx5fpot5a8
@@ -179,7 +181,7 @@
   - eric_oestrich
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 215
+  video_view_count: 230
   video_duration_seconds: 182
   elixirforum_topic_id: 16676
 - video_id: DTHSQ6PyDiI
@@ -189,7 +191,7 @@
   - jeremy_dewar
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 412
+  video_view_count: 423
   video_duration_seconds: 337
   elixirforum_topic_id: 16677
 - video_id: EMBUrruCmLQ
@@ -198,7 +200,7 @@
   - moxley_stratton
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 362
+  video_view_count: 370
   video_duration_seconds: 246
   elixirforum_topic_id: 16678
 - video_id: XMAZd9qhlyY
@@ -207,7 +209,7 @@
   - doug_wright
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 285
+  video_view_count: 297
   video_duration_seconds: 282
   elixirforum_topic_id: 16679
 - video_id: 0conIU_L-Yo
@@ -216,7 +218,7 @@
   - tian_chen
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 274
+  video_view_count: 287
   video_duration_seconds: 301
   elixirforum_topic_id: 16729
 - video_id: 2Oar5CGpZGY
@@ -225,7 +227,7 @@
   - jeffrey_gillis
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 237
+  video_view_count: 251
   video_duration_seconds: 162
   elixirforum_topic_id: 16730
 - video_id: lyNF2ksqo0k
@@ -235,7 +237,7 @@
   - christopher_krailo
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 152
+  video_view_count: 165
   video_duration_seconds: 293
   elixirforum_topic_id: 16731
 - video_id: qwAAgI56JLg
@@ -244,7 +246,7 @@
   - jay_ashe
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 177
+  video_view_count: 193
   video_duration_seconds: 293
   elixirforum_topic_id: 16732
 - video_id: Khf5yUY-UX0
@@ -253,7 +255,7 @@
   - javier_evans
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 181
+  video_view_count: 193
   video_duration_seconds: 253
   elixirforum_topic_id: 16733
 - video_id: 6et_LSGuUQU
@@ -262,7 +264,7 @@
   - luke_imhoff
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 168
+  video_view_count: 180
   video_duration_seconds: 122
   elixirforum_topic_id: 16734
 - video_id: 1CAqWHhMPjE
@@ -271,7 +273,7 @@
   - chris_ertel
   lightning: true
   conference: elixirconf_usa_2018
-  video_view_count: 246
+  video_view_count: 256
   video_duration_seconds: 337
   elixirforum_topic_id: 16735
 - video_id: O9VhFJewv5w
@@ -280,15 +282,16 @@
   - justin_schneck
   keynote: true
   conference: elixirconf_usa_2018
-  video_view_count: 1387
+  video_view_count: 1451
   video_duration_seconds: 2134
   elixirforum_topic_id: 16444
 - video_id: 3sLYzxuKGXI
-  talk_title: 'Behavior Trees and Battleship: Tapping into the Power of Advanced Data Structures'
+  talk_title: 'Behavior Trees and Battleship: Tapping into the Power of Advanced Data
+    Structures'
   speakers:
   - jeff_schomay
   conference: elixirconf_usa_2018
-  video_view_count: 521
+  video_view_count: 550
   video_duration_seconds: 2113
   elixirforum_topic_id: 16785
 - video_id: 9XRe1ce5eak
@@ -296,7 +299,7 @@
   speakers:
   - andrew_bennett
   conference: elixirconf_usa_2018
-  video_view_count: 410
+  video_view_count: 425
   video_duration_seconds: 2102
   elixirforum_topic_id: 16787
 - video_id: OVLTHGaTi7k
@@ -304,7 +307,7 @@
   speakers:
   - michael_stalker
   conference: elixirconf_usa_2018
-  video_view_count: 578
+  video_view_count: 606
   video_duration_seconds: 2262
   elixirforum_topic_id: 16765
 - video_id: hqaxMZAwbBA
@@ -312,15 +315,16 @@
   speakers:
   - renan_ranelli
   conference: elixirconf_usa_2018
-  video_view_count: 571
+  video_view_count: 589
   video_duration_seconds: 2388
   elixirforum_topic_id: 16763
 - video_id: ESRjkG5f7wg
-  talk_title: 'Event Sourcing in Real World Applications: Challenges, Successes and Lessons Learned'
+  talk_title: 'Event Sourcing in Real World Applications: Challenges, Successes and
+    Lessons Learned'
   speakers:
   - james_smith
   conference: elixirconf_usa_2018
-  video_view_count: 1389
+  video_view_count: 1484
   video_duration_seconds: 2434
   elixirforum_topic_id: 16764
 - video_id: 7mTrpKoOMVY
@@ -328,7 +332,7 @@
   speakers:
   - anna_neyzberg
   conference: elixirconf_usa_2018
-  video_view_count: 257
+  video_view_count: 273
   video_duration_seconds: 1486
   elixirforum_topic_id: 16469
 - video_id: GorU5oEbf-c
@@ -336,7 +340,7 @@
   speakers:
   - fahad_almusharraf
   conference: elixirconf_usa_2018
-  video_view_count: 314
+  video_view_count: 318
   video_duration_seconds: 2104
   elixirforum_topic_id: 16508
 - video_id: lCUKQnkjajo
@@ -344,7 +348,7 @@
   speakers:
   - eric_oestrich
   conference: elixirconf_usa_2018
-  video_view_count: 860
+  video_view_count: 919
   video_duration_seconds: 2442
   elixirforum_topic_id: 16805
 - video_id: llHPNc18-hg
@@ -353,7 +357,7 @@
   - rafal_studnicki
   - simon_zelazny
   conference: elixirconf_usa_2018
-  video_view_count: 462
+  video_view_count: 475
   video_duration_seconds: 2320
   elixirforum_topic_id: 16807
 - video_id: 1QNxLNMq3Uw
@@ -361,7 +365,7 @@
   speakers:
   - boyd_multerer
   conference: elixirconf_usa_2018
-  video_view_count: 5854
+  video_view_count: 6254
   video_duration_seconds: 2543
   elixirforum_topic_id: 16835
 - video_id: nLApFANtkHs
@@ -369,7 +373,7 @@
   speakers:
   - daniel_azuma
   conference: elixirconf_usa_2018
-  video_view_count: 2202
+  video_view_count: 2361
   video_duration_seconds: 2333
   elixirforum_topic_id: 16806
 - video_id: GI6pYIlhgr0
@@ -377,7 +381,7 @@
   speakers:
   - jerel_unruh
   conference: elixirconf_usa_2018
-  video_view_count: 455
+  video_view_count: 475
   video_duration_seconds: 2193
   elixirforum_topic_id: 16837
 - video_id: NWgwUKfR8Xg
@@ -385,7 +389,7 @@
   speakers:
   - dan_mc_guire
   conference: elixirconf_usa_2018
-  video_view_count: 899
+  video_view_count: 931
   video_duration_seconds: 1972
   elixirforum_topic_id: 16862
 - video_id: kpcieBD5Vag
@@ -393,7 +397,7 @@
   speakers:
   - jeffrey_gillis
   conference: elixirconf_usa_2018
-  video_view_count: 540
+  video_view_count: 592
   video_duration_seconds: 1795
   elixirforum_topic_id: 16861
 - video_id: Z2DU0qLfPIY
@@ -401,7 +405,7 @@
   speakers:
   - chris_mc_cord
   conference: elixirconf_usa_2018
-  video_view_count: 11735
+  video_view_count: 12378
   video_duration_seconds: 3470
   keynote: true
   elixirforum_topic_id: 16445
@@ -411,7 +415,7 @@
   - bailey_miller
   - tim_mecklem
   conference: elixirconf_usa_2018
-  video_view_count: 770
+  video_view_count: 771
   video_duration_seconds: 2334
   elixirforum_topic_id: 16507
 - video_id: r7tFvmFDbZE
@@ -419,7 +423,7 @@
   speakers:
   - zach_porter
   conference: elixirconf_usa_2018
-  video_view_count: 1257
+  video_view_count: 1304
   video_duration_seconds: 2014
   elixirforum_topic_id: 16709
 - video_id: 6gcsjCl9ne0
@@ -427,7 +431,7 @@
   speakers:
   - emerson_macedo
   conference: elixirconf_usa_2018
-  video_view_count: 638
+  video_view_count: 686
   video_duration_seconds: 2574
   elixirforum_topic_id: 16836
 - video_id: CozSfI-Zepw
@@ -435,7 +439,7 @@
   speakers:
   - joao_britto
   conference: elixirconf_usa_2018
-  video_view_count: 914
+  video_view_count: 969
   video_duration_seconds: 2306
   elixirforum_topic_id: 16860
 - video_id: 13wVIUdo6Bw
@@ -443,7 +447,7 @@
   speakers:
   - alex_garibay
   conference: elixirconf_usa_2018
-  video_view_count: 1049
+  video_view_count: 1107
   video_duration_seconds: 1765
   elixirforum_topic_id: 16912
 - video_id: 3ZO7LFELhys
@@ -451,7 +455,7 @@
   speakers:
   - guilherme_de_maio
   conference: elixirconf_usa_2018
-  video_view_count: 324
+  video_view_count: 332
   video_duration_seconds: 1624
   elixirforum_topic_id: 16913
 - video_id: KyRRmzP7vjI
@@ -459,6 +463,6 @@
   speakers:
   - enio_lopes
   conference: elixirconf_usa_2018
-  video_view_count: 1536
+  video_view_count: 1615
   video_duration_seconds: 2140
   elixirforum_topic_id: 16914

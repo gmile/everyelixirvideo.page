@@ -4,28 +4,28 @@
   speakers:
   - anton_lavrik
   conference: code_beam_sto_2018
-  video_view_count: 548
+  video_view_count: 576
   video_duration_seconds: 2382
 - video_id: kHzmrWD7iEY
   talk_title: 'ForgETS: a globally distributed database'
   speakers:
   - mikhail_vorontsov
   conference: code_beam_sto_2018
-  video_view_count: 333
+  video_view_count: 351
   video_duration_seconds: 2241
 - video_id: TZzfZoTUc_0
   talk_title: A genealogy of Functional Programming
   speakers:
   - osa_gaius
   conference: code_beam_sto_2018
-  video_view_count: 77
+  video_view_count: 80
   video_duration_seconds: 1494
 - video_id: 5T9aqVGNK6c
   talk_title: News from the OTP team
   speakers:
   - kenneth_lundin
   conference: code_beam_sto_2018
-  video_view_count: 207
+  video_view_count: 212
   video_duration_seconds: 1160
 - video_id: XbadmGbZoX0
   talk_title: APRS-IS servers on the BEAM - amateur radio
@@ -40,14 +40,14 @@
   - peer_stritzinger
   - adam_lindberg
   conference: code_beam_sto_2018
-  video_view_count: 190
+  video_view_count: 196
   video_duration_seconds: 1939
 - video_id: 077-XJv6PLQ
   talk_title: How Cisco is using Erlang for intent-based networking
   speakers:
   - johan_bevemyr
   conference: code_beam_sto_2018
-  video_view_count: 376
+  video_view_count: 388
   video_duration_seconds: 1701
 - video_id: J-hO-mLY59k
   talk_title: A one minute talk summary
@@ -55,14 +55,14 @@
   - peer_stritzinger
   - adam_lindberg
   conference: code_beam_sto_2018
-  video_view_count: 31
+  video_view_count: 32
   video_duration_seconds: 81
 - video_id: QWm_ekBUKYI
   talk_title: 'Making It Lazy: never evaluate anything more than once'
   speakers:
   - simon_thompson
   conference: code_beam_sto_2018
-  video_view_count: 165
+  video_view_count: 167
   video_duration_seconds: 2398
 - video_id: Y55dP9sZstE
   talk_title: A one minute talk summary
@@ -76,14 +76,14 @@
   speakers:
   - torben_hoffmann
   conference: code_beam_sto_2018
-  video_view_count: 132
+  video_view_count: 136
   video_duration_seconds: 2293
 - video_id: "-gybrBRECpE"
   talk_title: 'Opencensus: a stats collection and distributed tracing framework'
   speakers:
   - iliia_khaprov
   conference: code_beam_sto_2018
-  video_view_count: 137
+  video_view_count: 143
   video_duration_seconds: 1122
 - video_id: MFs_yqVmJb4
   talk_title: What are poll sets and why they matter
@@ -97,14 +97,14 @@
   speakers:
   - juan_facorro
   conference: code_beam_sto_2018
-  video_view_count: 291
+  video_view_count: 296
   video_duration_seconds: 2106
 - video_id: BcXQ2qaEzNI
   talk_title: Getting to the BEAM, without going through Erlang
   speakers:
   - kofi_gumbs
   conference: code_beam_sto_2018
-  video_view_count: 175
+  video_view_count: 182
   video_duration_seconds: 1473
 - video_id: RBbtxf47emo
   talk_title: Expressive Power on the BEAM
@@ -132,35 +132,35 @@
   speakers:
   - michal_muskala
   conference: code_beam_sto_2018
-  video_view_count: 122
+  video_view_count: 131
   video_duration_seconds: 2117
 - video_id: RT4p_g0SLUU
   talk_title: Ecto - database library for Elixir
   speakers:
   - eric_meadows_jonsson
   conference: code_beam_sto_2018
-  video_view_count: 105
+  video_view_count: 121
   video_duration_seconds: 2148
 - video_id: zvCZdzLTEqQ
   talk_title: 'Update: Elixir core dev team'
   speakers:
   - andrea_leopardi
   conference: code_beam_sto_2018
-  video_view_count: 97
+  video_view_count: 99
   video_duration_seconds: 790
 - video_id: NhglLzLtt4I
   talk_title: What do you mean I have to secure this thing?
   speakers:
   - chad_gibbons
   conference: code_beam_sto_2018
-  video_view_count: 69
+  video_view_count: 75
   video_duration_seconds: 1805
 - video_id: 7Xbcat2O7K4
   talk_title: How Elixir changed the Ukrainian healthcare system
   speakers:
   - alex_troush
   conference: code_beam_sto_2018
-  video_view_count: 153
+  video_view_count: 156
   video_duration_seconds: 1263
 - video_id: 1FRe-qGlo-o
   talk_title: Crypto + concurrency
@@ -174,35 +174,35 @@
   speakers:
   - pawel_antemijczuk
   conference: code_beam_sto_2018
-  video_view_count: 46
+  video_view_count: 47
   video_duration_seconds: 1013
 - video_id: 2dP9LCdGBPU
   talk_title: Using Erlang in Blockchain Development
   speakers:
   - ulf_wiger
   conference: code_beam_sto_2018
-  video_view_count: 75
+  video_view_count: 88
   video_duration_seconds: 2460
 - video_id: 2IXgecLsA9g
   talk_title: Developer tools using the language server protocol
   speakers:
   - vlad_dumitrescu
   conference: code_beam_sto_2018
-  video_view_count: 72
+  video_view_count: 78
   video_duration_seconds: 1445
 - video_id: aWnGPaputGE
   talk_title: 'Beyond state machines: services as petri nets - Code BEAM STO'
   speakers:
   - jorgen_brandt
   conference: code_beam_sto_2018
-  video_view_count: 138
+  video_view_count: 150
   video_duration_seconds: 2017
 - video_id: rcALww6M9Jk
   talk_title: Using Barrel to build your own P2P data platform
   speakers:
   - benoit_chesneau
   conference: code_beam_sto_2018
-  video_view_count: 35
+  video_view_count: 37
   video_duration_seconds: 1224
 - video_id: 0CAE1N6Ik6A
   talk_title: 'Simple is beautiful: building an SLA monitoring tool at PagerDuty'
@@ -216,49 +216,49 @@
   speakers:
   - josef_svenningsson
   conference: code_beam_sto_2018
-  video_view_count: 54
+  video_view_count: 57
   video_duration_seconds: 2373
 - video_id: F_YUyd_Qdjs
   talk_title: No(de) discovery without DNS & EPMD
   speakers:
   - timmo_verlaan
   conference: code_beam_sto_2018
-  video_view_count: 54
+  video_view_count: 56
   video_duration_seconds: 1389
 - video_id: _4MTIffWhYI
   talk_title: Gen_statem - the tool you never knew you always wanted
   speakers:
   - raimo_niskanen
   conference: code_beam_sto_2018
-  video_view_count: 157
+  video_view_count: 168
   video_duration_seconds: 2436
 - video_id: sdUT2Sb03Rs
   talk_title: Researching with Erlang
   speakers:
   - natalia_chechina
   conference: code_beam_sto_2018
-  video_view_count: 123
+  video_view_count: 127
   video_duration_seconds: 1859
 - video_id: TCiHqF_XTmE
   talk_title: Riak 3.0 and efficient anti-entropy
   speakers:
   - martin_sumner
   conference: code_beam_sto_2018
-  video_view_count: 178
+  video_view_count: 186
   video_duration_seconds: 2244
 - video_id: bWrKUm8mr2A
   talk_title: 'Erliot: monitoring and control of smart connected devices'
   speakers:
   - guy_a_narboni
   conference: code_beam_sto_2018
-  video_view_count: 38
+  video_view_count: 39
   video_duration_seconds: 2230
 - video_id: 3pDppYurT_k
   talk_title: Evolution of garbage collector
   speakers:
   - boris_kuznetsov
   conference: code_beam_sto_2018
-  video_view_count: 105
+  video_view_count: 107
   video_duration_seconds: 1502
 - video_id: T7GeFt6KF4k
   talk_title: The quest for the best IDE
@@ -273,28 +273,28 @@
   - erik_stenman
   - tobias_lindahl
   conference: code_beam_sto_2018
-  video_view_count: 153
+  video_view_count: 156
   video_duration_seconds: 2010
 - video_id: excmcS6Id2E
   talk_title: Sagas of Elixir
   speakers:
   - andrew_dryga
   conference: code_beam_sto_2018
-  video_view_count: 173
+  video_view_count: 183
   video_duration_seconds: 994
 - video_id: hBjkeJ-q_9Y
   talk_title: Taking it to the metal
   speakers:
   - sonny_scroggin
   conference: code_beam_sto_2018
-  video_view_count: 72
+  video_view_count: 76
   video_duration_seconds: 2336
 - video_id: VoDjN84jav0
   talk_title: Logger a new API for logging
   speakers:
   - kenneth_lundin
   conference: code_beam_sto_2018
-  video_view_count: 73
+  video_view_count: 75
   video_duration_seconds: 1784
 - video_id: Vwm70nbLT9M
   talk_title: Choosing which company to start
@@ -308,47 +308,47 @@
   speakers:
   - ingela_anderton_andin
   conference: code_beam_sto_2018
-  video_view_count: 73
+  video_view_count: 76
   video_duration_seconds: 1726
 - video_id: oOYiXGYTq2E
   talk_title: 'Open Source: The Third Decade'
   speakers:
   - simon_phipps
   conference: code_beam_sto_2018
-  video_view_count: 34
+  video_view_count: 35
   video_duration_seconds: 3171
 - video_id: nk3RpnsVKO8
   talk_title: 'Raxx: refined web development'
   speakers:
   - peter_saxton
   conference: code_beam_sto_2018
-  video_view_count: 90
+  video_view_count: 92
   video_duration_seconds: 1656
 - video_id: zklO7xMvZ34
   talk_title: Property-Based Testing in Blockchain and P2P Networks
   speakers:
   - thomas_arts
   conference: code_beam_sto_2018
-  video_view_count: 161
+  video_view_count: 163
   video_duration_seconds: 1090
 - video_id: 3FNnXMrWCSY
   talk_title: From a web application to a distributed system
   speakers:
   - gianluca_padovani
   conference: code_beam_sto_2018
-  video_view_count: 194
+  video_view_count: 205
   video_duration_seconds: 2348
 - video_id: Kg9l595hRg4
   talk_title: 'Stateful webhooks: what are they good for?'
   speakers:
   - nathan_herald
   conference: code_beam_sto_2018
-  video_view_count: 77
+  video_view_count: 81
   video_duration_seconds: 1405
 - video_id: 3_tC52JNASo
   talk_title: Unsung Heroes of the BEAM
   speakers:
   - miriam_pena
   conference: code_beam_sto_2018
-  video_view_count: 84
+  video_view_count: 85
   video_duration_seconds: 1738

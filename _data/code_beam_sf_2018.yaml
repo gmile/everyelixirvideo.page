@@ -5,21 +5,21 @@
   - miriam_pena
   keynote: true
   conference: code_beam_sf_2018
-  video_view_count: 1762
+  video_view_count: 1787
   video_duration_seconds: 2139
 - video_id: hHhm0bfdj-4
   talk_title: Update OTP Team
   speakers:
   - raimo_niskanen
   conference: code_beam_sf_2018
-  video_view_count: 683
+  video_view_count: 690
   video_duration_seconds: 845
 - video_id: LJx6mUEFAqQ
   talk_title: A Reflection on Building the WhatsApp Server
   speakers:
   - anton_lavrik
   conference: code_beam_sf_2018
-  video_view_count: 2125
+  video_view_count: 2172
   video_duration_seconds: 2825
 - video_id: l4ISqxmZQtE
   talk_title: Update Elixir Core Dev Team
@@ -33,7 +33,7 @@
   speakers:
   - bryan_hughes
   conference: code_beam_sf_2018
-  video_view_count: 151
+  video_view_count: 153
   video_duration_seconds: 1474
 - video_id: SLgMXDD_KRg
   talk_title: Quantum Computing Exposed - Schrödinger's Grumpy Cat
@@ -47,7 +47,7 @@
   speakers:
   - raimo_niskanen
   conference: code_beam_sf_2018
-  video_view_count: 713
+  video_view_count: 726
   video_duration_seconds: 2299
 - video_id: AXY0d0YXQSU
   talk_title: Packaging for Production
@@ -68,7 +68,7 @@
   speakers:
   - osa_gaius
   conference: code_beam_sf_2018
-  video_view_count: 311
+  video_view_count: 327
   video_duration_seconds: 2385
 - video_id: dPDAFFSKS18
   talk_title: Building and Integrating A Data Platform
@@ -83,28 +83,28 @@
   - brett_cameron
   - david_brinnen
   conference: code_beam_sf_2018
-  video_view_count: 156
+  video_view_count: 160
   video_duration_seconds: 2547
 - video_id: hxLh0qFX9oI
   talk_title: Opaque Structures and Other Yerbas
   speakers:
   - brujo_benavides
   conference: code_beam_sf_2018
-  video_view_count: 230
+  video_view_count: 232
   video_duration_seconds: 1217
 - video_id: dYDdnZoH0uk
   talk_title: 'Introducing Wrek: A Library For Executing Dependency Graphs'
   speakers:
   - richard_kallos
   conference: code_beam_sf_2018
-  video_view_count: 125
+  video_view_count: 132
   video_duration_seconds: 1097
 - video_id: S_WtnSrfR5s
   talk_title: Metaprogramming - Programs that Write Programs
   speakers:
   - jay_hayes
   conference: code_beam_sf_2018
-  video_view_count: 218
+  video_view_count: 219
   video_duration_seconds: 2502
 - video_id: lWIeZlNoVSQ
   talk_title: Learning Elixir Better through Collaboration and Giving Back
@@ -125,14 +125,14 @@
   speakers:
   - duncan_sparrell
   conference: code_beam_sf_2018
-  video_view_count: 395
+  video_view_count: 405
   video_duration_seconds: 2736
 - video_id: S9RlMhru29I
   talk_title: Intro to Machine Learning
   speakers:
   - jesse_j_anderson
   conference: code_beam_sf_2018
-  video_view_count: 362
+  video_view_count: 369
   video_duration_seconds: 2744
 - video_id: yZO6FkkdJEg
   talk_title: 'Hype For Types: Using Dialyzer to bring type checking to your Elixir
@@ -140,91 +140,91 @@
   speakers:
   - emma_cunningham
   conference: code_beam_sf_2018
-  video_view_count: 326
+  video_view_count: 337
   video_duration_seconds: 1797
 - video_id: S3f6sAXa3-c
   talk_title: CQRS and Event Sourcing
   speakers:
   - bernardo_amorim
   conference: code_beam_sf_2018
-  video_view_count: 1650
+  video_view_count: 1697
   video_duration_seconds: 1470
 - video_id: DP6wYYQ90QI
   talk_title: Is Security on Your Nerves
   speakers:
   - paul_rogers
   conference: code_beam_sf_2018
-  video_view_count: 102
+  video_view_count: 103
   video_duration_seconds: 2721
 - video_id: VXsqvfPIdWg
   talk_title: 'Aeternity: Scalable Smart Contracts'
   speakers:
   - erik_stenman
   conference: code_beam_sf_2018
-  video_view_count: 631
+  video_view_count: 635
   video_duration_seconds: 1535
 - video_id: peKLuq-tdQo
   talk_title: High Performance Metrics Through Mutable Counters
   speakers:
   - irina_guberman
   conference: code_beam_sf_2018
-  video_view_count: 180
+  video_view_count: 182
   video_duration_seconds: 1678
 - video_id: W0BR_tWZChQ
   talk_title: The Hitchhiker's Guide to the Unexpected
   speakers:
   - fred_hebert
   conference: code_beam_sf_2018
-  video_view_count: 1325
+  video_view_count: 1361
   video_duration_seconds: 2609
 - video_id: X6dmjopTrLE
   talk_title: Crypto + Concurrency
   speakers:
   - anna_neyzberg
   conference: code_beam_sf_2018
-  video_view_count: 168
+  video_view_count: 170
   video_duration_seconds: 2046
 - video_id: 3Q_pR1-v1eo
   talk_title: wxErlang & Faithful Representation
   speakers:
   - robert_carbone
   conference: code_beam_sf_2018
-  video_view_count: 269
+  video_view_count: 276
   video_duration_seconds: 2368
 - video_id: QnHYWNfvV2c
   talk_title: Bridging The Physical and Blockchain World With Erlang
   speakers:
   - andrew_thompson
   conference: code_beam_sf_2018
-  video_view_count: 323
+  video_view_count: 331
   video_duration_seconds: 1509
 - video_id: uv-3ptTD8hg
   talk_title: Wide World of Actors
   speakers:
   - scott_lystig_fritchie
   conference: code_beam_sf_2018
-  video_view_count: 1081
+  video_view_count: 1090
   video_duration_seconds: 2645
 - video_id: F86JXaCPowo
   talk_title: Taking Erlang Elixir to the Metal
   speakers:
   - sonny_scroggin
   conference: code_beam_sf_2018
-  video_view_count: 563
+  video_view_count: 570
   video_duration_seconds: 2578
 - video_id: L7OTjuCIZc0
   talk_title: A Tour Through the Distributed System Zoo
   speakers:
   - mariano_guerra
   conference: code_beam_sf_2018
-  video_view_count: 574
+  video_view_count: 584
   video_duration_seconds: 2811
 - video_id: hd8IQRm0Q1k
   talk_title: Fighting Authoritarianism With Blockchain And Blockweaves
   speakers:
   - sam_williams
   conference: code_beam_sf_2018
-  video_view_count: 364
+  video_view_count: 370
   video_duration_seconds: 2635
 - video_id: lN_KFDyjmnY
   talk_title: Spells, Hexes, and Charms Running your Own Private Package Service
@@ -238,35 +238,35 @@
   speakers:
   - christopher_cote
   conference: code_beam_sf_2018
-  video_view_count: 541
+  video_view_count: 559
   video_duration_seconds: 2476
 - video_id: BSPVrOR85fo
   talk_title: 'Unreachable Code: A Conversation about Safety and Human Factors'
   speakers:
   - jessica_de_vita
   conference: code_beam_sf_2018
-  video_view_count: 121
+  video_view_count: 123
   video_duration_seconds: 2851
 - video_id: OS94i3cF6mY
   talk_title: 'Releases and Elixir: Envisioning a more perfect union'
   speakers:
   - paul_schoenfelder
   conference: code_beam_sf_2018
-  video_view_count: 415
+  video_view_count: 418
   video_duration_seconds: 2796
 - video_id: enbksvAko98
   talk_title: A GraphQL-on-Elixir Primer
   speakers:
   - bruce_williams
   conference: code_beam_sf_2018
-  video_view_count: 1217
+  video_view_count: 1237
   video_duration_seconds: 2712
 - video_id: 2PQ8OIE8lOM
   talk_title: 'Erlang In Action: Creating Scalable Edge Based Iot Solution'
   speakers:
   - murali_kashaboina
   conference: code_beam_sf_2018
-  video_view_count: 466
+  video_view_count: 472
   video_duration_seconds: 2718
 - video_id: NAdCxr6C4DI
   talk_title: Trusted Autonomy
@@ -280,7 +280,7 @@
   speakers:
   - simon_thompson
   conference: code_beam_sf_2018
-  video_view_count: 206
+  video_view_count: 208
   video_duration_seconds: 2575
 - video_id: vogAxP4Sq_g
   talk_title: Mixing in Elixir to Build Search
@@ -301,42 +301,42 @@
   speakers:
   - boshan_sun
   conference: code_beam_sf_2018
-  video_view_count: 291
+  video_view_count: 296
   video_duration_seconds: 1599
 - video_id: wN0jqAHmqXc
   talk_title: Getting to Know Your Rabbit
   speakers:
   - brett_cameron
   conference: code_beam_sf_2018
-  video_view_count: 150
+  video_view_count: 151
   video_duration_seconds: 2310
 - video_id: kwHtlmyxE6c
   talk_title: Release, Deploy, Monitor and Upgrade Elixir Services in Real World
   speakers:
   - tian_chen
   conference: code_beam_sf_2018
-  video_view_count: 716
+  video_view_count: 723
   video_duration_seconds: 2214
 - video_id: 4-vJeCmkCZE
   talk_title: Testing Tools for the Erlang Ecosystem
   speakers:
   - kostis_sagonas
   conference: code_beam_sf_2018
-  video_view_count: 211
+  video_view_count: 215
   video_duration_seconds: 3097
 - video_id: 1e6ktNUQuGs
   talk_title: Gently Down the Stream
   speakers:
   - geoffrey_lessel
   conference: code_beam_sf_2018
-  video_view_count: 170
+  video_view_count: 171
   video_duration_seconds: 1147
 - video_id: CiSNwmDj6ls
   talk_title: Designing Rich API Clients at Scale
   speakers:
   - jeff_ching
   conference: code_beam_sf_2018
-  video_view_count: 108
+  video_view_count: 115
   video_duration_seconds: 2305
 - video_id: "-I_jE0l7sYQ"
   talk_title: The Forgotten Ideas in Computer Science
@@ -344,7 +344,7 @@
   - joe_armstrong
   keynote: true
   conference: code_beam_sf_2018
-  video_view_count: 7053
+  video_view_count: 7180
   video_duration_seconds: 2976
 - video_id: lkAbwmn5Rv8
   talk_title: Implementing Languages on the BEAM
@@ -352,5 +352,5 @@
   - robert_virding
   - mariano_guerra
   conference: code_beam_sf_2018
-  video_view_count: 509
+  video_view_count: 518
   video_duration_seconds: 2661

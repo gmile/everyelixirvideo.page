@@ -11,14 +11,14 @@
   speakers:
   - niall_burkley
   conference: lonestar_elixirconf_2018
-  video_view_count: 517
+  video_view_count: 523
   video_duration_seconds: 2429
 - video_id: X2u0bBqhRKE
   talk_title: Why Elixir Matters A Genealogy of Functional Programming
   speakers:
   - osa_gaius
   conference: lonestar_elixirconf_2018
-  video_view_count: 84
+  video_view_count: 89
   video_duration_seconds: 2882
 - video_id: WvYtaVW4ACo
   talk_title: Keynote
@@ -26,14 +26,14 @@
   - aaron_patterson
   conference: lonestar_elixirconf_2018
   keynote: true
-  video_view_count: 1185
+  video_view_count: 1194
   video_duration_seconds: 2846
 - video_id: jcWcQ3uXsS4
   talk_title: Consistent Distributed Elixir
   speakers:
   - chris_keathley
   conference: lonestar_elixirconf_2018
-  video_view_count: 105
+  video_view_count: 106
   video_duration_seconds: 2521
 - video_id: ewW0RER9oJM
   talk_title: lightning_talks_3
@@ -49,7 +49,7 @@
   conference: lonestar_elixirconf_2018
   lightning: true
   processed: false
-  video_view_count: 149
+  video_view_count: 150
   video_duration_seconds: 355
 - video_id: aidnd-_eTTE
   talk_title: Lightning Talks
@@ -71,14 +71,14 @@
   speakers:
   - dennis_beatty
   conference: lonestar_elixirconf_2018
-  video_view_count: 472
+  video_view_count: 492
   video_duration_seconds: 1968
 - video_id: ufDuqrKd2fo
   talk_title: The Next Phase of Elixir Deployment Tools
   speakers:
   - paul_schoenfelder
   conference: lonestar_elixirconf_2018
-  video_view_count: 819
+  video_view_count: 833
   video_duration_seconds: 2519
 - video_id: czcQhdXBI4M
   talk_title: Wrap up
@@ -92,21 +92,21 @@
   speakers:
   - brien_wankel
   conference: lonestar_elixirconf_2018
-  video_view_count: 346
+  video_view_count: 349
   video_duration_seconds: 3334
 - video_id: zDIoFWwfBO0
   talk_title: Let's Talk Process Dictionary
   speakers:
   - greg_vaughn
   conference: lonestar_elixirconf_2018
-  video_view_count: 293
+  video_view_count: 295
   video_duration_seconds: 2681
 - video_id: V3iBgStaPmA
   talk_title: Managing state in distributed Elixir
   speakers:
   - jerel_unruh
   conference: lonestar_elixirconf_2018
-  video_view_count: 839
+  video_view_count: 844
   video_duration_seconds: 1994
 - video_id: y8373byme_Q
   talk_title: Keynote
@@ -114,7 +114,7 @@
   - tim_mecklem
   conference: lonestar_elixirconf_2018
   keynote: true
-  video_view_count: 311
+  video_view_count: 316
   video_duration_seconds: 2621
 - video_id: qhXjq3XU9_I
   talk_title: Day 1 Keynote
@@ -122,12 +122,12 @@
   - chris_mc_cord
   conference: lonestar_elixirconf_2018
   keynote: true
-  video_view_count: 220
+  video_view_count: 223
   video_duration_seconds: 3387
 - video_id: FWPcslL-tNs
   talk_title: Elixir is for Startups
   speakers:
   - angle_jose
   conference: lonestar_elixirconf_2018
-  video_view_count: 642
+  video_view_count: 644
   video_duration_seconds: 2527

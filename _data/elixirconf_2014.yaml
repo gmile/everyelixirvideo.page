@@ -18,14 +18,14 @@
   speakers:
   - stephen_pallen
   conference: elixirconf_2014
-  video_view_count: 1334
+  video_view_count: 1337
   video_duration_seconds: 2969
 - video_id: rt8h_xeESLg
   talk_title: Erlang Rationale
   speakers:
   - robert_virding
   conference: elixirconf_2014
-  video_view_count: 2234
+  video_view_count: 2240
   video_duration_seconds: 2967
 - video_id: hxNalzuBbSw
   talk_title: Fear and the Evolution of Languages
@@ -47,14 +47,14 @@
   - josh_adams
   - robby_clement
   conference: elixirconf_2014
-  video_view_count: 4041
+  video_view_count: 4043
   video_duration_seconds: 3038
 - video_id: aZXc11eOEpI
   talk_title: 'Keynote: Elixir'
   speakers:
   - jose_valim
   conference: elixirconf_2014
-  video_view_count: 9150
+  video_view_count: 9155
   video_duration_seconds: 3572
   keynote: true
 - video_id: 5hDVftaPQwY
@@ -62,7 +62,7 @@
   speakers:
   - dave_thomas
   conference: elixirconf_2014
-  video_view_count: 19003
+  video_view_count: 19017
   video_duration_seconds: 3348
   keynote: true
 - video_id: 5LRDICEETRE
@@ -70,21 +70,21 @@
   speakers:
   - martin_schurrer
   conference: elixirconf_2014
-  video_view_count: 5333
+  video_view_count: 5341
   video_duration_seconds: 1654
 - video_id: 3jMbzGv_6tA
   talk_title: Rise of The Phoenix - Building an Elixir Web Framework
   speakers:
   - chris_mc_cord
   conference: elixirconf_2014
-  video_view_count: 15211
+  video_view_count: 15219
   video_duration_seconds: 2653
 - video_id: W9BOAuM20NI
   talk_title: The Excitement of Elixir
   speakers:
   - devin_torres
   conference: elixirconf_2014
-  video_view_count: 1137
+  video_view_count: 1139
   video_duration_seconds: 1940
 - video_id: ptZHBePX0oI
   talk_title: The First Few Sips
@@ -98,12 +98,12 @@
   speakers:
   - francesco_cesarini
   conference: elixirconf_2014
-  video_view_count: 6743
+  video_view_count: 6750
   video_duration_seconds: 2949
 - video_id: 7l_fDU86pr4
   talk_title: Writing Command Line Applications with Elixir
   speakers:
   - james_smith
   conference: elixirconf_2014
-  video_view_count: 3377
+  video_view_count: 3384
   video_duration_seconds: 1946

@@ -20,14 +20,14 @@
   speakers:
   - thomas_arts
   conference: elixirconf_eu_2015
-  video_view_count: 1766
+  video_view_count: 1768
   video_duration_seconds: 2586
 - video_id: xT8vDHIvurs
   talk_title: Individualized Content at Web-scale
   speakers:
   - michael_schaefermeyer
   conference: elixirconf_eu_2015
-  video_view_count: 3966
+  video_view_count: 3972
   video_duration_seconds: 3452
 - video_id: e_QefYcKkfk
   talk_title: Collaborative Web-based Tetris with Phoenix
@@ -41,7 +41,7 @@
   speakers:
   - torben_hoffmann
   conference: elixirconf_eu_2015
-  video_view_count: 1267
+  video_view_count: 1270
   video_duration_seconds: 2887
 - video_id: snka1bAtZS0
   talk_title: Ecto
@@ -55,14 +55,14 @@
   speakers:
   - martin_kavalar
   conference: elixirconf_eu_2015
-  video_view_count: 2960
+  video_view_count: 2964
   video_duration_seconds: 1804
 - video_id: lho1e04Gzzs
   talk_title: Rewriting a Ruby application in Elixir
   speakers:
   - claudio_ortolina
   conference: elixirconf_eu_2015
-  video_view_count: 2009
+  video_view_count: 2012
   video_duration_seconds: 2689
 - video_id: TkCftBMJyy0
   talk_title: Lessons from Erlang VM
@@ -76,7 +76,7 @@
   speakers:
   - sasa_juric
   conference: elixirconf_eu_2015
-  video_view_count: 1291
+  video_view_count: 1297
   video_duration_seconds: 2370
 - video_id: h_HtO8KPvsM
   talk_title: One project rebuilt 4 times
@@ -92,12 +92,12 @@
   - francesco_cesarini
   - viktoria_fordos
   conference: elixirconf_eu_2015
-  video_view_count: 630
+  video_view_count: 631
   video_duration_seconds: 2062
 - video_id: NrrUyRt_B1w
   talk_title: 'Chat Bot: A Practical Walkthrough of the powerful Features Elixir/Erlang/OTP'
   speakers:
   - jeff_weiss
   conference: elixirconf_eu_2015
-  video_view_count: 2753
+  video_view_count: 2755
   video_duration_seconds: 1968

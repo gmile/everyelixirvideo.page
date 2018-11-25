@@ -4,35 +4,35 @@
   speakers:
   - chris_mc_cord
   conference: lonestar_elixirconf_2017
-  video_view_count: 33131
+  video_view_count: 33224
   video_duration_seconds: 3104
 - video_id: pVHhmqYozOM
   talk_title: Opening Keynote
   speakers:
   - justin_schneck
   conference: lonestar_elixirconf_2017
-  video_view_count: 2742
+  video_view_count: 2749
   video_duration_seconds: 3346
 - video_id: L1-amhlGk7c
   talk_title: Closing Keynote
   speakers:
   - dave_thomas
   conference: lonestar_elixirconf_2017
-  video_view_count: 4323
+  video_view_count: 4329
   video_duration_seconds: 3844
 - video_id: 5injICmmVII
   talk_title: How we Build Vutuv
   speakers:
   - stefan_wintermeyer
   conference: lonestar_elixirconf_2017
-  video_view_count: 1664
+  video_view_count: 1667
   video_duration_seconds: 1785
 - video_id: vbPbulimWLk
   talk_title: Creating a Nerves-based Status Monitor
   speakers:
   - andrew_selder
   conference: lonestar_elixirconf_2017
-  video_view_count: 1783
+  video_view_count: 1788
   video_duration_seconds: 1970
 - video_id: xzY1C_O3gDk
   talk_title: The NeverEnding Application
@@ -40,21 +40,21 @@
   - james_edward_gray_ii
   - paul_dawson
   conference: lonestar_elixirconf_2017
-  video_view_count: 1281
+  video_view_count: 1285
   video_duration_seconds: 2626
 - video_id: 9sdQA0BV4b8
   talk_title: Raspberry Pi Cluster with the Power of Elixir
   speakers:
   - ricardo_echavarria
   conference: lonestar_elixirconf_2017
-  video_view_count: 1914
+  video_view_count: 1922
   video_duration_seconds: 1058
 - video_id: QRdZDcYq9-Y
   talk_title: Leveling up your Phoenix Projects with OTP
   speakers:
   - nico_mihalich
   conference: lonestar_elixirconf_2017
-  video_view_count: 5108
+  video_view_count: 5132
   video_duration_seconds: 2127
 - video_id: LrJpzTvJrMc
   talk_title: Holistically built and tested APIs
@@ -68,34 +68,34 @@
   speakers:
   - luke_imhoff
   conference: lonestar_elixirconf_2017
-  video_view_count: 3037
+  video_view_count: 3053
   video_duration_seconds: 1918
 - video_id: eXiWPiePX2E
   talk_title: Using Elixirscript
   speakers:
   - bryan_joseph
   conference: lonestar_elixirconf_2017
-  video_view_count: 1447
+  video_view_count: 1454
   video_duration_seconds: 2085
 - video_id: PWJpSRUJDwk
   talk_title: Using Ecto outside of Phoenix
   speakers:
   - geoffrey_lessel
   conference: lonestar_elixirconf_2017
-  video_view_count: 1836
+  video_view_count: 1846
   video_duration_seconds: 2669
 - video_id: W58ltqTajYU
   talk_title: 'Elixir Adoption at Scale: A Comprehensive Guide'
   speakers:
   - ben_marx
   conference: lonestar_elixirconf_2017
-  video_view_count: 2627
+  video_view_count: 2632
   video_duration_seconds: 2270
 - video_id: MlqgjoRzhPA
   talk_title: Lightning Talks
   speakers:
   - various_presenters
   conference: lonestar_elixirconf_2017
-  video_view_count: 1307
+  video_view_count: 1308
   video_duration_seconds: 2239
   processed: false
