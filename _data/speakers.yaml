@@ -59,6 +59,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: alvaro_videla
+  full_name: Alvaro Videla
+  twitter:
+  github:
+  elixirforum:
 - id: amos_king
   full_name: Amos King
   twitter: adkron
@@ -319,6 +324,11 @@
   twitter: 
   github: 
   elixirforum: cathyzoller
+- id: chad_curry
+  full_name: Chad Curry
+  twitter:
+  github:
+  elixirforum:
 - id: chad_gibbons
   full_name: Chad Gibbons
   twitter: 
@@ -524,6 +534,11 @@
   twitter: 
   github: 
   elixirforum: oestrich
+- id: eric_sage
+  full_name: Eric Sage
+  twitter:
+  github:
+  elixirforum:
 - id: eric_weinstein
   full_name: Eric Weinstein
   twitter: 
@@ -554,6 +569,11 @@
   twitter: evadne
   github: evadne
   elixirforum: 
+- id: evan_czaplicki
+  full_name: Evan Czaplicki
+  twitter:
+  github:
+  elixirforum:
 - id: fahad_almusharraf
   full_name: Fahad Almusharraf
   twitter: 
@@ -604,6 +624,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: garret_smith
+  full_name: Garret Smith
+  twitter:
+  github:
+  elixirforum:
 - id: garth_hitchens
   full_name: Garth Hitchens
   twitter: ghitchens
@@ -674,6 +699,11 @@
   twitter: 
   github: 
   elixirforum: hannahhoward
+- id: hernan_rivas_acosta
+  full_name: Hernán Rivas Acosta
+  twitter:
+  github:
+  elixirforum:
 - id: ian_duggan
   full_name: Ian Duggan
   twitter: 
@@ -744,6 +774,11 @@
   twitter: 
   github: 
   elixirforum: jamonholmgren
+- id: jamshid_mahdavi
+  full_name: Jamshid Mahdavi
+  twitter:
+  github:
+  elixirforum:
 - id: jane_walderud
   full_name: Jane Walderud
   twitter: 
@@ -874,6 +909,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: john_hughes
+  full_name: John Hughes
+  twitter:
+  github:
+  elixirforum:
 - id: john_kelly
   full_name: John Kelly
   twitter: 
@@ -1004,6 +1044,11 @@
   twitter:
   github:
   elixirforum:
+- id: keynote
+  full_name: Keynote
+  twitter:
+  github:
+  elixirforum:
 - id: kofi_gumbs
   full_name: Kofi Gumbs
   twitter: 
@@ -1054,6 +1099,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: louis_philippe_gauthier
+  full_name: Louis-Philippe Gauthier
+  twitter:
+  github:
+  elixirforum:
 - id: louis_pilfold
   full_name: Louis Pilfold
   twitter: louispilfold
@@ -1076,6 +1126,11 @@
   elixirforum: mkaszubowski
 - id: magnus_rex
   full_name: Magnus Rex
+  twitter:
+  github:
+  elixirforum:
+- id: marc_sugiyama
+  full_name: Marc Sugiyama
   twitter:
   github:
   elixirforum:
@@ -1344,6 +1399,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: peter_hamilton
+  full_name: Peter Hamilton
+  twitter:
+  github:
+  elixirforum:
 - id: peter_saxton
   full_name: Peter Saxton
   twitter: crowdhailer
@@ -1529,6 +1589,11 @@
   twitter: 
   github: pzel
   elixirforum: 
+- id: siva_yerramreddy
+  full_name: Siva Yerramreddy
+  twitter:
+  github:
+  elixirforum:
 - id: sonny_scroggin
   full_name: Sonny Scroggin
   twitter: scrogson
@@ -1634,6 +1699,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: tristan_sloughter
+  full_name: Tristan Sloughter
+  twitter:
+  github:
+  elixirforum:
 - id: troels_brodsgaard
   full_name: Troels Brødsgaard
   twitter: 
@@ -1704,6 +1774,11 @@
   twitter: fxn
   github: fxn
   elixirforum: fxn
+- id: yinghai_lu
+  full_name: Yinghai Lu
+  twitter:
+  github:
+  elixirforum:
 - id: yoshihiro_tanaka
   full_name: Yoshihiro Tanaka
   twitter:
