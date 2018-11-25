@@ -151,6 +151,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 633
   video_duration_seconds: 1870
+  elixirforum_topic_id: 9082
 - video_id: Wa7_I_pc0yo
   talk_title: Day 2 Morning Keynote
   speakers:
@@ -305,6 +306,7 @@
   conference: elixirconf_usa_2017
   video_view_count: 1180
   video_duration_seconds: 2901
+  elixirforum_topic_id: 9530
 - video_id: jkFyz2LbdKg
   talk_title: Idea Scaling
   speakers:
