@@ -185,3 +185,96 @@
   conference: elixir_and_erlang_factory_sf_2017
   video_view_count: 385
   video_duration_seconds: 2434
+- video_id: A76hM3MpEKo
+  talk_title: Transforming Programming
+  speakers:
+  - dave_thomas
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 8432
+  video_duration_seconds: 2806
+- video_id: YplkQu6a80Q
+  talk_title: Orchestrating Chaos Applying Database Research in the Wild
+  speakers:
+  - peter_alvaro
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 773
+  video_duration_seconds: 2638
+- video_id: sgFwhJduA-s
+  talk_title: Elm and Phoenix Two FP Flavors That Taste Great Together
+  speakers:
+  - josh_adams
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 5772
+  video_duration_seconds: 2872
+- video_id: aIGVOFwYtHE
+  talk_title: Building Devices with Elixir Erlang using Nerves
+  speakers:
+  - justin_schneck
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 2412
+  video_duration_seconds: 2430
+- video_id: oTAgcR-rMMc
+  talk_title: Instrumenting the World with the BEAM
+  speakers:
+  - christopher_cote
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 718
+  video_duration_seconds: 2749
+- video_id: BO-8Hx8kPtA
+  talk_title: Building a web app in Erlang - yes you heard me right I said Erlang not Elixir
+  speakers:
+  - garrett_smith
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 14473
+  video_duration_seconds: 2475
+- video_id: SpH9BTMZKXc
+  talk_title: 'Keynote: Welcome Inside the Head of Larry Wall'
+  speakers:
+  - joe_armstrong
+  - larry_wall
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 3721
+  video_duration_seconds: 3102
+  keynote: true
+- video_id: trpueWn8DIM
+  talk_title: Realtime Data Pipelines with Elixir GenStage
+  speakers:
+  - peter_hastie
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 3618
+  video_duration_seconds: 2739
+- video_id: 41hNS39Xi8s
+  talk_title: Debugging Code that Crashes the BEAM
+  speakers:
+  - richard_kallos
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 364
+  video_duration_seconds: 2272
+- video_id: PtgD5WRzcy4
+  talk_title: Tracing JIT Compiler
+  speakers:
+  - lukas_larsson
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 1276
+  video_duration_seconds: 2652
+- video_id: Grr_PAwdY2c
+  talk_title: Instrumenting and Testing High Performance Switching Fabric for IoT
+  speakers:
+  - vladan_djakovic
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 340
+  video_duration_seconds: 2316
+- video_id: F3ETR4rXZco
+  talk_title: 5 Hobby Projects
+  speakers:
+  - joe_armstrong
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 4371
+  video_duration_seconds: 2633
+- video_id: uQY6yD2Lw-g
+  talk_title: Wireless Embedded Erlang Applications with Grisp Hardware Boards and Toolchain
+  speakers:
+  - peer_stritzinger
+  conference: elixir_and_erlang_factory_sf_2017
+  video_view_count: 977
+  video_duration_seconds: 2703

@@ -654,6 +654,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: garrett_smith
+  full_name: Garrett Smith
+  twitter:
+  github:
+  elixirforum:
 - id: garth_hitchens
   full_name: Garth Hitchens
   twitter: ghitchens
@@ -1114,6 +1119,11 @@
   twitter: 
   github: 
   elixirforum: lance
+- id: larry_wall
+  full_name: Larry Wall
+  twitter:
+  github:
+  elixirforum:
 - id: laszlo_bacsi
   full_name: Laszlo Bacsi
   twitter: 
@@ -1459,6 +1469,11 @@
   twitter: 
   github: 
   elixirforum: gamache
+- id: peter_alvaro
+  full_name: Peter Alvaro
+  twitter:
+  github:
+  elixirforum:
 - id: peter_go?mo?ri
   full_name: Peter Gömöri
   twitter: 
@@ -1469,6 +1484,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: peter_hastie
+  full_name: Peter Hastie
+  twitter:
+  github:
+  elixirforum:
 - id: peter_saxton
   full_name: Peter Saxton
   twitter: crowdhailer
@@ -1819,6 +1839,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: vladan_djakovic
+  full_name: Vladan Djakovic
+  twitter:
+  github:
+  elixirforum:
 - id: volker_rabe
   full_name: Volker Rabe
   twitter: 
