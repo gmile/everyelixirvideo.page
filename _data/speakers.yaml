@@ -554,6 +554,11 @@
   twitter: emjii
   github: ericmj
   elixirforum: ericmj
+- id: eric_merritt
+  full_name: Eric Merritt
+  twitter:
+  github:
+  elixirforum:
 - id: eric_oestrich
   full_name: Eric Oestrich
   twitter: 
@@ -649,16 +654,11 @@
   twitter: 
   github: 
   elixirforum: 
-- id: garret_smith
-  full_name: Garret Smith
+- id: garrett_smith
+  full_name: Garrett Smith
   twitter: 
   github: 
   elixirforum: 
-- id: garrett_smith
-  full_name: Garrett Smith
-  twitter:
-  github:
-  elixirforum:
 - id: garth_hitchens
   full_name: Garth Hitchens
   twitter: ghitchens
@@ -1029,6 +1029,11 @@
   twitter: 
   github: 
   elixirforum: sotojuan
+- id: julian_squires
+  full_name: Julian Squires
+  twitter:
+  github:
+  elixirforum:
 - id: jusabe_guedes
   full_name: Jusabe Guedes
   twitter: 
@@ -1419,6 +1424,16 @@
   twitter: 
   github: 
   elixirforum: 
+- id: panagiotis_papadomitsos
+  full_name: Panagiotis Papadomitsos
+  twitter:
+  github:
+  elixirforum:
+- id: panel
+  full_name: Panel
+  twitter:
+  github:
+  elixirforum:
 - id: paul_dawson
   full_name: Paul Dawson
   twitter: 
@@ -1729,6 +1744,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: susan_potter
+  full_name: Susan Potter
+  twitter:
+  github:
+  elixirforum:
 - id: svilen_gospodinov
   full_name: Svilen Gospodinov
   twitter: 
@@ -1904,3 +1924,8 @@
   twitter: 
   github: 
   elixirforum: 
+- id: zeeshan_lakhani
+  full_name: Zeeshan Lakhani
+  twitter:
+  github:
+  elixirforum:

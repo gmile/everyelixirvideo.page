@@ -1,7 +1,7 @@
 ---
 - video_id: ZXGhsW2rEiA
   talk_title: Building high performance Erlang clients using Shackle
-  speakers: 
+  speakers:
   - louis_philippe_gauthier
   conference: erlang_factory_sf_2016
   video_view_count: 560
@@ -15,7 +15,7 @@
   video_duration_seconds: 2189
 - video_id: dG7oKcOEFZY
   talk_title: What We Talk About When We Talk About Distributed Systems
-  speakers: 
+  speakers:
   - alvaro_videla
   conference: erlang_factory_sf_2016
   video_view_count: 491
@@ -29,7 +29,7 @@
   video_duration_seconds: 3135
 - video_id: SPZV2h_r4U0
   talk_title: 'High Performance Erlang: Pitfalls and Solutions'
-  speakers: 
+  speakers:
   - yinghai_lu
   - siva_yerramreddy
   conference: erlang_factory_sf_2016
@@ -66,7 +66,7 @@
   video_duration_seconds: 2471
 - video_id: JtjYC8kDRy4
   talk_title: Build Scientific Computing Infrastructure with Rebar3 and Docker
-  speakers: 
+  speakers:
   - eric_sage
   conference: erlang_factory_sf_2016
   video_view_count: 1464
@@ -74,7 +74,7 @@
 - video_id: BRi2rDOlPcc
   talk_title: Here Be Dragons Charting Parse Transforms In Erlang
   speakers:
-  - garret_smith
+  - garrett_smith
   conference: erlang_factory_sf_2016
   video_view_count: 671
   video_duration_seconds: 3226
@@ -149,3 +149,99 @@
   conference: erlang_factory_sf_2016
   video_view_count: 766
   video_duration_seconds: 2044
+- video_id: xRSFJH3Lw6I
+  talk_title: Erlang On NixOS. Managing And Releasing Erlang Systems In The Cloud With A Fully Declarative Package Manager
+  speakers:
+  - eric_merritt
+  conference: erlang_factory_sf_2016
+  video_view_count: 1373
+  video_duration_seconds: 2384
+- video_id: yhit4YykcLQ
+  talk_title: Designing With Passion
+  speakers:
+  - joe_armstrong
+  - evan_czaplicki
+  - bruce_tate
+  - dave_thomas
+  - john_hughes
+  conference: erlang_factory_sf_2016
+  video_view_count: 833
+  video_duration_seconds: 2435
+- video_id: xiPnLACtNeo
+  talk_title: Scaling RPC Calls In Erlang And Elixir
+  speakers:
+  - panagiotis_papadomitsos
+  conference: erlang_factory_sf_2016
+  video_view_count: 1125
+  video_duration_seconds: 2829
+- video_id: 5Qkqs2oNboA
+  talk_title: What If Your NIF Goes Adrift
+  speakers:
+  - julian_squires
+  conference: erlang_factory_sf_2016
+  video_view_count: 471
+  video_duration_seconds: 2569
+- video_id: oaq7OUq7QyI
+  talk_title: It's An Evolution! It's An Evolution!
+  speakers:
+  - johnny_winn
+  conference: erlang_factory_sf_2016
+  video_view_count: 622
+  video_duration_seconds: 2295
+- video_id: iW2J7Of8jsE
+  talk_title: Testing Asynchronous APIs With QuickCheck
+  speakers:
+  - thomas_arts
+  conference: erlang_factory_sf_2016
+  video_view_count: 1455
+  video_duration_seconds: 2369
+- video_id: 5vVZzu6HMaQ
+  talk_title: From Zero To Production
+  speakers:
+  - susan_potter
+  conference: erlang_factory_sf_2016
+  video_view_count: 1291
+  video_duration_seconds: 3034
+- video_id: mqOpgoUuAXE
+  talk_title: Build big with tiny tools immutability, checksums, and CRDTs
+  speakers:
+  - scott_lystig_fritchie
+  conference: erlang_factory_sf_2016
+  video_view_count: 764
+  video_duration_seconds: 2897
+- video_id: xj3smNjGLaE
+  talk_title: Effective Parallelization of Monte Carlo Calculations
+  speakers:
+  - brett_cameron
+  conference: erlang_factory_sf_2016
+  video_view_count: 468
+  video_duration_seconds: 2784
+- video_id: fklep3sUSWo
+  talk_title: 'The Climb: Experiencing the Rise of Elixir from the Inside'
+  speakers:
+  - bruce_tate
+  - dave_thomas
+  conference: erlang_factory_sf_2016
+  video_view_count: 6956
+  video_duration_seconds: 2603
+- video_id: JTeO035dv2w
+  talk_title: Erlang, Open Source and the Connected Car
+  speakers:
+  - ulf_wiger
+  conference: erlang_factory_sf_2016
+  video_view_count: 326
+  video_duration_seconds: 2650
+- video_id: "-0NMpo9Bc2M"
+  talk_title: When ETS Is Too Slow
+  speakers:
+  - mark_allen
+  conference: erlang_factory_sf_2016
+  video_view_count: 1036
+  video_duration_seconds: 2164
+- video_id: "-8jLRThHuFQ"
+  talk_title: Point Of No Local Return. The Continuing Story Of Erlang Type Systems
+  speakers:
+  - zeeshan_lakhani
+  conference: erlang_factory_sf_2016
+  video_view_count: 1012
+  video_duration_seconds: 3235
