@@ -55,3 +55,10 @@
   conference: elixirdaze_2016
   video_view_count: 4376
   video_duration_seconds: 2923
+- video_id: E6RTBlO9TZQ
+  talk_title: Elixir, Phoenix, and WebRTC - An Enterprise Class Soft Phone in the Browser
+  speakers:
+  - stephen_pallen
+  conference: elixirdaze_2016
+  video_view_count: 2595
+  video_duration_seconds: 1912
