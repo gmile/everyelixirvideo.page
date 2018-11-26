@@ -204,6 +204,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: bernard_duggan
+  full_name: Bernard Duggan
+  twitter:
+  github:
+  elixirforum:
 - id: bernardo_amorim
   full_name: Bernardo Amorim
   twitter: 
@@ -214,6 +219,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: bob_ippolito
+  full_name: Bob Ippolito
+  twitter:
+  github:
+  elixirforum:
 - id: bobby_grayson
   full_name: Bobby Grayson
   twitter: 
@@ -319,6 +329,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: c_thomas_stover
+  full_name: C. Thomas Stover
+  twitter:
+  github:
+  elixirforum:
 - id: cameron_price
   full_name: Cameron Price
   twitter: 
@@ -514,6 +529,11 @@
   twitter: 
   github: 
   elixirforum: drewolson
+- id: duncan_mc_greggor
+  full_name: Duncan McGreggor
+  twitter:
+  github:
+  elixirforum:
 - id: duncan_sparrell
   full_name: Duncan Sparrell
   twitter: 
@@ -609,6 +629,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: fernando_benavides
+  full_name: Fernando Benavides
+  twitter:
+  github:
+  elixirforum:
 - id: fernando_mendes
   full_name: Fernando Mendes
   twitter: 
@@ -624,6 +649,11 @@
   twitter: FrancescoC
   github: francescoc
   elixirforum: francescoc
+- id: francois_orsini
+  full_name: Francois Orsini
+  twitter:
+  github:
+  elixirforum:
 - id: frank_hunleth
   full_name: Frank Hunleth
   twitter: fhunleth
@@ -734,6 +764,11 @@
   twitter: 
   github: 
   elixirforum: hannahhoward
+- id: henning_diedrich
+  full_name: Henning Diedrich
+  twitter:
+  github:
+  elixirforum:
 - id: hernan_rivas_acosta
   full_name: Hernán Rivas Acosta
   twitter: 
@@ -854,6 +889,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: jay_nelson
+  full_name: Jay Nelson
+  twitter:
+  github:
+  elixirforum:
 - id: jean_francois_cloutier
   full_name: Jean-François Cloutier
   twitter: 
@@ -979,6 +1019,11 @@
   twitter: jonrowe
   github: jonrowe
   elixirforum: 
+- id: jon_vlachogiannis
+  full_name: Jon Vlachogiannis
+  twitter:
+  github:
+  elixirforum:
 - id: jorgen_brandt
   full_name: Jörgen Brandt
   twitter: 
@@ -1049,6 +1094,11 @@
   twitter: 
   github: 
   elixirforum: justuseapen
+- id: karl_anderson
+  full_name: Karl Anderson
+  twitter:
+  github:
+  elixirforum:
 - id: karmen_blake
   full_name: Karmen Blake
   twitter: 
@@ -1114,6 +1164,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: kresten_krab_thorup
+  full_name: Kresten Krab Thorup
+  twitter:
+  github:
+  elixirforum:
 - id: krzysztof_wende
   full_name: Krzysztof Wende
   twitter: 
@@ -1139,6 +1194,11 @@
   twitter: 
   github: lau
   elixirforum: 
+- id: laura_m_castro
+  full_name: Laura M. Castro
+  twitter:
+  github:
+  elixirforum:
 - id: lauren_tan
   full_name: Lauren Tan
   twitter: 
@@ -1154,6 +1214,11 @@
   twitter: _polymetis_
   github: polymetis
   elixirforum: polymetis
+- id: loic_hoguin
+  full_name: Loïc Hoguin
+  twitter:
+  github:
+  elixirforum:
 - id: loic_vigneron
   full_name: Loic Vigneron
   twitter: 
@@ -1199,6 +1264,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: marcos_almonacid
+  full_name: Marcos Almonacid
+  twitter:
+  github:
+  elixirforum:
 - id: mariano_guerra
   full_name: Mariano Guerra
   twitter: 
@@ -1259,6 +1329,16 @@
   twitter: 
   github: 
   elixirforum: 
+- id: maxim_sokhatsky
+  full_name: Maxim Sokhatsky
+  twitter:
+  github:
+  elixirforum:
+- id: melinda_toth
+  full_name: Melinda Toth
+  twitter:
+  github:
+  elixirforum:
 - id: michael_krax
   full_name: Michael Krax
   twitter: 
@@ -1574,6 +1654,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: rick_reed
+  full_name: Rick Reed
+  twitter:
+  github:
+  elixirforum:
 - id: rob_conery
   full_name: Rob Conery
   twitter: robconery
@@ -1589,6 +1674,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: robby_clements
+  full_name: Robby Clements
+  twitter:
+  github:
+  elixirforum:
 - id: robert_beene
   full_name: Robert Beene
   twitter: 
@@ -1744,6 +1834,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: stuart_bailey
+  full_name: Stuart Bailey
+  twitter:
+  github:
+  elixirforum:
 - id: susan_potter
   full_name: Susan Potter
   twitter:
@@ -1861,6 +1956,11 @@
   elixirforum: 
 - id: vladan_djakovic
   full_name: Vladan Djakovic
+  twitter:
+  github:
+  elixirforum:
+- id: vladimir_kirillov
+  full_name: Vladimir Kirillov
   twitter:
   github:
   elixirforum:
