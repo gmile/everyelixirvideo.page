@@ -45,6 +45,8 @@
   title: EMPEX NYC 2018
 - id: erlang_factory_live_vancouver_2012
   title: Erlang Factory Lite Vancouver 2012
+- id: erlang_factory_sf_2015
+  title: Erlang Factory SF 2015
 - id: erlang_factory_sf_2016
   title: Erlang Factory SF 2016
 - id: lonestar_elixirconf_2017

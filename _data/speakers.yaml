@@ -19,6 +19,11 @@
   twitter: eproxus
   github: eproxus
   elixirforum: eproxus
+- id: adreas_olofsson
+  full_name: Adreas Olofsson
+  twitter:
+  github:
+  elixirforum:
 - id: adrian_cruz
   full_name: Adrian Cruz
   twitter: drincruz
@@ -264,6 +269,11 @@
   twitter:
   github:
   elixirforum:
+- id: brian_wilhite
+  full_name: Brian Wilhite
+  twitter:
+  github:
+  elixirforum:
 - id: brien_wankel
   full_name: Brien Wankel
   twitter:
@@ -314,6 +324,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: carl_hewitt
+  full_name: Carl Hewitt
+  twitter:
+  github:
+  elixirforum:
 - id: casey_rosenthal
   full_name: Casey Rosenthal
   twitter:
@@ -409,6 +424,11 @@
   twitter: 
   github: 
   elixirforum: dazuma
+- id: daniel_pezely
+  full_name: Daniel Pezely
+  twitter:
+  github:
+  elixirforum:
 - id: daniel_vamosi
   full_name: Dániel Vámosi
   twitter:
@@ -479,6 +499,11 @@
   twitter: devoncestes
   github: devonestes
   elixirforum: devonestes
+- id: dmitry_demeshchuk
+  full_name: Dmitry Demeshchuk
+  twitter:
+  github:
+  elixirforum:
 - id: doug_wright
   full_name: Doug Wright
   twitter: 
@@ -674,6 +699,11 @@
   twitter: 
   github: 
   elixirforum: griffinbyatt
+- id: guido_van_rossum
+  full_name: Guido Van Rossum
+  twitter:
+  github:
+  elixirforum:
 - id: guilherme_de_maio
   full_name: Guilherme de Maio
   twitter: 
@@ -719,6 +749,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: inaki_garay
+  full_name: Inaki Garay
+  twitter:
+  github:
+  elixirforum:
 - id: ingela_anderton_andin
   full_name: Ingela Anderton Andin
   twitter: 
@@ -899,6 +934,11 @@
   twitter: joeerl
   github: joearms
   elixirforum: joeerl
+- id: joe_de_vivo
+  full_name: Joe DeVivo
+  twitter:
+  github:
+  elixirforum:
 - id: joel_byler
   full_name: Joel Byler
   twitter: 
@@ -949,6 +989,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: joseph_blomstedt
+  full_name: Joseph Blomstedt
+  twitter:
+  github:
+  elixirforum:
 - id: joseph_yiasemides
   full_name: Joseph Yiasemides
   twitter: 
@@ -1164,6 +1209,11 @@
   twitter:
   github:
   elixirforum:
+- id: martin_kristiansen
+  full_name: Martin Kristiansen
+  twitter:
+  github:
+  elixirforum:
 - id: martin_schurrer
   full_name: Martin Schürrer
   twitter:
@@ -1219,6 +1269,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: mike_williams
+  full_name: Mike William
+  twitter:
+  github:
+  elixirforum:
 - id: mikhail_vorontsov
   full_name: Mikhail Vorontsov
   twitter: 
@@ -1314,6 +1369,11 @@
   twitter: 
   github: 
   elixirforum: 
+- id: noah_gift
+  full_name: Noah Gift
+  twitter:
+  github:
+  elixirforum:
 - id: norberto_ortigoza
   full_name: Norberto Ortigoza
   twitter: 
@@ -1434,6 +1494,11 @@
   twitter: 
   github: RaimoNiskanen
   elixirforum: 
+- id: ransom_richardson
+  full_name: Ransom Richardson
+  twitter:
+  github:
+  elixirforum:
 - id: raphael_costa
   full_name: Raphael Costa
   twitter: raphaelwcosta
@@ -1559,6 +1624,16 @@
   twitter: 
   github: 
   elixirforum: sboucher
+- id: sergey_ignatov
+  full_name: Sergey Ignatov
+  twitter:
+  github:
+  elixirforum:
+- id: sergey_savenko
+  full_name: Sergey Savenko
+  twitter:
+  github:
+  elixirforum:
 - id: sergii_boiko
   full_name: Sergii Boiko
   twitter: criskiev
@@ -1796,6 +1871,11 @@
   elixirforum:
 - id: zandra_norman
   full_name: Zandra Norman
+  twitter:
+  github:
+  elixirforum:
+- id: mark_anderson
+  full_name: Mark Anderson
   twitter:
   github:
   elixirforum:
