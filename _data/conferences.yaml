@@ -43,14 +43,14 @@
   title: EMPEX LA 2018
 - id: empex_nyc_2018
   title: EMPEX NYC 2018
-- id: erlang_factory_2014
-  title: Erlang Factory SF 2014
 - id: erlang_factory_live_vancouver_2012
   title: Erlang Factory Lite Vancouver 2012
 - id: erlang_factory_sf_2012
   title: Erlang Factory SF 2012
 - id: erlang_factory_sf_2013
   title: Erlang Factory SF 2013
+- id: erlang_factory_sf_2014
+  title: Erlang Factory SF 2014
 - id: erlang_factory_sf_2015
   title: Erlang Factory SF 2015
 - id: erlang_factory_sf_2016
