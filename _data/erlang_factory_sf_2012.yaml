@@ -1,0 +1,373 @@
+---
+- video_id: 4spdK7v6SNY
+  talk_title: Test-First Construction of Distributed Systems
+  speakers:
+  - joseph_blomstedt
+  conference: erlang_factory_sf_2012
+  video_view_count: 176
+  video_duration_seconds: 1911
+- video_id: QBukmNdM-n8
+  talk_title: How to migrate a web API to Erlang, change databases (...)
+  speakers:
+  - seth_falcon
+  conference: erlang_factory_sf_2012
+  video_view_count: 616
+  video_duration_seconds: 2663
+- video_id: gWMTAhvz1kY
+  talk_title: Real Time Bidding - Where Erlang Blooms
+  speakers:
+  - fred_hebert
+  conference: erlang_factory_sf_2012
+  video_view_count: 1628
+  video_duration_seconds: 2673
+- video_id: KPTtHbHOAOM
+  talk_title: Erlang End-To-End - Building and Managing Connected Devices
+  speakers:
+  - ulf_wiger
+  conference: erlang_factory_sf_2012
+  video_view_count: 215
+  video_duration_seconds: 3022
+- video_id: pcb34vE_7LY
+  talk_title: Erlang on OpenVMS and in the HP Cloud (...)
+  speakers:
+  - brett_cameron
+  conference: erlang_factory_sf_2012
+  video_view_count: 788
+  video_duration_seconds: 2522
+- video_id: wDk6l3tPBuw
+  talk_title: Scaling to Millions of Simultaneous Connections
+  speakers:
+  - rick_reed
+  conference: erlang_factory_sf_2012
+  video_view_count: 5836
+  video_duration_seconds: 2617
+- video_id: m2zNhdZwQMw
+  talk_title: Migrating a C++ team to using Erlang to deliver a real-time bidding
+    ad system
+  speakers:
+  - ken_wilson
+  conference: erlang_factory_sf_2012
+  video_view_count: 331
+  video_duration_seconds: 1836
+- video_id: Uvlu1T_WQJ8
+  talk_title: Scaling Web Applications in Erlang
+  speakers:
+  - fernando_benavides
+  conference: erlang_factory_sf_2012
+  video_view_count: 531
+  video_duration_seconds: 2591
+- video_id: hry_BUidOAk
+  talk_title: Implementing languages on the Erlang VM
+  speakers:
+  - robert_virding
+  conference: erlang_factory_sf_2012
+  video_view_count: 1079
+  video_duration_seconds: 3426
+- video_id: VMXbtATWG1k
+  talk_title: The "halfword" Virtual Machine
+  speakers:
+  - patrik_nyblom
+  conference: erlang_factory_sf_2012
+  video_view_count: 108
+  video_duration_seconds: 2403
+- video_id: M3_m0SI_-KM
+  talk_title: Just-in-time compiler for the Erlang VM
+  speakers:
+  - lukas_larsson
+  conference: erlang_factory_sf_2012
+  video_view_count: 421
+  video_duration_seconds: 2390
+- video_id: VrwS_8ESPjQ
+  talk_title: A Scalability Study of Erlang/OTP
+  speakers:
+  - kostis_sagonas
+  conference: erlang_factory_sf_2012
+  video_view_count: 418
+  video_duration_seconds: 3232
+- video_id: XHsF2NdYD6g
+  talk_title: Virtualizing Parallel Patterns for CPU/GPU Architectures
+  speakers:
+  - horacio_gonzalez_velez
+  conference: erlang_factory_sf_2012
+  video_view_count: 345
+  video_duration_seconds: 2224
+- video_id: bs6DaOWeY34
+  talk_title: ErLLVM
+  speakers:
+  - kostis_sagonas
+  conference: erlang_factory_sf_2012
+  video_view_count: 226
+  video_duration_seconds: 3128
+- video_id: nGnNMVuR0dA
+  talk_title: The Erlang/OTP Roadmap
+  speakers:
+  - patrik_nyblom
+  conference: erlang_factory_sf_2012
+  video_view_count: 228
+  video_duration_seconds: 1232
+- video_id: gCb5wjfSRGI
+  talk_title: A World Without Linux
+  speakers:
+  - jim_zemlin
+  conference: erlang_factory_sf_2012
+  video_view_count: 1204
+  video_duration_seconds: 2378
+- video_id: rT2vT4totFk
+  talk_title: IPv6 programming for Erlang/OTP
+  speakers:
+  - kenji_rikitake
+  conference: erlang_factory_sf_2012
+  video_view_count: 256
+  video_duration_seconds: 2665
+- video_id: 1FgTjSY8YgU
+  talk_title: Erlang on Xen - a quest for lower instance startup latency
+  speakers:
+  - maxim_kharchenko
+  conference: erlang_factory_sf_2012
+  video_view_count: 2074
+  video_duration_seconds: 2353
+- video_id: 40LGHTXEbsM
+  talk_title: Erlang Scales - Do You?
+  speakers:
+  - erik_stenman
+  conference: erlang_factory_sf_2012
+  video_view_count: 178
+  video_duration_seconds: 3097
+- video_id: azFv5lJtke0
+  talk_title: Handling a Polyglotten WAN
+  speakers:
+  - karl_anderson
+  conference: erlang_factory_sf_2012
+  video_view_count: 24
+  video_duration_seconds: 1349
+- video_id: 3rL7dgXC7dQ
+  talk_title: Erlang as a Cloud Citizen
+  speakers:
+  - paolo_negri
+  conference: erlang_factory_sf_2012
+  video_view_count: 142
+  video_duration_seconds: 2275
+- video_id: "-KKKGxiJwAE"
+  talk_title: How Cloud Foundry, the first Open PaaS, can help you (...)
+  speakers:
+  - paul_jones
+  - monica_wilkinson
+  conference: erlang_factory_sf_2012
+  video_view_count: 119
+  video_duration_seconds: 2971
+- video_id: DOF0yeCkEHo
+  talk_title: Deploying Erlang applications in the Heroku cloud
+  speakers:
+  - blake_gentry
+  - geoff_cant
+  conference: erlang_factory_sf_2012
+  video_view_count: 317
+  video_duration_seconds: 2377
+- video_id: RA7QcMNBKfg
+  talk_title: Erlang metaprogramming made easy
+  speakers:
+  - richard_carlsson
+  conference: erlang_factory_sf_2012
+  video_view_count: 388
+  video_duration_seconds: 2977
+- video_id: CIQnleQPtZA
+  talk_title: Rewriting GitHub Pages with Riak Core, Riak KV, and Webmachine
+  speakers:
+  - jesse_newland
+  conference: erlang_factory_sf_2012
+  video_view_count: 730
+  video_duration_seconds: 1730
+- video_id: _z1jaubIB2g
+  talk_title: What can be done with Java but should better be done with Erlang
+  speakers:
+  - pavlo_baron
+  conference: erlang_factory_sf_2012
+  video_view_count: 323
+  video_duration_seconds: 1662
+- video_id: ltfVnlbDAB0
+  talk_title: Polyglot Paralellism - A Case Study in Using Erlang at Rackspace
+  speakers:
+  - phil_toland
+  conference: erlang_factory_sf_2012
+  video_view_count: 127
+  video_duration_seconds: 2389
+- video_id: Abz2iXFFbXU
+  talk_title: Bitdeli - Data Crunching on a Shoestring Budget
+  speakers:
+  - ville_tuulos
+  conference: erlang_factory_sf_2012
+  video_view_count: 139
+  video_duration_seconds: 3108
+- video_id: iWLudbnB72I
+  talk_title: Erlang Solutions Erlang Writ Large
+  speakers:
+  - adam_kocoloski
+  conference: erlang_factory_sf_2012
+  video_view_count: 219
+  video_duration_seconds: 2184
+- video_id: FJErAhBIYUA
+  talk_title: Fear Not, or a Brief Introduction to Parse Transformations
+  speakers:
+  - yurii_rashkovskii
+  conference: erlang_factory_sf_2012
+  video_view_count: 79
+  video_duration_seconds: 1194
+- video_id: LRqBAS7WS5o
+  talk_title: 'Dancing with Big Data: Disco + Inferno'
+  speakers:
+  - mazdak_rezvani
+  - tim_spurway
+  conference: erlang_factory_sf_2012
+  video_view_count: 193
+  video_duration_seconds: 2940
+- video_id: QtWG9b2Dt8A
+  talk_title: Building Cloud Storage Services with Riak
+  speakers:
+  - andy_gross
+  conference: erlang_factory_sf_2012
+  video_view_count: 758
+  video_duration_seconds: 2361
+- video_id: lgPp_2Zxrms
+  talk_title: Data in the Cloud with Refuge
+  speakers:
+  - benoit_chesneau
+  conference: erlang_factory_sf_2012
+  video_view_count: 23
+  video_duration_seconds: 2757
+- video_id: 7QLXIK14Fr8
+  talk_title: Building data-parallel pipelines in Erlang
+  speakers:
+  - pero_subasic
+  conference: erlang_factory_sf_2012
+  video_view_count: 970
+  video_duration_seconds: 2855
+- video_id: v330yY2QwOQ
+  talk_title: '"Big Data" and the Future of DevOps'
+  speakers:
+  - ram_c_singh
+  conference: erlang_factory_sf_2012
+  video_view_count: 392
+  video_duration_seconds: 1761
+- video_id: jkCYbyE7DIg
+  talk_title: Building a community around Healthy Distributed Systems
+  speakers:
+  - mark_phillips
+  conference: erlang_factory_sf_2012
+  video_view_count: 34
+  video_duration_seconds: 2780
+- video_id: FZU7RhFjnVA
+  talk_title: Spring Fever for your networks
+  speakers:
+  - andreas_schultz
+  - holger_winkelmann
+  conference: erlang_factory_sf_2012
+  video_view_count: 67
+  video_duration_seconds: 2160
+- video_id: kBwD8Wv8AM0
+  talk_title: Erlang and the "100 Million Problem"
+  speakers:
+  - roger_j_smith
+  conference: erlang_factory_sf_2012
+  video_view_count: 152
+  video_duration_seconds: 2916
+- video_id: 8fWZRHAAg54
+  talk_title: Boston Globe's use of Erlang to building a next-generation newspaper
+    site
+  speakers:
+  - jeff_moriarty
+  conference: erlang_factory_sf_2012
+  video_view_count: 131
+  video_duration_seconds: 1481
+- video_id: 24z--uWSlos
+  talk_title: Your business depends on your customers - keeping them in the loop
+  speakers:
+  - mahesh_paolini_subramanya
+  conference: erlang_factory_sf_2012
+  video_view_count: 32
+  video_duration_seconds: 2052
+- video_id: oP3p-zDtpE8
+  talk_title: Small is Beautiful
+  speakers:
+  - mike_williams
+  conference: erlang_factory_sf_2012
+  video_view_count: 626
+  video_duration_seconds: 1889
+- video_id: eLkQyOSXgIQ
+  talk_title: Leverage the World Wide West with Farwest
+  speakers:
+  - loic_hoguin
+  conference: erlang_factory_sf_2012
+  video_view_count: 62
+  video_duration_seconds: 1675
+- video_id: bT1_YLrTE64
+  talk_title: Certifying your car with Erlang
+  speakers:
+  - john_hughes
+  conference: erlang_factory_sf_2012
+  video_view_count: 304
+  video_duration_seconds: 2472
+- video_id: dOFYyb_hJJk
+  talk_title: Magicbeam (or Devops Rules Everything Around Me)
+  speakers:
+  - jonathan_freedman
+  conference: erlang_factory_sf_2012
+  video_view_count: 51
+  video_duration_seconds: 1571
+- video_id: cqY7b877gxQ
+  talk_title: Step by Step - Implementing Redis In Erlang
+  speakers:
+  - chad_de_pue
+  conference: erlang_factory_sf_2012
+  video_view_count: 548
+  video_duration_seconds: 2848
+- video_id: eST2CDSwyz8
+  talk_title: Accelerated Erlang Development with e2
+  speakers:
+  - garrett_smith
+  conference: erlang_factory_sf_2012
+  video_view_count: 395
+  video_duration_seconds: 2449
+- video_id: 2GnKSJx_aqs
+  talk_title: Saloon - A simple interface for node and application monitoring
+  speakers:
+  - magnus_klaar
+  conference: erlang_factory_sf_2012
+  video_view_count: 84
+  video_duration_seconds: 2112
+- video_id: Kf_-pGvfVSw
+  talk_title: eTorrent, writing Peer-to-Peer clients in Erlang
+  speakers:
+  - jesper_louis_andersen
+  conference: erlang_factory_sf_2012
+  video_view_count: 398
+  video_duration_seconds: 2406
+- video_id: _z-cUaJ0Ds0
+  talk_title: Couchbase Performance and Scalability
+  speakers:
+  - dustin_sallings
+  - matt_ingenthron
+  conference: erlang_factory_sf_2012
+  video_view_count: 794
+  video_duration_seconds: 2817
+- video_id: vgbfZ0OkJvg
+  talk_title: Erlang Application Metrics with Folsom
+  speakers:
+  - joe_williams
+  conference: erlang_factory_sf_2012
+  video_view_count: 794
+  video_duration_seconds: 1833
+- video_id: q548LHCs79Q
+  talk_title: BUBBA - Benchmarking Using Browser-Based Animation
+  speakers:
+  - jay_nelson
+  conference: erlang_factory_sf_2012
+  video_view_count: 143
+  video_duration_seconds: 2556
+- video_id: 22o-c1EOjb0
+  talk_title: Using Erlang's Location Transparency For Devops Work
+  speakers:
+  - noah_gift
+  - michael_bakkemo
+  conference: erlang_factory_sf_2012
+  video_view_count: 377
+  video_duration_seconds: 1572
