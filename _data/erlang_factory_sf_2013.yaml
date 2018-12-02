@@ -1,0 +1,343 @@
+---
+- video_id: ujaoprIKY9M
+  talk_title: 'Genomu: A Concurrency-Oriented Database'
+  speakers:
+  - yurii_rashkovskii
+  conference: erlang_factory_sf_2013
+  video_view_count: 892
+  video_duration_seconds: 2528
+- video_id: CAPGKP1VaRs
+  talk_title: 'LDB: The BigData In-Memory Database built with Erlang, C and LISP'
+  speakers:
+  - dionisis_kakoliris
+  conference: erlang_factory_sf_2013
+  video_view_count: 550
+  video_duration_seconds: 3031
+- video_id: OzOx2Omkuag
+  talk_title: S**t happens - Are you Prepared?
+  speakers:
+  - mahesh_paolini_subramanya
+  conference: erlang_factory_sf_2013
+  video_view_count: 197
+  video_duration_seconds: 2529
+- video_id: byOinfFk3HU
+  talk_title: MongooseIM - Messaging that Scales
+  speakers:
+  - michal_slaski
+  conference: erlang_factory_sf_2013
+  video_view_count: 1496
+  video_duration_seconds: 2845
+- video_id: ooqQUzqxPbg
+  talk_title: 'Kazoo: An Erlang-Based Elegant, Distributed Cloud Architecture for
+    Communications'
+  speakers:
+  - james_aimonetti
+  conference: erlang_factory_sf_2013
+  video_view_count: 1375
+  video_duration_seconds: 2860
+- video_id: ug5grhyCAuU
+  talk_title: Tailflow - An Openflow Controller Framework
+  speakers:
+  - torbjorn_tornkvist
+  conference: erlang_factory_sf_2013
+  video_view_count: 363
+  video_duration_seconds: 2761
+- video_id: ed7A7r6DBsM
+  talk_title: The How and Why of Fitting Things Together
+  speakers:
+  - joe_armstrong
+  conference: erlang_factory_sf_2013
+  video_view_count: 9778
+  video_duration_seconds: 2800
+- video_id: TUmU3XCfLLw
+  talk_title: 'Taking Back Embedded: The Erlang Embedded Framework'
+  speakers:
+  - omer_kilic
+  conference: erlang_factory_sf_2013
+  video_view_count: 1305
+  video_duration_seconds: 2153
+- video_id: vaFEJV84R60
+  talk_title: The Polyglot Rabbit and the Big Fluffy Cloud
+  speakers:
+  - brett_cameron
+  conference: erlang_factory_sf_2013
+  video_view_count: 340
+  video_duration_seconds: 2897
+- video_id: Ug920NDhHXo
+  talk_title: Scaling Up from 1000 to 10 Nodes
+  speakers:
+  - anton_lavrik
+  conference: erlang_factory_sf_2013
+  video_view_count: 422
+  video_duration_seconds: 3726
+- video_id: rZKD7d1pMiA
+  talk_title: 'Erlang and OpenFlow: A Match Made in the Cloud!'
+  speakers:
+  - stuart_bailey
+  conference: erlang_factory_sf_2013
+  video_view_count: 330
+  video_duration_seconds: 2959
+- video_id: ekcBAseo7Js
+  talk_title: 'Locker: Consistent Distributed Locking'
+  speakers:
+  - knut_nesheim
+  conference: erlang_factory_sf_2013
+  video_view_count: 838
+  video_duration_seconds: 2262
+- video_id: 0bJ9fYw7Wxg
+  talk_title: Location, Location, Location
+  speakers:
+  - christian_gribneau
+  conference: erlang_factory_sf_2013
+  video_view_count: 208
+  video_duration_seconds: 1366
+- video_id: i2tVAogpIHA
+  talk_title: Distributed Producer and Consumer Framework with Guaranteed Message
+    Delivery
+  speakers:
+  - guanhua_ye
+  conference: erlang_factory_sf_2013
+  video_view_count: 531
+  video_duration_seconds: 2406
+- video_id: e4xMop80Hkg
+  talk_title: Building a Messaging and Service Protocol
+  speakers:
+  - jeremy_ong
+  conference: erlang_factory_sf_2013
+  video_view_count: 468
+  video_duration_seconds: 2738
+- video_id: SFZV_-Ozyis
+  talk_title: Believe in Erlang in Games
+  speakers:
+  - james_mayfield
+  - mario_izquierdo
+  - noah_gift
+  conference: erlang_factory_sf_2013
+  video_view_count: 1642
+  video_duration_seconds: 2755
+- video_id: L-imEPWqTqg
+  talk_title: 'A Layered Architecture: Robustness and Efficiency'
+  speakers:
+  - dennis_docter
+  conference: erlang_factory_sf_2013
+  video_view_count: 1189
+  video_duration_seconds: 2709
+- video_id: U6U-NDmyFvM
+  talk_title: The New Cowboy
+  speakers:
+  - loic_hoguin
+  conference: erlang_factory_sf_2013
+  video_view_count: 822
+  video_duration_seconds: 2943
+- video_id: tahvtS2cJRE
+  talk_title: 'LDB: The BigData In-Memory Database built with Erlang, C and LISP'
+  speakers:
+  - dionisis_kakoliris
+  conference: erlang_factory_sf_2013
+  video_view_count: 455
+  video_duration_seconds: 3035
+- video_id: GKisRCXA_is
+  talk_title: Beyond MapReduce
+  speakers:
+  - prashanth_mundkur
+  conference: erlang_factory_sf_2013
+  video_view_count: 331
+  video_duration_seconds: 2403
+- video_id: OZVRPohXwMc
+  talk_title: Erlang Roadmap from Ericsson
+  speakers:
+  - kenneth_lundin
+  conference: erlang_factory_sf_2013
+  video_view_count: 350
+  video_duration_seconds: 1213
+- video_id: BTuJtqvbpI8
+  talk_title: 'The Pooler Story: How I Learned OTP by Writing a Connection Pool'
+  speakers:
+  - seth_falcon
+  conference: erlang_factory_sf_2013
+  video_view_count: 1171
+  video_duration_seconds: 2639
+- video_id: ZAOEGvlvhpU
+  talk_title: 'Refuge: Build a Decentralized Data Platform'
+  speakers:
+  - benoit_chesneau
+  conference: erlang_factory_sf_2013
+  video_view_count: 242
+  video_duration_seconds: 2659
+- video_id: 4qJxRfFLXwA
+  talk_title: 'Beating the No-Win Scenario: Testing a Distributed System'
+  speakers:
+  - joseph_de_vivo
+  conference: erlang_factory_sf_2013
+  video_view_count: 574
+  video_duration_seconds: 2720
+- video_id: TcUqGIHq8rA
+  talk_title: Neuroevolution Through Erlang
+  speakers:
+  - gene_sher
+  conference: erlang_factory_sf_2013
+  video_view_count: 3981
+  video_duration_seconds: 2807
+- video_id: LGGo6bIuj8w
+  talk_title: 'Chicago Boss: A Web Framework Built for Comfort (and Speed)'
+  speakers:
+  - evan_miller
+  conference: erlang_factory_sf_2013
+  video_view_count: 7225
+  video_duration_seconds: 2759
+- video_id: nyPYQ7LaEWA
+  talk_title: Where are we on the Map?
+  speakers:
+  - kenneth_lundin
+  conference: erlang_factory_sf_2013
+  video_view_count: 171
+  video_duration_seconds: 2778
+- video_id: FWM3bQ43WzE
+  talk_title: 'Services Platform: Experiments in OTP-Compliant Dataflow Programming'
+  speakers:
+  - jay_nelson
+  conference: erlang_factory_sf_2013
+  video_view_count: 301
+  video_duration_seconds: 3118
+- video_id: QbzH0L_0pxI
+  talk_title: 'Erlang Engine Tuning: Part 1 - Know your Engine'
+  speakers:
+  - erik_stenman
+  conference: erlang_factory_sf_2013
+  video_view_count: 2189
+  video_duration_seconds: 3227
+- video_id: owCu5rveBYI
+  talk_title: Hitchhiker's Tour of the BEAM
+  speakers:
+  - robert_virding
+  conference: erlang_factory_sf_2013
+  video_view_count: 1261
+  video_duration_seconds: 3060
+- video_id: GyHXLIHtPDM
+  talk_title: 'All your Cores are Belong to us: Turbo-Charging for the Many-Core World'
+  speakers:
+  - alexander_gounares
+  conference: erlang_factory_sf_2013
+  video_view_count: 1617
+  video_duration_seconds: 3032
+- video_id: 41PvAPSX0wg
+  talk_title: 'Introduction to Elixir: a New Language on the VM'
+  speakers:
+  - jose_valim
+  conference: erlang_factory_sf_2013
+  video_view_count: 5898
+  video_duration_seconds: 2840
+- video_id: BSC-2iINn9s
+  talk_title: 'Realtime Logging: Alerts, Hashtags and Live Log Feeds'
+  speakers:
+  - martin_hald
+  - marc_campbell
+  conference: erlang_factory_sf_2013
+  video_view_count: 218
+  video_duration_seconds: 2657
+- video_id: j90RUPvsVWk
+  talk_title: High Throughput Erlang
+  speakers:
+  - geoff_cant
+  conference: erlang_factory_sf_2013
+  video_view_count: 459
+  video_duration_seconds: 2667
+- video_id: I6Pw32LGPgg
+  talk_title: 'Code Janitor: Nobody''s Dream, Everyone''s Job'
+  speakers:
+  - fred_hebert
+  conference: erlang_factory_sf_2013
+  video_view_count: 330
+  video_duration_seconds: 2805
+- video_id: pFLlu-cUEJI
+  talk_title: Analyzing Erlang with Big Data Techniques
+  speakers:
+  - ying_li
+  conference: erlang_factory_sf_2013
+  video_view_count: 349
+  video_duration_seconds: 2961
+- video_id: TEQL-ZQm-u4
+  talk_title: KVDB - A Database System for Configuration Data and Connected Devices
+  speakers:
+  - ulf_wiger
+  conference: erlang_factory_sf_2013
+  video_view_count: 364
+  video_duration_seconds: 2993
+- video_id: KtC_Vhha1oA
+  talk_title: Building Riak CS on Riak
+  speakers:
+  - reid_draper
+  conference: erlang_factory_sf_2013
+  video_view_count: 234
+  video_duration_seconds: 2159
+- video_id: _VKGOTl3jGg
+  talk_title: Erlang does Nuclear Physics - Controlling Medium Scale Nuclear Physics
+    Experiments
+  speakers:
+  - jared_kofron
+  conference: erlang_factory_sf_2013
+  video_view_count: 330
+  video_duration_seconds: 3011
+- video_id: YX6MAdTrQlM
+  talk_title: Lilith - Solving the Distributed Video Operations Challenge @ ESPN
+  speakers:
+  - john_kemp
+  conference: erlang_factory_sf_2013
+  video_view_count: 133
+  video_duration_seconds: 2608
+- video_id: hW3ghjE9k_g
+  talk_title: How OpenX Built a Scalable Global Digital Revenue Platform
+  speakers:
+  - anthony_molinaro
+  conference: erlang_factory_sf_2013
+  video_view_count: 1019
+  video_duration_seconds: 2881
+- video_id: EyJtULAEoKM
+  talk_title: 'Multimedia Galore: Sending JPGs and 3GPs and AMRs!'
+  speakers:
+  - rick_reed
+  conference: erlang_factory_sf_2013
+  video_view_count: 748
+  video_duration_seconds: 4436
+- video_id: yWeCF7ATf-c
+  talk_title: Amateur Radio Propagation Analysis with Erlang/OTP and Riak
+  speakers:
+  - kenji_rikitake
+  conference: erlang_factory_sf_2013
+  video_view_count: 273
+  video_duration_seconds: 2976
+- video_id: zx69q1r98wA
+  talk_title: Introducing LeoFS - the Lion of Storage Systems
+  speakers:
+  - yosuke_hara
+  conference: erlang_factory_sf_2013
+  video_view_count: 544
+  video_duration_seconds: 2012
+- video_id: lOyG6ZMq738
+  talk_title: WebSockets, RabbitMQ & Erlang @ the Huffington Post
+  speakers:
+  - adam_denenberg
+  conference: erlang_factory_sf_2013
+  video_view_count: 5473
+  video_duration_seconds: 2775
+- video_id: 8BNpOHFvg_Q
+  talk_title: 'Lager: Logging with Confidence'
+  speakers:
+  - andrew_thompson
+  conference: erlang_factory_sf_2013
+  video_view_count: 1216
+  video_duration_seconds: 2789
+- video_id: 68x6yNqv0UE
+  talk_title: Spilgames Storage Platform
+  speakers:
+  - enrique_paz_perez
+  conference: erlang_factory_sf_2013
+  video_view_count: 488
+  video_duration_seconds: 2937
+- video_id: IdJwECjylB4
+  talk_title: Writing Beautiful Code
+  speakers:
+  - garrett_smith
+  conference: erlang_factory_sf_2013
+  video_view_count: 6093
+  video_duration_seconds: 3359
