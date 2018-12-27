@@ -4,6 +4,7 @@ require 'i18n'
 require 'open-uri'
 require 'yaml'
 require 'json'
+require 'pry'
 
 I18n.available_locales = [:en]
 
@@ -101,4 +102,47 @@ def get_channel_videos(uploads_playlist_id)
   end
 
   IO.write("#{uploads_playlist_id}.json", JSON.pretty_generate(results))
+end
+
+def talk_traits(raw_talk)
+  entry = {}
+
+  if raw_talk['talk_title'].downcase.include?('keynote')
+    entry = entry.merge('keynote' => true)
+  end
+
+  if raw_talk['talk_title'].downcase.include?('lightning')
+    entry = entry.merge('lightning' => true)
+  end
+
+  entry
+end
+
+@speakers = YAML.load(File.read('_data/speakers.yaml'))
+@conferences = YAML.load(File.read("_data/conferences.yaml"))
+@new_speakers = []
+
+def speaker_ids(string)
+  raw_speaker = cleanup(string)
+  found_speaker = @speakers.find { |x| x['full_name'] == raw_speaker } # TODO: this can use Jaro distance or smth
+
+  if found_speaker
+    found_speaker['id']
+  else
+    new_speaker = {
+      'id' => make_id(raw_speaker),
+      'full_name' => raw_speaker,
+      'twitter' => nil,
+      'github' => nil,
+      'elixirforum' => nil
+    }
+
+    @new_speakers << new_speaker
+
+    new_speaker['id']
+  end
+end
+
+def all_videos
+  (Dir["_data/*.yaml"] - ["_data/conferences.yaml", "_data/speakers.yaml"]).reduce([]) { |all, path| all += YAML.load(File.read(path)).map { |x| x['video_id'] } } .flatten
 end
