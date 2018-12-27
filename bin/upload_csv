@@ -1,0 +1,52 @@
+#!/usr/local/bin/ruby
+
+require_relative './helpers.rb'
+require 'csv'
+
+speakers = YAML.load(File.read('_data/speakers.yaml'))
+conferences = YAML.load(File.read("./_data/conferences.yaml"))
+
+new_speakers = []
+new_conferences = []
+updated_conferences = []
+
+puts conferences
+
+CSV.foreach("scratchpad/scratchpad", headers: true) do |entry|
+  conference =
+    conferences.find { |c| c['title'] == entry['conference_title'] } ||
+    new_conferences.find { |c| c['title'] == entry['conference_title'] }
+
+  if conference
+    puts entry['conference_title'] + ": exists"
+  else
+    puts entry['conference_title'] + ": does not exist"
+
+    new_conferences << {
+      "id" => make_id(entry['conference_title']),
+      "title" => entry['conference_title']
+    }
+  end
+
+  speakers =
+    entry['speakers'].split(",").map do |speaker_entry|
+      speaker =
+        speakers.find { |c| c['full_name'] == speaker_entry } ||
+        new_speakers.find { |c| c['full_name'] == speaker_entry }
+
+      speaker =
+        if speaker
+          speaker
+        else
+          new_speaker = {
+            "id" => make_id(speaker_entry),
+            "title" => speaker_entry
+          }
+
+          new_speakers << new_speaker
+
+          new_speaker
+        end
+    end
+
+end
