@@ -9,7 +9,7 @@ Erlang Factory Lite Moscow 2012,,YzcC_dLiiDM,Lightning Talk - Asynchronous Postg
 Erlang Factory Lite Moscow 2012,,jQxw_6nPEmw,Erlang Use Cases,Michal Slaski
 Erlang Factory Lite Moscow 2012,,mSKWNdjO9MQ,Scalable ejabberd,Konstantin Tcepliaev
 Erlang Factory Lite Moscow 2012,,CECh5bg_r3g,Erlang/OTP applications (...),Alex Gunin
-Erlang User Conference 2012,,sNLeeakZppU,Just-in-time in No Time? 'Use the Source!',Frej Drejhammar
+Erlang User Conference 2012,,sNLeeakZppU,Just-in-time in No Time? Use the Source!,Frej Drejhammar
 Erlang User Conference 2012,,NQ8Go5UgaAg,Ruby & Erlang - at Scale with Style,Martin Rehfeld
 Erlang User Conference 2012,,F2dj3trqKTo,ErLLVM,Kostis Sagonas
 Erlang User Conference 2012,,xBcgrIOzGbQ,Mnesia Backend Plugin Framework and a LevelDB-based Plugin,"Roland Karlsson, Malcolm Matalka"
@@ -57,7 +57,7 @@ Erlang Factory SF 2014,,0u0mAppm7d0,The State of LFE: A Lisp Flavoured Smörgås
 Erlang Factory SF 2014,,cpYdofjZ7UY,Performance Optimization 101,Louis-Philippe Gauthier
 Erlang Factory SF 2014,,NNzrjJC3G-U,Caching Strategies for an Erlang Based Web Stack,Enrique Paz Perez
 Erlang Factory SF 2014,,IuK2NvxjvWY,Planning for Overload,Fred Hebert
-Erlang Factory SF 2015,,JiWtnwF0cpM,Gadget: The Ultimate Code Checking Machine,Fernando Brujo Benavides
+Erlang Factory SF 2015,,JiWtnwF0cpM,Gadget: The Ultimate Code Checking Machine,Fernando Benavides
 Erlang Factory SF 2015,,FnjutUoNSmg,QuickCheck-CI,John Hughes
 Erlang Factory SF 2015,,sNE5Tu1NGjc,Hex Package Manager,Eric Meadows-Jönsson
 Erlang Factory SF 2015,,uwpakTIg9r8,Distributed Eventually Consistent Computations,Christopher Meiklejohn
@@ -161,4 +161,4 @@ The Big Elixir 2018,,AgKRBN6SF-c,TIL By Breaking Production...,Jon Carstens
 The Big Elixir 2018,,dWfD6idpipE,On Building Systems,Josh Adams
 "London Erlang User Group 2014",,6rWeGt71DnI,"Macros, and protocols and metaprogramming! Oh My!",Jim McCoy
 "#kievfprog, August 2013",,zF3xy1M6SFk,Introducing Elixir,Alexei Sholik
-"Singapore Ruby Brigade Meetup, November 2013",,balk-3BF4ro?t=1511,"Hello, Elixir!",Benjamin Tan
+"Singapore Ruby Brigade Meetup, November 2013",,balk-3BF4ro?t=1511,"Hello, Elixir!",Benjamin Tan Wei Hao
