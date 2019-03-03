@@ -33,7 +33,7 @@ Erlang User Conference 2012,,yiVMRcfSDOE,Applied Rebar,
 Erlang User Conference 2012,,Anres1C46vQ,An Erlang-Based Framework for the Automatic Testing of Web Services,
 Erlang User Conference 2012,,x9mW54GJpG0,Testing Eventual Consistency in Riak,
 Erlang User Conference 2012,,_DlTf8AhDag,"Ruby & Erlang,at Scale with Style",
-Erlang User Conference 2012,,h8nmzPh5Npg,A Few Improvements to Erlang - Joe Armstrong,
+Erlang User Conference 2012,,h8nmzPh5Npg,A Few Improvements to Erlang,Joe Armstrong
 Erlang User Conference 2012,,CTyR6JVDNaw,Erlang in the Browser,
 Erlang User Conference 2012,,7xV6hiOGOFE,Erlang The Movie II - Back to the Future of Web Telephony,
 Erlang User Conference 2012,,Yh_mjEB8Rn4,"Erlang Embedded - Episode 4,Erlang to the Rescue!",
@@ -49,24 +49,11 @@ Erlang Factory Lite Munich 2013,,ZAaS-U5pJ_E,Build custom protocols with Ranch a
 Erlang Factory Lite Munich 2013,,0DwtX9YIvB8,Diving into Erlang is a one-way ticket,
 Erlang Factory Lite Munich 2013,,GNi3WuXPa1M,An introduction to Riak,
 Erlang Factory Lite Munich 2013,,aAmBiULWH0M,"Erlang and RTEMS Embedded Erlang, two case studies",Peer Stritzinger
-Erlang Factory SF 2012,,VxYOUL1AwDE,Erlang and PaaS,
-Erlang Factory SF 2013,,xY7H0MAHR0E,Browser Frontend + Erlang Backend = Webapp Anywhere,Yusheng Li
-Erlang Factory SF 2013,,p7ZocmkXgWY,Bottleneck Whack-A-Mole at Scale,Cliff Moon
-Erlang Factory SF 2014,,y25YBvUw4rc,"dcouch, an Alternative to Mnesia with Unique Features",Benoît Chesneau
+Erlang Factory 2014,,y25YBvUw4rc,"dcouch, an Alternative to Mnesia with Unique Features",Benoît Chesneau
 Erlang Factory SF 2014,,0u0mAppm7d0,The State of LFE: A Lisp Flavoured Smörgåsbord,Duncan McGreggor
 Erlang Factory SF 2014,,cpYdofjZ7UY,Performance Optimization 101,Louis-Philippe Gauthier
 Erlang Factory SF 2014,,NNzrjJC3G-U,Caching Strategies for an Erlang Based Web Stack,Enrique Paz Perez
 Erlang Factory SF 2014,,IuK2NvxjvWY,Planning for Overload,Fred Hebert
-Erlang Factory SF 2015,,JiWtnwF0cpM,Gadget: The Ultimate Code Checking Machine,Fernando Benavides
-Erlang Factory SF 2015,,FnjutUoNSmg,QuickCheck-CI,John Hughes
-Erlang Factory SF 2015,,sNE5Tu1NGjc,Hex Package Manager,Eric Meadows-Jönsson
-Erlang Factory SF 2015,,uwpakTIg9r8,Distributed Eventually Consistent Computations,Christopher Meiklejohn
-Erlang Factory SF 2015,,LKsNbYf9mLw,Building on top of riak core,Mark Allen
-Erlang Factory SF 2015,,V5fMQcSy3y8,What Elixir is about,José Valim
-Erlang Factory SF 2015,,8tiu46uDAsU,Erlang Factory SF 2015 - Snippets,
-Erlang Factory SF 2016,,LG3ypFnR6bM,Erlang Factory SF 2016 - Highlights,
-Erlang Factory SF 2016,,fkQm16juRZ0,"WIND, a System for Management and Orchestration of Distributed Heterogeneous Clouds",
-Erlang Factory SF 2016,,WoUn2XQvGDw,A Brief History of Time,Fred Hebert
 Erlang Factory Lite London 2012,,BCZNb9M-KCk,The Ideal Programmer - Why They Don't Exist and How to Manage Without Them?,
 Erlang Factory Lite London 2012,,D3q2tqiP1Q4,The Ideal Programmer - Why They Don't Exist and How to Manage Without Them?,
 Erlang Factory Lite London 2012,,MamkJWAGzoE,Profiling Erlang programs using Percept2,
@@ -132,11 +119,6 @@ Dayton Elixir 2014,,uxGMfr0jDPU,Taming the Command Line and Erlang Ports,Alexei 
 RedDotRubyConf 2014,,2X1J1lVzRuQ,Ruby + Elixir: Polyglottin' FTW!,Benjamin Tan Wei Hao
 GOTO 2014,,lww1aZ-ldz0,"Elixir: The Power of Erlang, the Joy of Ruby",Dave Thomas
 RailsConf 2014,,5kYmOyJjGDM,All Aboard The Elixir Express! Workshop,Chris McCord
-Erlang Factory 2014,,ySkC4vxBfko,Bitcoin & Elixir: Living the Cutting Edge,Yurii Rashkovskii
-Erlang Factory 2014,,Djv4C9H9yz4,Catalyse Change,"José Valim,Dave Thomas"
-Erlang Factory 2014,,7VTF3vqY0Y0,Distributed Robots with Elixir,"Robby Clements,Josh Adams"
-Erlang Factory 2014,,QP3Ffc5cU_U,Pipe Dreams - Getting More out of Elixir Pipes,Bruce Tate
-Erlang Factory 2014,,mkoYqXdXl5Y,"Write Less, Do More (and Have Fun!) with Elixir Macros",Chris McCord
 Developer Download 2014,,V4NYQ2ihPq0,An Overview on Elixir,Paul Schoenfelder
 Developer Download 2014,,CNjfi0PRnvc,Show me the code!,Paul Schoenfelder
 Developer Download 2014,,rag1ehwCqhA,Resources & Libraries,Paul Schoenfelder
@@ -145,8 +127,6 @@ Linux.conf.au 2014,,uWSGBpW3xEQ,"Programming Elixir: The magic of today's tonic"
 Ruby Conf 2013,,71v21C-zx3Y,The Polyglot in the Code - An Elixir/Ruby Mashup,Johnny Winn
 Erlang User Conference 2013,,a3eJoM5FFiQ,Meta-Programming with Elixir,Yurii Rashkovskii
 Lone Star Ruby Conference 2013,,KQwEmdOH-GM,"Elixir: Power of Erlang, Joy of Ruby",Dave Thomas
-Erlang Factory SF 2013,,ujaoprIKY9M,Genomu - A concurrency oriented K/V in Elixir,Yurii Rashkovskii
-Erlang Factory SF 2013,,41PvAPSX0wg,Introduction to Elixir,José Valim
 Erlang DC 2013,,m32CGvzixrQ,Erlang metaprogramming with Elixir,Yurii Rashkovskii
 The Big Elixir 2018,,ZxDYdayfOS0,Physical Elixir,Justin Schneck
 The Big Elixir 2018,,ffhCUKI2_ho,Leveraging GenStage to Implement Your Own Event Bus,Eli Kim

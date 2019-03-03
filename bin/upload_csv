@@ -73,9 +73,13 @@ CSV.foreach("todo.csv", headers: true).map do |entry|
   talk
 end
 
-# File.open('_data/speakers.yaml', 'w+') do |file|
-#   file.puts speakers.concat(new_speakers).sort_by { |x| x['id'] }.to_yaml
-# end
+File.open('_data/speakers.yaml', 'w+') do |file|
+  file.puts speakers.concat(new_speakers).sort_by { |x| x['id'] }.to_yaml
+end
+
+File.open('_data/conferences.yaml', 'w+') do |file|
+  file.puts conferences.concat(new_conferences).sort_by { |x| x['id'] }.to_yaml
+end
 
 # result.group_by { |value| value['conference'] }.each do |conference, items|
 
@@ -84,6 +88,12 @@ end
 # # 1. write new speakers
 #
 result.group_by { |value| value['conference'] }.each do |conference, items|
-  puts items.to_yaml
-  # File.open("./_data/#{conference}.yaml", "w+") { |file| file << items.to_yaml }
+  path = "./_data/#{conference}.yaml"
+
+  if File.exists?(path)
+    existing_items = YAML.load(File.read(path))
+    File.open(path, 'w+') { |f| f.puts (existing_items + items).to_yaml }
+  else
+    File.open(path, "w+") { |file| file << items.to_yaml }
+  end
 end
