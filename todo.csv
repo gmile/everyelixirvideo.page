@@ -9,23 +9,14 @@ Erlang Factory Lite Moscow 2012,youtube,YzcC_dLiiDM,Lightning Talk - Asynchronou
 Erlang Factory Lite Moscow 2012,youtube,jQxw_6nPEmw,Erlang Use Cases,Michal Slaski
 Erlang Factory Lite Moscow 2012,youtube,mSKWNdjO9MQ,Scalable ejabberd,Konstantin Tcepliaev
 Erlang Factory Lite Moscow 2012,youtube,CECh5bg_r3g,Erlang/OTP applications (...),Alex Gunin (lecture in Russian)
+Erlang User Conference 2012,youtube,sNLeeakZppU,Just-in-time in No Time? 'Use the Source!',Frej Drejhammar
 Erlang User Conference 2012,youtube,NQ8Go5UgaAg,Ruby & Erlang - at Scale with Style,Martin Rehfeld
 Erlang User Conference 2012,youtube,F2dj3trqKTo,ErLLVM,Kostis Sagonas
-Erlang User Conference 2012,youtube,sNLeeakZppU,Just-in-time in No Time? 'Use the Source!',Frej Drejhammar
-Erlang User Conference 2012,youtube,xBcgrIOzGbQ,Mnesia Backend Plugin Framework and a LevelDB-based Plugin,"Roland Karlsson, Malcolm Matalka"
-Erlang User Conference 2012,youtube,7hyQzH7x0Q4,Using Software Refactoring to Form Parallel Programs(...),"Chris Brown, Kevin Hammond"
-Erlang User Conference 2012,youtube,Z1v7NcT8GGw,Alternatives in Error Handling,Dmitry Groshev
-Erlang User Conference 2012,youtube,qJL-9LKQoq4,Combinatorrent - a Haskell Case Study,Jesper Louis Andersen
-Erlang User Conference 2012,youtube,yFAaWtV06tU,(first '(Clojure.)),Niklas Lindström
-Erlang User Conference 2012,youtube,5vf6ooBt7O8,Sweden's Next Top NoSQL Data Model,Ian Plosker
-Erlang User Conference 2012,youtube,dbiRSua8L-Y,Latest News from the Erlang OTP Group,Kenneth Lundin
-Erlang User Conference 2012,youtube,NQ8Go5UgaAg,Ruby & Erlang - at Scale with Style,Martin Rehfeld 
-Erlang User Conference 2012,youtube,F2dj3trqKTo,ErLLVM,Kostis Sagonas 
 Erlang User Conference 2012,youtube,xBcgrIOzGbQ,Mnesia Backend Plugin Framework and a LevelDB-based Plugin,"Roland Karlsson, Malcolm Matalka"
 Erlang User Conference 2012,youtube,7hyQzH7x0Q4,Using Software Refactoring to Form Parallel Programs(...),"Chris Brown, Kevin Hammond"
 Erlang User Conference 2012,youtube,Z1v7NcT8GGw,Alternatives in Error Handling,Dmitry Groshev 
 Erlang User Conference 2012,youtube,qJL-9LKQoq4,Combinatorrent - a Haskell Case Study,Jesper Louis Andersen 
-Erlang User Conference 2012,youtube,yFAaWtV06tU,(first '(Clojure.)),Niklas Lindström 
+Erlang User Conference 2012,youtube,yFAaWtV06tU,(first '(Clojure.)),Niklas Lindström
 Erlang User Conference 2012,youtube,5vf6ooBt7O8,Sweden's Next Top NoSQL Data Model,Ian Plosker 
 Erlang User Conference 2012,youtube,dbiRSua8L-Y,Latest News from the Erlang OTP Group,Kenneth Lundin 
 Erlang User Conference 2012,youtube,FRoY3HPOFNw,The Ideal Programmer - Why They Don't Exist and How to Manage Without Them?, Mike Williams 
@@ -149,13 +140,10 @@ Developer Download 2014,youtube,V4NYQ2ihPq0,An Overview on Elixir,Paul Schoenfel
 Developer Download 2014,youtube,CNjfi0PRnvc,Show me the code!,Paul Schoenfelder
 Developer Download 2014,youtube,rag1ehwCqhA,Resources & Libraries,Paul Schoenfelder
 Solution Street hangout,youtube,lly-1UYmnFI,Intro to Elixir,Pete Broderick
-"London Erlang User Group, February 2014",youtube,6rWeGt71DnI,"Macros, and protocols and metaprogramming! Oh My!",Jim McCoy
 Linux.conf.au 2014,youtube,uWSGBpW3xEQ,"Programming Elixir: The magic of today's tonic",Katie Miller
 Code Mesh London 2013,youtube,SJRfujy9vLA,Ecto: A language integrated query for Elixir,José Valim
 Ruby Conf 2013,youtube,71v21C-zx3Y,The Polyglot in the Code - An Elixir/Ruby Mashup,Johnny Winn
-"Singapore Ruby Brigade Meetup, November 2013",youtube,balk-3BF4ro?t=1511,"Hello, Elixir!",Benjamin Tan
 Erlang User Conference 2013,youtube,a3eJoM5FFiQ,Meta-Programming with Elixir,Yurii Rashkovskii
-"#kievfprog, August 2013",youtube,zF3xy1M6SFk,Introducing Elixir,Alexei Sholik
 Lone Star Ruby Conference 2013,youtube,KQwEmdOH-GM,"Elixir: Power of Erlang, Joy of Ruby",Dave Thomas
 Erlang Factory SF 2013,youtube,ujaoprIKY9M,Genomu - A concurrency oriented K/V in Elixir,Yurii Rashkovskii
 Erlang Factory SF 2013,youtube,41PvAPSX0wg,Introduction to Elixir,José Valim
@@ -171,3 +159,6 @@ The Big Elixir 2018,youtube,IeUF48vSxwI,Hot Upgrade Are Not Scary,Desmond Bowe
 The Big Elixir 2018,youtube,KDykyubyZGw,Going Multi-Node,Eric Oestrich
 The Big Elixir 2018,youtube,AgKRBN6SF-c,TIL By Breaking Production...,Jon Carstens
 The Big Elixir 2018,youtube,dWfD6idpipE,On Building Systems,Josh Adams
+"London Erlang User Group 2014",youtube,6rWeGt71DnI,"Macros, and protocols and metaprogramming! Oh My!",Jim McCoy
+"#kievfprog, August 2013",youtube,zF3xy1M6SFk,Introducing Elixir,Alexei Sholik
+"Singapore Ruby Brigade Meetup, November 2013",youtube,balk-3BF4ro?t=1511,"Hello, Elixir!",Benjamin Tan
