@@ -4,56 +4,56 @@
   speakers:
   - dave_thomas
   conference: elixirdaze_2017
-  video_view_count: 3216
+  video_view_count: 3257
   video_duration_seconds: 2484
 - video_id: 7CoEDFOXJQo
   talk_title: 'Stronger Than Fear: Mental Health in the Developer Community'
   speakers:
   - ed_finkler
   conference: elixirdaze_2017
-  video_view_count: 548
+  video_view_count: 556
   video_duration_seconds: 2552
 - video_id: O39ipRsXv3Y
   talk_title: Get Cooking With Nerves
   speakers:
   - garth_hitchens
   conference: elixirdaze_2017
-  video_view_count: 1868
+  video_view_count: 1957
   video_duration_seconds: 2188
 - video_id: 49Gw8DT5pEo
   talk_title: Can Elixir Bring Down Phoenix?
   speakers:
   - ben_marx
   conference: elixirdaze_2017
-  video_view_count: 4650
+  video_view_count: 4672
   video_duration_seconds: 1785
 - video_id: 8X0IWW2GJoQ
   talk_title: The ABCs of OTP
   speakers:
   - jesse_j_anderson
   conference: elixirdaze_2017
-  video_view_count: 2205
+  video_view_count: 2334
   video_duration_seconds: 1870
 - video_id: kQEG1NVCazE
   talk_title: Observer Driven Design
   speakers:
   - omid_bachari
   conference: elixirdaze_2017
-  video_view_count: 929
+  video_view_count: 960
   video_duration_seconds: 1288
 - video_id: fFqsMWmONN4
   talk_title: Embrace the Database With Ecto
   speakers:
   - josh_branchaud
   conference: elixirdaze_2017
-  video_view_count: 2350
+  video_view_count: 2582
   video_duration_seconds: 2465
 - video_id: TjlbXQ88eEc
   talk_title: Building Communities of Smart Things Takes Nerves
   speakers:
   - jean_francois_cloutier
   conference: elixirdaze_2017
-  video_view_count: 656
+  video_view_count: 673
   video_duration_seconds: 2643
 - video_id: vuQTj9Ik83A
   talk_title: Its all About the Journey
@@ -61,68 +61,68 @@
   - tetiana_dushenkivska
   - keith_salisbury
   conference: elixirdaze_2017
-  video_view_count: 323
+  video_view_count: 325
   video_duration_seconds: 2628
 - video_id: 5SbWapbXhKo
   talk_title: Solid Ground
   speakers:
   - sasa_juric
   conference: elixirdaze_2017
-  video_view_count: 6045
+  video_view_count: 6498
   video_duration_seconds: 1891
 - video_id: ZiHdXJFPGN0
   talk_title: Elixir With Erlang Solutions
   speakers:
   - francesco_cesarini
   conference: elixirdaze_2017
-  video_view_count: 935
+  video_view_count: 957
   video_duration_seconds: 3119
 - video_id: nZ-U8ZszmeI
   talk_title: Deploying Elixir
   speakers:
   - paul_lamb
   conference: elixirdaze_2017
-  video_view_count: 2276
+  video_view_count: 2405
   video_duration_seconds: 2246
 - video_id: AnYm0rTJNVg
   talk_title: Using Your Umbrella
   speakers:
   - chris_bell
   conference: elixirdaze_2017
-  video_view_count: 1418
+  video_view_count: 1524
   video_duration_seconds: 1752
 - video_id: Cn-RjG1Qyqo
   talk_title: 'BEER: Not Just for Your Devs'
   speakers:
   - maureen_mc_elaney
   conference: elixirdaze_2017
-  video_view_count: 259
+  video_view_count: 262
   video_duration_seconds: 1575
 - video_id: 4Pswied02o0
   talk_title: Live Like a Hippy
   speakers:
   - amos_king
   conference: elixirdaze_2017
-  video_view_count: 427
+  video_view_count: 435
   video_duration_seconds: 2287
 - video_id: 69L5kf_qPLk
   talk_title: Lets Generate Tests
   speakers:
   - chris_keathley
   conference: elixirdaze_2017
-  video_view_count: 563
+  video_view_count: 590
   video_duration_seconds: 1969
 - video_id: rJVq5prpyj4
   talk_title: Tackling Authentication with Phoenix
   speakers:
   - joao_maura
   conference: elixirdaze_2017
-  video_view_count: 2188
+  video_view_count: 2279
   video_duration_seconds: 1754
 - video_id: 9CkZJ2kgNNs
   talk_title: Macros
   speakers:
   - jason_cummings
   conference: elixirdaze_2017
-  video_view_count: 677
+  video_view_count: 703
   video_duration_seconds: 1578

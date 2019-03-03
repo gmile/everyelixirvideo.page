@@ -3,65 +3,65 @@
   talk_title: Riak Core in Small Bites
   speakers:
   - mariano_guerra
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 562
+  video_duration_seconds: 1468
   conference: erlang_factory_lite_berlin_2014
 - video_id: 7_0iOlJCL9E
   talk_title: Elixir Tooling
   speakers:
   - eric_meadows_jonsson
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 260
+  video_duration_seconds: 2046
   conference: erlang_factory_lite_berlin_2014
 - video_id: NfCLCmRi4_Y
   talk_title: How To Ship New Code Without Taking Your System Down
   speakers:
   - martin_rehfeld
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 412
+  video_duration_seconds: 1967
   conference: erlang_factory_lite_berlin_2014
 - video_id: od6CfA8xEcM
   talk_title: Erlang,Evolution
   speakers:
   - robert_virding
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 526
+  video_duration_seconds: 2244
   conference: erlang_factory_lite_berlin_2014
 - video_id: 3LcED3KrGbI
   talk_title: Monitoring Complex Systems(...)
   speakers:
   - brian_troutwine
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 744
+  video_duration_seconds: 2080
   conference: erlang_factory_lite_berlin_2014
 - video_id: BG8hjXuV8Os
   talk_title: 'Erlang-Lua: How to write an Erlang C Node'
   speakers:
   - robby_raschke
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 716
+  video_duration_seconds: 1768
   conference: erlang_factory_lite_berlin_2014
 - video_id: V1UaFRnbWEk
   talk_title: The Cool Kids love Erlang
   speakers:
   - gustav_simonsson
   - henning_diedrich
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 723
+  video_duration_seconds: 2134
   conference: erlang_factory_lite_berlin_2014
 - video_id: f0NAh6Q2ato
   talk_title: Latest News from the OTP Team
   speakers:
   - bruce_yinhe
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 272
+  video_duration_seconds: 1148
   conference: erlang_factory_lite_berlin_2014
 - video_id: wRXtMR8agoM
   talk_title: Implementing Automated Trading System (...)
   speakers:
   - anton_prokofiev
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 425
+  video_duration_seconds: 1381
   conference: erlang_factory_lite_berlin_2014
 - video_id: X-jdDz4VXe4
   talk_title: Lightning Talks
@@ -69,6 +69,6 @@
   - michal_kalbarczyk
   - sergej_jurecko
   - valery_meleshkin
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 406
+  video_duration_seconds: 1949
   conference: erlang_factory_lite_berlin_2014

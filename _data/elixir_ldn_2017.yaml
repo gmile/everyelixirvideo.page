@@ -4,42 +4,42 @@
   speakers:
   - peter_saxton
   conference: elixir_ldn_2017
-  video_view_count: 1513
+  video_view_count: 1585
   video_duration_seconds: 2531
 - video_id: g4HXeP_CZbc
   talk_title: Getting Pretty Serious
   speakers:
   - louis_pilfold
   conference: elixir_ldn_2017
-  video_view_count: 1346
+  video_view_count: 1376
   video_duration_seconds: 1524
 - video_id: 5EDD1oZ23tY
   talk_title: 'Stepping into a New Era: Injecting Elixir in an Existing System'
   speakers:
   - andrea_leopardi
   conference: elixir_ldn_2017
-  video_view_count: 1171
+  video_view_count: 1196
   video_duration_seconds: 1635
 - video_id: AAXtjPiXbWE
   talk_title: Profiling and Tracing for all with Xprof
   speakers:
   - pe?ter_go?mo?ri
   conference: elixir_ldn_2017
-  video_view_count: 690
+  video_view_count: 731
   video_duration_seconds: 1575
 - video_id: cKfme8i_nO0
   talk_title: How We Created Elixir University Course
   speakers:
   - nikolay_tsvetinov
   conference: elixir_ldn_2017
-  video_view_count: 695
+  video_view_count: 716
   video_duration_seconds: 1233
 - video_id: YviCIOT7C6I
   talk_title: How to Sell Elixir
   speakers:
   - evadne_wu
   conference: elixir_ldn_2017
-  video_view_count: 1045
+  video_view_count: 1061
   video_duration_seconds: 1179
 - video_id: anGb8ByaZbc
   talk_title: Lightning Talks
@@ -51,54 +51,54 @@
   lightning: true
   processed: false
   conference: elixir_ldn_2017
-  video_view_count: 290
+  video_view_count: 310
   video_duration_seconds: 1017
 - video_id: psdG5iV57q0
   talk_title: 'Witchcraft: Monads for the Working Alchemist'
   speakers:
   - brooklyn_zelenka
   conference: elixir_ldn_2017
-  video_view_count: 2454
+  video_view_count: 2722
   video_duration_seconds: 2666
 - video_id: GCATa8lkUMw
   talk_title: Introduces Her Talk
   speakers:
   - brooklyn_zelenka
   conference: elixir_ldn_2017
-  video_view_count: 460
+  video_view_count: 490
   video_duration_seconds: 54
 - video_id: jhZwQ1LTdUI
   talk_title: 'Elixir Umbrella: Microservices or Majestic Monolith?'
   speakers:
   - georgina_mc_fadyen
   conference: elixir_ldn_2017
-  video_view_count: 5646
+  video_view_count: 6307
   video_duration_seconds: 2537
 - video_id: KzD3Jrk_GmI
   talk_title: Women in the Coding Industry
   speakers:
   - georgina_mc_fadyen
   conference: elixir_ldn_2017
-  video_view_count: 437
+  video_view_count: 467
   video_duration_seconds: 103
 - video_id: yPU6__D1TQs
   talk_title: The Journey From Ruby to Elixir
   speakers:
   - louis_pilfold
   conference: elixir_ldn_2017
-  video_view_count: 395
+  video_view_count: 406
   video_duration_seconds: 100
 - video_id: p4uE-jTB_Uk
   talk_title: The Feature That No One Knew About in Elixir 1.5
   speakers:
   - jose_valim
   conference: elixir_ldn_2017
-  video_view_count: 6966
+  video_view_count: 7283
   video_duration_seconds: 2171
 - video_id: R5xTuw7NYg8
   talk_title: HTTP/2 Plug to Phoenix, Cowboy Too
   speakers:
   - gary_rennie
   conference: elixir_ldn_2017
-  video_view_count: 1367
+  video_view_count: 1439
   video_duration_seconds: 2581

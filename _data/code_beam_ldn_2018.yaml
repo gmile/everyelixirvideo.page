@@ -7,42 +7,42 @@
   - tetiana_dushenkivska
   - andrea_leopardi
   conference: code_beam_ldn_2018
-  video_view_count: 574
+  video_view_count: 938
   video_duration_seconds: 340
 - video_id: IJJQvJRoXy8
   talk_title: 'A shot of Absinthe: from zero to GraphQL in 40 minutes'
   speakers:
   - sam_davies
   conference: code_beam_ldn_2018
-  video_view_count: 277
+  video_view_count: 467
   video_duration_seconds: 2681
 - video_id: Tsg6V0UBlEw
   talk_title: Elixir for the Long Haul
   speakers:
   - powell_kinney
   conference: code_beam_ldn_2018
-  video_view_count: 150
+  video_view_count: 260
   video_duration_seconds: 2246
 - video_id: Z8_FcP4c7Mg
   talk_title: Invariants are everything
   speakers:
   - joseph_yiasemides
   conference: code_beam_ldn_2018
-  video_view_count: 70
+  video_view_count: 111
   video_duration_seconds: 2546
 - video_id: AiN4r8E9qKg
   talk_title: Discovering distributed systems in Elixir
   speakers:
   - maciej_kaszubowski
   conference: code_beam_ldn_2018
-  video_view_count: 330
+  video_view_count: 585
   video_duration_seconds: 1958
 - video_id: nBtz9IJBO4g
   talk_title: 'Pattern matching: The gateway to loving Elixir'
   speakers:
   - kate_travers
   conference: code_beam_ldn_2018
-  video_view_count: 142
+  video_view_count: 236
   video_duration_seconds: 1616
 - video_id: GGZOjl6mSK4
   talk_title: Overview & Challenges of building a Blockchain
@@ -50,14 +50,14 @@
   - p_piwowarsky
   - g_spasov
   conference: code_beam_ldn_2018
-  video_view_count: 71
+  video_view_count: 127
   video_duration_seconds: 1423
 - video_id: 2Lv_i1JJdsM
   talk_title: Bootcamp stories
   speakers:
   - arjan_scherpenisse
   conference: code_beam_ldn_2018
-  video_view_count: 61
+  video_view_count: 83
   video_duration_seconds: 1795
 - video_id: pytd3GBiHsc
   talk_title: Absinthe Authentication
@@ -65,28 +65,28 @@
   - jon_rowe
   lightning: true
   conference: code_beam_ldn_2018
-  video_view_count: 48
+  video_view_count: 73
   video_duration_seconds: 208
 - video_id: FjkE8HDWIBU
   talk_title: Elixir for curing product development pains?
   speakers:
   - michael_krax
   conference: code_beam_ldn_2018
-  video_view_count: 62
+  video_view_count: 82
   video_duration_seconds: 2825
 - video_id: ukMFwZtY3m0
   talk_title: Mind your own business view controller
   speakers:
   - peter_saxton
   conference: code_beam_ldn_2018
-  video_view_count: 265
+  video_view_count: 295
   video_duration_seconds: 1562
 - video_id: uygkbKXN-0A
   talk_title: Managing externalities in a functional world
   speakers:
   - evadne_wu
   conference: code_beam_ldn_2018
-  video_view_count: 63
+  video_view_count: 101
   video_duration_seconds: 1438
 - video_id: U77o0zjAlsE
   talk_title: Fun with processes
@@ -94,7 +94,7 @@
   - pawel_dawczak
   lightning: true
   conference: code_beam_ldn_2018
-  video_view_count: 85
+  video_view_count: 127
   video_duration_seconds: 284
 - video_id: hm6yLbSjdlY
   talk_title: Saving the network by killing the network
@@ -102,5 +102,5 @@
   - paul_wilson
   lightning: true
   conference: code_beam_ldn_2018
-  video_view_count: 28
+  video_view_count: 36
   video_duration_seconds: 294

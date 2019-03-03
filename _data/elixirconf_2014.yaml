@@ -4,42 +4,42 @@
   speakers:
   - greg_vaughn
   conference: elixirconf_2014
-  video_view_count: 1121
+  video_view_count: 1123
   video_duration_seconds: 2580
 - video_id: zNNGTiTArJw
   talk_title: Elixir - Evaluating Performance of Language
   speakers:
   - filipe_varjao
   conference: elixirconf_2014
-  video_view_count: 1614
+  video_view_count: 1619
   video_duration_seconds: 1714
 - video_id: aV80O9cvDDw
   talk_title: Elixir in an Enterprise Telecommunications Product
   speakers:
   - stephen_pallen
   conference: elixirconf_2014
-  video_view_count: 1337
+  video_view_count: 1345
   video_duration_seconds: 2969
 - video_id: rt8h_xeESLg
   talk_title: Erlang Rationale
   speakers:
   - robert_virding
   conference: elixirconf_2014
-  video_view_count: 2240
+  video_view_count: 2284
   video_duration_seconds: 2967
 - video_id: hxNalzuBbSw
   talk_title: Fear and the Evolution of Languages
   speakers:
   - bruce_tate
   conference: elixirconf_2014
-  video_view_count: 1082
+  video_view_count: 1084
   video_duration_seconds: 2725
 - video_id: VAa7YnZo0hU
   talk_title: Hex - How it was built
   speakers:
   - eric_meadows_jonsson
   conference: elixirconf_2014
-  video_view_count: 1336
+  video_view_count: 1343
   video_duration_seconds: 2759
 - video_id: XbD1Emhm31w
   talk_title: Introduction to Elixir for Rubyists
@@ -47,14 +47,14 @@
   - josh_adams
   - robby_clement
   conference: elixirconf_2014
-  video_view_count: 4043
+  video_view_count: 4056
   video_duration_seconds: 3038
 - video_id: aZXc11eOEpI
   talk_title: 'Keynote: Elixir'
   speakers:
   - jose_valim
   conference: elixirconf_2014
-  video_view_count: 9155
+  video_view_count: 9204
   video_duration_seconds: 3572
   keynote: true
 - video_id: 5hDVftaPQwY
@@ -62,7 +62,7 @@
   speakers:
   - dave_thomas
   conference: elixirconf_2014
-  video_view_count: 19017
+  video_view_count: 19122
   video_duration_seconds: 3348
   keynote: true
 - video_id: 5LRDICEETRE
@@ -70,21 +70,21 @@
   speakers:
   - martin_schurrer
   conference: elixirconf_2014
-  video_view_count: 5341
+  video_view_count: 5436
   video_duration_seconds: 1654
 - video_id: 3jMbzGv_6tA
   talk_title: Rise of The Phoenix - Building an Elixir Web Framework
   speakers:
   - chris_mc_cord
   conference: elixirconf_2014
-  video_view_count: 15219
+  video_view_count: 15252
   video_duration_seconds: 2653
 - video_id: W9BOAuM20NI
   talk_title: The Excitement of Elixir
   speakers:
   - devin_torres
   conference: elixirconf_2014
-  video_view_count: 1139
+  video_view_count: 1143
   video_duration_seconds: 1940
 - video_id: ptZHBePX0oI
   talk_title: The First Few Sips
@@ -98,12 +98,12 @@
   speakers:
   - francesco_cesarini
   conference: elixirconf_2014
-  video_view_count: 6750
+  video_view_count: 6828
   video_duration_seconds: 2949
 - video_id: 7l_fDU86pr4
   talk_title: Writing Command Line Applications with Elixir
   speakers:
   - james_smith
   conference: elixirconf_2014
-  video_view_count: 3384
-  video_duration_seconds: 1946
+  video_view_count: 3422
+  video_duration_seconds: 1945

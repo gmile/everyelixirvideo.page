@@ -3,77 +3,77 @@
   talk_title: Physical Elixir
   speakers:
   - justin_schneck
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 63
+  video_duration_seconds: 3091
   conference: the_big_elixir_2018
 - video_id: ffhCUKI2_ho
   talk_title: Leveraging GenStage to Implement Your Own Event Bus
   speakers:
   - eli_kim
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 115
+  video_duration_seconds: 1488
   conference: the_big_elixir_2018
 - video_id: WpUiaN5RAJQ
   talk_title: Using OTP / Presence for Real-time Analytics
   speakers:
   - jacqui_manzi
   - matt_mc_clure
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 147
+  video_duration_seconds: 1961
   conference: the_big_elixir_2018
 - video_id: NyowGgUzfno
   talk_title: 'Exceptional: Staying on the Happy Path'
   speakers:
   - brooklyn_zelenka
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 90
+  video_duration_seconds: 2587
   conference: the_big_elixir_2018
 - video_id: z4p4e9Uwn6I
   talk_title: Trapped By Our Tools
   speakers:
   - ben_wilson
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 129
+  video_duration_seconds: 2719
   conference: the_big_elixir_2018
 - video_id: GXh-f3S5rcM
   talk_title: Testing a Large GraphQL API With Aplomb
   speakers:
   - jeff_martin
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 111
+  video_duration_seconds: 2918
   conference: the_big_elixir_2018
 - video_id: 4RlKlTseAjg
   talk_title: 'Cadre: Building Reliable Distributed Stateful Applications'
   speakers:
   - paul_schoenfelder
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 212
+  video_duration_seconds: 3015
   conference: the_big_elixir_2018
 - video_id: IeUF48vSxwI
   talk_title: Hot Upgrade Are Not Scary
   speakers:
   - desmond_bowe
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 92
+  video_duration_seconds: 2444
   conference: the_big_elixir_2018
 - video_id: KDykyubyZGw
   talk_title: Going Multi-Node
   speakers:
   - eric_oestrich
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 97
+  video_duration_seconds: 2089
   conference: the_big_elixir_2018
 - video_id: AgKRBN6SF-c
   talk_title: TIL By Breaking Production...
   speakers:
   - jon_carstens
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 86
+  video_duration_seconds: 1866
   conference: the_big_elixir_2018
 - video_id: dWfD6idpipE
   talk_title: On Building Systems
   speakers:
   - josh_adams
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 244
+  video_duration_seconds: 2800
   conference: the_big_elixir_2018

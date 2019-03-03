@@ -4,7 +4,7 @@
   speakers:
   - jose_valim
   conference: elixirconf_eu_2015
-  video_view_count: 6085
+  video_view_count: 6089
   video_duration_seconds: 4252
   keynote: true
 - video_id: fLlItGWiVFc
@@ -12,7 +12,7 @@
   speakers:
   - chris_mc_cord
   conference: elixirconf_eu_2015
-  video_view_count: 5345
+  video_view_count: 5352
   video_duration_seconds: 3087
   keynote: true
 - video_id: nbpZRm9gl50
@@ -20,63 +20,63 @@
   speakers:
   - thomas_arts
   conference: elixirconf_eu_2015
-  video_view_count: 1768
+  video_view_count: 1789
   video_duration_seconds: 2586
 - video_id: xT8vDHIvurs
   talk_title: Individualized Content at Web-scale
   speakers:
   - michael_schaefermeyer
   conference: elixirconf_eu_2015
-  video_view_count: 3972
+  video_view_count: 4004
   video_duration_seconds: 3452
 - video_id: e_QefYcKkfk
   talk_title: Collaborative Web-based Tetris with Phoenix
   speakers:
   - josh_adams
   conference: elixirconf_eu_2015
-  video_view_count: 2156
+  video_view_count: 2170
   video_duration_seconds: 2910
 - video_id: C8SZaV96_vk
   talk_title: Building Lego Robots with Elixir
   speakers:
   - torben_hoffmann
   conference: elixirconf_eu_2015
-  video_view_count: 1270
+  video_view_count: 1292
   video_duration_seconds: 2887
 - video_id: snka1bAtZS0
   talk_title: Ecto
   speakers:
   - eric_meadows_jonsson
   conference: elixirconf_eu_2015
-  video_view_count: 1690
+  video_view_count: 1701
   video_duration_seconds: 3137
 - video_id: RoT8RnQHvgo
   talk_title: Fast Continuous Deployment of an Elixir Gameserver
   speakers:
   - martin_kavalar
   conference: elixirconf_eu_2015
-  video_view_count: 2964
+  video_view_count: 3001
   video_duration_seconds: 1804
 - video_id: lho1e04Gzzs
   talk_title: Rewriting a Ruby application in Elixir
   speakers:
   - claudio_ortolina
   conference: elixirconf_eu_2015
-  video_view_count: 2012
+  video_view_count: 2020
   video_duration_seconds: 2689
 - video_id: TkCftBMJyy0
   talk_title: Lessons from Erlang VM
   speakers:
   - michal_slaski
   conference: elixirconf_eu_2015
-  video_view_count: 2886
+  video_view_count: 2889
   video_duration_seconds: 1628
 - video_id: wYttHG3S76Y
   talk_title: High Availability
   speakers:
   - sasa_juric
   conference: elixirconf_eu_2015
-  video_view_count: 1297
+  video_view_count: 1306
   video_duration_seconds: 2370
 - video_id: h_HtO8KPvsM
   talk_title: One project rebuilt 4 times
@@ -84,7 +84,7 @@
   - milos_mosic
   - marco_herbst
   conference: elixirconf_eu_2015
-  video_view_count: 1078
+  video_view_count: 1089
   video_duration_seconds: 2255
 - video_id: wGAc_QwD_6Q
   talk_title: Scale, Manage and Prevent!
@@ -92,12 +92,12 @@
   - francesco_cesarini
   - viktoria_fordos
   conference: elixirconf_eu_2015
-  video_view_count: 631
+  video_view_count: 639
   video_duration_seconds: 2062
 - video_id: NrrUyRt_B1w
   talk_title: 'Chat Bot: A Practical Walkthrough of the powerful Features Elixir/Erlang/OTP'
   speakers:
   - jeff_weiss
   conference: elixirconf_eu_2015
-  video_view_count: 2755
+  video_view_count: 2782
   video_duration_seconds: 1968

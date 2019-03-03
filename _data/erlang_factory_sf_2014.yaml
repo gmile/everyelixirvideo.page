@@ -4,84 +4,84 @@
   speakers:
   - natalia_chechina
   conference: erlang_factory_2014
-  video_view_count: 830
+  video_view_count: 833
   video_duration_seconds: 2911
 - video_id: gp3GVnq1Dp4
   talk_title: Comparison and Commentary on "Application Operating System"
   speakers:
   - c_thomas_stover
   conference: erlang_factory_2014
-  video_view_count: 571
+  video_view_count: 582
   video_duration_seconds: 2407
 - video_id: pMdgEAiC_ds
   talk_title: RefactorErl supports your Daily Work!
   speakers:
   - melinda_toth
   conference: erlang_factory_2014
-  video_view_count: 347
+  video_view_count: 357
   video_duration_seconds: 3149
 - video_id: nuCYL0X-8f4
   talk_title: 'Memory Management: Battle Stories'
   speakers:
   - lukas_larsson
   conference: erlang_factory_2014
-  video_view_count: 512
+  video_view_count: 533
   video_duration_seconds: 2491
 - video_id: Dgbm3BRmzuI
   talk_title: LFE from 0 to 120kph... in 45 Minutes
   speakers:
   - duncan_mc_greggor
   conference: erlang_factory_2014
-  video_view_count: 887
+  video_view_count: 891
   video_duration_seconds: 2534
 - video_id: rECtTWbi2Zc
   talk_title: Profiling Applications using DTrace
   speakers:
   - mark_allen
   conference: erlang_factory_2014
-  video_view_count: 317
+  video_view_count: 326
   video_duration_seconds: 2507
 - video_id: 9UNANpxIlSQ
   talk_title: 'VM Tuning, Know Your Engine - Part III: The Scheduler'
   speakers:
   - erik_stenman
   conference: erlang_factory_2014
-  video_view_count: 454
+  video_view_count: 476
   video_duration_seconds: 2852
 - video_id: FKPJ3C-UZJw
   talk_title: N2O - The Most Powerful Web Framework
   speakers:
   - maxim_sokhatsky
   conference: erlang_factory_2014
-  video_view_count: 2986
+  video_view_count: 3032
   video_duration_seconds: 2569
 - video_id: 35I2McU-LVk
   talk_title: 'Erlang + CZMQ: Scalable, Secure, Cross Language Messaging'
   speakers:
   - garrett_smith
   conference: erlang_factory_2014
-  video_view_count: 864
+  video_view_count: 878
   video_duration_seconds: 3237
 - video_id: XrkY9WRY8p0
   talk_title: Eliminating Single Process Bottlenecks with ETS Concurrency Patterns
   speakers:
   - jay_nelson
   conference: erlang_factory_2014
-  video_view_count: 1586
+  video_view_count: 1641
   video_duration_seconds: 2769
 - video_id: CP0QmQAaChM
   talk_title: D3 + Websocket for Live Web Applications
   speakers:
   - loic_hoguin
   conference: erlang_factory_2014
-  video_view_count: 769
+  video_view_count: 778
   video_duration_seconds: 2787
 - video_id: m-7ANL5i6x4
   talk_title: A Backpack to Go the Extra-Functional Mile
   speakers:
   - laura_m_castro
   conference: erlang_factory_2014
-  video_view_count: 282
+  video_view_count: 283
   video_duration_seconds: 3140
 - video_id: 7VTF3vqY0Y0
   talk_title: Distributed Robots with Elixir
@@ -89,7 +89,7 @@
   - robby_clements
   - josh_adams
   conference: erlang_factory_2014
-  video_view_count: 1115
+  video_view_count: 1122
   video_duration_seconds: 1620
 - video_id: oEUBW2lCkIk
   talk_title: Erlang IDE done right
@@ -97,21 +97,21 @@
   - sergey_savenko
   - sergey_ignatov
   conference: erlang_factory_2014
-  video_view_count: 1374
+  video_view_count: 1400
   video_duration_seconds: 2276
 - video_id: rLXfdaLDmYM
   talk_title: 'Lucene Server: From Erlang to Java and Back Again'
   speakers:
   - fernando_benavides
   conference: erlang_factory_2014
-  video_view_count: 595
+  video_view_count: 606
   video_duration_seconds: 2131
 - video_id: giIm0eCTbko
   talk_title: Connecting the Internet of Things
   speakers:
   - bryan_hughes
   conference: erlang_factory_2014
-  video_view_count: 949
+  video_view_count: 954
   video_duration_seconds: 2969
 - video_id: FyTrBX1QxTw
   talk_title: An Open Erlang PaaS Done Right
@@ -132,98 +132,98 @@
   speakers:
   - bob_ippolito
   conference: erlang_factory_2014
-  video_view_count: 1234
+  video_view_count: 1238
   video_duration_seconds: 3203
 - video_id: ySkC4vxBfko
   talk_title: 'Bitcoin & Elixir: Living the Cutting Edge'
   speakers:
   - yurii_rashkovskii
   conference: erlang_factory_2014
-  video_view_count: 1258
+  video_view_count: 1261
   video_duration_seconds: 2905
 - video_id: mkoYqXdXl5Y
   talk_title: Write Less, Do More (and Have Fun!) with Elixir Macros
   speakers:
   - chris_mc_cord
   conference: erlang_factory_2014
-  video_view_count: 2283
+  video_view_count: 2325
   video_duration_seconds: 3121
 - video_id: QP3Ffc5cU_U
   talk_title: Pipe Dreams - Getting More out of Elixir Pipes
   speakers:
   - bruce_tate
   conference: erlang_factory_2014
-  video_view_count: 1063
+  video_view_count: 1069
   video_duration_seconds: 3080
 - video_id: LD_YXJwqgZE
   talk_title: Sneaking Erlang in Through the Back Door
   speakers:
   - bernard_duggan
   conference: erlang_factory_2014
-  video_view_count: 651
+  video_view_count: 654
   video_duration_seconds: 2627
 - video_id: K7UzDIyycQg
   talk_title: Real Time Performance at Massive Scale
   speakers:
   - francois_orsini
   conference: erlang_factory_2014
-  video_view_count: 1672
+  video_view_count: 1678
   video_duration_seconds: 2428
 - video_id: OBGqVmzuDQg
   talk_title: Building an IP Network Camera
   speakers:
   - frank_hunleth
   conference: erlang_factory_2014
-  video_view_count: 986
+  video_view_count: 993
   video_duration_seconds: 2785
 - video_id: dLcs-hZslfU
   talk_title: mod kazoo Crossing Language Barriers for Fun and Profit
   speakers:
   - karl_anderson
   conference: erlang_factory_2014
-  video_view_count: 625
+  video_view_count: 635
   video_duration_seconds: 2405
 - video_id: 1QaD8AmafBk
   talk_title: Finding the Needle in the Haystack or Troubleshooting Distributed Systems
   speakers:
   - anthony_molinaro
   conference: erlang_factory_2014
-  video_view_count: 299
+  video_view_count: 301
   video_duration_seconds: 2489
 - video_id: c12cYAUTXXs
   talk_title: 'That''s ''Billion'' with a ''B'': Scaling to the Next Level at WhatsApp'
   speakers:
   - rick_reed
   conference: erlang_factory_2014
-  video_view_count: 32098
+  video_view_count: 32991
   video_duration_seconds: 2955
 - video_id: ZVO3XaIIvmk
   talk_title: Live Distributed Spying
   speakers:
   - brian_mitchell
   conference: erlang_factory_2014
-  video_view_count: 817
+  video_view_count: 825
   video_duration_seconds: 2777
 - video_id: 57PhGxzgCoM
   talk_title: On the Scalability of the Erlang Virtual Machine and its Term Storage
   speakers:
   - kostis_sagonas
   conference: erlang_factory_2014
-  video_view_count: 756
+  video_view_count: 765
   video_duration_seconds: 3139
 - video_id: 1mJUhUDipuo
   talk_title: 'Star Trek: revisited in Lua and Erlang'
   speakers:
   - kenji_rikitake
   conference: erlang_factory_2014
-  video_view_count: 487
+  video_view_count: 497
   video_duration_seconds: 3008
 - video_id: XBuQg1ZElao
   talk_title: Step By Step Guide to Building an Application Analytics System
   speakers:
   - anton_lavrik
   conference: erlang_factory_2014
-  video_view_count: 2194
+  video_view_count: 2221
   video_duration_seconds: 2465
 - video_id: Djv4C9H9yz4
   talk_title: Keynote Catalyse Change
@@ -231,7 +231,7 @@
   - dave_thomas
   - jose_valim
   conference: erlang_factory_2014
-  video_view_count: 3128
+  video_view_count: 3137
   video_duration_seconds: 2859
   keynote: true
 - video_id: YnTF9wS1O8U
@@ -239,28 +239,28 @@
   speakers:
   - henning_diedrich
   conference: erlang_factory_2014
-  video_view_count: 823
+  video_view_count: 830
   video_duration_seconds: 2526
 - video_id: iusJsLB-nMQ
   talk_title: Erjang With the JVM under the Hood
   speakers:
   - kresten_krab_thorup
   conference: erlang_factory_2014
-  video_view_count: 693
+  video_view_count: 695
   video_duration_seconds: 2933
 - video_id: ITstwAQYYag
   talk_title: Riak Ensemble A Paxos based Framework for Scalable, Consistent Systems
   speakers:
   - joseph_blomstedt
   conference: erlang_factory_2014
-  video_view_count: 1645
+  video_view_count: 1680
   video_duration_seconds: 2805
 - video_id: 4kTHZNLMe6M
   talk_title: SumoDB a Clean Persistence Layer for Erlang OTP
   speakers:
   - marcos_almonacid
   conference: erlang_factory_2014
-  video_view_count: 546
+  video_view_count: 553
   video_duration_seconds: 1127
 - video_id: qURhXHbxbDU
   talk_title: '10 Billion a Day, 100 Milliseconds Per: Monitoring Real Time Bidding
@@ -268,90 +268,70 @@
   speakers:
   - brian_troutwine
   conference: erlang_factory_2014
-  video_view_count: 3068
+  video_view_count: 3130
   video_duration_seconds: 2905
 - video_id: VAp8nc4j8H0
   talk_title: Scaling HTTP Connections
   speakers:
   - benoit_chesneau
   conference: erlang_factory_2014
-  video_view_count: 460
+  video_view_count: 465
   video_duration_seconds: 2367
 - video_id: IINmkv4izVQ
   talk_title: Verified Vector Clocks An Unexpected Journey
   speakers:
   - christopher_meiklejohn
   conference: erlang_factory_2014
-  video_view_count: 740
+  video_view_count: 763
   video_duration_seconds: 2784
 - video_id: edQZUNhBfbo
   talk_title: Catch me if you Can Processing Terabytes in Secs
   speakers:
   - jon_vlachogiannis
   conference: erlang_factory_2014
-  video_view_count: 1792
+  video_view_count: 1806
   video_duration_seconds: 2502
 - video_id: tmRdy9rRV3w
   talk_title: Thursday Keynote -- What Programming is Really About
   speakers:
   - mike_williams
   conference: erlang_factory_2014
-  video_view_count: 3258
+  video_view_count: 3275
   video_duration_seconds: 2596
   keynote: true
-- video_id: 0u0mAppm7d0
+- &1
+  video_id: 0u0mAppm7d0
   talk_title: 'The State of LFE: A Lisp Flavoured Smörgåsbord'
   speakers:
   - duncan_mc_greggor
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 574
+  video_duration_seconds: 1978
   conference: erlang_factory_sf_2014
-- video_id: cpYdofjZ7UY
+- &2
+  video_id: cpYdofjZ7UY
   talk_title: Performance Optimization 101
   speakers:
   - louis_philippe_gauthier
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 1590
+  video_duration_seconds: 2137
   conference: erlang_factory_sf_2014
-- video_id: NNzrjJC3G-U
+- &3
+  video_id: NNzrjJC3G-U
   talk_title: Caching Strategies for an Erlang Based Web Stack
   speakers:
   - enrique_paz_perez
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 511
+  video_duration_seconds: 2141
   conference: erlang_factory_sf_2014
-- video_id: IuK2NvxjvWY
+- &4
+  video_id: IuK2NvxjvWY
   talk_title: Planning for Overload
   speakers:
   - fred_hebert
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 1068
+  video_duration_seconds: 2638
   conference: erlang_factory_sf_2014
-- video_id: 0u0mAppm7d0
-  talk_title: 'The State of LFE: A Lisp Flavoured Smörgåsbord'
-  speakers:
-  - duncan_mc_greggor
-  video_view_count: 0
-  video_duration_seconds: 0
-  conference: erlang_factory_sf_2014
-- video_id: cpYdofjZ7UY
-  talk_title: Performance Optimization 101
-  speakers:
-  - louis_philippe_gauthier
-  video_view_count: 0
-  video_duration_seconds: 0
-  conference: erlang_factory_sf_2014
-- video_id: NNzrjJC3G-U
-  talk_title: Caching Strategies for an Erlang Based Web Stack
-  speakers:
-  - enrique_paz_perez
-  video_view_count: 0
-  video_duration_seconds: 0
-  conference: erlang_factory_sf_2014
-- video_id: IuK2NvxjvWY
-  talk_title: Planning for Overload
-  speakers:
-  - fred_hebert
-  video_view_count: 0
-  video_duration_seconds: 0
-  conference: erlang_factory_sf_2014
+- *1
+- *2
+- *3
+- *4

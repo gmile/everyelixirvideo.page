@@ -4,69 +4,69 @@
     really?
   speakers:
   - peter_lemenkov
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 272
+  video_duration_seconds: 2083
   conference: erlang_factory_lite_moscow_2012
 - video_id: XvSmVrTYg9A
   talk_title: Erlang Use Cases
   speakers:
   - michal_slaski
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 1762
+  video_duration_seconds: 1206
   conference: erlang_factory_lite_moscow_2012
 - video_id: _ISXGnSKCP8
   talk_title: Erlang-Based Sensor Network Management for Heterogenous Devices
   speakers:
   - michal_niec
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 210
+  video_duration_seconds: 1755
   conference: erlang_factory_lite_moscow_2012
 - video_id: 5HHxWWiRe6o
   talk_title: Code generation to fight with complexity
   speakers:
   - max_lapshin
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 227
+  video_duration_seconds: 1682
   conference: erlang_factory_lite_moscow_2012
 - video_id: Y5hKFVZn094
   talk_title: Scalable ejabberd
   speakers:
   - konstantin_tcepliaev
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 536
+  video_duration_seconds: 1574
   conference: erlang_factory_lite_moscow_2012
 - video_id: g4JR2JwGYmA
   talk_title: Random choice
   speakers:
   - bob_ippolito
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 60
+  video_duration_seconds: 1521
   conference: erlang_factory_lite_moscow_2012
 - video_id: YzcC_dLiiDM
   talk_title: Lightning Talk - Asynchronous PostgreSQL driver for Erlang
   speakers:
   - anton_lebedevich
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 337
+  video_duration_seconds: 785
   conference: erlang_factory_lite_moscow_2012
 - video_id: jQxw_6nPEmw
   talk_title: Erlang Use Cases
   speakers:
   - michal_slaski
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 222
+  video_duration_seconds: 1206
   conference: erlang_factory_lite_moscow_2012
 - video_id: mSKWNdjO9MQ
   talk_title: Scalable ejabberd
   speakers:
   - konstantin_tcepliaev
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 87
+  video_duration_seconds: 1574
   conference: erlang_factory_lite_moscow_2012
 - video_id: CECh5bg_r3g
   talk_title: Erlang/OTP applications (...)
   speakers:
   - alex_gunin
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 251
+  video_duration_seconds: 1599
   conference: erlang_factory_lite_moscow_2012

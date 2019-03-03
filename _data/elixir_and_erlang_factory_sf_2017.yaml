@@ -4,35 +4,35 @@
   speakers:
   - claudio_ortolina
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 1216
+  video_view_count: 1229
   video_duration_seconds: 1964
 - video_id: cljFpz_cv2E
   talk_title: Alpaca Static Typing on the BEAM
   speakers:
   - jeremy_pierre
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 1580
+  video_view_count: 1638
   video_duration_seconds: 2735
 - video_id: 6maj55n9dAo
   talk_title: Billions of Events Per Day with Elixir
   speakers:
   - danni_friedland
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 2847
+  video_view_count: 2915
   video_duration_seconds: 2495
 - video_id: Peg7E-nTrOY
   talk_title: Empowering devices for IoT with Erlang and FPGA
   speakers:
   - irina_guberman
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 1637
+  video_view_count: 1725
   video_duration_seconds: 2695
 - video_id: pwoaJvrJE_U
   talk_title: Keynote - Piecemeal Into Space Reliability Safety and Erlang Principles
   speakers:
   - brian_troutwine
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 989
+  video_view_count: 1046
   video_duration_seconds: 3449
   keynote: true
 - video_id: Ich_G1z44pQ
@@ -40,14 +40,14 @@
   speakers:
   - lukas_larsson
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 1132
+  video_view_count: 1159
   video_duration_seconds: 797
 - video_id: 7Y3jy4_l9N4
   talk_title: 'Lightning Talk: ehelper Erlang documentation in iex'
   speakers:
   - booker_bense
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 161
+  video_view_count: 168
   video_duration_seconds: 484
   lightning: true
 - video_id: hcGkT3Czd7U
@@ -55,7 +55,7 @@
   speakers:
   - yoshihiro_tanaka
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 229
+  video_view_count: 241
   video_duration_seconds: 258
   lightning: true
 - video_id: ynVPhzgPBFo
@@ -63,7 +63,7 @@
   speakers:
   - robert_beene
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 145
+  video_view_count: 150
   video_duration_seconds: 328
   lightning: true
 - video_id: fpBI6HP_xf8
@@ -79,7 +79,7 @@
   speakers:
   - christopher_meiklejohn
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 216
+  video_view_count: 217
   video_duration_seconds: 195
   lightning: true
 - video_id: pd1vM54coZg
@@ -87,7 +87,7 @@
   speakers:
   - dave_thomas
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 307
+  video_view_count: 324
   video_duration_seconds: 92
   lightning: true
 - video_id: rbzyi5bcPoY
@@ -95,7 +95,7 @@
   speakers:
   - ley_missailidis
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 250
+  video_view_count: 253
   video_duration_seconds: 270
   lightning: true
 - video_id: SGw_MACpYZM
@@ -103,7 +103,7 @@
   speakers:
   - derek_brown
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 222
+  video_view_count: 239
   video_duration_seconds: 315
   lightning: true
 - video_id: JmTFJ8FEBvk
@@ -111,7 +111,7 @@
   speakers:
   - kenji_rikitake
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 138
+  video_view_count: 141
   video_duration_seconds: 196
   lightning: true
 - video_id: rX6tC5K_XaI
@@ -119,7 +119,7 @@
   speakers:
   - hannah_howard
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 2985
+  video_view_count: 3398
   video_duration_seconds: 2878
 - video_id: Trhc5bygwFc
   talk_title: How Elixir Made Us Better Programmers
@@ -127,105 +127,106 @@
   - ari_lerner
   - anna_neyzberg
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 1007
+  video_view_count: 1026
   video_duration_seconds: 1793
 - video_id: zlZdOwAWcbo
   talk_title: From Front End to Full Stack with Elixir & Phoenix
   speakers:
   - lauren_tan
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 2198
+  video_view_count: 2314
   video_duration_seconds: 2553
 - video_id: AcehOqbwhPk
   talk_title: Lisp Machine Flavors for LFE implementing objects on Erlang OTP
   speakers:
   - robert_virding
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 754
+  video_view_count: 806
   video_duration_seconds: 2537
 - video_id: lHJgYCwp2Kc
   talk_title: Loquat A Design for Large Scale Distributed Applications
   speakers:
   - christopher_meiklejohn
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 604
+  video_view_count: 623
   video_duration_seconds: 2790
 - video_id: l5OODJ71qOs
   talk_title: The ABCs of OTP
   speakers:
   - jesse_j_anderson
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 95
+  video_view_count: 102
   video_duration_seconds: 2540
 - video_id: ncedupb-Rqw
   talk_title: Erlang Performance Lab
   speakers:
   - michal_slaski
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 1677
+  video_view_count: 1729
   video_duration_seconds: 2863
 - video_id: _ploxRVSlN0
   talk_title: Chaos at Netflix
   speakers:
   - casey_rosenthal
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 1743
+  video_view_count: 1813
   video_duration_seconds: 2532
 - video_id: KM9ESvnl4iU
   talk_title: How to Design a Software Library
   speakers:
   - andrea_leopardi
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 648
+  video_view_count: 697
   video_duration_seconds: 2294
 - video_id: F073GDdAHBQ
   talk_title: Responding to Cyber Attack at Machine Speed
   speakers:
   - duncan_sparrell
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 385
+  video_view_count: 397
   video_duration_seconds: 2434
 - video_id: A76hM3MpEKo
   talk_title: Transforming Programming
   speakers:
   - dave_thomas
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 8432
+  video_view_count: 9017
   video_duration_seconds: 2806
 - video_id: YplkQu6a80Q
   talk_title: Orchestrating Chaos Applying Database Research in the Wild
   speakers:
   - peter_alvaro
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 773
+  video_view_count: 813
   video_duration_seconds: 2638
 - video_id: sgFwhJduA-s
   talk_title: Elm and Phoenix Two FP Flavors That Taste Great Together
   speakers:
   - josh_adams
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 5772
+  video_view_count: 5935
   video_duration_seconds: 2872
 - video_id: aIGVOFwYtHE
   talk_title: Building Devices with Elixir Erlang using Nerves
   speakers:
   - justin_schneck
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 2412
+  video_view_count: 2541
   video_duration_seconds: 2430
 - video_id: oTAgcR-rMMc
   talk_title: Instrumenting the World with the BEAM
   speakers:
   - christopher_cote
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 718
+  video_view_count: 728
   video_duration_seconds: 2749
 - video_id: BO-8Hx8kPtA
-  talk_title: Building a web app in Erlang - yes you heard me right I said Erlang not Elixir
+  talk_title: Building a web app in Erlang - yes you heard me right I said Erlang
+    not Elixir
   speakers:
   - garrett_smith
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 14473
+  video_view_count: 16327
   video_duration_seconds: 2475
 - video_id: SpH9BTMZKXc
   talk_title: 'Keynote: Welcome Inside the Head of Larry Wall'
@@ -233,7 +234,7 @@
   - joe_armstrong
   - larry_wall
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 3721
+  video_view_count: 3950
   video_duration_seconds: 3102
   keynote: true
 - video_id: trpueWn8DIM
@@ -241,40 +242,41 @@
   speakers:
   - peter_hastie
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 3618
+  video_view_count: 4096
   video_duration_seconds: 2739
 - video_id: 41hNS39Xi8s
   talk_title: Debugging Code that Crashes the BEAM
   speakers:
   - richard_kallos
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 364
+  video_view_count: 388
   video_duration_seconds: 2272
 - video_id: PtgD5WRzcy4
   talk_title: Tracing JIT Compiler
   speakers:
   - lukas_larsson
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 1276
+  video_view_count: 1401
   video_duration_seconds: 2652
 - video_id: Grr_PAwdY2c
   talk_title: Instrumenting and Testing High Performance Switching Fabric for IoT
   speakers:
   - vladan_djakovic
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 340
+  video_view_count: 353
   video_duration_seconds: 2316
 - video_id: F3ETR4rXZco
   talk_title: 5 Hobby Projects
   speakers:
   - joe_armstrong
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 4371
+  video_view_count: 4486
   video_duration_seconds: 2633
 - video_id: uQY6yD2Lw-g
-  talk_title: Wireless Embedded Erlang Applications with Grisp Hardware Boards and Toolchain
+  talk_title: Wireless Embedded Erlang Applications with Grisp Hardware Boards and
+    Toolchain
   speakers:
   - peer_stritzinger
   conference: elixir_and_erlang_factory_sf_2017
-  video_view_count: 977
+  video_view_count: 1075
   video_duration_seconds: 2703

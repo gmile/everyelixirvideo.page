@@ -4,14 +4,14 @@
   speakers:
   - timmo_verlaan
   conference: elixirconf_eu_2017
-  video_view_count: 3762
+  video_view_count: 3849
   video_duration_seconds: 2386
 - video_id: nCSO8yeR0c4
   talk_title: Building a Scalable, Distributed Backend for Mobile Games
   speakers:
   - petri_kero
   conference: elixirconf_eu_2017
-  video_view_count: 3406
+  video_view_count: 3830
   video_duration_seconds: 2778
 - video_id: IZvpKhA6t8A
   talk_title: ElixirConf EU 2017 Keynote
@@ -19,28 +19,28 @@
   - jose_valim
   keynote: true
   conference: elixirconf_eu_2017
-  video_view_count: 10338
+  video_view_count: 10636
   video_duration_seconds: 3407
 - video_id: TZPG8b-Novw
   talk_title: Elixir and Money
   speakers:
   - tomasz_kowal
   conference: elixirconf_eu_2017
-  video_view_count: 3564
+  video_view_count: 3908
   video_duration_seconds: 2458
 - video_id: tbo7IV8akvs
   talk_title: The Best Library I Ever Designed
   speakers:
   - andrea_leopardi
   conference: elixirconf_eu_2017
-  video_view_count: 1184
+  video_view_count: 1199
   video_duration_seconds: 1835
 - video_id: W1EzF4FdUxM
   talk_title: Keeping Code Consistent
   speakers:
   - ben_marx
   conference: elixirconf_eu_2017
-  video_view_count: 1000
+  video_view_count: 1017
   video_duration_seconds: 2366
 - video_id: engXVCCk9bg
   talk_title: Lightning Talks
@@ -49,91 +49,91 @@
   lightning: true
   processed: false
   conference: elixirconf_eu_2017
-  video_view_count: 914
+  video_view_count: 929
   video_duration_seconds: 3563
 - video_id: p58sFfgMvdI
   talk_title: Designing a Multi-Language Live Programming Tool With Phoenix and Genstage
   speakers:
   - andrea_amantini
   conference: elixirconf_eu_2017
-  video_view_count: 983
+  video_view_count: 1032
   video_duration_seconds: 2253
 - video_id: ESzZCaaCzyg
   talk_title: Just Enough Plug to Build a Web server
   speakers:
   - ole_michaelis
   conference: elixirconf_eu_2017
-  video_view_count: 1336
+  video_view_count: 1427
   video_duration_seconds: 2344
 - video_id: itU5_zPddBQ
   talk_title: Background Processing with RabbitMQ
   speakers:
   - tatsuya_ono
   conference: elixirconf_eu_2017
-  video_view_count: 927
+  video_view_count: 973
   video_duration_seconds: 2826
 - video_id: ngWo5e-294o
   talk_title: Building a Graphical IDE in Elm/Purescript
   speakers:
   - claudia_doppioslash
   conference: elixirconf_eu_2017
-  video_view_count: 1872
+  video_view_count: 1909
   video_duration_seconds: 2447
 - video_id: XLOrFRgmczU
   talk_title: Visual Reasoning and Mental Maps in Elixir
   speakers:
   - daniel_vamosi
   conference: elixirconf_eu_2017
-  video_view_count: 1874
+  video_view_count: 1915
   video_duration_seconds: 2081
 - video_id: ZgPwqN38xaA
   talk_title: Machine Learning with Elixir and Phoenix
   speakers:
   - eric_weinstein
   conference: elixirconf_eu_2017
-  video_view_count: 5833
+  video_view_count: 6223
   video_duration_seconds: 2503
 - video_id: SDKiLO2XwIs
   talk_title: One and Only One Process in a Distributed System
   speakers:
   - nathan_herald
   conference: elixirconf_eu_2017
-  video_view_count: 1075
+  video_view_count: 1110
   video_duration_seconds: 1611
 - video_id: I-5ggHxKNCo
   talk_title: 'Wobserver: Easy to Integrate Monitoring and Debugging'
   speakers:
   - ian_luites
   conference: elixirconf_eu_2017
-  video_view_count: 909
+  video_view_count: 979
   video_duration_seconds: 2365
 - video_id: dDDCSDTHRZo
   talk_title: Testing Web Services with QuickCheck
   speakers:
   - thomas_arts
   conference: elixirconf_eu_2017
-  video_view_count: 698
+  video_view_count: 748
   video_duration_seconds: 2692
 - video_id: tJJMrtJEK1A
   talk_title: Refactoring Elixir - Lessons Learned from a Year on Exercism.Io
   speakers:
   - devon_estes
   conference: elixirconf_eu_2017
-  video_view_count: 2716
+  video_view_count: 2843
   video_duration_seconds: 2138
 - video_id: UTXYiV7nOpM
   talk_title: Always Available
   speakers:
   - claudio_ortolina
   conference: elixirconf_eu_2017
-  video_view_count: 1197
+  video_view_count: 1344
   video_duration_seconds: 2641
 - video_id: TZnaqnxA4UY
   talk_title: Fly like an Eagle
   speakers:
   - loic_vigneron
   conference: elixirconf_eu_2017
-  video_view_count: 902
+  video_view_count: 964
   video_duration_seconds: 2419
 - video_id: 79uZENO4OwA
   talk_title: The Age of Elixir
@@ -142,14 +142,14 @@
   - tetiana_dushenkivska
   keynote: true
   conference: elixirconf_eu_2017
-  video_view_count: 1014
+  video_view_count: 1028
   video_duration_seconds: 2910
 - video_id: sJvfCE6PFxY
   talk_title: A Practical Guide to Elixir Protocols
   speakers:
   - kevin_rockwood
   conference: elixirconf_eu_2017
-  video_view_count: 4803
+  video_view_count: 5519
   video_duration_seconds: 1930
 - video_id: pfFpIjFOL-I
   talk_title: Phoenix - Gauging Progress
@@ -157,7 +157,7 @@
   - chris_mc_cord
   keynote: true
   conference: elixirconf_eu_2017
-  video_view_count: 5395
+  video_view_count: 5492
   video_duration_seconds: 2947
 - video_id: d2qNlXtpWXM
   talk_title: GraphQL in Practice
@@ -165,5 +165,5 @@
   - bruce_williams
   - ben_wilson
   conference: elixirconf_eu_2017
-  video_view_count: 986
+  video_view_count: 1057
   video_duration_seconds: 2638

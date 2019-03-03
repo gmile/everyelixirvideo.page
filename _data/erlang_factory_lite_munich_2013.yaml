@@ -3,71 +3,71 @@
   talk_title: 1000 Actors, One Chaos Monkey and... Everything OK
   speakers:
   - pavlo_baron
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 215
+  video_duration_seconds: 2626
   conference: erlang_factory_lite_munich_2013
 - video_id: eOgWZb2Y_nw
   talk_title: Indenting Erlang Code Automatically (in Vim)
   speakers:
   - csaba_hoch
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 310
+  video_duration_seconds: 1853
   conference: erlang_factory_lite_munich_2013
 - video_id: S8SL0IpS9pk
   talk_title: Taking the printf out of printf Debugging
   speakers:
   - mats_cronqvist
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 253
+  video_duration_seconds: 2113
   conference: erlang_factory_lite_munich_2013
 - video_id: 3-yPf8WuOr0
   talk_title: Real-time card payments in Erlang
   speakers:
   - gustav_simonsson
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 387
+  video_duration_seconds: 2166
   conference: erlang_factory_lite_munich_2013
 - video_id: d76nLBiOh8g
   talk_title: Conversational big data
   speakers:
   - darach_ennis
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 109
+  video_duration_seconds: 1687
   conference: erlang_factory_lite_munich_2013
 - video_id: _NpQ414ePwE
   talk_title: OTP, the Middleware for Concurrent Distributed Scalable Architectures
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 3386
+  video_duration_seconds: 2253
   conference: erlang_factory_lite_munich_2013
 - video_id: P8GorlD7vms
   talk_title: Riak Pipe, Distributed Data Processing
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 1091
+  video_duration_seconds: 2687
   conference: erlang_factory_lite_munich_2013
 - video_id: ZAaS-U5pJ_E
   talk_title: Build custom protocols with Ranch and msgpack
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 996
+  video_duration_seconds: 1517
   conference: erlang_factory_lite_munich_2013
 - video_id: 0DwtX9YIvB8
   talk_title: Diving into Erlang is a one-way ticket
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 1366
+  video_duration_seconds: 2104
   conference: erlang_factory_lite_munich_2013
 - video_id: GNi3WuXPa1M
   talk_title: An introduction to Riak
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 7524
+  video_duration_seconds: 1663
   conference: erlang_factory_lite_munich_2013
 - video_id: aAmBiULWH0M
   talk_title: Erlang and RTEMS Embedded Erlang, two case studies
   speakers:
   - peer_stritzinger
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 531
+  video_duration_seconds: 3133
   conference: erlang_factory_lite_munich_2013

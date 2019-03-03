@@ -1,12 +1,12 @@
 ---
-- video_id: Lqo9-pQuRKE # V5fMQcSy3y8
+- video_id: Lqo9-pQuRKE
   talk_title: What Elixir is about
   speakers:
   - jose_valim
   conference: erlang_factory_sf_2015
-  video_view_count: 9218
+  video_view_count: 9300
   video_duration_seconds: 3492
-- video_id: aI6sH5YawD8 # sNE5Tu1NGjc
+- video_id: aI6sH5YawD8
   talk_title: Hex Package Manager
   speakers:
   - eric_meadows_jonsson
@@ -18,35 +18,35 @@
   speakers:
   - viktoria_fordos
   conference: erlang_factory_sf_2015
-  video_view_count: 519
+  video_view_count: 535
   video_duration_seconds: 2779
 - video_id: _i6n-eWiVn4
   talk_title: Building And Releasing A Massively Multiplayer Online Game
   speakers:
   - jamie_winsor
   conference: erlang_factory_sf_2015
-  video_view_count: 11789
+  video_view_count: 12165
   video_duration_seconds: 3326
 - video_id: mv2MBYU8Yls
   talk_title: The Art of powering the Internet's Next Messaging System
   speakers:
   - simon_thompson
   conference: erlang_factory_sf_2015
-  video_view_count: 1063
+  video_view_count: 1070
   video_duration_seconds: 3289
 - video_id: llHWDdqeQnU
   talk_title: 'gen_java: An easy way to include java in erlang applications'
   speakers:
   - joe_de_vivo
   conference: erlang_factory_sf_2015
-  video_view_count: 436
+  video_view_count: 444
   video_duration_seconds: 2643
 - video_id: WprZD_sP3lk
   talk_title: Porting Erlang OTP to Exotic Platforms
   speakers:
   - brett_cameron
   conference: erlang_factory_sf_2015
-  video_view_count: 360
+  video_view_count: 364
   video_duration_seconds: 3008
 - video_id: d5y9752r3ls
   talk_title: DIY Using Erlang at a SF Startup From Day 1
@@ -61,14 +61,14 @@
   speakers:
   - martin_kristiansen
   conference: erlang_factory_sf_2015
-  video_view_count: 414
+  video_view_count: 417
   video_duration_seconds: 2310
 - video_id: 8AHAncSTzpU
   talk_title: Evolving Projects to Concurrency with Wrangler
   speakers:
   - simon_thompson
   conference: erlang_factory_sf_2015
-  video_view_count: 231
+  video_view_count: 232
   video_duration_seconds: 2868
 - video_id: oZwfi8JZ3kU
   talk_title: What it is that make languages great?
@@ -79,42 +79,42 @@
   - guido_van_rossum
   - mike_williams
   conference: erlang_factory_sf_2015
-  video_view_count: 1962
+  video_view_count: 1971
   video_duration_seconds: 3535
 - video_id: l6wXRmjI0RU
   talk_title: LDB 10x Performance Increase
   speakers:
   - daniel_pezely
   conference: erlang_factory_sf_2015
-  video_view_count: 376
+  video_view_count: 380
   video_duration_seconds: 2549
 - video_id: snGrI1w4Xbs
   talk_title: Steganography and Data Hiding
   speakers:
   - derek_brown
   conference: erlang_factory_sf_2015
-  video_view_count: 205
+  video_view_count: 211
   video_duration_seconds: 2836
 - video_id: mrKwM9g6baQ
   talk_title: Debugging Complex Systems
   speakers:
   - louis_philippe_gauthier
   conference: erlang_factory_sf_2015
-  video_view_count: 691
+  video_view_count: 698
   video_duration_seconds: 2716
 - video_id: tCg1LakJF3g
   talk_title: Embedded Erlang, Nerves, and SumoBots
   speakers:
   - frank_hunleth
   conference: erlang_factory_sf_2015
-  video_view_count: 1139
+  video_view_count: 1152
   video_duration_seconds: 2894
 - video_id: NfhD_Ycf3RA
   talk_title: 'Erlang in the Cloud: The Talko Service Architecture'
   speakers:
   - ransom_richardson
   conference: erlang_factory_sf_2015
-  video_view_count: 373
+  video_view_count: 376
   video_duration_seconds: 2822
 - video_id: sm9QB_OyB9w
   talk_title: 'Teaching is Learning: Training New Hires'
@@ -128,34 +128,34 @@
   speakers:
   - kenji_rikitake
   conference: erlang_factory_sf_2015
-  video_view_count: 463
+  video_view_count: 491
   video_duration_seconds: 2973
 - video_id: pfp8FrORV68
   talk_title: Data Structure Adventures
   speakers:
   - joseph_blomstedt
   conference: erlang_factory_sf_2015
-  video_view_count: 895
+  video_view_count: 908
   video_duration_seconds: 3036
 - video_id: gfsc2MyP8p8
   talk_title: The Times They Are A-Changing
   speakers:
   - lukas_larsson
   conference: erlang_factory_sf_2015
-  video_view_count: 776
+  video_view_count: 787
   video_duration_seconds: 2476
 - video_id: UUvU8cjCIcs
   talk_title: Erlang Factory SF 2015 - The Timeless Way of Building Erlang Apps
   speakers: ''
   conference: erlang_factory_sf_2015
-  video_view_count: 2812
+  video_view_count: 2841
   video_duration_seconds: 3123
 - video_id: WGXPFPKQC2o
   talk_title: 'Why Simplicity Matters: A Hardware Perspective'
   speakers:
   - adreas_olofsson
   conference: erlang_factory_sf_2015
-  video_view_count: 3170
+  video_view_count: 3214
   video_duration_seconds: 3029
 - video_id: 0WxzAGakUYw
   talk_title: Erlang Factory SF 2015 - News from the OTP Team
@@ -167,14 +167,14 @@
   talk_title: Erlang Factory SF 2015 Keynote - From WhatsApp to Outer Space
   speakers: ''
   conference: erlang_factory_sf_2015
-  video_view_count: 2823
+  video_view_count: 2861
   video_duration_seconds: 3556
 - video_id: DNbJY333vUs
   talk_title: Actors for CyberThings
   speakers:
   - carl_hewitt
   conference: erlang_factory_sf_2015
-  video_view_count: 3140
+  video_view_count: 3237
   video_duration_seconds: 3365
 - video_id: 1TpK4NDEEVA
   talk_title: MongooseIM + Phoenix
@@ -182,7 +182,7 @@
   - michal_slaski
   - sonny_scroggin
   conference: erlang_factory_sf_2015
-  video_view_count: 1310
+  video_view_count: 1326
   video_duration_seconds: 2964
 - video_id: v_boPIY9y-8
   talk_title: Rebar 3
@@ -190,35 +190,35 @@
   - tristan_sloughter
   - fred_hebert
   conference: erlang_factory_sf_2015
-  video_view_count: 861
+  video_view_count: 904
   video_duration_seconds: 3070
 - video_id: GO_97_6w5lU
   talk_title: How to pick a Pool in Erlang without Drowning
   speakers:
   - anthony_molinaro
   conference: erlang_factory_sf_2015
-  video_view_count: 883
+  video_view_count: 889
   video_duration_seconds: 3001
 - video_id: q64f1_7HK24
   talk_title: Actively measuring and profiling Code
   speakers:
   - scott_lystig_fritchie
   conference: erlang_factory_sf_2015
-  video_view_count: 510
+  video_view_count: 529
   video_duration_seconds: 2308
 - video_id: 49dFWGt3Klk
   talk_title: What Docker Users Can Learn From Earlang
   speakers:
   - dmitry_demeshchuk
   conference: erlang_factory_sf_2015
-  video_view_count: 991
+  video_view_count: 994
   video_duration_seconds: 2779
 - video_id: 2bdxxePkM_g
   talk_title: Maximizing throughput on Multicore Systems
   speakers:
   - irina_guberman
   conference: erlang_factory_sf_2015
-  video_view_count: 472
+  video_view_count: 476
   video_duration_seconds: 2564
 - video_id: YKA9TUIFq00
   talk_title: IDE Done Right
@@ -226,60 +226,60 @@
   - sergey_ignatov
   - sergey_savenko
   conference: erlang_factory_sf_2015
-  video_view_count: 1491
+  video_view_count: 1506
   video_duration_seconds: 2305
 - video_id: zkL9VGIN5HA
   talk_title: Testing for Concurrency Errors in Elixir Code with QuickCheck
   speakers:
   - thomas_arts
   conference: erlang_factory_sf_2015
-  video_view_count: 928
+  video_view_count: 935
   video_duration_seconds: 2915
 - video_id: sDMngNP7pOw
   talk_title: Tests Can Be Beautiful
   speakers:
   - bruce_tate
   conference: erlang_factory_sf_2015
-  video_view_count: 767
+  video_view_count: 770
   video_duration_seconds: 2964
 - video_id: AvHAVyk6Dx8
   talk_title: 'Push Jobs: A Scalable Remote Execution System for Chef'
   speakers:
   - mark_anderson
   conference: erlang_factory_sf_2015
-  video_view_count: 423
+  video_view_count: 430
   video_duration_seconds: 2605
 - video_id: JiWtnwF0cpM
   talk_title: 'Gadget: The Ultimate Code Checking Machine'
   speakers:
   - fernando_benavides
   conference: erlang_factory_sf_2015
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 465
+  video_duration_seconds: 1923
 - video_id: FnjutUoNSmg
   talk_title: QuickCheck-CI
   speakers:
   - john_hughes
   conference: erlang_factory_sf_2015
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 619
+  video_duration_seconds: 2605
 - video_id: uwpakTIg9r8
   talk_title: Distributed Eventually Consistent Computations
   speakers:
   - christopher_meiklejohn
   conference: erlang_factory_sf_2015
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 1730
+  video_duration_seconds: 2977
 - video_id: LKsNbYf9mLw
   talk_title: Building on top of riak core
   speakers:
   - mark_allen
   conference: erlang_factory_sf_2015
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 3172
+  video_duration_seconds: 2977
 - video_id: 8tiu46uDAsU
   talk_title: Snippets
-  speakers:
+  speakers: 
   conference: erlang_factory_sf_2015
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 143
+  video_duration_seconds: 90

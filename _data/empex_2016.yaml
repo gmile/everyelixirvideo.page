@@ -4,68 +4,68 @@
   speakers:
   - francesco_cesarini
   conference: empex_2016
-  video_view_count: 1315
+  video_view_count: 1385
   video_duration_seconds: 2750
 - video_id: "-mgwW3RVI50"
   talk_title: Code Generation in Elixir
   speakers:
   - bryan_weber
   conference: empex_2016
-  video_view_count: 923
+  video_view_count: 954
   video_duration_seconds: 2635
 - video_id: 9uvp4h7gXHg
   talk_title: 'Micropatterns: Learning to Reach Quickly for the Right Tool'
   speakers:
   - cameron_price
   conference: empex_2016
-  video_view_count: 3595
+  video_view_count: 3853
   video_duration_seconds: 2247
 - video_id: mRspOj_sRgo
   talk_title: Letting the Phoenix Fly in Production
   speakers:
   - monica_hirst
   conference: empex_2016
-  video_view_count: 1690
+  video_view_count: 1754
   video_duration_seconds: 1118
 - video_id: _HQfS8efVeg
   talk_title: A Journey to the Center of the BEAM
   speakers:
   - brian_mitchell
   conference: empex_2016
-  video_view_count: 1360
+  video_view_count: 1420
   video_duration_seconds: 2510
 - video_id: neH0d6mWFm4
   talk_title: Async Jobs in Phoenix
   speakers:
   - george_guimaraes
   conference: empex_2016
-  video_view_count: 2292
+  video_view_count: 2377
   video_duration_seconds: 1163
 - video_id: 7mHG841hKj4
   talk_title: Giving Back, building your first package
   speakers:
   - brian_cardarella
   conference: empex_2016
-  video_view_count: 424
+  video_view_count: 433
   video_duration_seconds: 1169
 - video_id: H686MDn4Lo8
   talk_title: Real World Elixir Deployment
   speakers:
   - pete_gamache
   conference: empex_2016
-  video_view_count: 7383
+  video_view_count: 7621
   video_duration_seconds: 2436
 - video_id: ikMgMScZ2ts
   talk_title: The Journey to Elixir in Production (at Scale)
   speakers:
   - brandon_richey
   conference: empex_2016
-  video_view_count: 1508
+  video_view_count: 1546
   video_duration_seconds: 1442
 - video_id: 9lkO-kgxoiY
   talk_title: The Climb - Experiencing the Rise of Elixir from the Inside
   speakers:
   - bruce_tate
   conference: empex_2016
-  video_view_count: 1163
+  video_view_count: 1177
   video_duration_seconds: 2955

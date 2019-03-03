@@ -4,28 +4,29 @@
   speakers:
   - louis_philippe_gauthier
   conference: erlang_factory_sf_2016
-  video_view_count: 560
+  video_view_count: 573
   video_duration_seconds: 2470
 - video_id: 6K0Tjvn6PV8
   talk_title: Reactive Programming With Elixir And RethinkDB
   speakers:
   - peter_hamilton
   conference: erlang_factory_sf_2016
-  video_view_count: 2666
+  video_view_count: 2689
   video_duration_seconds: 2189
 - video_id: dG7oKcOEFZY
   talk_title: What We Talk About When We Talk About Distributed Systems
   speakers:
   - alvaro_videla
   conference: erlang_factory_sf_2016
-  video_view_count: 491
+  video_view_count: 495
   video_duration_seconds: 2867
 - video_id: _IZMQMuphfo
-  talk_title: Concurrency + Distribution = Scalability + Availability, a Journey Architecting Erlang Systems
+  talk_title: Concurrency + Distribution = Scalability + Availability, a Journey Architecting
+    Erlang Systems
   speakers:
   - francesco_cesarini
   conference: erlang_factory_sf_2016
-  video_view_count: 1282
+  video_view_count: 1302
   video_duration_seconds: 3135
 - video_id: SPZV2h_r4U0
   talk_title: 'High Performance Erlang: Pitfalls and Solutions'
@@ -33,14 +34,14 @@
   - yinghai_lu
   - siva_yerramreddy
   conference: erlang_factory_sf_2016
-  video_view_count: 1037
+  video_view_count: 1062
   video_duration_seconds: 2827
 - video_id: Z35Tt87pIpg
   talk_title: Why Functional Programming Matters
   speakers:
   - john_hughes
   conference: erlang_factory_sf_2016
-  video_view_count: 14229
+  video_view_count: 14308
   video_duration_seconds: 3657
   keynote: true
 - video_id: VGkzzGprBYM
@@ -48,35 +49,35 @@
   speakers:
   - kenji_rikitake
   conference: erlang_factory_sf_2016
-  video_view_count: 607
+  video_view_count: 633
   video_duration_seconds: 3197
 - video_id: eSWNi5vRxU8
   talk_title: Taking Off with Phoenix
   speakers:
   - sonny_scroggin
   conference: erlang_factory_sf_2016
-  video_view_count: 2293
+  video_view_count: 2296
   video_duration_seconds: 2993
 - video_id: aXSqWE42-ME
   talk_title: The Future Of Tracing
   speakers:
   - lukas_larsson
   conference: erlang_factory_sf_2016
-  video_view_count: 506
+  video_view_count: 517
   video_duration_seconds: 2471
 - video_id: JtjYC8kDRy4
   talk_title: Build Scientific Computing Infrastructure with Rebar3 and Docker
   speakers:
   - eric_sage
   conference: erlang_factory_sf_2016
-  video_view_count: 1464
+  video_view_count: 1484
   video_duration_seconds: 2721
 - video_id: BRi2rDOlPcc
   talk_title: Here Be Dragons Charting Parse Transforms In Erlang
   speakers:
   - garrett_smith
   conference: erlang_factory_sf_2016
-  video_view_count: 671
+  video_view_count: 681
   video_duration_seconds: 3226
 - video_id: FTLTbB8BlYc
   talk_title: 'Kafkerl: A Fault Tolerant Logging Library For Kafka'
@@ -90,49 +91,50 @@
   speakers:
   - marc_sugiyama
   conference: erlang_factory_sf_2016
-  video_view_count: 368
+  video_view_count: 370
   video_duration_seconds: 2638
 - video_id: tW49z8HqsNw
   talk_title: An Erlang based Philosophy for Service Reliability
   speakers:
   - jamshid_mahdavi
   conference: erlang_factory_sf_2016
-  video_view_count: 1751
+  video_view_count: 1836
   video_duration_seconds: 2706
 - video_id: Jxfodke3oX8
   talk_title: Well Typed Elixir
   speakers:
   - chris_keathley
   conference: erlang_factory_sf_2016
-  video_view_count: 1744
+  video_view_count: 1772
   video_duration_seconds: 2681
 - video_id: DMj7GssPKdo
   talk_title: Build a P2P Document Oriented Database
   speakers:
   - benoit_chesneau
   conference: erlang_factory_sf_2016
-  video_view_count: 408
+  video_view_count: 414
   video_duration_seconds: 2326
 - video_id: XVOV0KQAf-8
   talk_title: A CutEr Tool
   speakers:
   - kostis_sagonas
   conference: erlang_factory_sf_2016
-  video_view_count: 1442
+  video_view_count: 1452
   video_duration_seconds: 3320
 - video_id: GBLOrPAZkaY
-  talk_title: The Internet of Things as a Central Nervous System for Homes, Communities and Cities
+  talk_title: The Internet of Things as a Central Nervous System for Homes, Communities
+    and Cities
   speakers:
   - chad_curry
   conference: erlang_factory_sf_2016
-  video_view_count: 569
+  video_view_count: 571
   video_duration_seconds: 2698
 - video_id: YlNrWxH56_E
   talk_title: Roadmap
   speakers:
   - kenneth_lundin
   conference: erlang_factory_sf_2016
-  video_view_count: 1790
+  video_view_count: 1807
   video_duration_seconds: 1794
 - video_id: XJ9ckqCMiKk
   talk_title: Phoenix and Elm – Making the Web Functional
@@ -140,21 +142,22 @@
   - chris_mc_cord
   - evan_czaplicki
   conference: erlang_factory_sf_2016
-  video_view_count: 21811
+  video_view_count: 21946
   video_duration_seconds: 3329
 - video_id: "-tF1DyN8o7Q"
   talk_title: From Rebar2 to Rebar3
   speakers:
   - tristan_sloughter
   conference: erlang_factory_sf_2016
-  video_view_count: 766
+  video_view_count: 772
   video_duration_seconds: 2044
 - video_id: xRSFJH3Lw6I
-  talk_title: Erlang On NixOS. Managing And Releasing Erlang Systems In The Cloud With A Fully Declarative Package Manager
+  talk_title: Erlang On NixOS. Managing And Releasing Erlang Systems In The Cloud
+    With A Fully Declarative Package Manager
   speakers:
   - eric_merritt
   conference: erlang_factory_sf_2016
-  video_view_count: 1373
+  video_view_count: 1391
   video_duration_seconds: 2384
 - video_id: yhit4YykcLQ
   talk_title: Designing With Passion
@@ -165,56 +168,56 @@
   - dave_thomas
   - john_hughes
   conference: erlang_factory_sf_2016
-  video_view_count: 833
+  video_view_count: 839
   video_duration_seconds: 2435
 - video_id: xiPnLACtNeo
   talk_title: Scaling RPC Calls In Erlang And Elixir
   speakers:
   - panagiotis_papadomitsos
   conference: erlang_factory_sf_2016
-  video_view_count: 1125
+  video_view_count: 1155
   video_duration_seconds: 2829
 - video_id: 5Qkqs2oNboA
   talk_title: What If Your NIF Goes Adrift
   speakers:
   - julian_squires
   conference: erlang_factory_sf_2016
-  video_view_count: 471
+  video_view_count: 480
   video_duration_seconds: 2569
 - video_id: oaq7OUq7QyI
   talk_title: It's An Evolution! It's An Evolution!
   speakers:
   - johnny_winn
   conference: erlang_factory_sf_2016
-  video_view_count: 622
+  video_view_count: 626
   video_duration_seconds: 2295
 - video_id: iW2J7Of8jsE
   talk_title: Testing Asynchronous APIs With QuickCheck
   speakers:
   - thomas_arts
   conference: erlang_factory_sf_2016
-  video_view_count: 1455
+  video_view_count: 1507
   video_duration_seconds: 2369
 - video_id: 5vVZzu6HMaQ
   talk_title: From Zero To Production
   speakers:
   - susan_potter
   conference: erlang_factory_sf_2016
-  video_view_count: 1291
+  video_view_count: 1537
   video_duration_seconds: 3034
 - video_id: mqOpgoUuAXE
   talk_title: Build big with tiny tools immutability, checksums, and CRDTs
   speakers:
   - scott_lystig_fritchie
   conference: erlang_factory_sf_2016
-  video_view_count: 764
+  video_view_count: 766
   video_duration_seconds: 2897
 - video_id: xj3smNjGLaE
   talk_title: Effective Parallelization of Monte Carlo Calculations
   speakers:
   - brett_cameron
   conference: erlang_factory_sf_2016
-  video_view_count: 468
+  video_view_count: 477
   video_duration_seconds: 2784
 - video_id: fklep3sUSWo
   talk_title: 'The Climb: Experiencing the Rise of Elixir from the Inside'
@@ -222,26 +225,26 @@
   - bruce_tate
   - dave_thomas
   conference: erlang_factory_sf_2016
-  video_view_count: 6956
+  video_view_count: 6996
   video_duration_seconds: 2603
 - video_id: JTeO035dv2w
   talk_title: Erlang, Open Source and the Connected Car
   speakers:
   - ulf_wiger
   conference: erlang_factory_sf_2016
-  video_view_count: 326
+  video_view_count: 329
   video_duration_seconds: 2650
 - video_id: "-0NMpo9Bc2M"
   talk_title: When ETS Is Too Slow
   speakers:
   - mark_allen
   conference: erlang_factory_sf_2016
-  video_view_count: 1036
+  video_view_count: 1099
   video_duration_seconds: 2164
 - video_id: "-8jLRThHuFQ"
   talk_title: Point Of No Local Return. The Continuing Story Of Erlang Type Systems
   speakers:
   - zeeshan_lakhani
   conference: erlang_factory_sf_2016
-  video_view_count: 1012
+  video_view_count: 1031
   video_duration_seconds: 3235

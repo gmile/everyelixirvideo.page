@@ -3,42 +3,42 @@
   talk_title: Parallel ranking of 1v1 computer games
   speakers:
   - jesper_louis_andersen
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 44
+  video_duration_seconds: 1618
   conference: erlang_factory_lite_krakow_2012
 - video_id: WrjccpJGr0I
   talk_title: Oortle - linearly scalable pub-sub system
   speakers:
   - gleb_peregud
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 40
+  video_duration_seconds: 2285
   conference: erlang_factory_lite_krakow_2012
 - video_id: 3D-PIeMGHpM
   talk_title: Towards simplicity
   speakers:
   - arkadiusz_niemiec
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 42
+  video_duration_seconds: 1693
   conference: erlang_factory_lite_krakow_2012
 - video_id: 2BQmHCeamw4
   talk_title: Erlang based Software Update Platform for mobile devices
   speakers:
   - roman_janusz
   - tomasz_kowal
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 79
+  video_duration_seconds: 1935
   conference: erlang_factory_lite_krakow_2012
 - video_id: U4K3R43LKXY
   talk_title: Elixir - A modern approach to programming for the Erlang VM
   speakers:
   - jose_valim
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 259
+  video_duration_seconds: 1667
   conference: erlang_factory_lite_krakow_2012
 - video_id: jbNLyK41vas
   talk_title: "QuickCheck for EUnit \L(using unit tests differently)"
   speakers:
   - thomas_arts
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 58
+  video_duration_seconds: 1874
   conference: erlang_factory_lite_krakow_2012

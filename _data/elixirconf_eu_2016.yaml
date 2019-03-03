@@ -4,112 +4,112 @@
   speakers:
   - jose_valim
   conference: elixirconf_eu_2016
-  video_view_count: 16025
+  video_view_count: 16056
   video_duration_seconds: 3184
 - video_id: n338leKvqnA
   talk_title: Phoenix 1.2 and Beyond
   speakers:
   - chris_mc_cord
   conference: elixirconf_eu_2016
-  video_view_count: 11682
+  video_view_count: 11738
   video_duration_seconds: 3253
 - video_id: 118-g0ODfgg
   talk_title: Enhanced Embedded Systems with Nerves
   speakers:
   - justin_schneck
   conference: elixirconf_eu_2016
-  video_view_count: 5001
+  video_view_count: 5036
   video_duration_seconds: 3372
 - video_id: gQJPusuG0vI
   talk_title: Credo - Analysing AST for Fun and Profit
   speakers:
   - rene_fohring
   conference: elixirconf_eu_2016
-  video_view_count: 1292
+  video_view_count: 1313
   video_duration_seconds: 2220
 - video_id: I5L9_cXwBcU
   talk_title: Building Multiplayer Games with Phoenix and Phaser
   speakers:
   - keith_salisbury
   conference: elixirconf_eu_2016
-  video_view_count: 5840
+  video_view_count: 6054
   video_duration_seconds: 2088
 - video_id: y_b6RTes83c
   talk_title: Discovering Processes
   speakers:
   - sasa_juric
   conference: elixirconf_eu_2016
-  video_view_count: 3978
+  video_view_count: 4108
   video_duration_seconds: 2466
 - video_id: usEs3GPnZDg
   talk_title: Scaling Distributed Erlang
   speakers:
   - zandra_norman
   conference: elixirconf_eu_2016
-  video_view_count: 2359
+  video_view_count: 2435
   video_duration_seconds: 2844
 - video_id: U1Ry7STEFiY
   talk_title: Concurrent and Resilient Connections to Outside the BEAM
   speakers:
   - andrea_leopardi
   conference: elixirconf_eu_2016
-  video_view_count: 1260
+  video_view_count: 1266
   video_duration_seconds: 2127
 - video_id: msdYuidWYQA
   talk_title: Ecto - the Past, the Present, the Future
   speakers:
   - michal_muskala
   conference: elixirconf_eu_2016
-  video_view_count: 2517
+  video_view_count: 2534
   video_duration_seconds: 2094
 - video_id: QQsOYe4zyVM
   talk_title: Three Games In Elixir
   speakers:
   - roope_kangas
   conference: elixirconf_eu_2016
-  video_view_count: 2083
+  video_view_count: 2182
   video_duration_seconds: 2279
 - video_id: "-MzJ-HxRcVI"
   talk_title: How to Build a Slack-Controlled, Saxophone-Playing Robot
   speakers:
   - paul_wilson
   conference: elixirconf_eu_2016
-  video_view_count: 877
+  video_view_count: 891
   video_duration_seconds: 2342
 - video_id: ZCYEX6ZIJgM
   talk_title: From a Ruby on Rails Monolith to Elixir and Elm Microservices
   speakers:
   - volker_rabe
   conference: elixirconf_eu_2016
-  video_view_count: 4387
+  video_view_count: 4435
   video_duration_seconds: 2764
 - video_id: c6JcVwbOGXc
   talk_title: The Road to 2 Million Websocket Connections in Phoenix
   speakers:
   - gary_rennie
   conference: elixirconf_eu_2016
-  video_view_count: 2829
+  video_view_count: 2961
   video_duration_seconds: 2402
 - video_id: r0DuAse9tK8
   talk_title: Securing Elixir Applications
   speakers:
   - bram_verburg
   conference: elixirconf_eu_2016
-  video_view_count: 1828
+  video_view_count: 1870
   video_duration_seconds: 2573
 - video_id: sYYOLaJ-VDQ
   talk_title: Phoenix on Riak_Core
   speakers:
   - ben_tyler
   conference: elixirconf_eu_2016
-  video_view_count: 3116
+  video_view_count: 3214
   video_duration_seconds: 2298
 - video_id: lDKCSheBc-8
   talk_title: Phoenix Is Not Your Application
   speakers:
   - lance_halvorsen
   conference: elixirconf_eu_2016
-  video_view_count: 6247
+  video_view_count: 6497
   video_duration_seconds: 1803
 - video_id: fdjD5QHjNH4
   talk_title: 'TODO: Extract manually'
@@ -118,7 +118,7 @@
   lightning: true
   processed: false
   conference: elixirconf_eu_2016
-  video_view_count: 609
+  video_view_count: 612
   video_duration_seconds: 228
 - video_id: GqFVgQKlEAM
   talk_title: 'TODO: Extract manually'
@@ -127,7 +127,7 @@
   lightning: true
   processed: false
   conference: elixirconf_eu_2016
-  video_view_count: 741
+  video_view_count: 743
   video_duration_seconds: 240
 - video_id: j4BbKyRzXEY
   talk_title: 'TODO: Extract manually'
@@ -136,7 +136,7 @@
   lightning: true
   processed: false
   conference: elixirconf_eu_2016
-  video_view_count: 446
+  video_view_count: 448
   video_duration_seconds: 166
 - video_id: NOP8vgDzlLA
   talk_title: 'TODO: Extract manually'
@@ -145,7 +145,7 @@
   lightning: true
   processed: false
   conference: elixirconf_eu_2016
-  video_view_count: 460
+  video_view_count: 462
   video_duration_seconds: 261
 - video_id: EI1oDiQyz_o
   talk_title: 'TODO: Extract manually'
@@ -172,7 +172,7 @@
   lightning: true
   processed: false
   conference: elixirconf_eu_2016
-  video_view_count: 423
+  video_view_count: 426
   video_duration_seconds: 156
 - video_id: ZwaTWFkDARI
   talk_title: 'TODO: Extract manually'
@@ -181,7 +181,7 @@
   lightning: true
   processed: false
   conference: elixirconf_eu_2016
-  video_view_count: 531
+  video_view_count: 535
   video_duration_seconds: 264
 - video_id: Kh6m4EQBb0k
   talk_title: 'TODO: Extract manually'
@@ -190,7 +190,7 @@
   lightning: true
   processed: false
   conference: elixirconf_eu_2016
-  video_view_count: 678
+  video_view_count: 695
   video_duration_seconds: 212
 - video_id: 5EtV2JUU0Z4
   talk_title: 'TODO: Extract manually'
@@ -199,7 +199,7 @@
   lightning: true
   processed: false
   conference: elixirconf_eu_2016
-  video_view_count: 3053
+  video_view_count: 3207
   video_duration_seconds: 223
 - video_id: KET0j2Uog-U
   talk_title: 'TODO: Extract manually'
@@ -208,5 +208,5 @@
   lightning: true
   processed: false
   conference: elixirconf_eu_2016
-  video_view_count: 659
+  video_view_count: 665
   video_duration_seconds: 233

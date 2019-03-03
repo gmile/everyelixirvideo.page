@@ -4,61 +4,56 @@
   speakers:
   - paul_lamb
   conference: elixirdaze_2016
-  video_view_count: 2903
+  video_view_count: 2916
   video_duration_seconds: 1671
 - video_id: "-3OuorNPlaE"
   talk_title: Design by Contract in Elixir. "Let it crash" Meets "It shouldn't crash"
   speakers:
   - guillermo_iguaran
   conference: elixirdaze_2016
-  video_view_count: 1681
+  video_view_count: 1689
   video_duration_seconds: 1698
 - video_id: xoNRtWl4fZU
   talk_title: Processing 2.7 million images with Elixir (vs Ruby)
   speakers:
   - david_padilla
   conference: elixirdaze_2016
-  video_view_count: 19480
+  video_view_count: 20227
   video_duration_seconds: 1960
 - video_id: YE0h9DURSOo
   talk_title: 'Learn Elixir: Building a Neural Network from Scratch'
   speakers:
   - karmen_blake
   conference: elixirdaze_2016
-  video_view_count: 6954
+  video_view_count: 7084
   video_duration_seconds: 1947
 - video_id: N_PXas9LtzU
   talk_title: Adventures in Robotics with Elixir
   speakers:
   - jean_francois_cloutier
   conference: elixirdaze_2016
-  video_view_count: 1835
+  video_view_count: 1872
   video_duration_seconds: 2896
 - video_id: poWoCWDLxRU
   talk_title: Nerves - Getting Started, and the Road Ahead
   speakers:
   - garth_hitchens
   conference: elixirdaze_2016
-  video_view_count: 3324
+  video_view_count: 3366
   video_duration_seconds: 2211
 - video_id: zoP-XFuWstw
   talk_title: Building and Testing API Endpoints with Phoenix
   speakers:
   - brian_cardarella
   conference: elixirdaze_2016
-  video_view_count: 6223
+  video_view_count: 6358
   video_duration_seconds: 2268
-- video_id: E6RTBlO9TZQ
+- &1
+  video_id: E6RTBlO9TZQ
   talk_title: New Heights
   speakers:
   - chris_mc_cord
   conference: elixirdaze_2016
-  video_view_count: 4376
+  video_view_count: 4389
   video_duration_seconds: 2923
-- video_id: E6RTBlO9TZQ
-  talk_title: Elixir, Phoenix, and WebRTC - An Enterprise Class Soft Phone in the Browser
-  speakers:
-  - stephen_pallen
-  conference: elixirdaze_2016
-  video_view_count: 2595
-  video_duration_seconds: 1912
+- *1

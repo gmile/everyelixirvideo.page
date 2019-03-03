@@ -3,100 +3,100 @@
   talk_title: The Ideal Programmer - Why They Don't Exist and How to Manage Without
     Them?
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 256
+  video_duration_seconds: 48
   conference: erlang_factory_lite_london_2012
 - video_id: D3q2tqiP1Q4
   talk_title: The Ideal Programmer - Why They Don't Exist and How to Manage Without
     Them?
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 707
+  video_duration_seconds: 2953
   conference: erlang_factory_lite_london_2012
 - video_id: MamkJWAGzoE
   talk_title: Profiling Erlang programs using Percept2
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 275
+  video_duration_seconds: 112
   conference: erlang_factory_lite_london_2012
 - video_id: 1JROyYvxKQI
   talk_title: Build an FTP server in 30 minutes with Ranch
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 412
+  video_duration_seconds: 19
   conference: erlang_factory_lite_london_2012
 - video_id: 1cbSJwIbAlA
   talk_title: Automated testing with Erlang ('these go to eleven')
   speakers:
   - ward_becker
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 283
+  video_duration_seconds: 85
   conference: erlang_factory_lite_london_2012
 - video_id: NZq2RYrBQ78
   talk_title: MeshUp and other Riak hacks
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 317
+  video_duration_seconds: 60
   conference: erlang_factory_lite_london_2012
 - video_id: 02xrFHgYkB8
   talk_title: High Availability Erlang from the Trenches
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 409
+  video_duration_seconds: 51
   conference: erlang_factory_lite_london_2012
 - video_id: SjCZRH8ywF0
   talk_title: Automated testing with Erlang ('these go to eleven')
   speakers:
   - ward_becker
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 726
+  video_duration_seconds: 1654
   conference: erlang_factory_lite_london_2012
 - video_id: fctrWbgbJg0
   talk_title: Hitchhiker's guide to the Erlang VM
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 2052
+  video_duration_seconds: 2555
   conference: erlang_factory_lite_london_2012
 - video_id: cPfdOCrKxek
   talk_title: Google APIs and Erlang
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 518
+  video_duration_seconds: 2205
   conference: erlang_factory_lite_london_2012
 - video_id: Uszng-mJO8M
   talk_title: High Availability Erlang from the Trenches
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 364
+  video_duration_seconds: 1671
   conference: erlang_factory_lite_london_2012
 - video_id: k3MKizclP28
   talk_title: Profiling Erlang programs using Percept2
   speakers:
   - huiqing_li
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 360
+  video_duration_seconds: 1828
   conference: erlang_factory_lite_london_2012
 - video_id: 4LeQnNoYJiQ
   talk_title: Build an FTP server in 30 minutes with Ranch
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 1138
+  video_duration_seconds: 1540
   conference: erlang_factory_lite_london_2012
 - video_id: "-2W2hU5agF4"
   talk_title: Introduction to Webmachine
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 976
+  video_duration_seconds: 1890
   conference: erlang_factory_lite_london_2012
 - video_id: l-tyAFOHjdk
   talk_title: CyLec - An Architecture for Electricity Smart Metering
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 590
+  video_duration_seconds: 1582
   conference: erlang_factory_lite_london_2012
 - video_id: ZdtnoQUcr18
   talk_title: 'Taming the Rabbit: Writing RabbitMQ Plugins'
   speakers: []
-  video_view_count: 0
-  video_duration_seconds: 0
+  video_view_count: 421
+  video_duration_seconds: 1825
   conference: erlang_factory_lite_london_2012
