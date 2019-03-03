@@ -1,0 +1,191 @@
+---
+- video_id: sNLeeakZppU
+  talk_title: Just-in-time in No Time? Use the Source!
+  speakers:
+  - frej_drejhammar
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: NQ8Go5UgaAg
+  talk_title: Ruby & Erlang - at Scale with Style
+  speakers:
+  - martin_rehfeld
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: F2dj3trqKTo
+  talk_title: ErLLVM
+  speakers:
+  - kostis_sagonas
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: xBcgrIOzGbQ
+  talk_title: Mnesia Backend Plugin Framework and a LevelDB-based Plugin
+  speakers:
+  - roland_karlsson
+  - malcolm_matalka
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: 7hyQzH7x0Q4
+  talk_title: Using Software Refactoring to Form Parallel Programs(...)
+  speakers:
+  - chris_brown
+  - kevin_hammond
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: Z1v7NcT8GGw
+  talk_title: Alternatives in Error Handling
+  speakers:
+  - dmitry_groshev
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: qJL-9LKQoq4
+  talk_title: Combinatorrent - a Haskell Case Study
+  speakers:
+  - jesper_louis_andersen
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: yFAaWtV06tU
+  talk_title: "(first '(Clojure.))"
+  speakers:
+  - niklas_lindstrom
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: 5vf6ooBt7O8
+  talk_title: Sweden's Next Top NoSQL Data Model
+  speakers:
+  - ian_plosker
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: dbiRSua8L-Y
+  talk_title: Latest News from the Erlang OTP Group
+  speakers:
+  - kenneth_lundin
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: FRoY3HPOFNw
+  talk_title: The Ideal Programmer - Why They Don't Exist and How to Manage Without
+    Them?
+  speakers:
+  - mike_williams
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: DoX8KgYxqrE
+  talk_title: Innovation - What Every Developer Absolutely Needs to Know
+  speakers:
+  - steve_vinoski
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: z4Av8amtI8U
+  talk_title: Erlang metaprogramming made easy
+  speakers:
+  - richard_carlsson
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: RwIDJGYobRY
+  talk_title: Erlang Embedded - Concurrent Blinkenlights and More!
+  speakers:
+  - omer_kilic
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: HyiSYHfESX4
+  talk_title: The Ericsson SGSN/MME, over a Decade of Erlang Success
+  speakers:
+  - urban_boquist
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: zbV63jwxQ-0
+  talk_title: The Openflow Soft Switch
+  speakers:
+  - krzysztof_rutka
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: i2EvQERWBoo
+  talk_title: Device Management in a Connected Society
+  speakers:
+  - tony_rogvall
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: E9hWFPT2eNQ
+  talk_title: Starting a Software Company - Tips from the Trenches
+  speakers:
+  - jane_walerud
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: 3zsyjkNnh3o
+  talk_title: Complex Event Processing on Arbitrary Data in Real-Time
+  speakers: []
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: DumXgoFrMdU
+  talk_title: Reverse-Engineering a Proprietary Game Server with Erlang
+  speakers: []
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: yiVMRcfSDOE
+  talk_title: Applied Rebar
+  speakers: []
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: Anres1C46vQ
+  talk_title: An Erlang-Based Framework for the Automatic Testing of Web Services
+  speakers: []
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: x9mW54GJpG0
+  talk_title: Testing Eventual Consistency in Riak
+  speakers: []
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: _DlTf8AhDag
+  talk_title: Ruby & Erlang,at Scale with Style
+  speakers: []
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: h8nmzPh5Npg
+  talk_title: A Few Improvements to Erlang
+  speakers:
+  - joe_armstrong
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: CTyR6JVDNaw
+  talk_title: Erlang in the Browser
+  speakers: []
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: 7xV6hiOGOFE
+  talk_title: Erlang The Movie II - Back to the Future of Web Telephony
+  speakers: []
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012
+- video_id: Yh_mjEB8Rn4
+  talk_title: Erlang Embedded - Episode 4,Erlang to the Rescue!
+  speakers: []
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_user_conference_2012

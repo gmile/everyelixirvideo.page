@@ -1,0 +1,57 @@
+---
+- video_id: QQcxkoW5zzM
+  talk_title: Using a Raspberry Pi to run your Phoenix App
+  speakers:
+  - ricardo_echavarria
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_lite_mexico_city_2015
+- video_id: DSSOOnz49r0
+  talk_title: From Ruby to Elixir, Developing Web Applications
+  speakers:
+  - mario_chavez
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_lite_mexico_city_2015
+- video_id: MO9J8OTAQgc
+  talk_title: Estrategias de Supervisión de Procesos
+  speakers:
+  - misael_perez_chamorro
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_lite_mexico_city_2015
+- video_id: 3Kup2rAbXbM
+  talk_title: Conociendo la Maquina virtual de Erlang la BEAM
+  speakers:
+  - norberto_ortigoza
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_lite_mexico_city_2015
+- video_id: 0MRMnaqtyeg
+  talk_title: Poorman's gen_server
+  speakers:
+  - hernan_rivas_acosta
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_lite_mexico_city_2015
+- video_id: QRA6K2lNUxw
+  talk_title: Realizando pruebas con Elixir/Erlang
+  speakers:
+  - agustin_ramos
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_lite_mexico_city_2015
+- video_id: dW7uLATFkys
+  talk_title: 'Keynote: What''s Ahead for Elixir?'
+  speakers:
+  - jose_valim
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_lite_mexico_city_2015
+- video_id: vQCcRBOpQpI
+  talk_title: Lo mejor de dos Mundos, Aplicaciones OTP con Elixir
+  speakers:
+  - erick_camacho
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_lite_mexico_city_2015

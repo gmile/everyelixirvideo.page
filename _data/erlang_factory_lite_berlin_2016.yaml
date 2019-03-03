@@ -1,0 +1,37 @@
+---
+- video_id: ZeMV7-1zXxI
+  talk_title: Supercharge your local BEAM Community
+  speakers:
+  - ole_michaelis
+  - lydia_grawunder
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_lite_berlin_2016
+- video_id: m-Kl7YHRZZc
+  talk_title: Process Data Streams Efficiently in Elixir
+  speakers:
+  - iuri_fernandes_queiroz
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_lite_berlin_2016
+- video_id: JS-U4zom5ew
+  talk_title: Wireless Small Embedded Erlang Applications
+  speakers:
+  - grisp_adam_lindberg
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_lite_berlin_2016
+- video_id: gM7tBm1wGm8
+  talk_title: Extending OTP with custom behaviours
+  speakers:
+  - michal_muskala
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_lite_berlin_2016
+- video_id: h1rRftqrWpo
+  talk_title: BEAM all the things
+  speakers:
+  - dave_cottlehuber
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_lite_berlin_2016

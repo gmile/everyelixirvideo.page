@@ -1,0 +1,48 @@
+---
+- video_id: sNE5Tu1NGjc
+  talk_title: Hex Package Manager
+  speakers:
+  - eric_meadows_jonsson
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_2015
+- video_id: 1TpK4NDEEVA
+  talk_title: MongooseIM + Phoenix
+  speakers:
+  - michal_slaski
+  - sonny_scroggin
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_2015
+- video_id: oZwfi8JZ3kU
+  talk_title: Panel Discussion
+  speakers:
+  - bruce_tate
+  - guido_van_rossum
+  - john_hughes
+  - jose_valim
+  - robert_virding
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_2015
+- video_id: sDMngNP7pOw
+  talk_title: Tests Can Be Beautiful
+  speakers:
+  - bruce_tate
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_2015
+- video_id: zkL9VGIN5HA
+  talk_title: Testing for Concurrency Errors in Elixir Code with QuickCheck
+  speakers:
+  - thomas_arts
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_2015
+- video_id: Lqo9-pQuRKE
+  talk_title: What Elixir is About
+  speakers:
+  - jose_valim
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_2015

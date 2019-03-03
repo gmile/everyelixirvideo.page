@@ -1,0 +1,8 @@
+---
+- video_id: y25YBvUw4rc
+  talk_title: dcouch, an Alternative to Mnesia with Unique Features
+  speakers:
+  - benoit_chesneau
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_2014

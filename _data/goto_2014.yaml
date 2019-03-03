@@ -1,0 +1,15 @@
+---
+- video_id: B4rOG9Bc65Q
+  talk_title: Idioms for Building Distributed Fault-Tolerant Applications with Elixir
+  speakers:
+  - jose_valim
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: goto_2014
+- video_id: lww1aZ-ldz0
+  talk_title: 'Elixir: The Power of Erlang, the Joy of Ruby'
+  speakers:
+  - dave_thomas
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: goto_2014

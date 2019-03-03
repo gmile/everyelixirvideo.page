@@ -1,0 +1,23 @@
+---
+- video_id: FqlewYgUcZU
+  talk_title: Connecting Things Together is Really Difficult but it Could and Should
+    be Rather Easy
+  speakers:
+  - joe_armstrong
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: code_mesh_london_2014
+- video_id: c-YwBpJu3vc
+  talk_title: Implementing Languages on the BEAM
+  speakers:
+  - robert_virding
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: code_mesh_london_2014
+- video_id: nw2eIB6bTxY
+  talk_title: Tackling Dirty Jobs with Erlang's Schedulers
+  speakers:
+  - steve_vinoski
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: code_mesh_london_2014
