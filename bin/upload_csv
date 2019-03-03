@@ -1,4 +1,4 @@
-#!/usr/local/bin/ruby
+#!/usr/local/opt/ruby/bin/ruby
 
 require_relative './helpers.rb'
 require 'csv'
@@ -10,43 +10,80 @@ new_speakers = []
 new_conferences = []
 updated_conferences = []
 
-puts conferences
-
-CSV.foreach("scratchpad/scratchpad", headers: true) do |entry|
+result =
+CSV.foreach("todo.csv", headers: true).map do |entry|
   conference =
     conferences.find { |c| c['title'] == entry['conference_title'] } ||
     new_conferences.find { |c| c['title'] == entry['conference_title'] }
 
-  if conference
-    puts entry['conference_title'] + ": exists"
-  else
-    puts entry['conference_title'] + ": does not exist"
+  conference =
+    if conference
+      conference
+    else
+      new_conference = {
+        "id" => make_id(entry['conference_title']),
+        "title" => entry['conference_title']
+      }
 
-    new_conferences << {
-      "id" => make_id(entry['conference_title']),
-      "title" => entry['conference_title']
-    }
-  end
+      new_conferences << new_conference
 
-  speakers =
-    entry['speakers'].split(",").map do |speaker_entry|
+      new_conference
+    end
+
+  these_speakers =
+    entry['speakers'].to_s.split(",").map do |speaker_entry|
+      clean_name = cleanup(speaker_entry)
+
       speaker =
-        speakers.find { |c| c['full_name'] == speaker_entry } ||
-        new_speakers.find { |c| c['full_name'] == speaker_entry }
+        speakers.find { |c| c['full_name'] == clean_name } ||
+        new_speakers.find { |c| c['full_name'] == clean_name }
 
       speaker =
         if speaker
           speaker
         else
           new_speaker = {
-            "id" => make_id(speaker_entry),
-            "title" => speaker_entry
+            "id" => make_id(clean_name),
+            "full_name" => clean_name,
+            "twitter" => nil,
+            "github" => nil,
+            "elixirforum" => nil
           }
 
           new_speakers << new_speaker
+          new_speakers.uniq!
 
           new_speaker
         end
     end
 
+  talk = {
+    'video_id' => entry['video_id'],
+    'talk_title' => entry['talk_title'],
+    'speakers' => these_speakers.map { |speaker| speaker['id'] },
+    'video_view_count' => 0,
+    'video_duration_seconds' => 0,
+    'conference' => conference['id']
+  }
+
+  if entry['video_platform'] == 'vimeo'
+    talk['video_platform'] = 'vimeo'
+  end
+
+  talk
+end
+
+# File.open('_data/speakers.yaml', 'w+') do |file|
+#   file.puts speakers.concat(new_speakers).sort_by { |x| x['id'] }.to_yaml
+# end
+
+# result.group_by { |value| value['conference'] }.each do |conference, items|
+
+# conferences + new_conferences = YAML.load(File.read("./_data/conferences.yaml"))
+#
+# # 1. write new speakers
+#
+result.group_by { |value| value['conference'] }.each do |conference, items|
+  puts items.to_yaml
+  # File.open("./_data/#{conference}.yaml", "w+") { |file| file << items.to_yaml }
 end

@@ -5,6 +5,14 @@
   title: Code Beam SF 2018
 - id: code_beam_sto_2018
   title: Code Beam STO 2018
+- id: code_mesh_london_2013
+  title: Code Mesh London 2013
+- id: code_mesh_london_2014
+  title: Code Mesh London 2014
+- id: dayton_elixir_2014
+  title: Dayton Elixir 2014
+- id: developer_download_2014
+  title: Developer Download 2014
 - id: elixir_and_erlang_factory_sf_2017
   title: Elixir & Erlang Factory SF 2017
 - id: elixir_and_phoenix_conf_2016
@@ -43,6 +51,26 @@
   title: EMPEX LA 2018
 - id: empex_nyc_2018
   title: EMPEX NYC 2018
+- id: erlang_dc_2013
+  title: Erlang DC 2013
+- id: erlang_factory_2014
+  title: Erlang Factory 2014
+- id: erlang_factory_2015
+  title: Erlang Factory 2015
+- id: erlang_factory_lite_berlin_2014
+  title: Erlang Factory Lite Berlin 2014
+- id: erlang_factory_lite_berlin_2016
+  title: Erlang Factory Lite Berlin 2016
+- id: erlang_factory_lite_krakow_2012
+  title: Erlang Factory Lite Kraków 2012
+- id: erlang_factory_lite_london_2012
+  title: Erlang Factory Lite London 2012
+- id: erlang_factory_lite_mexico_city_2015
+  title: Erlang Factory Lite Mexico City 2015
+- id: erlang_factory_lite_moscow_2012
+  title: Erlang Factory Lite Moscow 2012
+- id: erlang_factory_lite_munich_2013
+  title: Erlang Factory Lite Munich 2013
 - id: erlang_factory_live_vancouver_2012
   title: Erlang Factory Lite Vancouver 2012
 - id: erlang_factory_sf_2012
@@ -55,11 +83,41 @@
   title: Erlang Factory SF 2015
 - id: erlang_factory_sf_2016
   title: Erlang Factory SF 2016
+- id: erlang_user_conference_2012
+  title: Erlang User Conference 2012
+- id: erlang_user_conference_2013
+  title: Erlang User Conference 2013
+- id: erlang_user_conference_2014
+  title: Erlang User Conference 2014
+- id: goto_2014
+  title: GOTO 2014
+- id: kievfprog_2013
+  title: kievfprog 2013
+- id: linuxconfau_2014
+  title: Linux.conf.au 2014
+- id: london_erlang_user_group_2014
+  title: London Erlang User Group 2014
+- id: lone_star_ruby_conference_2013
+  title: Lone Star Ruby Conference 2013
 - id: lonestar_elixirconf_2017
   title: Lonestar ElixirConf 2017
 - id: lonestar_elixirconf_2018
   title: Lonestar ElixirConf 2018
+- id: ndc_oslo_2015
+  title: NDC OSLO 2015
 - id: oredev_2012
   title: Oredev 2012
+- id: rails_conf_2014
+  title: RailsConf 2014
+- id: red_dot_ruby_conf_2014
+  title: RedDotRubyConf 2014
+- id: ruby_conf_2013
+  title: Ruby Conf 2013
 - id: rupy_2012
   title: RuPy 2012
+- id: singapore_ruby_brigade_meetup_2013
+  title: Singapore Ruby Brigade Meetup 2013
+- id: solution_street_hangout
+  title: Solution Street hangout
+- id: the_big_elixir_2018
+  title: The Big Elixir 2018

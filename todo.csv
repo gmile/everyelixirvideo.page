@@ -127,7 +127,7 @@ Code Mesh London 2013,,SJRfujy9vLA,Ecto: A language integrated query for Elixir,
 Code Mesh London 2014,,FqlewYgUcZU,Connecting Things Together is Really Difficult but it Could and Should be Rather Easy,Joe Armstrong
 Code Mesh London 2014,,c-YwBpJu3vc,Implementing Languages on the BEAM,Robert Virding
 Code Mesh London 2014,,nw2eIB6bTxY,Tackling Dirty Jobs with Erlang's Schedulers,Steve Vinoski
-GOTO Aarhus Conference,,B4rOG9Bc65Q,Idioms for Building Distributed Fault-Tolerant Applications with Elixir,José Valim
+GOTO 2014,,B4rOG9Bc65Q,Idioms for Building Distributed Fault-Tolerant Applications with Elixir,José Valim
 Dayton Elixir 2014,,uxGMfr0jDPU,Taming the Command Line and Erlang Ports,Alexei Sholik
 RedDotRubyConf 2014,,2X1J1lVzRuQ,Ruby + Elixir: Polyglottin' FTW!,Benjamin Tan Wei Hao
 GOTO 2014,,lww1aZ-ldz0,"Elixir: The Power of Erlang, the Joy of Ruby",Dave Thomas
@@ -159,6 +159,6 @@ The Big Elixir 2018,,IeUF48vSxwI,Hot Upgrade Are Not Scary,Desmond Bowe
 The Big Elixir 2018,,KDykyubyZGw,Going Multi-Node,Eric Oestrich
 The Big Elixir 2018,,AgKRBN6SF-c,TIL By Breaking Production...,Jon Carstens
 The Big Elixir 2018,,dWfD6idpipE,On Building Systems,Josh Adams
-"London Erlang User Group 2014",,6rWeGt71DnI,"Macros, and protocols and metaprogramming! Oh My!",Jim McCoy
-"#kievfprog, August 2013",,zF3xy1M6SFk,Introducing Elixir,Alexei Sholik
-"Singapore Ruby Brigade Meetup, November 2013",,balk-3BF4ro?t=1511,"Hello, Elixir!",Benjamin Tan Wei Hao
+London Erlang User Group 2014,,6rWeGt71DnI,"Macros, and protocols and metaprogramming! Oh My!",Jim McCoy
+kievfprog 2013,,zF3xy1M6SFk,Introducing Elixir,Alexei Sholik
+Singapore Ruby Brigade Meetup 2013,,balk-3BF4ro?t=1511,"Hello, Elixir!",Benjamin Tan Wei Hao
