@@ -1,164 +1,164 @@
 conference_title,video_platform,video_id,talk_title,speakers
-Erlang Factory Lite Moscow 2012,youtube,OEoAw-gB5uI,Why Linux distributions are so disconnected from the reality? Are they really?,Peter Lemenkov
-Erlang Factory Lite Moscow 2012,youtube,XvSmVrTYg9A,Erlang Use Cases,Michal Slaski
-Erlang Factory Lite Moscow 2012,youtube,_ISXGnSKCP8,Erlang-Based Sensor Network Management for Heterogenous Devices,Michał Nieć
-Erlang Factory Lite Moscow 2012,youtube,5HHxWWiRe6o,Code generation to fight with complexity,Max Lapshin
-Erlang Factory Lite Moscow 2012,youtube,Y5hKFVZn094,Scalable ejabberd,Konstantin Tcepliaev
-Erlang Factory Lite Moscow 2012,youtube,g4JR2JwGYmA,Random choice,Bob Ippolito
-Erlang Factory Lite Moscow 2012,youtube,YzcC_dLiiDM,Lightning Talk - Asynchronous PostgreSQL driver for Erlang,Anton Lebedevich
-Erlang Factory Lite Moscow 2012,youtube,jQxw_6nPEmw,Erlang Use Cases,Michal Slaski
-Erlang Factory Lite Moscow 2012,youtube,mSKWNdjO9MQ,Scalable ejabberd,Konstantin Tcepliaev
-Erlang Factory Lite Moscow 2012,youtube,CECh5bg_r3g,Erlang/OTP applications (...),Alex Gunin (lecture in Russian)
-Erlang User Conference 2012,youtube,sNLeeakZppU,Just-in-time in No Time? 'Use the Source!',Frej Drejhammar
-Erlang User Conference 2012,youtube,NQ8Go5UgaAg,Ruby & Erlang - at Scale with Style,Martin Rehfeld
-Erlang User Conference 2012,youtube,F2dj3trqKTo,ErLLVM,Kostis Sagonas
-Erlang User Conference 2012,youtube,xBcgrIOzGbQ,Mnesia Backend Plugin Framework and a LevelDB-based Plugin,"Roland Karlsson, Malcolm Matalka"
-Erlang User Conference 2012,youtube,7hyQzH7x0Q4,Using Software Refactoring to Form Parallel Programs(...),"Chris Brown, Kevin Hammond"
-Erlang User Conference 2012,youtube,Z1v7NcT8GGw,Alternatives in Error Handling,Dmitry Groshev 
-Erlang User Conference 2012,youtube,qJL-9LKQoq4,Combinatorrent - a Haskell Case Study,Jesper Louis Andersen 
-Erlang User Conference 2012,youtube,yFAaWtV06tU,(first '(Clojure.)),Niklas Lindström
-Erlang User Conference 2012,youtube,5vf6ooBt7O8,Sweden's Next Top NoSQL Data Model,Ian Plosker 
-Erlang User Conference 2012,youtube,dbiRSua8L-Y,Latest News from the Erlang OTP Group,Kenneth Lundin 
-Erlang User Conference 2012,youtube,FRoY3HPOFNw,The Ideal Programmer - Why They Don't Exist and How to Manage Without Them?, Mike Williams 
-Erlang User Conference 2012,youtube,DoX8KgYxqrE,Innovation - What Every Developer Absolutely Needs to Know,Steve Vinoski 
-Erlang User Conference 2012,youtube,z4Av8amtI8U,Erlang metaprogramming made easy,Richard Carlsson 
-Erlang User Conference 2012,youtube,RwIDJGYobRY,Erlang Embedded - Concurrent Blinkenlights and More!,Omer Kilic 
-Erlang User Conference 2012,youtube,HyiSYHfESX4,"The Ericsson SGSN/MME, over a Decade of Erlang Success",Urban Boquist 
-Erlang User Conference 2012,youtube,zbV63jwxQ-0,The Openflow Soft Switch,Krzysztof Rutka 
-Erlang User Conference 2012,youtube,i2EvQERWBoo,Device Management in a Connected Society,Tony Rogvall 
-Erlang User Conference 2012,youtube,E9hWFPT2eNQ,Starting a Software Company - Tips from the Trenches,Jane Walerud 
-Erlang User Conference 2012,youtube,3zsyjkNnh3o,Complex Event Processing on Arbitrary Data in Real-Time,???
-Erlang User Conference 2012,youtube,DumXgoFrMdU,Reverse-Engineering a Proprietary Game Server with Erlang,???
-Erlang User Conference 2012,youtube,yiVMRcfSDOE,Applied Rebar,???
-Erlang User Conference 2012,youtube,Anres1C46vQ,An Erlang-Based Framework for the Automatic Testing of Web Services,???
-Erlang User Conference 2012,youtube,x9mW54GJpG0,Testing Eventual Consistency in Riak,???
-Erlang User Conference 2012,youtube,_DlTf8AhDag,"Ruby & Erlang,at Scale with Style",???
-Erlang User Conference 2012,youtube,h8nmzPh5Npg,A Few Improvements to Erlang - Joe Armstrong,???
-Erlang User Conference 2012,youtube,CTyR6JVDNaw,Erlang in the Browser,???
-Erlang User Conference 2012,youtube,7xV6hiOGOFE,Erlang The Movie II - Back to the Future of Web Telephony,???
-Erlang User Conference 2012,youtube,Yh_mjEB8Rn4,"Erlang Embedded - Episode 4,Erlang to the Rescue!",???
-Erlang User Conference 2014,youtube,dEot3Fb1iB4,Large Partially-connected Erlang Clusters,Motiejus Jakštys
-Erlang Factory Lite Munich 2013,youtube,a9WLp9aOjsE,"1000 Actors, One Chaos Monkey and... Everything OK",Pavlo Baron
-Erlang Factory Lite Munich 2013,youtube,eOgWZb2Y_nw,Indenting Erlang Code Automatically (in Vim),Csaba Hoch
-Erlang Factory Lite Munich 2013,youtube,S8SL0IpS9pk,Taking the printf out of printf Debugging,Mats Cronqvist
-Erlang Factory Lite Munich 2013,youtube,3-yPf8WuOr0,Real-time card payments in Erlang,Gustav Simonsson
-Erlang Factory Lite Munich 2013,youtube,d76nLBiOh8g,Conversational big data,Darach Ennis
-Erlang Factory Lite Munich 2013,youtube,_NpQ414ePwE,"OTP, the Middleware for Concurrent Distributed Scalable Architectures",???
-Erlang Factory Lite Munich 2013,youtube,P8GorlD7vms,"Riak Pipe, Distributed Data Processing",???
-Erlang Factory Lite Munich 2013,youtube,ZAaS-U5pJ_E,Build custom protocols with Ranch and msgpack,???
-Erlang Factory Lite Munich 2013,youtube,0DwtX9YIvB8,Diving into Erlang is a one-way ticket,???
-Erlang Factory Lite Munich 2013,youtube,GNi3WuXPa1M,An introduction to Riak,???
-Erlang Factory Lite Munich 2013,youtube,aAmBiULWH0M,"Erlang and RTEMS Embedded Erlang, two case studies",Peer Stritzinger
-Erlang Factory SF 2012,youtube,VxYOUL1AwDE,Erlang and PaaS,???
-Erlang Factory SF 2013,youtube,xY7H0MAHR0E,Browser Frontend + Erlang Backend = Webapp Anywhere,Yusheng Li
-Erlang Factory SF 2013,youtube,p7ZocmkXgWY,Bottleneck Whack-A-Mole at Scale,Cliff Moon
-Erlang Factory SF 2014,youtube,y25YBvUw4rc,"dcouch, an Alternative to Mnesia with Unique Features",Benoît Chesneau
-Erlang Factory SF 2014,youtube,0u0mAppm7d0,The State of LFE: A Lisp Flavoured Smörgåsbord,Duncan McGreggor
-Erlang Factory SF 2014,youtube,cpYdofjZ7UY,Performance Optimization 101,Louis-Philippe Gauthier
-Erlang Factory SF 2014,youtube,NNzrjJC3G-U,Caching Strategies for an Erlang Based Web Stack,Enrique Paz Perez
-Erlang Factory SF 2014,youtube,IuK2NvxjvWY,Planning for Overload,Fred Hebert
-Erlang Factory SF 2015,youtube,JiWtnwF0cpM,Gadget: The Ultimate Code Checking Machine,Fernando Brujo Benavides
-Erlang Factory SF 2015,youtube,FnjutUoNSmg,QuickCheck-CI,John Hughes
-Erlang Factory SF 2015,youtube,sNE5Tu1NGjc,Hex Package Manager,Eric Meadows Jonsson
-Erlang Factory SF 2015,youtube,uwpakTIg9r8,Distributed Eventually Consistent Computations,Christopher Meiklejohn
-Erlang Factory SF 2015,youtube,LKsNbYf9mLw,Building on top of riak core,Mark Allen
-Erlang Factory SF 2015,youtube,V5fMQcSy3y8,What Elixir is about,José Valim
-Erlang Factory SF 2015,youtube,8tiu46uDAsU,Erlang Factory SF 2015 - Snippets,???
-Erlang Factory SF 2016,youtube,LG3ypFnR6bM,Erlang Factory SF 2016 - Highlights,???
-Erlang Factory SF 2016,youtube,fkQm16juRZ0,"WIND, a System for Management and Orchestration of Distributed Heterogeneous Clouds",???
-Erlang Factory SF 2016,youtube,WoUn2XQvGDw,A Brief History of Time,Fred Hebert
-Erlang Factory Lite London 2012,youtube,BCZNb9M-KCk,The Ideal Programmer - Why They Don't Exist and How to Manage Without Them?,???
-Erlang Factory Lite London 2012,youtube,D3q2tqiP1Q4,The Ideal Programmer - Why They Don't Exist and How to Manage Without Them?,???
-Erlang Factory Lite London 2012,youtube,MamkJWAGzoE,Profiling Erlang programs using Percept2,???
-Erlang Factory Lite London 2012,youtube,1JROyYvxKQI,Build an FTP server in 30 minutes with Ranch,???
-Erlang Factory Lite London 2012,youtube,1cbSJwIbAlA,Automated testing with Erlang ('these go to eleven'),Ward Becker
-Erlang Factory Lite London 2012,youtube,NZq2RYrBQ78,MeshUp and other Riak hacks,???
-Erlang Factory Lite London 2012,youtube,02xrFHgYkB8,High Availability Erlang from the Trenches,???
-Erlang Factory Lite London 2012,youtube,SjCZRH8ywF0,Automated testing with Erlang ('these go to eleven'),Ward Becker
-Erlang Factory Lite London 2012,youtube,fctrWbgbJg0,Hitchhiker's guide to the Erlang VM,???
-Erlang Factory Lite London 2012,youtube,cPfdOCrKxek,Google APIs and Erlang,???
-Erlang Factory Lite London 2012,youtube,Uszng-mJO8M,High Availability Erlang from the Trenches,???
-Erlang Factory Lite London 2012,youtube,k3MKizclP28,Profiling Erlang programs using Percept2,Huiqing Li
-Erlang Factory Lite London 2012,youtube,4LeQnNoYJiQ,Build an FTP server in 30 minutes with Ranch,???
-Erlang Factory Lite London 2012,youtube,-2W2hU5agF4,Introduction to Webmachine,???
-Erlang Factory Lite London 2012,youtube,l-tyAFOHjdk,CyLec - An Architecture for Electricity Smart Metering,???
-Erlang Factory Lite London 2012,youtube,ZdtnoQUcr18,Taming the Rabbit,Writing RabbitMQ Plugins
-Erlang Factory Lite Kraków 2012,youtube,0a8TS9fFdhI,Parallel ranking of 1v1 computer games,Jesper Louis Andersen
-Erlang Factory Lite Kraków 2012,youtube,WrjccpJGr0I,Oortle - linearly scalable pub-sub system,Gleb Peregud
-Erlang Factory Lite Kraków 2012,youtube,3D-PIeMGHpM,Towards simplicity,Arkadiusz Niemiec
-Erlang Factory Lite Kraków 2012,youtube,2BQmHCeamw4,Erlang based Software Update Platform for mobile devices,"Roman Janusz, Tomasz Kowal"
-Erlang Factory Lite Kraków 2012,youtube,U4K3R43LKXY,Elixir - A modern approach to programming for the Erlang VM,Jose Valim
-Erlang Factory Lite Kraków 2012,youtube,jbNLyK41vas,QuickCheck for EUnit  (using unit tests differently),Thomas Arts
-Erlang Factory Lite Berlin 2014,youtube,rJXM33EieGQ,Riak Core in Small Bites,Mariano Guerra
-Erlang Factory Lite Berlin 2014,youtube,7_0iOlJCL9E,Elixir Tooling,Eric Meadows-Jönsson
-Erlang Factory Lite Berlin 2014,youtube,NfCLCmRi4_Y,How To Ship New Code Without Taking Your System Down,Martin Rehfeld
-Erlang Factory Lite Berlin 2014,youtube,od6CfA8xEcM,"Erlang,Evolution",Robert Virding
-Erlang Factory Lite Berlin 2014,youtube,3LcED3KrGbI,Monitoring Complex Systems(...),Brian Troutwine
-Erlang Factory Lite Berlin 2014,youtube,BG8hjXuV8Os,"Erlang-Lua: How to write an Erlang C Node",Robby Raschke
-Erlang Factory Lite Berlin 2014,youtube,V1UaFRnbWEk,The Cool Kids love Erlang,"Gustav Simonsson, Henning Diedrich"
-Erlang Factory Lite Berlin 2014,youtube,f0NAh6Q2ato,Latest News from the OTP Team,Bruce Yinhe
-Erlang Factory Lite Berlin 2014,youtube,wRXtMR8agoM,Implementing Automated Trading System (...),Anton Prokofiev
-Erlang Factory Lite Berlin 2014,youtube,X-jdDz4VXe4,Lightning Talks,???
-Erlang Factory Lite Mexico City 2015,youtube,QQcxkoW5zzM,Using a Raspberry Pi to run your Phoenix App,Ricardo Echavarria 
-Erlang Factory Lite Mexico City 2015,youtube,DSSOOnz49r0,"From Ruby to Elixir, Developing Web Applications",Mario Chavez 
-Erlang Factory Lite Mexico City 2015,youtube,MO9J8OTAQgc,Estrategias de Supervisión de Procesos,Misael Pérez Chamorro 
-Erlang Factory Lite Mexico City 2015,youtube,3Kup2rAbXbM,Conociendo la Maquina virtual de Erlang la BEAM,Norberto Ortigoza 
-Erlang Factory Lite Mexico City 2015,youtube,0MRMnaqtyeg,Poorman's gen_server,Hernán Rivas Acosta 
-Erlang Factory Lite Mexico City 2015,youtube,QRA6K2lNUxw,Realizando pruebas con Elixir/Erlang,Agustín Ramos 
-Erlang Factory Lite Mexico City 2015,youtube,dW7uLATFkys,Keynote: What's Ahead for Elixir?,José Valim 
-Erlang Factory Lite Mexico City 2015,youtube,vQCcRBOpQpI,"Lo mejor de dos Mundos, Aplicaciones OTP con Elixir",Erick Camacho 
-Erlang Factory Lite Berlin 2016,youtube,ZeMV7-1zXxI,Supercharge your local BEAM Community,???
-Erlang Factory Lite Berlin 2016,youtube,m-Kl7YHRZZc,Process Data Streams Efficiently in Elixir,Iuri Fernandes Queiroz 
-Erlang Factory Lite Berlin 2016,youtube,JS-U4zom5ew,Wireless Small Embedded Erlang Applications,Grisp-Adam Lindberg
-Erlang Factory Lite Berlin 2016,youtube,gM7tBm1wGm8,Extending OTP with custom behaviours,Michał Muskała 
-Erlang Factory Lite Berlin 2016,youtube,h1rRftqrWpo,BEAM all the things,Dave Cottlehuber 
-Erlang Factory SF 2016,XJ9ckqCMiKk,youtube,Keynote Phoenix and Elm - Making the Web Functional,"Chris McCord,Evan Czaplicki"
-Erlang Factory SF 2016,fklep3sUSWo,youtube,We Are All Blessed,"Dave Thomas,Bruce Tate"
-Erlang Factory SF 2016,6K0Tjvn6PV8,youtube,Reactive Programming with Elixir and RethinkDB,Peter Hamilton
-Erlang Factory SF 2016,eSWNi5vRxU8,youtube,Taking Off with Phoenix,Sonny Scroggin
+Erlang Factory Lite Moscow 2012,,OEoAw-gB5uI,Why Linux distributions are so disconnected from the reality? Are they really?,Peter Lemenkov
+Erlang Factory Lite Moscow 2012,,XvSmVrTYg9A,Erlang Use Cases,Michal Slaski
+Erlang Factory Lite Moscow 2012,,_ISXGnSKCP8,Erlang-Based Sensor Network Management for Heterogenous Devices,Michał Nieć
+Erlang Factory Lite Moscow 2012,,5HHxWWiRe6o,Code generation to fight with complexity,Max Lapshin
+Erlang Factory Lite Moscow 2012,,Y5hKFVZn094,Scalable ejabberd,Konstantin Tcepliaev
+Erlang Factory Lite Moscow 2012,,g4JR2JwGYmA,Random choice,Bob Ippolito
+Erlang Factory Lite Moscow 2012,,YzcC_dLiiDM,Lightning Talk - Asynchronous PostgreSQL driver for Erlang,Anton Lebedevich
+Erlang Factory Lite Moscow 2012,,jQxw_6nPEmw,Erlang Use Cases,Michal Slaski
+Erlang Factory Lite Moscow 2012,,mSKWNdjO9MQ,Scalable ejabberd,Konstantin Tcepliaev
+Erlang Factory Lite Moscow 2012,,CECh5bg_r3g,Erlang/OTP applications (...),Alex Gunin
+Erlang User Conference 2012,,sNLeeakZppU,Just-in-time in No Time? 'Use the Source!',Frej Drejhammar
+Erlang User Conference 2012,,NQ8Go5UgaAg,Ruby & Erlang - at Scale with Style,Martin Rehfeld
+Erlang User Conference 2012,,F2dj3trqKTo,ErLLVM,Kostis Sagonas
+Erlang User Conference 2012,,xBcgrIOzGbQ,Mnesia Backend Plugin Framework and a LevelDB-based Plugin,"Roland Karlsson, Malcolm Matalka"
+Erlang User Conference 2012,,7hyQzH7x0Q4,Using Software Refactoring to Form Parallel Programs(...),"Chris Brown, Kevin Hammond"
+Erlang User Conference 2012,,Z1v7NcT8GGw,Alternatives in Error Handling,Dmitry Groshev
+Erlang User Conference 2012,,qJL-9LKQoq4,Combinatorrent - a Haskell Case Study,Jesper Louis Andersen
+Erlang User Conference 2012,,yFAaWtV06tU,(first '(Clojure.)),Niklas Lindström
+Erlang User Conference 2012,,5vf6ooBt7O8,Sweden's Next Top NoSQL Data Model,Ian Plosker
+Erlang User Conference 2012,,dbiRSua8L-Y,Latest News from the Erlang OTP Group,Kenneth Lundin
+Erlang User Conference 2012,,FRoY3HPOFNw,The Ideal Programmer - Why They Don't Exist and How to Manage Without Them?, Mike Williams
+Erlang User Conference 2012,,DoX8KgYxqrE,Innovation - What Every Developer Absolutely Needs to Know,Steve Vinoski
+Erlang User Conference 2012,,z4Av8amtI8U,Erlang metaprogramming made easy,Richard Carlsson
+Erlang User Conference 2012,,RwIDJGYobRY,Erlang Embedded - Concurrent Blinkenlights and More!,Omer Kilic
+Erlang User Conference 2012,,HyiSYHfESX4,"The Ericsson SGSN/MME, over a Decade of Erlang Success",Urban Boquist
+Erlang User Conference 2012,,zbV63jwxQ-0,The Openflow Soft Switch,Krzysztof Rutka
+Erlang User Conference 2012,,i2EvQERWBoo,Device Management in a Connected Society,Tony Rogvall
+Erlang User Conference 2012,,E9hWFPT2eNQ,Starting a Software Company - Tips from the Trenches,Jane Walerud
+Erlang User Conference 2012,,3zsyjkNnh3o,Complex Event Processing on Arbitrary Data in Real-Time,
+Erlang User Conference 2012,,DumXgoFrMdU,Reverse-Engineering a Proprietary Game Server with Erlang,
+Erlang User Conference 2012,,yiVMRcfSDOE,Applied Rebar,
+Erlang User Conference 2012,,Anres1C46vQ,An Erlang-Based Framework for the Automatic Testing of Web Services,
+Erlang User Conference 2012,,x9mW54GJpG0,Testing Eventual Consistency in Riak,
+Erlang User Conference 2012,,_DlTf8AhDag,"Ruby & Erlang,at Scale with Style",
+Erlang User Conference 2012,,h8nmzPh5Npg,A Few Improvements to Erlang - Joe Armstrong,
+Erlang User Conference 2012,,CTyR6JVDNaw,Erlang in the Browser,
+Erlang User Conference 2012,,7xV6hiOGOFE,Erlang The Movie II - Back to the Future of Web Telephony,
+Erlang User Conference 2012,,Yh_mjEB8Rn4,"Erlang Embedded - Episode 4,Erlang to the Rescue!",
+Erlang User Conference 2014,,dEot3Fb1iB4,Large Partially-connected Erlang Clusters,Motiejus Jakštys
+Erlang Factory Lite Munich 2013,,a9WLp9aOjsE,"1000 Actors, One Chaos Monkey and... Everything OK",Pavlo Baron
+Erlang Factory Lite Munich 2013,,eOgWZb2Y_nw,Indenting Erlang Code Automatically (in Vim),Csaba Hoch
+Erlang Factory Lite Munich 2013,,S8SL0IpS9pk,Taking the printf out of printf Debugging,Mats Cronqvist
+Erlang Factory Lite Munich 2013,,3-yPf8WuOr0,Real-time card payments in Erlang,Gustav Simonsson
+Erlang Factory Lite Munich 2013,,d76nLBiOh8g,Conversational big data,Darach Ennis
+Erlang Factory Lite Munich 2013,,_NpQ414ePwE,"OTP, the Middleware for Concurrent Distributed Scalable Architectures",
+Erlang Factory Lite Munich 2013,,P8GorlD7vms,"Riak Pipe, Distributed Data Processing",
+Erlang Factory Lite Munich 2013,,ZAaS-U5pJ_E,Build custom protocols with Ranch and msgpack,
+Erlang Factory Lite Munich 2013,,0DwtX9YIvB8,Diving into Erlang is a one-way ticket,
+Erlang Factory Lite Munich 2013,,GNi3WuXPa1M,An introduction to Riak,
+Erlang Factory Lite Munich 2013,,aAmBiULWH0M,"Erlang and RTEMS Embedded Erlang, two case studies",Peer Stritzinger
+Erlang Factory SF 2012,,VxYOUL1AwDE,Erlang and PaaS,
+Erlang Factory SF 2013,,xY7H0MAHR0E,Browser Frontend + Erlang Backend = Webapp Anywhere,Yusheng Li
+Erlang Factory SF 2013,,p7ZocmkXgWY,Bottleneck Whack-A-Mole at Scale,Cliff Moon
+Erlang Factory SF 2014,,y25YBvUw4rc,"dcouch, an Alternative to Mnesia with Unique Features",Benoît Chesneau
+Erlang Factory SF 2014,,0u0mAppm7d0,The State of LFE: A Lisp Flavoured Smörgåsbord,Duncan McGreggor
+Erlang Factory SF 2014,,cpYdofjZ7UY,Performance Optimization 101,Louis-Philippe Gauthier
+Erlang Factory SF 2014,,NNzrjJC3G-U,Caching Strategies for an Erlang Based Web Stack,Enrique Paz Perez
+Erlang Factory SF 2014,,IuK2NvxjvWY,Planning for Overload,Fred Hebert
+Erlang Factory SF 2015,,JiWtnwF0cpM,Gadget: The Ultimate Code Checking Machine,Fernando Brujo Benavides
+Erlang Factory SF 2015,,FnjutUoNSmg,QuickCheck-CI,John Hughes
+Erlang Factory SF 2015,,sNE5Tu1NGjc,Hex Package Manager,Eric Meadows-Jönsson
+Erlang Factory SF 2015,,uwpakTIg9r8,Distributed Eventually Consistent Computations,Christopher Meiklejohn
+Erlang Factory SF 2015,,LKsNbYf9mLw,Building on top of riak core,Mark Allen
+Erlang Factory SF 2015,,V5fMQcSy3y8,What Elixir is about,José Valim
+Erlang Factory SF 2015,,8tiu46uDAsU,Erlang Factory SF 2015 - Snippets,
+Erlang Factory SF 2016,,LG3ypFnR6bM,Erlang Factory SF 2016 - Highlights,
+Erlang Factory SF 2016,,fkQm16juRZ0,"WIND, a System for Management and Orchestration of Distributed Heterogeneous Clouds",
+Erlang Factory SF 2016,,WoUn2XQvGDw,A Brief History of Time,Fred Hebert
+Erlang Factory Lite London 2012,,BCZNb9M-KCk,The Ideal Programmer - Why They Don't Exist and How to Manage Without Them?,
+Erlang Factory Lite London 2012,,D3q2tqiP1Q4,The Ideal Programmer - Why They Don't Exist and How to Manage Without Them?,
+Erlang Factory Lite London 2012,,MamkJWAGzoE,Profiling Erlang programs using Percept2,
+Erlang Factory Lite London 2012,,1JROyYvxKQI,Build an FTP server in 30 minutes with Ranch,
+Erlang Factory Lite London 2012,,1cbSJwIbAlA,Automated testing with Erlang ('these go to eleven'),Ward Becker
+Erlang Factory Lite London 2012,,NZq2RYrBQ78,MeshUp and other Riak hacks,
+Erlang Factory Lite London 2012,,02xrFHgYkB8,High Availability Erlang from the Trenches,
+Erlang Factory Lite London 2012,,SjCZRH8ywF0,Automated testing with Erlang ('these go to eleven'),Ward Becker
+Erlang Factory Lite London 2012,,fctrWbgbJg0,Hitchhiker's guide to the Erlang VM,
+Erlang Factory Lite London 2012,,cPfdOCrKxek,Google APIs and Erlang,
+Erlang Factory Lite London 2012,,Uszng-mJO8M,High Availability Erlang from the Trenches,
+Erlang Factory Lite London 2012,,k3MKizclP28,Profiling Erlang programs using Percept2,Huiqing Li
+Erlang Factory Lite London 2012,,4LeQnNoYJiQ,Build an FTP server in 30 minutes with Ranch,
+Erlang Factory Lite London 2012,,-2W2hU5agF4,Introduction to Webmachine,
+Erlang Factory Lite London 2012,,l-tyAFOHjdk,CyLec - An Architecture for Electricity Smart Metering,
+Erlang Factory Lite London 2012,,ZdtnoQUcr18,Taming the Rabbit: Writing RabbitMQ Plugins,
+Erlang Factory Lite Kraków 2012,,0a8TS9fFdhI,Parallel ranking of 1v1 computer games,Jesper Louis Andersen
+Erlang Factory Lite Kraków 2012,,WrjccpJGr0I,Oortle - linearly scalable pub-sub system,Gleb Peregud
+Erlang Factory Lite Kraków 2012,,3D-PIeMGHpM,Towards simplicity,Arkadiusz Niemiec
+Erlang Factory Lite Kraków 2012,,2BQmHCeamw4,Erlang based Software Update Platform for mobile devices,"Roman Janusz, Tomasz Kowal"
+Erlang Factory Lite Kraków 2012,,U4K3R43LKXY,Elixir - A modern approach to programming for the Erlang VM,José Valim
+Erlang Factory Lite Kraków 2012,,jbNLyK41vas,QuickCheck for EUnit  (using unit tests differently),Thomas Arts
+Erlang Factory Lite Berlin 2014,,rJXM33EieGQ,Riak Core in Small Bites,Mariano Guerra
+Erlang Factory Lite Berlin 2014,,7_0iOlJCL9E,Elixir Tooling,Eric Meadows-Jönsson
+Erlang Factory Lite Berlin 2014,,NfCLCmRi4_Y,How To Ship New Code Without Taking Your System Down,Martin Rehfeld
+Erlang Factory Lite Berlin 2014,,od6CfA8xEcM,"Erlang,Evolution",Robert Virding
+Erlang Factory Lite Berlin 2014,,3LcED3KrGbI,Monitoring Complex Systems(...),Brian Troutwine
+Erlang Factory Lite Berlin 2014,,BG8hjXuV8Os,"Erlang-Lua: How to write an Erlang C Node",Robby Raschke
+Erlang Factory Lite Berlin 2014,,V1UaFRnbWEk,The Cool Kids love Erlang,"Gustav Simonsson, Henning Diedrich"
+Erlang Factory Lite Berlin 2014,,f0NAh6Q2ato,Latest News from the OTP Team,Bruce Yinhe
+Erlang Factory Lite Berlin 2014,,wRXtMR8agoM,Implementing Automated Trading System (...),Anton Prokofiev
+Erlang Factory Lite Berlin 2014,,X-jdDz4VXe4,Lightning Talks,"Michał Kalbarczyk, Sergej Jurecko, Valery Meleshkin"
+Erlang Factory Lite Mexico City 2015,,QQcxkoW5zzM,Using a Raspberry Pi to run your Phoenix App,Ricardo Echavarria
+Erlang Factory Lite Mexico City 2015,,DSSOOnz49r0,"From Ruby to Elixir, Developing Web Applications",Mario Chavez
+Erlang Factory Lite Mexico City 2015,,MO9J8OTAQgc,Estrategias de Supervisión de Procesos,Misael Pérez Chamorro
+Erlang Factory Lite Mexico City 2015,,3Kup2rAbXbM,Conociendo la Maquina virtual de Erlang la BEAM,Norberto Ortigoza
+Erlang Factory Lite Mexico City 2015,,0MRMnaqtyeg,Poorman's gen_server,Hernán Rivas Acosta
+Erlang Factory Lite Mexico City 2015,,QRA6K2lNUxw,Realizando pruebas con Elixir/Erlang,Agustín Ramos
+Erlang Factory Lite Mexico City 2015,,dW7uLATFkys,Keynote: What's Ahead for Elixir?,José Valim
+Erlang Factory Lite Mexico City 2015,,vQCcRBOpQpI,"Lo mejor de dos Mundos, Aplicaciones OTP con Elixir",Erick Camacho
+Erlang Factory Lite Berlin 2016,,ZeMV7-1zXxI,Supercharge your local BEAM Community,"Ole Michaelis, Lydia Grawunder"
+Erlang Factory Lite Berlin 2016,,m-Kl7YHRZZc,Process Data Streams Efficiently in Elixir,Iuri Fernandes Queiroz
+Erlang Factory Lite Berlin 2016,,JS-U4zom5ew,Wireless Small Embedded Erlang Applications,Grisp-Adam Lindberg
+Erlang Factory Lite Berlin 2016,,gM7tBm1wGm8,Extending OTP with custom behaviours,Michał Muskała
+Erlang Factory Lite Berlin 2016,,h1rRftqrWpo,BEAM all the things,Dave Cottlehuber
+Erlang Factory SF 2016,XJ9ckqCMiKk,,Keynote Phoenix and Elm - Making the Web Functional,"Chris McCord,Evan Czaplicki"
+Erlang Factory SF 2016,fklep3sUSWo,,We Are All Blessed,"Dave Thomas,Bruce Tate"
+Erlang Factory SF 2016,6K0Tjvn6PV8,,Reactive Programming with Elixir and RethinkDB,Peter Hamilton
+Erlang Factory SF 2016,eSWNi5vRxU8,,Taking Off with Phoenix,Sonny Scroggin
 NDC OSLO 2015,131757761,vimeo,Implementing the logic for a board game in Elixir,Torben Hoffmann
-Erlang Factory 2015,youtube,sNE5Tu1NGjc,Hex Package Manager,Eric Meadows Jonsson
-Erlang Factory 2015,youtube,1TpK4NDEEVA,MongooseIM + Phoenix,"Michal Slaski,Sonny Scroggin"
-Erlang Factory 2015,youtube,oZwfi8JZ3kU,Panel Discussion,"Bruce Tate,Guido van Rossum,John Hughes,José Valim,Robert Virding"
-Erlang Factory 2015,youtube,sDMngNP7pOw,Tests Can Be Beautiful,Bruce Tate
-Erlang Factory 2015,youtube,zkL9VGIN5HA,Testing for Concurrency Errors in Elixir Code with QuickCheck,Thomas Arts
-Erlang Factory 2015,youtube,Lqo9-pQuRKE,What Elixir is About,José Valim
-Code Mesh London 2014,youtube,FqlewYgUcZU,Connecting Things Together is Really Difficult but it Could and Should be Rather Easy,Joe Armstrong
-Code Mesh London 2014,youtube,c-YwBpJu3vc,Implementing Languages on the BEAM,Robert Virding
-Code Mesh London 2014,youtube,nw2eIB6bTxY,Tackling Dirty Jobs with Erlang's Schedulers,Steve Vinoski
-GOTO Aarhus Conference,youtube,B4rOG9Bc65Q,Idioms for Building Distributed Fault-Tolerant Applications with Elixir,José Valim
-Dayton Elixir 2014,youtube,uxGMfr0jDPU,Taming the Command Line and Erlang Ports,Alexei Sholik
-RedDotRubyConf 2014,youtube,2X1J1lVzRuQ,Ruby + Elixir: Polyglottin' FTW!,Benjamin Tan Wei Hao
-GOTO 2014,youtube,lww1aZ-ldz0,"Elixir: The Power of Erlang, the Joy of Ruby",Dave Thomas
-RailsConf 2014,youtube,5kYmOyJjGDM,All Aboard The Elixir Express! Workshop,Chris McCord
-Erlang Factory 2014,youtube,ySkC4vxBfko,Bitcoin & Elixir: Living the Cutting Edge,Yurii Rashkovskii
-Erlang Factory 2014,youtube,Djv4C9H9yz4,Catalyse Change,"José Valim,Dave Thomas"
-Erlang Factory 2014,youtube,7VTF3vqY0Y0,Distributed Robots with Elixir,"Robby Clements,Josh Adams"
-Erlang Factory 2014,youtube,QP3Ffc5cU_U,Pipe Dreams - Getting More out of Elixir Pipes,Bruce Tate
-Erlang Factory 2014,youtube,mkoYqXdXl5Y,"Write Less, Do More (and Have Fun!) with Elixir Macros",Chris McCord
-Developer Download 2014,youtube,V4NYQ2ihPq0,An Overview on Elixir,Paul Schoenfelder
-Developer Download 2014,youtube,CNjfi0PRnvc,Show me the code!,Paul Schoenfelder
-Developer Download 2014,youtube,rag1ehwCqhA,Resources & Libraries,Paul Schoenfelder
-Solution Street hangout,youtube,lly-1UYmnFI,Intro to Elixir,Pete Broderick
-Linux.conf.au 2014,youtube,uWSGBpW3xEQ,"Programming Elixir: The magic of today's tonic",Katie Miller
-Code Mesh London 2013,youtube,SJRfujy9vLA,Ecto: A language integrated query for Elixir,José Valim
-Ruby Conf 2013,youtube,71v21C-zx3Y,The Polyglot in the Code - An Elixir/Ruby Mashup,Johnny Winn
-Erlang User Conference 2013,youtube,a3eJoM5FFiQ,Meta-Programming with Elixir,Yurii Rashkovskii
-Lone Star Ruby Conference 2013,youtube,KQwEmdOH-GM,"Elixir: Power of Erlang, Joy of Ruby",Dave Thomas
-Erlang Factory SF 2013,youtube,ujaoprIKY9M,Genomu - A concurrency oriented K/V in Elixir,Yurii Rashkovskii
-Erlang Factory SF 2013,youtube,41PvAPSX0wg,Introduction to Elixir,José Valim
-Erlang DC 2013,youtube,m32CGvzixrQ,Erlang metaprogramming with Elixir,Yurii Rashkovskii
-The Big Elixir 2018,youtube,ZxDYdayfOS0,Physical Elixir,Justin Schneck
-The Big Elixir 2018,youtube,ffhCUKI2_ho,Leveraging GenStage to Implement Your Own Event Bus,Eli Kim
-The Big Elixir 2018,youtube,WpUiaN5RAJQ,Using OTP / Presence for Real-time Analytics,"Jacqui Manzi,Matt McClure"
-The Big Elixir 2018,youtube,NyowGgUzfno,Exceptional: Staying on the Happy Path,Brooklyn Zelenka
-The Big Elixir 2018,youtube,z4p4e9Uwn6I,Trapped By Our Tools,Ben Wilson
-The Big Elixir 2018,youtube,GXh-f3S5rcM,Testing a Large GraphQL API With Aplomb,Jeff Martin
-The Big Elixir 2018,youtube,4RlKlTseAjg,Cadre: Building Reliable Distributed Stateful Applications,Paul Schoenfelder
-The Big Elixir 2018,youtube,IeUF48vSxwI,Hot Upgrade Are Not Scary,Desmond Bowe
-The Big Elixir 2018,youtube,KDykyubyZGw,Going Multi-Node,Eric Oestrich
-The Big Elixir 2018,youtube,AgKRBN6SF-c,TIL By Breaking Production...,Jon Carstens
-The Big Elixir 2018,youtube,dWfD6idpipE,On Building Systems,Josh Adams
-"London Erlang User Group 2014",youtube,6rWeGt71DnI,"Macros, and protocols and metaprogramming! Oh My!",Jim McCoy
-"#kievfprog, August 2013",youtube,zF3xy1M6SFk,Introducing Elixir,Alexei Sholik
-"Singapore Ruby Brigade Meetup, November 2013",youtube,balk-3BF4ro?t=1511,"Hello, Elixir!",Benjamin Tan
+Erlang Factory 2015,,sNE5Tu1NGjc,Hex Package Manager,Eric Meadows-Jönsson
+Erlang Factory 2015,,1TpK4NDEEVA,MongooseIM + Phoenix,"Michal Slaski,Sonny Scroggin"
+Erlang Factory 2015,,oZwfi8JZ3kU,Panel Discussion,"Bruce Tate,Guido van Rossum,John Hughes,José Valim,Robert Virding"
+Erlang Factory 2015,,sDMngNP7pOw,Tests Can Be Beautiful,Bruce Tate
+Erlang Factory 2015,,zkL9VGIN5HA,Testing for Concurrency Errors in Elixir Code with QuickCheck,Thomas Arts
+Erlang Factory 2015,,Lqo9-pQuRKE,What Elixir is About,José Valim
+Code Mesh London 2013,,SJRfujy9vLA,Ecto: A language integrated query for Elixir,José Valim
+Code Mesh London 2014,,FqlewYgUcZU,Connecting Things Together is Really Difficult but it Could and Should be Rather Easy,Joe Armstrong
+Code Mesh London 2014,,c-YwBpJu3vc,Implementing Languages on the BEAM,Robert Virding
+Code Mesh London 2014,,nw2eIB6bTxY,Tackling Dirty Jobs with Erlang's Schedulers,Steve Vinoski
+GOTO Aarhus Conference,,B4rOG9Bc65Q,Idioms for Building Distributed Fault-Tolerant Applications with Elixir,José Valim
+Dayton Elixir 2014,,uxGMfr0jDPU,Taming the Command Line and Erlang Ports,Alexei Sholik
+RedDotRubyConf 2014,,2X1J1lVzRuQ,Ruby + Elixir: Polyglottin' FTW!,Benjamin Tan Wei Hao
+GOTO 2014,,lww1aZ-ldz0,"Elixir: The Power of Erlang, the Joy of Ruby",Dave Thomas
+RailsConf 2014,,5kYmOyJjGDM,All Aboard The Elixir Express! Workshop,Chris McCord
+Erlang Factory 2014,,ySkC4vxBfko,Bitcoin & Elixir: Living the Cutting Edge,Yurii Rashkovskii
+Erlang Factory 2014,,Djv4C9H9yz4,Catalyse Change,"José Valim,Dave Thomas"
+Erlang Factory 2014,,7VTF3vqY0Y0,Distributed Robots with Elixir,"Robby Clements,Josh Adams"
+Erlang Factory 2014,,QP3Ffc5cU_U,Pipe Dreams - Getting More out of Elixir Pipes,Bruce Tate
+Erlang Factory 2014,,mkoYqXdXl5Y,"Write Less, Do More (and Have Fun!) with Elixir Macros",Chris McCord
+Developer Download 2014,,V4NYQ2ihPq0,An Overview on Elixir,Paul Schoenfelder
+Developer Download 2014,,CNjfi0PRnvc,Show me the code!,Paul Schoenfelder
+Developer Download 2014,,rag1ehwCqhA,Resources & Libraries,Paul Schoenfelder
+Solution Street hangout,,lly-1UYmnFI,Intro to Elixir,Pete Broderick
+Linux.conf.au 2014,,uWSGBpW3xEQ,"Programming Elixir: The magic of today's tonic",Katie Miller
+Ruby Conf 2013,,71v21C-zx3Y,The Polyglot in the Code - An Elixir/Ruby Mashup,Johnny Winn
+Erlang User Conference 2013,,a3eJoM5FFiQ,Meta-Programming with Elixir,Yurii Rashkovskii
+Lone Star Ruby Conference 2013,,KQwEmdOH-GM,"Elixir: Power of Erlang, Joy of Ruby",Dave Thomas
+Erlang Factory SF 2013,,ujaoprIKY9M,Genomu - A concurrency oriented K/V in Elixir,Yurii Rashkovskii
+Erlang Factory SF 2013,,41PvAPSX0wg,Introduction to Elixir,José Valim
+Erlang DC 2013,,m32CGvzixrQ,Erlang metaprogramming with Elixir,Yurii Rashkovskii
+The Big Elixir 2018,,ZxDYdayfOS0,Physical Elixir,Justin Schneck
+The Big Elixir 2018,,ffhCUKI2_ho,Leveraging GenStage to Implement Your Own Event Bus,Eli Kim
+The Big Elixir 2018,,WpUiaN5RAJQ,Using OTP / Presence for Real-time Analytics,"Jacqui Manzi,Matt McClure"
+The Big Elixir 2018,,NyowGgUzfno,Exceptional: Staying on the Happy Path,Brooklyn Zelenka
+The Big Elixir 2018,,z4p4e9Uwn6I,Trapped By Our Tools,Ben Wilson
+The Big Elixir 2018,,GXh-f3S5rcM,Testing a Large GraphQL API With Aplomb,Jeff Martin
+The Big Elixir 2018,,4RlKlTseAjg,Cadre: Building Reliable Distributed Stateful Applications,Paul Schoenfelder
+The Big Elixir 2018,,IeUF48vSxwI,Hot Upgrade Are Not Scary,Desmond Bowe
+The Big Elixir 2018,,KDykyubyZGw,Going Multi-Node,Eric Oestrich
+The Big Elixir 2018,,AgKRBN6SF-c,TIL By Breaking Production...,Jon Carstens
+The Big Elixir 2018,,dWfD6idpipE,On Building Systems,Josh Adams
+"London Erlang User Group 2014",,6rWeGt71DnI,"Macros, and protocols and metaprogramming! Oh My!",Jim McCoy
+"#kievfprog, August 2013",,zF3xy1M6SFk,Introducing Elixir,Alexei Sholik
+"Singapore Ruby Brigade Meetup, November 2013",,balk-3BF4ro?t=1511,"Hello, Elixir!",Benjamin Tan
