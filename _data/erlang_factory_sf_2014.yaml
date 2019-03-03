@@ -229,6 +229,7 @@
   talk_title: Keynote Catalyse Change
   speakers:
   - dave_thomas
+  - jose_valim
   conference: erlang_factory_2014
   video_view_count: 3128
   video_duration_seconds: 2859
@@ -262,7 +263,8 @@
   video_view_count: 546
   video_duration_seconds: 1127
 - video_id: qURhXHbxbDU
-  talk_title: '10 Billion a Day, 100 Milliseconds Per: Monitoring Real Time Bidding at AdRoll'
+  talk_title: '10 Billion a Day, 100 Milliseconds Per: Monitoring Real Time Bidding
+    at AdRoll'
   speakers:
   - brian_troutwine
   conference: erlang_factory_2014
@@ -297,3 +299,59 @@
   video_view_count: 3258
   video_duration_seconds: 2596
   keynote: true
+- video_id: 0u0mAppm7d0
+  talk_title: 'The State of LFE: A Lisp Flavoured Smörgåsbord'
+  speakers:
+  - duncan_mc_greggor
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_sf_2014
+- video_id: cpYdofjZ7UY
+  talk_title: Performance Optimization 101
+  speakers:
+  - louis_philippe_gauthier
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_sf_2014
+- video_id: NNzrjJC3G-U
+  talk_title: Caching Strategies for an Erlang Based Web Stack
+  speakers:
+  - enrique_paz_perez
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_sf_2014
+- video_id: IuK2NvxjvWY
+  talk_title: Planning for Overload
+  speakers:
+  - fred_hebert
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_sf_2014
+- video_id: 0u0mAppm7d0
+  talk_title: 'The State of LFE: A Lisp Flavoured Smörgåsbord'
+  speakers:
+  - duncan_mc_greggor
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_sf_2014
+- video_id: cpYdofjZ7UY
+  talk_title: Performance Optimization 101
+  speakers:
+  - louis_philippe_gauthier
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_sf_2014
+- video_id: NNzrjJC3G-U
+  talk_title: Caching Strategies for an Erlang Based Web Stack
+  speakers:
+  - enrique_paz_perez
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_sf_2014
+- video_id: IuK2NvxjvWY
+  talk_title: Planning for Overload
+  speakers:
+  - fred_hebert
+  video_view_count: 0
+  video_duration_seconds: 0
+  conference: erlang_factory_sf_2014

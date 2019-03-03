@@ -1,12 +1,12 @@
 ---
-- video_id: Lqo9-pQuRKE
+- video_id: Lqo9-pQuRKE # V5fMQcSy3y8
   talk_title: What Elixir is about
   speakers:
   - jose_valim
   conference: erlang_factory_sf_2015
   video_view_count: 9218
   video_duration_seconds: 3492
-- video_id: aI6sH5YawD8
+- video_id: aI6sH5YawD8 # sNE5Tu1NGjc
   talk_title: Hex Package Manager
   speakers:
   - eric_meadows_jonsson
@@ -249,3 +249,37 @@
   conference: erlang_factory_sf_2015
   video_view_count: 423
   video_duration_seconds: 2605
+- video_id: JiWtnwF0cpM
+  talk_title: 'Gadget: The Ultimate Code Checking Machine'
+  speakers:
+  - fernando_benavides
+  conference: erlang_factory_sf_2015
+  video_view_count: 0
+  video_duration_seconds: 0
+- video_id: FnjutUoNSmg
+  talk_title: QuickCheck-CI
+  speakers:
+  - john_hughes
+  conference: erlang_factory_sf_2015
+  video_view_count: 0
+  video_duration_seconds: 0
+- video_id: uwpakTIg9r8
+  talk_title: Distributed Eventually Consistent Computations
+  speakers:
+  - christopher_meiklejohn
+  conference: erlang_factory_sf_2015
+  video_view_count: 0
+  video_duration_seconds: 0
+- video_id: LKsNbYf9mLw
+  talk_title: Building on top of riak core
+  speakers:
+  - mark_allen
+  conference: erlang_factory_sf_2015
+  video_view_count: 0
+  video_duration_seconds: 0
+- video_id: 8tiu46uDAsU
+  talk_title: Snippets
+  speakers:
+  conference: erlang_factory_sf_2015
+  video_view_count: 0
+  video_duration_seconds: 0
