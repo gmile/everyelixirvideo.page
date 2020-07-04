@@ -7,6 +7,10 @@ layout: home
   {% assign total_talks = total_talks | plus: site.data[conference.id].size %}
 {% endfor %}
 
+<p>
+<input type="text" id="search"></input>&nbsp;&nbsp;<span id="matches" style="none"></span>
+</p>
+
 <p><b>Stats</b></p>
 <ul>
 <li>Total talks: {{ total_talks }}</li>
@@ -36,7 +40,7 @@ layout: home
     {% if talk.processed == false %}
       {% continue %}
     {% else %}
-      <li id="{{ talk.video_id }}" class="talk" data-duration="{{ talk.video_duration }}">
+      <li id="{{ talk.video_id | replace: '-', '_' | prepend: 'id_'}}" class="talk" data-duration="{{ talk.video_duration }}">
         <a href="#{{ talk.video_id }}" class="anchor">#</a>
         {% if talk.video_platform == "vimeo" %}
           <a href="https://vimeo.com/{{ talk.video_id }}" title="{{ talk.talk_title }}">{{ talk.talk_title }}</a>
@@ -78,4 +82,40 @@ layout: home
 
 <hr>
 
-2018. Created by <a href="https://twitter.com/gmile">@gmile</a>.
+<script src='https://cdn.jsdelivr.net/npm/fuse.js@6.4.0'>
+</script>
+
+<script>
+  window.talks = [];
+
+  {% for conference in site.data.conferences %}
+    {% for talk in site.data[conference.id] %}
+      window.talks.push({{ talk | jsonify }});
+    {% endfor %}
+  {% endfor %}
+
+  window.s = new Fuse(window.talks, {
+    keys: ["talk_title"],
+    minMatchCharLength: 2,
+    threshold: 0.0
+  });
+
+  const input = document.getElementById('search');
+
+  input.addEventListener('keyup', function(e) {
+    let search_results = s.search(e.target.value);
+    let selector = search_results.map(e => `#id_${e.item.video_id}`).join(",").replace(/-/gi,"_");
+
+    if (search_results.length > 0) {
+      document.getElementById('matches').innerHTML = `${search_results.length} results found`;
+      document.querySelectorAll("li.talk").forEach(e => e.setAttribute("style", "display: none"));
+      document.querySelectorAll(selector).forEach(e => e.setAttribute("style", "display: block"));
+    } else {
+      document.querySelectorAll("li.talk").forEach(e => e.setAttribute("style", "display: block"));
+    }
+  });
+
+</script>
+
+
+2020. Created by <a href="https://twitter.com/gmile">@gmile</a>.
