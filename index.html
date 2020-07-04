@@ -111,6 +111,7 @@ layout: home
       document.querySelectorAll("li.talk").forEach(e => e.setAttribute("style", "display: none"));
       document.querySelectorAll(selector).forEach(e => e.setAttribute("style", "display: block"));
     } else {
+      document.getElementById('matches').innerHTML = "";
       document.querySelectorAll("li.talk").forEach(e => e.setAttribute("style", "display: block"));
     }
   });
